@@ -1,0 +1,48 @@
+version: "3.9"
+
+services:
+  oltp_db:
+    image: postgres:16
+    container_name: oltp_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${OLTP_USER}
+      POSTGRES_PASSWORD: ${OLTP_PASSWORD}
+      POSTGRES_DB: ${OLTP_DB}
+      TZ: Asia/Ho_Chi_Minh
+      PGTZ: Asia/Ho_Chi_Minh
+    command: ["postgres", "-c", "timezone=Asia/Ho_Chi_Minh"]
+    ports:
+      - "${OLTP_PORT}:5432"
+    volumes:
+      - oltp_data:/var/lib/postgresql/data
+      - ./database/oltp-init:/docker-entrypoint-initdb.d
+    networks:
+      - tlcn_network
+
+  dwh_db:
+    image: postgres:16
+    container_name: dwh_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${DWH_USER}
+      POSTGRES_PASSWORD: ${DWH_PASSWORD}
+      POSTGRES_DB: ${DWH_DB}
+      TZ: Asia/Ho_Chi_Minh
+      PGTZ: Asia/Ho_Chi_Minh
+    command: ["postgres", "-c", "timezone=Asia/Ho_Chi_Minh"]
+    ports:
+      - "${DWH_PORT}:5432"
+    volumes:
+      - dwh_data:/var/lib/postgresql/data
+      - ./database/dwh-init:/docker-entrypoint-initdb.d
+    networks:
+      - tlcn_network
+
+volumes:
+  oltp_data:
+  dwh_data:
+
+networks:
+  tlcn_network:
+    driver: bridge
