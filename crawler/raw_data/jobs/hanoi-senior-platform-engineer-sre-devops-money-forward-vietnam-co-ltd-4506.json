@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/hanoi-senior-platform-engineer-sre-devops-money-forward-vietnam-co-ltd-4506",
+  "tieu_de": "HN Principal/ Senior Platform Engineer SRE, DevOps",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-18",
+  "han_ung_tuyen_raw": "2026-09-22",
+  "ky_nang": [
+    "DevOps",
+    "Terraform",
+    "Kubernetes",
+    "Docker",
+    "Cloud",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 11, ROX Tower, 54A Nguyễn Chí Thanh,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "*** WHY SHOULD YOU APPLY FOR THE ROLE\nChallenge of building a company-wide platform:\nThis platform is used company-wide and supports many users. You can gain experience in building and operating a platform that supports the core of the company.\nModern technology stack:\nYou can practice modern and challenging technologies such as Karpenter and multi-cluster configurations in an environment where reliability is required as a company-wide platform.\nWork with global members:\nThe team is global, consisting of members from Japan, Vietnam, Indonesia, Myanmar, and Poland. Work is primarily conducted in English, providing you with global work experience.\n*** JOB RESPONSIBILTY: \n* Overview: \n(All positions in MFV expect a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts)\n \nAs a Platform Engineer, you will be responsible for operating the common infrastructure (EKS platform) used by various applications of Money Forward.\nDevelopment, operation, and maintenance related to the EKS environment\nDevelopment, operation, and maintenance of tools related to the above\n * Specific Tasks within the Team: \nUpgrading EKS and related add-ons\nDevelopment and maintenance of OSS and tools used in the EKS environment (such as Karpenter and Vault)\nMonitoring, alert setting, and incident response using Datadog\nDesigning, building, and operating platforms (CI/CD, development environment, test environment, etc.) to maximize the productivity of the development team\nPerformance optimization and creating mechanisms for it\nOther infrastructure environment settings (such as TrangitGateway)\nCost optimization\n* Job Responsibilities for the Position: \nYou are expected to support the Platform users, and also execute operations on our platform. The following are some of the tasks. We will discuss them during the interview process.\nSupport developers who use our EKS platform\nInfrastructure environment settings (such as AWS resources) \nUpgrading EKS and related add-ons\nMonitoring, alert setting, and incident response using Datadog",
+  "yeu_cau": "Must have: \n・Practical experience in operation in the fields of SRE, DevOps, or infrastructure (7+ years)\n・Practical experience in development and operation of production systems using cloud environments (especially AWS)\n・Experience in managing container orchestration systems such as Kubernetes like EKS\n・Experience in building and utilizing monitoring environments using monitoring and observability tools\n・Practical experience with Infrastructure as Code (IaC) (tools such as Terraform are not specified)\n・Development experience through mutual review using Pull Requests with Git\nNice to have: \n・Development and operation experience with AKS on Azure\n・Experience in designing and operating SLI/SLO\n・Experience in AI development and/or experience in using AI tools to improve development processes.\nTechnical Stacks: \n*You don't need to have all of these skills.\n・Infrastructure: AWS, Amazon EKS/ECS, Cloudflare, CircleCI/ArgoCD/GitHub Actions\n・Monitoring: Datadog\n・IaC: Terraform\n・Others: Kubernetes",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation:\nHybrid working: 2 days at the office and 3 days WFH\nWorking hour: Flexible start 8AM-9AM from Mon-Fri\nFull salary in probation\nInsurance: Applied from Probation period:\nSocial Insurance, Health Insurance, Unemployment Insurance (on 100% salary)\nPrivate health insurance & accident insurance. From Managing level: extra for family members\nBonus: 13th month salary\n17 - 24 paid days off and more\nPaternity leave: Extra 5 days\nAnnual company trip; Quarterly team building\nBilliards & Running club\nAnnual health check\nWell-equipped facility: Macbook pro, additional monitor,..\nCaring Career & Development:\nClear Career path\nForeign language & International technology-related certifications sponsoring\nExternal & internal training courses\nSoft-skill workshops\nTech seminars\nMonthly and biannual Recognition Awards\nPerformance & salary review: twice/year (Jun & Dec)",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Site Reliability Engineer (SRE)"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

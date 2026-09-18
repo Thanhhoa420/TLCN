@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-system-development-ci-cd-motorola-solutions-5301",
+  "tieu_de": "Senior DevOps Engineer System Development, CI/CD",
+  "ten_cong_ty": "Motorola Solutions",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "CI/CD",
+    "Linux",
+    "AI",
+    "DevOps",
+    "QA QC",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark Building L07.01, Floor 7, Tower A 15 Tran Bach Dang Street, An Khanh Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As a System Development Engineer, you sit at the high-velocity intersection of Software Engineering and Systems Architecture, building the sophisticated tooling that allows our systems to provide the highest quality service. You will design and implement world-class Continuous Integration and Deployment frameworks. You will treat our internal infrastructure as a product, developing high-performance internal tools, APIs, and CLI utilities to automate complex operational logic. You will lead the charge in Infrastructure as Code (IaC) and build self-healing systems and automated remediation workflows that detect and fix issues before a human ever sees an alert. You’ll bake security into the DNA of our systems. \n Key Responsibilities\nArchitecting the CI/CD Engine: Design, build, and optimize high-speed deployment pipelines. You ensure it’s tested, secured, and deployed with zero downtime using Canary and Blue/Green strategies.\nEngineering Internal Platforms: You will treat internal services as products, developing APIs, custom CLI tools, and dashboards that empower software teams to self-serve infrastructure.\nRadical Automation & IaC: Eliminate manual toil by codifying everything. You will manage global-scale infrastructure using Infrastructure as Code (IaC), ensuring environments are reproducible, version-controlled, and immutable.\nAdvanced Escalation & Reliability: Act as the \"Engineer’s Engineer.\" You provide support for complex distributed systems failures, performing deep-dive root cause analysis (RCA) and writing code to ensure the same failure mode never happens twice.\nPerformance Tuning & Observability: Build the \"eyes and ears\" of our systems. You will implement advanced telemetry, distributed tracing, and automated alerting to maintain high availability and peak performance.\nReplicate complex customer deployment environments to execute comprehensive system integration and stability testing.\nCybersecurity Compliance & Global Standards: Ensure that our systems meet/exceed strict global security standards.",
+  "yeu_cau": "Education & Experience\n8+ years of experience in system development, integration engineering, or QA automation.\nBachelor Degree/Master Degree in Software Engineering/ Computer Science/ Information Technology or any relevant field.\n​\nTechnical Competencies\nProficiency in object oriented and scripting programming languages\nStrong Linux/Unix internals knowledge and a firm grasp of networking protocols (TCP/IP, DNS, HTTP/3).\n​\nLanguage & Soft Skills\nAdvanced verbal and written English communication skills are required.\nStrong analytical mind with a proactive approach to breaking down and solving complex technical puzzles.\nConstant learner who proactively works through ambiguity\n​\nWhat We Offer\nThe unique opportunity to build and pioneer global security products directly out of Vietnam's thriving innovation center.\nAn international, diverse, and multicultural R&D culture guided by world-class data scientists and chief engineers.\nCompetitive salary and bonuses.",
+  "quyen_loi": "Compensation & bonus: 13th & 14th salary, AIP bonus, Holidays, Tet, and Long year service …\nSocial insurance, Health insurance, Unemployment insurance: by Social Insurance and Labor Law\nThe regime of annual leave, company trip, and checkup examination\nAward for marriage, newborn\nWe have AON insurance package for employee, spouse, and children every year\nYou will be trained, learned & work with the best technical managers who help you improve various dev skills & career path\nYou’ll love working in our dynamic environment employees, young & active\nWe love sport activities, as marathon, football, swimming,...\nWorking time: From Monday to Friday | 08:30-12:00 & 13:00-17.30",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxODEzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--ad3aed6d6360ca8b7108f6afd190c8c2e40226b1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/12208270_999388660119178_5375044832360351749_n.png",
+  "company_url": "/companies/motorola-solutions",
+  "company_mo_ta": "Solving for safer !",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Telecommunication"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

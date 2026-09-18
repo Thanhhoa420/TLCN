@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-ios-developer-swift-ngan-hang-tmcp-phuong-dong-ocb-0704",
+  "tieu_de": "Middle/ Senior IOS Developer Swift",
+  "ten_cong_ty": "Ngân hàng TMCP Phương Đông | OCB",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Swift",
+    "Clean Architecture",
+    "MVVM",
+    "OCR",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark Building, 15 Tran Bach Dang Street",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are on a journey to modernize our digital banking platform. We aren't just maintaining code; we are re-engineering it for speed, scale, and security. We are looking for experienced mobile engineers enjoys solving complex technical challenges and wants to have a direct influence on the architecture of a real-world banking application.\n \n Modernize & Optimize: Lead the transition to cleaner, modularized code. Improve app performance, responsiveness, and memory management.\n Build the Future: Design and implement new, user-centric features that make banking easier for millions of customers.\n Engineering Excellence: Champion best practices through code reviews, automated testing, and proactive refactoring of legacy components\n Collaborate: Partner closely with Backend, Product, and UX/UI teams to turn business needs into high-performance technical solutions.\nSolve Problems: Tackle production challenges head-on, ensuring our platform is stable, secure, and reliable.\n \nDifferent projects and squads may focus on different technical domains. Candidates with strengths in relevant areas will be considered for suitable engineering teams across our banking technology ecosystem.\n \n1. Engineering Rigor & Quality\n•    Testing Culture: Hands-on experience writing Unit Tests, Automated UI Tests, and API Mocks/Stubs. You prioritize testable code over \"quick fixes.\"\n•    Code Health: Deep application of SOLID, YAGNI, and KISS principles. Strict adherence to coding conventions and documentation standards.\n•    Performance: Proven ability to identify and resolve bottlenecks using platform profiling tools (e.g., Instruments, Android Profiler). Experience with threading and complex offline data synchronization.\n2. Banking-Grade Security & Integration\n•    Security (Critical): Strong knowledge of secure mobile practices: Certificate Pinning, secure storage mechanisms (Keychain/Keystore), biometric authentication (FaceID/TouchID/ Fingerprint), and obfuscation techniques.\n•    API Orchestration: Deep understanding of RESTful API lifecycle, request/response cycle management, and handling token-based authentication flows in a secure environment.\n•    Ecosystem: Experience integrating and maintaining 3rd-party SDKs (e.g., Firebase, Analytics, Marketing tools like AppsFlyer, and UI frameworks like SnapKit/libraries across Android and iOS ecosystems).\n3. Workflow & Tools:\n•    DevOps/Collaboration: Daily usage of Git/GitLab and Jira/Redmine. You are comfortable with branching strategies (GitFlow/Trunk-based), code review workflows, and CI/CD practices.\n•    Design-to-Code: High proficiency in interpreting complex Figma designs, ensuring pixel-perfect responsiveness across all device screen sizes and OS versions.\n4. Strategic & \"Plus\" Skills\n•    Technical Leadership: Ability to mentor junior developers, perform deep code reviews, and drive architectural decisions.\n•    Future-Proofing: Experience or strong interest in Kotlin Multiplatform (KMP) for cross-platform logic sharing.\n•    Continuous Learning: A proactive mindset to evaluate, prototype, and implement new mobile methodologies to improve the development lifecycle.\n•    AI-SDLC: Experience in leverage AI tools in product development activities.",
+  "yeu_cau": "•    Education: Bachelor’s degree in computer science, Software Engineering, or equivalent technical field.\n•    Experience: 5+ years of professional iOS development experience using Swift.\n•    Architecture: Mastery of MVVM and Coordinator patterns. Proficient in Clean Architecture and large-scale Modularization (dynamic frameworks/libraries).\n•    Modern Swift: Deep expertise in Combine, Swift Concurrency (Async/Await), and Diffable DataSources.\n•    Dependency Management: Advanced experience with Swift Package Manager (SPM) and dependency injection patterns.\nBonus points for:\n•     Hands-on experience with SwiftUI.\n•     Familiarity with CI/CD pipelines.\n•    Experience integrating advanced features like OCR/eKYC or AI-driven chatbots.",
+  "quyen_loi": "Large-scale technology projects\nBonus and benefits - Bank’s policies\nLoan programs for employees\n\n-    100% salary during probation\n-    13th month salary and year-end bonus based on business performance (1–3.5 months’ salary)\n-    Competitive total compensation, commensurate with experience and capability\n-    Annual salary review based on performance\n-    Bonus and benefits in accordance with the Bank’s policies\n-    Eligibility for preferential loan programs for employees\n-    Health insurance card covering inpatient and outpatient medical care (as per policy)\n-    Professional working environment with deep technical specialization and long-term career development\n-    Opportunity to participate in large-scale technology projects in the banking and finance domain\n-    Exposure to core banking systems, large-scale data, and high-security environments\n-    Regular internal training programs in technical expertise, banking knowledge, and soft skills",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3ODAyLCJwdXIiOiJibG9iX2lkIn19--9201b51bf7f02ffec00ab7b0ddcbf0b966383680/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/ngan-hang-tmcp-ph-ng-dong-ocb-logo.png",
+  "company_url": "/companies/ngan-hang-tmcp-phuong-dong-ocb",
+  "company_mo_ta": "OCB is a dynamic Joint Stock Bank, with 200 trading units in 120 transaction points",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

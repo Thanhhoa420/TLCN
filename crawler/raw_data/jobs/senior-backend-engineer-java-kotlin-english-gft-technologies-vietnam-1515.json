@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-java-kotlin-english-gft-technologies-vietnam-1515",
+  "tieu_de": "Senior Backend Engineer Java, Kotlin, English",
+  "ten_cong_ty": "GFT Technologies Vietnam",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "Java",
+    "Kotlin",
+    "Microservices",
+    "Kafka",
+    "Spring",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "29A Nguyen Dinh Chieu",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Summary \n \nGFT Technologies is an AI-centric global digital transformation company. We design advanced data and AI transformation solutions, modernize technology architectures, and develop next-generation core systems for industry leaders in Banking, Insurance, Manufacturing, and Robotics. Partnering closely with our clients, we push boundaries to unlock their full potential. With deep industry expertise, cutting-edge technology, and a strong partner ecosystem, GFT delivers responsible AI-centric solutions that combine engineering excellence, high-performance delivery, and cost efficiency. Our team of 12,000+ technology experts operates in 20+ countries worldwide, offering career opportunities at the forefront of software innovation.\n \nKey Responsibilities \n \nJoin us in building a virtual bank from scratch using cloud native technologies. We're a fast-growing team solving exciting problems and delivering high quality products in small, interdisciplinary teams. We’re applying the  learnings from Google, Twitter and Netflix to build the next generation of banking.\nGreenfield development and the continuous improvement of our existing systems.\nDevelop RESTful APIs and event driven microservices using Kafka.\nUse Kubernetes and Docker to schedule and run microservices.\nWrite high quality, maintainable code using TDD.\nOur technology stack is predominantly Kotlin / Java, but our architecture allows for using the most appropriate language to solve a given problem.\nPostgreSQL, Aurora and S3 for persistence.\nLeverage our elastic AWS infrastructure.\nPractice continuous integration and delivery.\nYou build it, you run it.",
+  "yeu_cau": "Technical Qualifications \n \nPreferably fluent with Kotlin and/or Java.\nSolid experience in back-end development and CI/CD processes.\nIdeally experienced with AWS development environment.\nQuick learner with an ambitious and results driven personality.\nWork well as part of a team in a fast-paced environment.\nExcellent communication and organizational skills.\n(Due to the high volume of applications we receive, we are unable to respond to every candidate individually. If you have not received a response from GFT regarding your application within 10 workdays, please consider that we have decided to proceed with other candidates. We truly appreciate your interest in GFT and thank you for your understanding.)",
+  "quyen_loi": "We build a professional & fun working environment.\nWe focus on your growth, yes the long-term growth.\nWe develop the future-ready digital bank platform.\n\nHR benefits\nCompetitive salary\nSalary band per level are reviewed once per year\n13th month salary pro rata depending on the employee’s length of service (within a calender year), paid with the December salary\nMonthly lunch allowance: 700,000 VND/employee\nParking: GFT covers the monthly parking fee for employee motorbikes\nPerformance evaluation is once per year, for 2 purposes:\n   > Performance bonus   > Salary increments\nHealth care\nPrivate health insurance: including accident, outpatient, in-patient, maternity, and dental for all permanent employees who pass 2-month probation.\nOptical: expense claim for eyewear\nAnnual health check-ups.\nVacation\nMaximum 18-day vacation leave/year (with the ability to carry over 05 days till 31st March of the following year)\nAdding one more annual leave day for each two-year anniversary.\nHealthy lifestyle\nSports and hobby clubs: company has an annual fund for fitness activities, which is allocated per month as team’s vote.\nRange of healthy snacks, tea, coffee, milk and beer on tap\nSocial\nCompany townhall: each 6 weeks\nCSR activities: as per company’s CSR guideline\nOnsite tour/training courses at other GFT offices and client’s destination overseas (where applicable).",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY2NDkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ddbe61279547bfa37eb6c2f8aa6ec51c62d37409/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/GFT%20avatar.jpg",
+  "company_url": "/companies/gft-technologies-vietnam",
+  "company_mo_ta": "Building technology to revolutionise the Digital Banking with Cloud engineering.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-technical-lead-java-spring-cong-ty-co-phan-chung-khoan-xuan-thien-1434",
+  "tieu_de": "Backend Technical Lead Java/Spring",
+  "ten_cong_ty": "Công ty Cổ phần Chứng khoán Xuân Thiện",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Java",
+    "Spring",
+    "Team Management",
+    "Software Architecture",
+    "Oracle",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 6, Số 2 Đặng Thai Mai, P. Tây Hồ, Hà Nội",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,900 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. VỀ VỊ TRÍ NÀY\nDẫn dắt kỹ thuật (technical lead) cho đội ngũ Backend, chịu trách nhiệm về chất lượng, hiệu năng và khả năng mở rộng của toàn bộ hệ thống backend/API tích hợp với Core chứng khoán; định hướng công nghệ, chuẩn thiết kế và xử lý các vấn đề kỹ thuật phức tạp nhất, phối hợp chặt chẽ với Chuyên gia Kiến trúc trong việc hiện thực hóa kiến trúc toàn bộ nền tảng hệ thống công nghệ.\n2. CÔNG VIỆC CHÍNH\n2.1. Định hướng kỹ thuật & thiết kế hệ thống\nThiết kế chi tiết (detailed design) các hệ thống/module backend phức tạp, đảm bảo phù hợp với kiến trúc doanh nghiệp và các map kiến trúc đã ban hành;\nLựa chọn công nghệ, framework, thư viện phù hợp cho từng bài toán; xây dựng chuẩn coding convention, best practice cho đội Backend; \nThẩm định, phê duyệt các thiết kế kỹ thuật quan trọng trước khi triển khai.\n2.2. Dẫn dắt đội ngũ & đảm bảo chất lượng \nHướng dẫn, kèm cặp (mentor) các Chuyên viên Backend/Fullstack; thực hiện code review cấp cao; \nLà đầu mối xử lý các vấn đề kỹ thuật phức tạp, sự cố production nghiêm trọng (điểm leo thang kỹ thuật); \nĐánh giá năng lực kỹ thuật của đội ngũ, đề xuất lộ trình đào tạo, phát triển.\n2.3. Tối ưu & mở rộng hệ thống\nĐánh giá hiệu năng, khả năng mở rộng (scalability) của hệ thống backend, đặc biệt trong các đợt cao điểm giao dịch; \nNghiên cứu, đề xuất ứng dụng công nghệ mới (message queue, caching, event-driven, AI/automation trong vận hành backend...) nhằm nâng cao hiệu quả hệ thống; \nPhối hợp Chuyên gia Kiến trúc hoạch định kiến trúc backend dài hạn (3--5 năm), gắn với quy hoạch các Platform.\n2.4. Quản lý kỹ thuật dự án & báo cáo\nƯớc lượng khối lượng công việc, lập kế hoạch triển khai kỹ thuật cho các dự án lớn (Core chứng khoán...);\nBáo cáo tình hình kỹ thuật, rủi ro hệ thống với Trưởng phòng CNTT; \nThực hiện các công việc khác theo phân công của cấp quản lý.",
+  "yeu_cau": "Yêu cầu bắt buộc (Must-have):\nTốt nghiệp Đại học/Sau đại học chuyên ngành Công nghệ Thông tin, Khoa học Máy tính hoặc các ngành liên quan.\nCó từ 6 - 9 năm kinh nghiệm phát triển Backend, trong đó tối thiểu 2 năm ở vai trò Technical Lead hoặc Senior Engineer cứng.\nThành thạo hệ sinh thái Java/Spring Boot (Thay đổi ngôn ngữ nếu hệ thống của bạn dùng ngôn ngữ khác).\nKiến thức chuyên sâu về kiến trúc Microservices/DDD, thiết kế hệ thống phân tán, hệ thống hiệu năng cao (high throughput, low latency).\nKinh nghiệm thiết kế hệ thống, ra quyết định kỹ thuật ở mức độ phức tạp cao.\nKỹ năng Mentor/Coaching đội ngũ kỹ thuật.\nGiao tiếp, trình bày phương án kỹ thuật rõ ràng với các bên liên quan (kể cả phi kỹ thuật); đọc hiểu tài liệu kỹ thuật tiếng Anh tốt.\nCó tư duy ứng dụng AI (AI-assisted coding, code review, testing) và tự động hóa vào quy trình phát triển.\nĐiểm cộng lớn (Nice-to-have):\nCó kinh nghiệm dẫn dắt kỹ thuật cho các hệ thống Tài chính/Ngân hàng/Ví điện tử quy mô lớn.\nƯu tiên ứng viên có hiểu biết về nghiệp vụ chứng khoán (khớp lệnh, thanh toán bù trừ) và hạ tầng kết nối KRX/FIX 4.4, VSDC/VSD (Nếu chưa có kinh nghiệm sẽ được công ty đào tạo thêm về nghiệp vụ).\nHiểu biết về bảo mật hệ thống ứng dụng (Secure Coding, OWASP, Data Security...).\nSở hữu các chứng chỉ kiến trúc/công nghệ (AWS/Azure/GCP Solutions Architect, Oracle Certified...).",
+  "quyen_loi": "Mức lương: 1,900 - 3,000 USD (Cạnh tranh, deal theo năng lực thực tế).\nThưởng Lễ, Tết theo quy định và tình hình kinh doanh của Công ty.\nPhụ cấp khác theo quy định và tính chất công việc.\nĐược hưởng đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định; Phép năm (+ 2 phép thử việc khi lên chính thức).\nPhúc lợi khác: teambuilding, du lịch thường niên.\nMôi trường làm việc đề cao sự chủ động, trao đổi thẳng thắn và khả năng tạo ra thay đổi thực tế.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxNzAyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--feff4e0408f263ea2686f15f0f487db5741f2eab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20XTSC.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-xuan-thien",
+  "company_mo_ta": "Xuan Thien Securities",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

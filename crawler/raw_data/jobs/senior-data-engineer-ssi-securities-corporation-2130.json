@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-engineer-ssi-securities-corporation-2130",
+  "tieu_de": "Senior Data Engineer",
+  "ten_cong_ty": "SSI Securities Corporation",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Data Warehousing",
+    "ETL",
+    "Data modeling",
+    "API",
+    "Data Engineer",
+    "Kafka"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "SSI Tower, 1 Châu Văn Liêm",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Data Platform & Lakehouse\nTriển khai, vận hành, nâng cấp các thành phần nền tảng (object storage, table format, query engine, orchestrator, catalog).\n(Senior/Lead) Tham gia thiết kế kiến trúc lakehouse, lựa chọn công nghệ, định hướng roadmap nền tảng.\nPipeline & Data Product\nThiết kế và xây dựng ingestion/ETL/ELT pipeline từ nhiều nguồn (DB, API, file, streaming).\nXây dựng các tầng dữ liệu (staging, normalized, serving), data mart, report table.\nPhát triển API/DBAPI phục vụ ứng dụng nội bộ và đối tác.\n(Expert/Lead) Định hình data modeling chuẩn, contract giữa nguồn – nền tảng – consumer.\nReliability & Performance\nGiám sát, tối ưu hiệu năng truy vấn, lưu trữ; xử lý sự cố, backfill.\nĐảm bảo SLA refresh, response, availability.\n(Lead) Thiết lập observability, incident response process, capacity planning.\nGovernance & Collaboration\nĐóng góp metadata, lineage, data catalog; phối hợp DA chuẩn hóa định nghĩa.\nHỗ trợ DS/AI/ML Engineer triển khai feature pipeline và model serving.\nOther\nLàm việc với khối lượng dữ liệu tài chính lớn, real-time. \nLakehouse stack mở, hiện đại, tự chủ kỹ thuật. \nMôi trường data-driven, hợp tác trực tiếp với DA, DS, AI/ML, business.",
+  "yeu_cau": "3–6 năm kinh nghiệm xây dựng pipeline production quy mô lớn.\nLàm chủ:\nLakehouse stack (Iceberg/Delta/Hudi, Trino/Spark, dbt).\nStreaming/CDC (Kafka, Debezium).\nPerformance tuning (partitioning, file layout, query plan).\nThiết kế và sở hữu một domain dữ liệu end-to-end.\nMentor junior, lead các project pipeline trung bình.\nƯu tiên:\nKinh nghiệm tài chính/chứng khoán, kiến thức về dữ liệu giao dịch, khách hàng, sản phẩm tài chính.\nIceberg + Trino + dbt + StarRocks + Superset + Ranger.\nKafka/Flink, Arrow/Parquet, MinIO/S3.\nCI/CD cho data (dbt tests, Great Expectations), IaC.\nHiểu biết MLOps để hỗ trợ feature store/serving.",
+  "quyen_loi": "Attractive salary and bonus package\nPremium AON healthcare insurance\nFully sponsored training to build your career\n\nLương thỏa thuận (căn cứ theo năng lực của ứng viên)\n12 ngày nghỉ phép/năm + 2 ngày nghỉ ốm có hưởng lương\nChế độ bảo hiểm sức khỏe cao cấp và kiểm tra sức khỏe định kỳ hàng năm.\nThưởng các ngày lễ, Tết, Tháng lương 13, Thưởng KPIs cuối năm Tặng quà sinh nhật, quà Tết…\nCơ hội tham gia các câu lạc bộ: Tennis, Cầu lông, Yoga, Bóng đá…\nCác hoạt động Teambuilding sôi nổi, thường niên: Family Day, Gala Dinner.\nCông ty tài trợ toàn bộ chi phí các chương trình đào tạo hỗ trợ cho công việ",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NDkzLCJwdXIiOiJibG9iX2lkIn19--3368b4bee17942a22de5b7f4a75e6415f5bbf1b3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/saigon-securities-inc-logo.jpg",
+  "company_url": "/companies/ssi-securities-corporation",
+  "company_mo_ta": "SSI – A leading Financial Corporation",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-it-security-solution-officer-mb-life-3714",
+  "tieu_de": "Senior IT Security Solution Officer",
+  "ten_cong_ty": "MB Life",
+  "ngay_dang_raw": "2026-08-26",
+  "han_ung_tuyen_raw": "2026-09-30",
+  "ky_nang": [
+    "Penetration Testing",
+    "Security Hardening",
+    "Pentest"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Tầng 15, tòa nhà MB – 21 Cát Linh",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,000 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Mục tiêu công việc: \nĐảm bảo các ứng dụng, hệ thống và hạ tầng công nghệ thông tin trên môi trường Cloud và On-premise được bảo vệ an toàn, cấu hình phù hợp với tiêu chuẩn bảo mật và vận hành hiệu quả. Chủ động nhận diện, đánh giá và giảm thiểu rủi ro an ninh thông tin thông qua các hoạt động thẩm định, kiểm thử, quản lý lỗ hổng và hoàn thiện chính sách, quy trình bảo mật nội bộ\n2. Trách nhiệm chính:\nQuản trị, vận hành và tối ưu hệ thống các hệ thống bảo vệ an ninh ứng dụng trên môi trường Cloud và On-premise: WAF, SAST, DAST…\nTham gia thẩm định, tư vấn, đánh giá an toàn thông tin cho hệ thống, bao gồm kiến trúc, hạ tầng, ứng dụng và các thành phần liên quan.\nThực hiện nghiên cứu và cấu hình an toàn các giải pháp, hệ thống theo baseline/best practice, bao gồm OS, middleware, cloud service, AI/Automation và các công nghệ mới có liên quan.\nTham gia xây dựng, rà soát và cập nhật các quy trình, chính sách, tiêu chuẩn bảo mật nội bộ về an ninh thông tin cho các đối tượng/hệ thống.\nQuản lý, phối hợp với OS/vendor để thực hiện Vulnerability Assessment/Pentest; chịu trách nhiệm quản lý phạm vi, tiến độ, chất lượng và kết quả bàn giao.",
+  "yeu_cau": "Tốt nghiệp đại học trở lên chuyên ngành An toàn thông tin, An ninh mạng, Công nghệ thông tin, Khoa học máy tính, Điện tử viễn thông hoặc ngành liên quan.\nTối thiểu 3 năm kinh nghiệm trong lĩnh vực an toàn thông tin, ưu tiên bảo mật ứng dụng và hạ tầng\nƯu tiên các chứng chỉ CISSP, CCSP, CEH, OSCP, OSWE hoặc tương đương.",
+  "quyen_loi": ". Quyền lợi dành cho bạn khi trở thành “Amazer” tại MB Life\nThời gian làm việc: 8h00 - 17h30, 5 ngày/tuần (từ Thứ Hai đến Thứ Sáu)\nMức lương cạnh tranh, xét tăng lương hàng năm và thưởng theo hiệu quả công việc\nHưởng 100% lương chính thức trong thời gian thử việc\nBảo hiểm sức khỏe cao cấp MIC dành cho CBNV và 03 người phụ thuộc\nCung cấp bảo hiểm nhân thọ và bảo hiểm ung thư cho CBNV\n15 ngày phép/năm\nChính sách Wellness hấp dẫn\nPhụ cấp ăn trưa / điện thoại / công tác\nTài trợ đào tạo và phát triển bản thân (Tiếng Anh, PMP, CSM, ITIL,...)\nMôi trường làm việc với cơ sở vật chất hiện đại, tiện nghi\nChế độ phúc lợi vào các dịp lễ đặc biệt: sinh nhật Công ty, Tết Dương lịch, Trung thu, Ngày Gia đình Việt Nam (28/6), Quốc tế Thiếu nhi (1/6), Ngày Quốc tế Phụ nữ (8/3) & Phụ nữ Việt Nam (20/10),…\nNhiều hoạt động nội bộ sôi động: du lịch, team building, sự kiện gắn kết\nMôi trường làm việc quốc tế, năng động, đồng nghiệp tài năng, đa dạng văn hó",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1NDY1MywicHVyIjoiYmxvYl9pZCJ9fQ==--54d0d68898be4abed8486ec4dbbb2dd7683404da/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20MB%20Life%20-%20RGB.png",
+  "company_url": "/companies/mb-life",
+  "company_mo_ta": "MB Ageas Life",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

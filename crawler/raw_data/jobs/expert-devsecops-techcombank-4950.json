@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/expert-devsecops-techcombank-4950",
+  "tieu_de": "Expert, DevSecOps",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "DevSecOps",
+    "Kubernetes",
+    "CI/CD",
+    "Integration test",
+    "Linux",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 6 Quang Trung, phường Trần Hưng Đạo",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\nResponsible for researching, developing and improving DevSecOps solutions in line with the business in the bank. Building and operating technology infrastructure, providing DevSecOps standard to automatically deploy, integrate, and optimize the work of business units in the bank. Optimizing provision and operation of Cloud/On-Prem \nResponsible for supporting DevSecOps work as well as training and transferring DevSecOps culture to developers, help them to have the mindset and competence in automating product development and operation \nKey Accountabilities \nCoordinate with development units in Planning/Developing/Testing/Deploying to build development environments for products (Dev/SIT/UAT/STAGING/PT/PROD) integrated with DevSecOps Tools as well as Cloud cost optimization if any\nControl usage and compliance of developers when using DevSecOps Tools\nSupport and train developer on CI/CD pipelines so that they can easily use and be proactive in development and operation\nHandling problems that occur on the AWS Cloud/On-Prem infrastructure of project teams",
+  "yeu_cau": "At least 5 years of experience in DevSecOps and Cloud\nHave mindset and experience working with Infra as Code\nExperience with Linux\nExperience with integrating test, security, and monitoring tools in the product development flow\nExperience with CI/CD Pipeline and Automation\nExperience with container orchestration such as Kubernetes, EKS\nHaving knowledge of DevSecOps TechStacks:\nAutomation: Jenkins, ArgoCD, Harness, Gitlab-CI\nInfra as Code: Terraform, Terragrunt\nConfiguration Management: Ansible, Puppet\nSecurity: Vault, SAST/IAST/SCA Tools\nSCM: Gitlab\nRepository: Nexus, JFrog\nLogging & Monitoring & Tracing: Prometheus, Grafana, Loki, Thanos, Splunk, Dynatrace, EFK\nCloud: AWS\nCloud Native: Helm, Service Mesh, Message Queue, Containerize",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\nWHY BECOME IT/DATA EXPERTS AT TECHCOMBANK?\nInvesting over 500 million USD to develop large-scale IT projects, Techcombank is one of the leading bank in Technology trends in Vietnam\nYou will grow with Techcombank by having the opportunity to learn from top experts from across the world\nTechcombank provides a rewarding remuneration structure that commensurate with your achievement and contribution\nTechcombank is the Top 2 Best place to work in the banking industry where you can experience various exciting activities throughout the year: Company anniversary, Team building, Active Saturday , Year End Party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

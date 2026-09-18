@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-devops-engineer-ncp-nab-innovation-centre-vietnam-3409",
+  "tieu_de": "Principal DevOps Engineer- NCP ",
+  "ten_cong_ty": "NAB Innovation Centre Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "DevOps",
+    "Design Systems"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark, 15 Tran Bach Dang, An Khanh Ward",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "4,000 - 5,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT THE JOB \nWe're seeking Principal, DevOps Engineer who have had a proven track record of running critical shared application platforms in a production cloud environment who will take a team-first approach and can act as a multiplier, making other engineers better at their craft. \nAt NAB, we believe success comes from our people. We're committed to supporting your talent and skills through your career, as you help us build a culture that affects change for our customers and for the community too.\nYOUR JOB RESPONSIBILITIES\nDefine and implement tools and processes to standardize and automate software development, testing, deployment, and support.\nEnsure consistent CI/CD practices across projects and teams.\nDesign and deliver secure, resilient, scalable enterprise platforms and cloud solutions.\nProvide technical direction and present/defend architecture decisions to senior architects or architecture governance forums.\nAutomate infrastructure deployment and rollback using Infrastructure as Code.\nLead production incident investigations and drive root-cause remediation.\nProactively manage production risks and improve operational resilience.\nLead cross-team technical initiatives and influence outcomes without direct authority.\nCoach engineers and drive continuous improvement in engineering practices.",
+  "yeu_cau": "YOUR SKILLS AND EXPERIENCE\n7+ years’ experience in DevOps, Cloud, or Platform Engineering across the software lifecycle.\nStrong AWS and/or Azure experience, including Kubernetes (AKS/EKS).\nStrong CI/CD and automation experience with GitHub, Jenkins, Artifactory, Docker, and Compliance as Code.\nStrong understanding of microservices, APIs, distributed systems, and cloud architecture.\nHands-on experience with AWS services such as EC2, ECS, Lambda, S3, SQS, SNS, and CloudWatch.\nStrong Infrastructure as Code skills with Terraform, Ansible, Packer, and/or Python.\nEnterprise platform/solution design experience, with strong knowledge of reliability, security, scalability, and operational resilience.\nExperience presenting/defending designs to senior architects, Principal Engineers, or Architecture Review Boards.\nProven technical leadership and cross-team influence without direct authority.\nStrong production support, incident management, communication, and stakeholder management skills.",
+  "quyen_loi": "Very competitive remuneration package\nBuild products for millions of users in Australia\nHybrid and flexible working environment\n\nTHE BENEFITS AND PERKS\n1. Generous compensation and benefit package\nAttractive salary and benefits\n20-day annual leave and 7-day sick leave, etc.\n13th month salary and Annual Performance Bonus\nPremium healthcare for yourself and family members\nMonthly allowance for team activities\nPremium welcome kit and frequent appreciation gifts \nExtra benefits for long-term employees\n2. Exciting career and development opportunities \nLarge scale products with modern technologies in banking domain\nClear roadmap for career advancement in both technical and leadership pathways\nWell-structured  learning and development programs (technical and soft skills) \nSponsored certificates in both IT and banking/finance\nPremium account on Udemy \nEnglish learning with native teachers\nOpportunity for traveling & training in Australia\n3. Professional and engaging working environment\nHybrid working model and good work-life balance \nWell-equipped & modern Agile office with fully stocked pantry\nSpecial programs to improve your physical and mental health\nAnnual company trip and events \nA solid talented team behind you – great people who love what they do\nIf this excites you, let's have a chat over a cup of coffee!",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk4MDUwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--2f97d92760c911bcb6d9f9dd495f28b67fc499c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/NAB_Logo_RGB_1x1.png",
+  "company_url": "/companies/nab-innovation-centre-vietnam",
+  "company_mo_ta": "The NAB Innovation Centre Vietnam is owned by NAB - Australia’s largest business bank.",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Network and Infrastructure",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

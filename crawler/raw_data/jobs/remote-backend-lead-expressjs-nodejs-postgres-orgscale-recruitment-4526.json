@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/remote-backend-lead-expressjs-nodejs-postgres-orgscale-recruitment-4526",
+  "tieu_de": "Remote - Backend Lead ExpressJS, NodeJS, Postgres",
+  "ten_cong_ty": "OrgScale Recruitment",
+  "ngay_dang_raw": "2026-08-12",
+  "han_ung_tuyen_raw": "2026-09-16",
+  "ky_nang": [
+    "ExpressJS",
+    "Design Systems",
+    "Software Architecture",
+    "Leadership",
+    "PostgreSql",
+    "NodeJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": ".",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,000 - 5,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Key Responsibilities\n1. Backend Architecture & System Design\nLead the design and architecture of scalable and reliable backend systems\nMake key technical decisions covering system architecture, APIs, databases, and integrations\nDesign solutions that support scalability, maintainability, performance, and reliability\nContribute to architectural standards and technical direction across backend systems\n2. Backend Development & Code Quality\nDevelop, review, and optimize high-quality backend code\nBuild and maintain robust backend services using Node.js and Express.js\nConduct code reviews and establish development standards and best practices\nImprove code quality, maintainability, and overall engineering efficiency\nTroubleshoot and resolve complex technical issues\n3. Performance, Scalability & Security\nMonitor and optimize backend performance, scalability, and reliability\nIdentify and resolve performance bottlenecks and technical limitations\nImplement appropriate authentication, authorization, and data protection practices\nEnsure backend services are designed to handle increasing traffic and business requirements\nProactively identify and address technical risks and vulnerabilities\n4. Technical Leadership & Mentorship\nGuide and mentor backend engineers through technical challenges and development practices\nSet engineering standards and promote high-quality development practices\nSupport engineers in improving their technical capabilities and problem-solving skills\nEncourage knowledge sharing and continuous learning within the team\n5. Collaboration & Continuous Improvement\nWork closely with Engineering, Product, QA, and other stakeholders to translate business requirements into technical solutions\nCommunicate technical decisions, progress, risks, and dependencies clearly\nDrive continuous improvement across backend development processes and systems\nManage technical debt and identify opportunities for technology and process improvements",
+  "yeu_cau": "Backend Development\n5+ years of professional backend development experience\nStrong hands-on experience with Node.js, Express.js, and PostgreSQL\nProven experience building and shipping scalable backend systems\nSystem Architecture & Design\nStrong understanding of system architecture, system design, microservices, RESTful APIs, and distributed systems\nExperience designing systems for scalability, reliability, and maintainability\nPerformance & Scalability\nStrong experience identifying and resolving backend performance bottlenecks\nUnderstanding of database optimisation, caching, scalability, and high-traffic systems\nSecurity\nGood understanding of backend security practices, including authentication, authorization, API security, and data protection\nTechnical Leadership\nExperience mentoring or guiding backend engineers\nStrong code review and technical decision-making capabilities\nAble to establish and maintain engineering standards\nCommunication\nStrong interpersonal and collaboration skills\nAble to translate business requirements into practical technical solutions\nFluent in written and spoken English",
+  "quyen_loi": "Birthday leave\nCompetitive salary package\nLearning & development opportunities",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "Headhunt",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMxOTQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--61a4f1b1796c111b2b6c01de40aafbf7660440b4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image%20(1).png",
+  "company_url": "/companies/orgscale-recruitment",
+  "company_mo_ta": "OrgScale Recruitment",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

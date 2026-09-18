@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-ngan-hang-tmcp-phuong-dong-ocb-5723",
+  "tieu_de": "AI Engineer",
+  "ten_cong_ty": "Ngân hàng TMCP Phương Đông | OCB",
+  "ngay_dang_raw": "2026-09-06",
+  "han_ung_tuyen_raw": "2026-10-11",
+  "ky_nang": [
+    "Python",
+    "AI",
+    "LLM",
+    "Databricks",
+    "Docker",
+    "Computer Vision"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark Building, 15 Tran Bach Dang Street",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "I. The Role\n** This is not a research role and not a \"PoC factory.\" You will join OCB's AI Squad — a small, elite, forward-deployed unit modeled on the Palantir Forward-Deployed Engineer and Navy SEAL operating philosophy: a few exceptional engineers who embed directly inside business divisions, find the highest-value problems, and ship production AI that moves the bank's numbers.\n** You will own outcomes, not tickets. Your work is measured against two hard targets:\n- Cost-to-Income Ratio (CIR) improvement — automating high-cost manual workflows (document processing, credit operations, AML/ops review, RM support) so the bank does more with the same headcount. Or:\n- Revenue growth through personalization — building AI systems that lift products-per-customer, card and lending penetration, CASA, and campaign conversion by delivering the right offer to the right customer at the right time.\nYou embed with a division, learn its workflow better than it knows itself, build the agent or pipeline that removes the cost or unlocks the revenue, and put it into production. Then you do it again.\n \n \nII. What You'll Own\n1. Forward-Deployed Delivery\nEmbed directly with a business division (Retail, SME, Risk, Operations, AML) — sit with the operators, map the workflow end-to-end, and identify where AI removes cost or creates revenue.\nOwn the full lifecycle of each solution: problem framing, architecture, data pipeline, build, deployment, integration with core banking, and the business result. You are accountable for the metric, not just the model.\nShip fast and iterate in production. We measure success in deployed systems and basis points of CIR, not slide decks.\n2. Personalization & Revenue Engines\nBuild AI systems that drive revenue through personalization: next-best-offer and next-best-action engines, pre-approved credit and lending journeys, CASA/cash-leakage retention prompts, and RM/PRM coaching assistants that tell front-line staff exactly what to pitch to whom.\nConnect customer behavioral signals, product-holding data, and transaction patterns into agentic workflows that act — not dashboards that observe.\n3. Cost & Operations Automation (CIR)\nBuild agentic and RAG workflows that collapse manual cost: credit-policy lookup, risk-analysis support, AML alert triage and case automation, and operations/RM assistant tools.\nBuild document-intelligence pipelines — OCR and data extraction for contracts and collateral, valuation support, signature verification, and automated document classification — using vision-language models where they earn their place.\n4. Production AI Engineering\nStand up evaluation frameworks, guardrails, and observability for every system you ship. Banking-grade means measurable, monitored, and safe by default.\nOwn deployment, model serving, monitoring, and retraining. Meet SLAs. Partner with IT and infra to integrate cleanly with core banking systems (T24, Way4, LOS, OMNI) and internal platforms.\n5. Squad Leadership\nSet the engineering bar. Mentor junior squad members and pull business stakeholders along with you — translating workflow pain into shipped systems and shipped systems into business value.",
+  "yeu_cau": "Experience\n- 4+ years in AI/ML engineering with a real track record of production systems, not prototypes. You can point to things running in production with users and business impact behind them.\n- Banking, financial services, or another regulated, security-sensitive industry is a strong plus.\n- Bonus: experience as a forward-deployed / solutions / embedded engineer where you owned a customer or business outcome directly.\nCore Skills\n- Production-grade LangChain/LangGraph — multi-agent architectures, function calling, tool integration, stateful graphs. This is the bar.\n- Strong command of advanced RAG pipeline design and agent orchestration.\n- Computer Vision / VLM for OCR, document intelligence, and image analysis.\n- LLMOps/MLOps: model serving (FastAPI, vLLM, Triton), containerization (Docker, Kubernetes), CI/CD, evaluation and guardrails.\n- Databricks (Delta Lake, MLflow) for data processing and scaled deployment.\nHow You Operate\n- Outcome-obsessed. You measure your work in CIR basis points and revenue lift, not commits.\n- Embedded and fearless. Comfortable sitting with operators, learning a domain cold, and owning the result in front of business leaders.\n- Bias to ship. Production over PowerPoint. Fast iteration, tight feedback loops.\n- Excellent communicator who can translate technical work for non-technical stakeholders. Bilingual Vietnamese/English is a strong plus.",
+  "quyen_loi": "Large-scale technology projects\nBonus and benefits - Bank’s policies\nLoan programs for employees\n\n-    100% salary during probation\n-    13th month salary and year-end bonus based on business performance (1–3.5 months’ salary)\n-    Competitive total compensation, commensurate with experience and capability\n-    Annual salary review based on performance\n-    Bonus and benefits in accordance with the Bank’s policies\n-    Eligibility for preferential loan programs for employees\n-    Health insurance card covering inpatient and outpatient medical care (as per policy)\n-    Professional working environment with deep technical specialization and long-term career development\n-    Opportunity to participate in large-scale technology projects in the banking and finance domain\n-    Exposure to core banking systems, large-scale data, and high-security environments\n-    Regular internal training programs in technical expertise, banking knowledge, and soft skills",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3ODAyLCJwdXIiOiJibG9iX2lkIn19--9201b51bf7f02ffec00ab7b0ddcbf0b966383680/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/ngan-hang-tmcp-ph-ng-dong-ocb-logo.png",
+  "company_url": "/companies/ngan-hang-tmcp-phuong-dong-ocb",
+  "company_mo_ta": "OCB is a dynamic Joint Stock Bank, with 200 trading units in 120 transaction points",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

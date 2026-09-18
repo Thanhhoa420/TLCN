@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-python-erp-gon-tech-0701",
+  "tieu_de": "Senior Backend Engineer Python, ERP ",
+  "ten_cong_ty": "GON TECH",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Python",
+    "Redis",
+    "MongoDB",
+    "Git",
+    "MySQL",
+    "ERP"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 669 Điện Biên Phủ, Phường Thạnh Mỹ Tây",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": ".",
+  "yeu_cau": "ERP:\nSolid understanding of core accounting principles: General Ledger (GL), Accounts Receivable (AR), Accounts Payable (AP), journal entries, and financial reconciliation.\nExperience developing or customizing ERP Accounting modules — including chart of accounts, multi-currency, tax handling (VAT/WHT), and period-end closing.\nFamiliarity with accounting workflows: purchase-to-pay (P2P), order-to-cash (O2C), and financial reporting (P&L, Balance Sheet, Cash Flow).\nUnderstanding of data integrity requirements in financial systems: audit trails, double-entry bookkeeping, and transactional consistency.\nExperience with ERP platforms with strong accounting capabilities: Odoo Accounting, SAP FI, Microsoft D365 Finance, or ERPNext is a strong plus.\nERP Domain Knowledge (General)\nUnderstanding of at least one additional ERP domain: SCM, Manufacturing, HRM, or Logistics.\nExperience integrating ERP systems with third-party platforms (payment gateway, banking APIs, tax systems, marketplace, 3PL).\nFamiliarity with core ERP concepts: Master Data, BOM, MRP, Inventory valuation, Order lifecycle.\nSoftware Design Principles\nOOP, Design Patterns\nEvent-driven Architecture\nMicroservices\nMessage Queue systems\nClean Architecture\nDatabase Experience\nMySQL, PostgreSQL, MongoDB, Redis\nSchema design, query optimization, indexing, performance tuning\nHands-on Experience\nRESTful API, GraphQL API, or gRPC API development\nWebSocket / Server-sent events\nGit, Docker, CI/CD pipelines\nUnit testing frameworks: pytest, unittest\nMessage queues: RabbitMQ, Kafka, Azure Service Bus\nStrong understanding of backend security and performance best practices.\nNice to Have\nExperience with Frappe Framework / ERPNext (Accounting module preferred).\nKnowledge of Vietnamese accounting standards (VAS) or localization requirements.\nPackaging & distribution experience: seed data, licensing/subscriptions, install wizards.\nIntegration with datamart/reporting systems: ClickHouse, Metabase, Power BI.\nStrong understanding of web security (OWASP ASVS), RBAC/SoD, object-level permission models.",
+  "quyen_loi": "Grow and advance into higher-level roles\nA creative and innovative work culture\nCompetitive pay and great benefits\n\n85% salary during probation.\nAttractive salary package, including 13th-month bonus.\nProvided with MacBook.\nPremium healthcare package.\nMonthly Happy Hour & annual company trips.\nOpportunity to improve English skills with international clients.\nExposure to new tech stacks for business growth.\nFlexible working hours & attractive annual leave policy.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU4MzM1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1969a046a22126907b0c1b42bd6f9ff497d750e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202025-09-03%20at%2014.20.45.png",
+  "company_url": "/companies/gon-tech",
+  "company_mo_ta": "GON TECH",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

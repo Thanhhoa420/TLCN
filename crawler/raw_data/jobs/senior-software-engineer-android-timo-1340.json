@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-software-engineer-android-timo-1340",
+  "tieu_de": "Senior Software Engineer, Android",
+  "ten_cong_ty": "Timo",
+  "ngay_dang_raw": "2026-08-31",
+  "han_ung_tuyen_raw": "2026-10-05",
+  "ky_nang": [
+    "Kotlin",
+    "Mobile Apps",
+    "kotlinx.coroutines",
+    "Android"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "412 Nguyen Thi Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Software Engineer, Android to help shape the next generation of Timo’s mobile banking experience.\nYou will build reliable, secure, and high-performing Android applications that power critical financial experiences for our customers. Working closely with Product, Design, Backend, QA, and Security, you will contribute to our mobile architecture, engineering standards, and release reliability, while helping evolve our long-term mobile direction alongside Kredivo Group’s regional teams.\nYou will report to our Lead Android Engineer.\n \nWhat You Will Do\nBuild and evolve the Android app powering Timo’s digital banking experience\nDesign and deliver reliable, secure mobile features across payments, onboarding, transfers, and savings\nDrive engineering quality through clean architecture, testing, and operational excellence\nCollaborate closely with Product, Design, Backend, QA, and Security to ship customer-centric solutions\nMentor mid and junior engineers through code reviews, pairing, and knowledge sharing\nContribute to technical direction, architectural decisions, engineering standards, and modern Android practices at Timo",
+  "yeu_cau": "What We Are Looking For\nExperience\n5+ years of Android application development\nProven experience building and operating production-grade mobile apps\nComfortable working in agile, cross-functional product teams\nSkills & Expertise\nStrong proficiency in Kotlin and modern Android development\nSolid understanding of Android architecture patterns (MVVM / MVI, Clean Architecture)\nExperience with Coroutines, Flow, and asynchronous programming\nExperience with Jetpack Compose\nFamiliarity with dependency injection and modular codebases\nExperience with testing, debugging, and performance optimization\nWorking knowledge of CI/CD, release processes, and mobile security best practices\nProfessional working English for daily collaboration with our Lead Android Engineer and regional Kredivo teams",
+  "quyen_loi": "Big chance to build Fintech system, large data\nInternational & English environment\nApply new Tech-Stack, Technology and more\n\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI4NzkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c42f54d9d26674f8a00e350a54f4cd5dc0e0cb94/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/timo",
+  "company_mo_ta": "Timo Vietnam",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

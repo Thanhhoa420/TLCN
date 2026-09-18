@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-developer-nodejs-reactjs-softflex-llc-co-ltd-1950",
+  "tieu_de": "Senior FullStack Developer NodeJS/ReactJS",
+  "ten_cong_ty": "SOFTFLEX LLC CO.,LTD",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "NodeJS",
+    "Redis",
+    "English",
+    "Microservices",
+    "Kafka",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Epic tower, Lane 19 Duy Tan street",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Domain: Fintech (Live Product - Real End Users)\n \nResponsibilities\nDesign, develop, and maintain scalable backend services and frontend applications.\nBuild high-performance fintech/product systems handling large-scale concurrent users and transactions.\nDesign and implement microservices, distributed systems, APIs, and event-driven architectures.\nOptimize system performance, scalability, reliability, and application responsiveness.\nCollaborate with Product Managers, Designers, Mobile Developers, and DevOps teams to deliver high-quality products.\nDevelop secure, maintainable, and reusable code following engineering best practices.\nTroubleshoot production issues, performance bottlenecks, and system challenges.\nMaintain technical documentation and provide regular progress updates to stakeholders.\nWork collaboratively with internal teams and external partners to ensure product quality and delivery alignment.",
+  "yeu_cau": "Qualifications\n5+ years of experience as full-time Full Stack Developer (strong NodeJS/NestJS) and hand-on ReactJS experience\nExperience building scalable microservices, distributed systems, and high-concurrency platforms.\nHands-on experience with Docker, Kubernetes, CI/CD, monitoring, and performance optimization.\nTechnical Skills\nStrong understanding of Clean Code, SOLID principles, scalable architecture, and system design.\nSolid knowledge of REST APIs, asynchronous processing, caching, message queues, and event-driven architecture.\nExperience with PostgreSQL, Redis, Neo4j, or other relational/NoSQL databases.\nFamiliarity with cloud platforms such as GCP, AWS, Azure, or OVHcloud.\nGood understanding of application security, authentication/authorization, and testing practices.\nSoft Skills:\nStrong problem-solving skills and ability to work independently in Agile/Scrum environments.\nGood English communication skills.\nNice to have: Mentoring or technical ownership experience.",
+  "quyen_loi": "Empowerment to create your impact.\nGlobal team, strong foundation, endless growth.\nFriendly culture, supportive colleagues.\n\nAttractive salary package (negotiable in the interview)\n100% salary from probation period\n24 paid day-offs (effective from probation period, excluding Public Holidays)\nSocial Insurance on full salary\nPremium Health Insurance package (options for family members)\nAnnual health check at International hospital\nCompany trip & Occasional gifts (from probation period)\nLunch allowance: 2.000.000đ/person/month\nYearly learning budget: $300/person\nYearly Position Level Assessments\nPantry Offering\nHigh-end MacBook or laptop, monitor, and other devices as required",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjIzMTQ1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9efe10afcaed3a3b0c391043ddca320607ec0a18/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/softflex.png",
+  "company_url": "/companies/softflex-llc-co-ltd",
+  "company_mo_ta": "🌍 SoftFlex LLC – Where Great People Build Global Products",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

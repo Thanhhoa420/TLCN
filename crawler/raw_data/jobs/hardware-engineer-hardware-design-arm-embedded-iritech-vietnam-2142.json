@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/hardware-engineer-hardware-design-arm-embedded-iritech-vietnam-2142",
+  "tieu_de": "Hardware Engineer Hardware Design, ARM, Embedded",
+  "ten_cong_ty": "IriTech Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Hardware Design",
+    "English",
+    "Hardware Troubleshooting",
+    "Firmware",
+    "Embedded",
+    "ARM Cortex"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 8, toà nhà BCONS TOWER, số 176/1-176/3 Nguyễn Văn Thương",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "IriTech Incorporation is the global leader in iris recognition technology, delivering advanced biometric solutions including high-performance iris cameras, portable authentication devices, OEM modules, and iris recognition software for governments, enterprises, and emerging applications in mobile, automotive, AR/VR, and more.\nTo support our innovative hardware development and integration of iris biometrics into diverse embedded platforms, we are seeking a talented Hardware Engineer to join our engineering team.\nIn this role, you will design, develop, test, and optimize electronic hardware and PCB architectures for IriTech's iris recognition hardware and embedded devices, ensuring secure, reliable, and high-performance operation across commercial and enterprise platforms.\nKey Responsibilities\nParticipate in design, schematic capture, and PCB layout for iris biometric devices, including portable scanners, enrollment cameras, and OEM modules.\nSelect, evaluate, and integrate hardware components, including image sensors, IR LEDs, power management ICs, microcontrollers, and SoCs.\nImplement hardware architectures supporting low-level peripherals, power management, and interfaces such as USB, GPIO, I2C, and SPI.\nPerform board bring-up, hardware verification, signal integrity analysis, and functional debugging on target hardware platforms.\nConduct compliance and pre-certification testing (EMI/EMC, CE, FCC, RoHS) for biometric hardware products.\nCollaborate with mechanical, firmware, software, and product teams to deliver robust hardware for government projects (e.g., national ID programs) and commercial biometric solutions.\nWork with PCB fabrication and assembly (PCBA) partners for prototyping, Design for Manufacturability (DFM), and mass production.\nDocument hardware architecture, schematics, Bill of Materials (BOM), and contribute to internal knowledge sharing.",
+  "yeu_cau": "Bachelor's degree or higher in Electrical Engineering, Electronic Engineering, Computer Engineering, or a related field from a reputable university.\n3+ years of professional experience in electronic hardware design and PCB layout (fresh graduates with strong relevant projects and skills will be considered).\nProficiency in EDA/CAD software for schematic capture and multi-layer PCB design (e.g., Altium Designer, OrCAD, PADS, or KiCAD).\nStrong understanding of embedded hardware architectures (ARM preferred), high-speed digital circuit design, power management, and analog/digital peripherals (USB, GPIO, I2C, SPI).\nHands-on experience with lab measurement equipment (oscilloscopes, logic analyzers, spectrum analyzers, multimeters).\nExcellent problem-solving skills, attention to detail, and ability to work with hardware schematics, datasheets, and layout constraints.\nGood English communication skills (written and spoken).\nTeam-oriented mindset: diligent, reliable, dynamic, and collaborative.",
+  "quyen_loi": "Attractive and competitive salary\nOpportunity for overseas working/training\nFriendly, young & dynamic working environment\n\nHighly competitive salary package (up to industry-leading levels based on experience).\nComprehensive benefits: Extra health care insurance, annual health check-up, 13th-month salary, lunch allowances, 15 days of annual leave, annual company trip, frequent team-building activities.\nOpportunities for international onsite work and travel.\nFrequent performance reviews with clear promotion paths.\nFree food and drinks available at our modern cafeteria.\nDynamic, international, and friendly working environment in a fast-growing global leader in biometrics.\nFlexible working hours (Monday to Friday).\nDaily challenges that push your technical limits in cutting-edge biometric technology.\nExcellent career development opportunities in hardware and embedded systems",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2ODY3LCJwdXIiOiJibG9iX2lkIn19--d7ee35cca29b4a2a48c8fce0c03e138312b89176/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/iritech-vietnam-logo.png",
+  "company_url": "/companies/iritech-vietnam",
+  "company_mo_ta": "IriTech, Inc. is one of world-leading Biometrics Technology providers",
+  "job_expertise": [
+    "Hardware-Software Integration Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

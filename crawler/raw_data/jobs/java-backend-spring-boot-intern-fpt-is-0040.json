@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/java-backend-spring-boot-intern-fpt-is-0040",
+  "tieu_de": "JAVA BACKEND SPRING BOOT Intern",
+  "ten_cong_ty": "FPT IS",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "SQL",
+    "English"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Keangnam Landmark 72, E6 Pham Hung",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Tham gia chương trình đào tạo và phát triển Java Backend trong môi trường dự án thực tế, sử dụng Java/Spring Boot.\nThực hiện xây dựng và phát triển REST API theo yêu cầu của hệ thống.\nLàm việc với Database, thực hiện truy vấn và xử lý dữ liệu.\nTham gia phân tích yêu cầu, xử lý lỗi và tối ưu các chức năng theo hướng dẫn.\nPhối hợp với các thành viên trong team để thực hiện công việc theo quy trình phát triển phần mềm.\nTuân thủ quy trình, tiêu chuẩn coding và các quy định kỹ thuật của dự án.",
+  "yeu_cau": "Sinh viên năm cuối hoặc mới tốt nghiệp chuyên ngành CNTT, Khoa học máy tính hoặc các ngành liên quan.\nCó kiến thức về Java Core và OOP.\nĐã học/thực hành Spring Boot, ưu tiên có kiến thức về Spring MVC, Spring Data JPA, REST API.\nCó kiến thức cơ bản về Database quan hệ (MySQL, PostgreSQL...), biết viết SQL và thiết kế bảng đơn giản.\nCó kiến thức cơ bản về Git.\nCó tinh thần tự học, chủ động tìm hiểu và giải quyết vấn đề.\nCó khả năng làm việc nhóm và giao tiếp tốt.\nƯu tiên ứng viên có GitHub/Portfolio hoặc các dự án/bài tập Java đã thực hiện.",
+  "quyen_loi": "Nhiều dự án lơn và công nghệ mới theo xu hướng 4.0\nMôi trường làm việc năng động, thân thiện\nNhiều phúc lợi và lương thưởng hấp dẫn\n\nĐược đào tạo nền tảng Java Core và Database trong giai đoạn đầu.\nĐược hướng dẫn và đào tạo trực tiếp trong môi trường dự án thực tế.\nCó cơ hội học hỏi và thực hành với các công nghệ như Docker, Microservices, Kafka/RabbitMQ, JUnit, Mockito.\nĐược mentor và hỗ trợ chuyên môn trong quá trình thực tập.\nCó cơ hội nâng cao năng lực chuyên môn và phát triển theo định hướng Java Backend Developer.\nCó cơ hội được xem xét tiếp tục đồng hành sau kỳ thực tập dựa trên năng lực và kết quả công việc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b0ad76f35fab863d1005afb348fd6d1f47ab3cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7198274729522_eef0f7d9c19666cac93f22a3189db145.jpg",
+  "company_url": "/companies/fpt-is",
+  "company_mo_ta": "Co- create the next!",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Government",
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

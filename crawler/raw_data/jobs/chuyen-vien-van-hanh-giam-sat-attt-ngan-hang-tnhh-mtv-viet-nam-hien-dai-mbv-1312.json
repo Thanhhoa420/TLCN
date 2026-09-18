@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-vien-van-hanh-giam-sat-attt-ngan-hang-tnhh-mtv-viet-nam-hien-dai-mbv-1312",
+  "tieu_de": "Chuyen vien Van hanh Giam sat ATTT",
+  "ten_cong_ty": "Ngân hàng TNHH MTV Việt Nam Hiện Đại (MBV)",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "DevSecOps",
+    "SIEM",
+    "OWASP",
+    "Linux",
+    "Windows Server",
+    "Networking"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Hội sở HO - 44 Liễu Giai",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chịu trách nhiệm đảm an toàn hệ thống CNTT. Trực tiếp vận hành, quản trị và tối ưu các giải pháp an ninh (Firewall, AV/EDR, DLP, NAC, PROXY). Thực hiện giám sát an toàn thông tin (SOC), phát hiện các hành vi bất thường, phân tích cảnh báo, khắc phục sự cố an ninh mạng. \nTránh nhiệm chính\nVận hành, cấu hình, duy trì hoạt động ổn định và tối ưu chính sách (Policies/Rules) cho các hệ thống: Tường lửa (Firewall/NGFW), Antivirus/EDR, Proxy, hệ thống chống thất thoát dữ liệu (DLP), và Kiểm soát truy cập mạng (NAC)\nTheo dõi, phân tích các cảnh báo an ninh từ hệ thống giám sát tập trung (SIEM) và các thiết bị an ninh.\nTiếp nhận, phân loại và thực hiện xử lý ban đầu các sự cố. Phối hợp với bộ phận khác để khắc phục sự cố và điều tra nguyên nhân.\nLoại bỏ False Positive và đề xuất điều chỉnh, tối ưu các rule/correlation rule nhằm nâng cao chất lượng cảnh báo.\nTheo dõi các IOC, TTP và các dấu hiệu tấn công liên quan đến hệ thống CNTT\nThực hiện quét và đánh giá lỗ hổng bảo mật (Vulnerability Assessment) định kỳ cho hạ tầng mạng và thiết bị đầu cuối.\nTheo dõi các CVE, cảnh báo bảo mật và thông tin Threat Intelligence có ảnh hưởng đến hệ thống CNTT.\nLập báo cáo định kỳ (tuần/tháng) hoặc đột xuất về trạng thái an toàn thông tin, tình hình vi phạm chính sách DLP/NAC.",
+  "yeu_cau": "Học vấn: Tốt nghiệp Đại học chuyên ngành An toàn thông tin, Công nghệ thông tin, Khoa học máy tính, Điện tử viễn thông hoặc các chuyên ngành liên quan.\nNgoại ngữ: Yêu cầu kỹ năng đọc hiểu tốt tiếng Anh để có thể nghiên cứu các tài liệu nghiệp vụ, kỹ thuật. \nCó từ 1 - 3 năm kinh nghiệm làm việc ở vị trí vận hành an toàn thông tin, giám sát SOC.\nCó khả năng correlation các sự kiện từ nhiều nguồn khác nhau và hiểu cách xây dựng hoặc điều chỉnh rule/use case cảnh báo.\nNắm vững kiến thức về mạng (TCP/IP, Routing/Switching, VLAN, VPN), hệ điều hành (Windows Server, Linux) và mô hình tấn công (OWASP, MITRE ATT&CK).\nSử dụng thành thạo các công cụ phân tích log và hệ thống SIEM \nKhả năng lập trình script cơ bản (Python, PowerShell, Bash) phục vụ tự động hóa công việc.\nƯu tiên ứng viên có một trong các chứng chỉ: CompTIA Security+, CEH, CHFI,… hoặc tương đương",
+  "quyen_loi": "Review tăng lương định kỳ\nChính sách về sức khỏe và chế độ bảo hiểm\nLàm việc theo team có tinh thần trách nhiệm cao\n\nChế độ tiền lương và khen thưởng cho nhân viên của MBV gắn liền với kết quả hoạt động kinh doanh và chất lượng dịch vụ của mỗi nhân viên khi thực hiện công việc được giao. Một năm, nhân viên được hưởng tối thiểu 13 tháng lương, được nhận các phụ cấp theo chế độ như phụ cấp trách nhiệm, độc hại, phụ cấp rủi ro tiền mặt, phụ cấp chuyên môn; ngoài ra nhân viên còn được hưởng thêm lương theo năng suất và mức độ hoàn thành công việc; thưởng cho các đơn vị, cá nhân tiêu biểu trong năm, thưởng sáng kiến; thưởng trong các dịp lễ tết của Quốc gia và kỷ niệm thành lập MBV… Nhân viên chính thức của MBV được hưởng đầy đủ các quyền lợi phù hợp với quy định của Ngân hàng và Pháp luật hiện hành.\nLương thỏa thuận theo năng lực\nMôi trường làm việc năng động, chuyên nghiệp, có lộ trình thăng tiến rõ ràng, minh bạch, review tăng lương định kỳ\nChính sách về sức khỏe và chế độ bảo hiểm theo Luật Lao động Việt Nam\nCung cấp trang thiết bị đầy đủ để phục vụ công việc.\nLàm việc theo team có tinh thần trách nhiệm cao",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3NDMzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b5e6460b0f2f08104c64554cae2c12580ea96b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/ocean-doi-ten.jpg",
+  "company_url": "/companies/ngan-hang-tnhh-mtv-viet-nam-hien-dai-mbv",
+  "company_mo_ta": "Cung cấp cho khách hàng các sản phẩm, dịch vụ tài chính ngân hàng",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

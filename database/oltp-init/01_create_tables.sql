@@ -26,9 +26,25 @@ CREATE TABLE danh_muc_hoc_van (
     trinh_do VARCHAR(100) NOT NULL
 );
 
+-- Hình thức làm việc: LÀM VIỆC Ở ĐÂU (At office / Remote / Hybrid)
 CREATE TABLE danh_muc_hinh_thuc_lam_viec (
     hinh_thuc_id SERIAL PRIMARY KEY,
     ten_hinh_thuc VARCHAR(100) NOT NULL
+);
+
+-- MỚI: Loại hình làm việc: LOẠI HỢP ĐỒNG (Full-time / Part-time / Internship / Contract)
+-- Khác hoàn toàn với danh_muc_hinh_thuc_lam_viec ở trên.
+-- Nguồn: employmentType (JSON-LD, ITviec) + filter "Loại hình làm việc" (TopCV)
+CREATE TABLE danh_muc_loai_hinh_lam_viec (
+    loai_hinh_lam_viec_id SERIAL PRIMARY KEY,
+    ten_loai_hinh VARCHAR(50) NOT NULL
+);
+
+-- MỚI: Cấp bậc / seniority level (Internship / Fresher / Junior / Senior / Manager)
+-- Nguồn: filter "Level" (ITviec) + filter "Cấp bậc" (TopCV)
+CREATE TABLE danh_muc_cap_bac (
+    cap_bac_id SERIAL PRIMARY KEY,
+    ten_cap_bac VARCHAR(50) NOT NULL
 );
 
 CREATE TABLE danh_muc_trang_thai_tin (
@@ -97,6 +113,8 @@ CREATE TABLE tin_tuyen_dung (
     kinh_nghiem_id INT REFERENCES danh_muc_kinh_nghiem(kinh_nghiem_id),
     hoc_van_id INT REFERENCES danh_muc_hoc_van(hoc_van_id),
     hinh_thuc_id INT REFERENCES danh_muc_hinh_thuc_lam_viec(hinh_thuc_id),
+    loai_hinh_lam_viec_id INT REFERENCES danh_muc_loai_hinh_lam_viec(loai_hinh_lam_viec_id),  -- MỚI
+    cap_bac_id INT REFERENCES danh_muc_cap_bac(cap_bac_id),                                    -- MỚI
     luong_min INT,
     luong_max INT,
     so_luong_tuyen INT DEFAULT 1,

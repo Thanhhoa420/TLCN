@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-mobile-developer-hd-securities-corporation-3434",
+  "tieu_de": "Middle/Senior Mobile Developer",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Flutter",
+    "Agile",
+    "Dart",
+    "Mobile Apps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vị trí\nChúng tôi đang tìm kiếm Flutter Developer có kinh nghiệm để tham gia đội ngũ phát triển sản phẩm công nghệ tài chính. Bạn sẽ chịu trách nhiệm xây dựng, phát triển và tối ưu các ứng dụng di động phục vụ hàng triệu nhà đầu tư — từ giao dịch chứng khoán, quản lý danh mục đến dữ liệu thị trường thời gian thực.\n \nMô tả công việc\n1. Phát triển tính năng và ứng dụng mobile\nXây dựng, phát triển và duy trì các tính năng mới trên ứng dụng Flutter cho cả iOS và Android từ một codebase duy nhất.\nPhối hợp với Backend, UI/UX và BA để phân tích yêu cầu, thiết kế luồng màn hình và API contract trước khi triển khai.\nTích hợp REST API, WebSocket (dữ liệu thị trường real-time), push notification và các service nội bộ/đối tác vào ứng dụng.\nThực hiện triển khai ứng dụng lên App Store và Google Play; quản lý versioning, release note và quy trình review.\n2. Chất lượng mã nguồn và hiệu năng\nViết code sạch, có thể đọc và bảo trì được; tuân thủ coding convention và các best practices của Flutter/Dart.\nTối ưu hiệu năng UI rendering, memory management và tốc độ khởi động ứng dụng; xử lý các vấn đề về lag, jank trên thiết bị thực.\nViết unit test, widget test; tham gia code review và kiểm tra regression trước mỗi release.\nQuản lý state management (BLoC, Provider, Riverpod…) và thiết kế kiến trúc ứng dụng rõ ràng, dễ mở rộng.\n3. Bảo mật và tuân thủ\nÁp dụng các yêu cầu bảo mật ứng dụng: xác thực người dùng (biometric, OTP, PIN), mã hóa dữ liệu nhạy cảm, kiểm soát phiên đăng nhập.\nTuân thủ quy định về bảo vệ dữ liệu người dùng và xử lý giao dịch tài chính trên mobile theo quy định của Công ty và cơ quan quản lý.",
+  "yeu_cau": "Kinh nghiệm và trình độ\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các ngành liên quan.\nCó từ 3–5 năm kinh nghiệm phát triển ứng dụng Flutter thực tế; có app đã publish lên store là lợi thế.\nƯu tiên ứng viên có kinh nghiệm trong lĩnh vực fintech, chứng khoán, ngân hàng hoặc các ứng dụng xử lý dữ liệu tài chính.\nKỹ năng kỹ thuật\nThành thạo Flutter & Dart; nắm vững vòng đời widget, rendering pipeline và cơ chế build.\nCó kinh nghiệm với ít nhất một giải pháp state management: BLoC, Riverpod hoặc Provider.\nThành thạo tích hợp REST API, WebSocket; hiểu rõ cách xử lý async, error handling và retry logic.\nSử dụng tốt Git theo branching workflow (feature branch, PR, merge strategy).\nCó kinh nghiệm với Firebase (Crashlytics, FCM, Analytics) và Material Design / Cupertino.\nCó kinh nghiệm thiết lập hoặc làm việc với CI/CD (Fastlane, GitHub Actions, Bitrise) là lợi thế.\nCó kiến thức cơ bản về native Android/iOS (Kotlin/Swift) để xử lý platform channel khi cần là điểm cộng.\nKỹ năng làm việc\nCó tư duy sản phẩm, chú trọng UX và hiệu năng trên thiết bị thực tế.\nChủ động, có khả năng tự học và thích ứng nhanh với công nghệ mới trong lĩnh vực fintech.\nCó khả năng làm việc độc lập và phối hợp nhóm trong môi trường Agile/Scrum.",
+  "quyen_loi": "Quyền lợi\nThu nhập cạnh tranh, xét tăng lương định kỳ theo năng lực và đóng góp.\nTham gia BHXH, BHYT, BHTN đầy đủ; bảo hiểm sức khỏe và tai nạn 24/24.\nMôi trường làm việc chuyên nghiệp trong lĩnh vực tài chính – chứng khoán, tiếp cận hệ thống giao dịch quy mô lớn.\nCơ hội phát triển theo lộ trình: Mobile Developer → Senior Mobile Developer → Tech Lead Mobile → Mobile Architect.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

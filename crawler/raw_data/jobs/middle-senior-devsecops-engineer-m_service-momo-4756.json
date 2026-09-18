@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-devsecops-engineer-m_service-momo-4756",
+  "tieu_de": "Middle/Senior DevSecOps Engineer ",
+  "ten_cong_ty": "M_Service (MoMo)",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "DevSecOps",
+    "Python",
+    "Security",
+    "Cloud Security",
+    "Kubernetes",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "6th Floor, Phu My Hung Tower, 08 Hoang Van Thai Str, Tan Mỹ Ward",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "MoMo is looking for a DevSecOps Engineer who builds CI/CD pipelines while embedding security into every step of that pipeline. This role suits someone with a solid DevOps foundation who also has deep security knowledge in application/infrastructure security.\nBuild and maintain CI/CD pipelines (GitLab CI preferred), focusing on Infrastructure as Code, reliability, and traceability;\nAutomate deployment strategies: blue-green, canary, rolling;\nIntegrate security into the pipeline: SAST, DAST, SCA, secret scanning, image scanning;\nAssess and remediate security risks (blue team approach), investigate and handle security incidents;\nSupport migration of services from monolith to microservices on Kubernetes, hybrid-cloud environment;\nEnsure proper security configuration on cloud platforms (AWS/Azure/GCP);\nBuild monitoring/alerting systems with Prometheus/Grafana.",
+  "yeu_cau": "2–4 years of experience, with a solid foundation in both CI/CD and Security;\nProven experience integrating security tooling into real production pipelines;\nExperience proactively proposing/deciding on security solutions;\nUnderstanding of cloud platforms (AWS/Azure/GCP) from a security perspective;\nProficient in Python, Bash (Go/Java is a plus);\nCCNA certification or equivalent networking certification required;\nBachelor's degree in Computer Science, Information Security, or a related field.",
+  "quyen_loi": "Super App\nHigh Traffic\nBig Scale\n\nWe are passion with new technologies, not follow the old-track of outsourcing. We love our product and ready to sacrifice everything for it! You often argue with your boss? Don’t worry, here in M_Service, you will get salary increase if you win your boss in argument. We love objection!!! You hate company trip in hotel, resort? We only conquer difficult and hottest road in team building. Do you want to join?\nWhat you will get:\nCompetitive compensation package.\nPerformance-based bonus.\nInsurance package.\nChance to work with smart people with international experience.\nOur benefits:\nAttractive compensation & benefits.\n13th month salary bonus and yearly performance bonus.\n14 paid days off per year\nPremium health care insurance\nGreat allowances (lunch, parking, birthday, happy hours....)\nSalary review  at least one time per year based on employee's performance and contribution.\nOuting/team-building activities (company trip , soccer sport, english club, running club,..).\nOther benefits as per stated in Vietnamese Labor Law\nWork with experienced & strong team.\nFriendly, dynamic & flexible working environments.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA0NjgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--03f3b18b330fba781cafe034dd1b56cbcff0e550/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/MoMo%20Logo.png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "MoMo is Vietnam’s leading mobile e-wallet and over-the-counter (OTC) remittance and payment platform",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

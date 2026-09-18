@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/qc-engineer-api-sql-automation-testing-datvietvac-5830",
+  "tieu_de": "QC Engineer API, SQL, Automation Testing",
+  "ten_cong_ty": "DatVietVAC",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Tester",
+    "Jmeter",
+    "Playwright",
+    "Postman",
+    "Automation Test",
+    "API"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "222 Pasteur, Phường Xuân Hòa",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "DatVietVAC Group Holdings is looking for a QC Engineer to ensure the quality of our Fan Commerce Platform across web and mobile applications.\nThis role focuses on the accuracy and reliability of critical transactional flows, including payments, inventory, cancellations, refunds, and reconciliation. You will perform functional, API, integration, database, and exploratory testing while gradually building automated tests for core platform workflows.1. Test Planning and Test Design\nAnalyze product requirements, business rules, user stories, and acceptance criteria.\nDevelop test plans, test scenarios, test cases, and test procedures for product features and releases.\nDesign comprehensive test scenarios for high-risk transactional workflows, including payments, inventory, reservations, orders, promotions, cancellations, refunds, and reconciliation.\nIdentify functional, integration, data-integrity, performance, and security risks.\nBuild and maintain regression test suites for the platform’s core user journeys.\nPrepare appropriate test data for web, mobile, API, integration, and database testing.\nClarify unclear requirements and identify missing or conflicting business rules before development and release.2. Functional, API, and Integration Testing\nPerform functional testing across web and mobile applications.\nTest REST and gRPC APIs and validate request, response, authentication, authorization, and error-handling behaviors.\nTest integrations with payment gateways, third-party services, and connected systems.\nUse SQL queries to validate data accuracy, consistency, and integrity at the database level.\nVerify end-to-end transactional flows across frontend, mobile, backend, database, and third-party systems.\nPerform ad hoc, exploratory, negative, boundary-value, and edge-case testing.\nValidate transaction status, payment results, inventory changes, refunds, cancellations, and reconciliation data.\nConduct regression testing before product releases and major events.\nCollaborate with the SRE team on performance and load testing before high-traffic on-sale periods.3. Defect Management and Quality Reporting\nDocument defects clearly with reproducible steps, supporting evidence, expected results, actual results, severity, and priority.\nTrack defects throughout their lifecycle and ensure that issues are properly resolved and verified.\nCollaborate with Product Owners, Backend Engineers, Frontend and Mobile Engineers, and SRE/DevOps Engineers to investigate issues and identify root causes.\nVerify bug fixes and assess their potential impact on related product areas.\nPrepare test execution reports, defect reports, and release-quality assessments.\nCommunicate product-quality risks and release concerns clearly to relevant stakeholders.\nSupport internal teams in investigating product incidents and production issues.4. Test Automation and Process Improvement\nGradually develop automated tests for APIs and critical transactional workflows.\nMaintain and improve automated regression test suites.\nIntegrate automated tests into the CI pipeline where appropriate.\nUse tools such as Playwright, Cypress, pytest, k6, JMeter, or equivalent testing solutions.\nSupport performance, load, and basic security testing activities.\nIdentify repetitive testing tasks that can be automated to improve release efficiency.\nPropose improvements to testing processes, defect prevention, test coverage, and overall product quality.\nContribute to shared testing standards, documentation, and quality best practices.",
+  "yeu_cau": "Education\nBachelor’s degree or higher in Information Technology, Software Engineering, Computer Science, or a related field.Experience\nAt least two years of experience in software quality control, software testing, or a similar role within a technology or software product company.\nHands-on experience testing web applications, mobile applications, APIs, and integrated systems.\nExperience using SQL to validate data and investigate product issues.\nExperience with automated testing or performance-testing tools.\nExperience testing transactional products involving payments, e-commerce, fintech, media, entertainment, or OTT services is highly preferred.Technical Knowledge and Skills\nStrong knowledge of functional testing and test-case design techniques.\nAbility to analyze requirements and translate them into structured test scenarios and test cases.\nProficiency in API testing using Postman, REST Client, or equivalent tools.\nAbility to read and understand API documentation.\nGood SQL skills for data validation and issue investigation.\nHands-on experience with ad hoc and exploratory testing.\nUnderstanding of software testing lifecycles, defect lifecycles, and Agile/Scrum processes.\nUnderstanding of integration testing, regression testing, end-to-end testing, and database testing.\nAwareness of product risks relating to performance, security, transaction accuracy, and data integrity.\nExperience with one or more testing tools such as Playwright, Cypress, pytest, k6, or JMeter.\nBasic programming or scripting knowledge for test automation.\nExperience with CI-integrated automated testing is an advantage.Soft Skills\nStrong attention to detail and a quality-focused mindset.\nCritical thinking and structured problem-solving skills.\nAbility to communicate defects, risks, and testing results clearly.\nStrong collaboration skills when working with Product, Engineering, and SRE/DevOps teams.\nData-driven thinking and good analytical ability.\nStrong organizational and multitasking skills.\nWillingness to learn and continuously improve testing and automation capabilities.\nAbility to work effectively under pressure during product releases and live events.Language Skills\nBasic English communication skills.\nAbility to read and understand technical documentation in English.",
+  "quyen_loi": "Build impactful products from the ground up\nTackle high-scale, real-world tech challenges\nGrow with a multidisciplinary tech team\n\n• Full statutory insurance, including Social Insurance, Health Insurance and Unemployment Insurance, based on 100% of the official salary and in compliance with Vietnamese labor regulations.\n• Working hours: Monday to Friday, from 8:30 AM to 5:30 PM, with a one-hour lunch break.\n• 14 days of annual leave.\n• Company-provided working equipment, including a laptop or desktop computer.\n• Employee parking area.\n• Annual PMP performance bonus, subject to individual KPI achievement and the Company’s business performance.\n• Periodic health check-ups.\n• Employee engagement programs and internal activities throughout the year.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNjQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--38a31cba1c04acf166ac613585a209a997ba1fee/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/23755704_1310790502360028_1434939933779469615_n.png",
+  "company_url": "/companies/datvietvac",
+  "company_mo_ta": "30 years of DatVietVAC, 30 years of shaping trends, ...",
+  "job_expertise": [
+    "Manual Tester"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Media, Advertising and Entertainment",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

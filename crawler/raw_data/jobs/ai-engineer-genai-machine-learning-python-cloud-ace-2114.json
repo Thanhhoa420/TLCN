@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-genai-machine-learning-python-cloud-ace-2114",
+  "tieu_de": "AI Engineer GenAI/Machine Learning/Python",
+  "ten_cong_ty": "Cloud Ace",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Python",
+    "Generative AI",
+    "Machine Learning",
+    "AI",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "384 Hoang Dieu",
+  "quan_huyen": "Quận 4",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About us: Cloud Ace Vietnam, a premier strategic partner of Google Cloud, delivers end-to-end cloud solutions, from consulting to system development and managed services. With a team of certified GCP experts and a strong presence across Asia, we empower businesses in banking, fintech, Web3, and beyond to achieve digital transformation. Join our innovative, collaborative team to grow your cloud career and make an impact!\nCompany website:\nHead Office: H3 Building, 1st Floor, 384 Hoang Dieu Street, Khanh Hoi Ward, HCMC\nRepresentative Office: 2nd Floor, 25T2, Hoang Dao Thuy Street, Yen Hoa Ward, Hanoi\n \nJob Description \nWe are looking for a forward-thinking AI Engineer to join our innovative team. In this role, you will leverage the full power of the Google Cloud Platform to design, build, and deploy next-generation AI solutions, including cutting-edge agentic systems. If you're passionate about solving complex problems and building the future of AI on the cloud, we want to hear from you.\nResponsibility\nDesign & Build on GCP: Architect, develop, and deploy scalable AI and Machine Learning applications specifically on the Google Cloud Platform (GCP).\nLead Agentic AI R&D: Spearhead research and development of sophisticated AI agent applications and multi-agent systems, leveraging GCP's AI infrastructure.\nEnd-to-End Model Management: Build, train, and manage the complete lifecycle of ML models using Vertex AI (Pipelines, Training, Endpoints), BigQuery ML, and TensorFlow.\nImplement MLOps: Design and maintain robust MLOps pipelines on Vertex AI for continuous integration, training, and deployment (CI/CD/CT).\nCollaborate & Innovate: Work closely with our Data, BI, and Business teams to translate complex needs into tangible, high-impact technical solutions.\nCustomer-Facing Solutions: Engage directly with customers to understand requirements, demonstrate capabilities, and deliver powerful AI solutions.\nStay Ahead of the Curve: Continuously explore and apply the latest advancements in GenAI, Google Cloud services, and Big Data technologies.",
+  "yeu_cau": "Requirement \nMust have \nExperience: 3+ years of professional experience in a similar Machine Learning or AI Engineering role.\nStrong CS Fundamentals: A solid grasp of data structures, algorithms, computability, and complexity.\nPython Proficiency: Proven programming skills, with a strong preference for Python.\nFull ML Lifecycle Knowledge: A deep understanding of the end-to-end machine learning lifecycle, from data sourcing to model monitoring.\nGenAI & Agent Expertise: Demonstrable knowledge and skills in Generative AI, AI agents, and agentic frameworks.\nML Toolkit: Hands-on experience with core ML libraries like TensorFlow, scikit-learn, OpenCV, etc.\nCore Soft Skills: Excellent problem-solving abilities, a strong teamwork spirit, and clear communication skills.\nBusiness Acumen: Ability to dedicate time to client-facing activities, including pitching solutions and supporting new business generation.\nGood English Skills: Fluency to collaborate in a multi-lingual environment and read technical documentation.\nNice to have \nDirect GCP AI Experience: Proven experience with Google Cloud's AI portfolio, especially Vertex AI (Pipelines, Endpoints, Search, Agent Builder) and BigQuery ML.\nExperience with Gemini: Familiarity with integrating and fine-tuning Gemini models via the API.\nCloud-Native MLOps: Demonstrable experience building and managing MLOps workflows specifically on GCP.\nBroader GCP Knowledge: Familiarity with related services like Cloud Storage, Pub/Sub, Cloud Run, and GKE.\nBenefits\nCompetitive salary\n13th-month salary bonus based on company performance.\nHoliday and Tet bonuses.\nAnnual health check-up.\nLaptop provided upon official employment.\n12 paid leave days per year.\nPublic holidays according to Vietnamese law.\nClear career growth opportunities.\nAnnual company trip and regular team-building events.",
+  "quyen_loi": "Access to world-class cutting-edge technologies\nProfessional environment & great benefits\nFully sponsored GCP certifications & bonuses\n\nYou will have the opportunity to work in a challenging environment, which will help you further enhance your professional skills as well as cultivate your management capabilities. Working at Cloud Ace, you will have the chance to learn knowledge from team members, Blog articles, or directly participate in related events and seminars, which will bring you new experiences in your job. Even if you have never worked in a GCP environment, as long as you have a development direction with GCP, join the Cloud Ace team to become a GCP Engineer.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjI3NDE0MywicHVyIjoiYmxvYl9pZCJ9fQ==--2a7948522b7ec376ad99f1de6cafa41ce60054b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/ca-logo-Square-1200px.png",
+  "company_url": "/companies/cloud-ace",
+  "company_mo_ta": "Cloud Ace - Google Cloud Diamond Partner",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

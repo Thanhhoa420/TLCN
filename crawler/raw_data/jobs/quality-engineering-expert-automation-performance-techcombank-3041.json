@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/quality-engineering-expert-automation-performance-techcombank-3041",
+  "tieu_de": "Quality Engineering Expert Automation/Performance",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Tester",
+    "Automation Test",
+    "Selenium",
+    "Java",
+    "QA QC",
+    "Oracle"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "C5 Building Tower, D’Capitale Tower, 119 Tran Duy Hung",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\nLead quality engineering for complex initiatives and specialist domains. Set the test approach, govern delivery, and combine test leadership with business analysis to ensure end-to-end quality across manual and automated testing.\nKey Accountabilities\n(1)- Automation & Performance Test Strategyy\n- Lead automation and performance quality engineering for complex technology initiatives.\n- Define automation and performance test strategy, scope, approach, quality gates, and release readiness criteria.\n- Own and improve automation frameworks, reusable test assets, test data, environments, execution quality, and maintainability.\n- Design and oversee performance testing for critical business journeys, APIs, integrations, services, and system components.\n- Review automation coverage, performance results, defect trends, test evidence, and release risks to provide actionable quality recommendations.\n(2) - Requirements Analysis & Business Collaboration\n- Partner with Product, Engineering, Business, BA, DevOps, and vendors to clarify requirements, acceptance criteria, APIs, data flows, integrations, and non-functional requirements.\n- Translate business and technical requirements into automation scope, performance scenarios, test data needs, and quality risks.\n- Identify quality, performance, integration, and release risks early, and drive alignment on mitigation actions.\n- Support UAT/PAT and release readiness through defect insights, quality reporting, and go/no-go recommendations.\n(3) - Quality Improvement \n- Lead quality delivery across squads, vendors, and stakeholders with strong focus on automation, performance, and engineering efficiency.\n- Coach QE team members on automation practices, performance testing approach, test design, defect quality, and risk-based testing.\n- Drive continuous improvement in automation coverage, performance testing maturity, reporting quality, and defect prevention.\n- Lead defect triage, root cause analysis, performance findings review, and risk-based quality decision-making.\n- Promote a quality-first engineering culture and improve release confidence across delivery teams.",
+  "yeu_cau": "- Bachelor's degree or higher in Information Technology, Computer Science, Telecommunications, Finance, Banking, or a related field.\n- English proficiency in line with TCB requirements.\n- At least 8 years of experience in software testing or quality engineering, with practical experience in one or more areas such as manual, automation, API, web, mobile, data, or performance testing.\n- At least 1 year of experience as a test team lead or QA lead.\n- Highly proficient in least one language: Java, Python, JavaScript/TypeScript, or equivalent.\n- Proficient in SQL and test-data validation skills with Oracle, PostgreSQL, or another RDBMS, or one of the NoSQL DB.\nExperience with testing and relevant tools, such as:\n- API: Postman, Insomnia, or SoapUI;\n- UI automation: Selenium or Katalon;\n- Performance: JMeter, k6, or Gatling;\n- Frameworks: Karate + Playwright;\n- Good knowledge of Git and CI/CD test execution.\n- Experience organizing, implementing, and managing test activities.\n- Experience working and coordinating with multiple stakeholders.\n- Strong planning, work management, and execution skills.\n- Cloud (AWS, k8s,...) and AI knowledge, AI-assisted testing, and experience across both performance and automation are advantages. Candidates specializing in one area must demonstrate the foundation and commitment to perform in the other; manual-only candidates should bring senior-level or test-lead capability and be willing to build automation skills.",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\nWHY BECOME IT/DATA EXPERTS AT TECHCOMBANK?\nInvesting over 500 million USD to develop large-scale IT projects, Techcombank is one of the leading bank in Technology trends in Vietnam\nYou will grow with Techcombank by having the opportunity to learn from top experts from across the world\nTechcombank provides a rewarding remuneration structure that commensurate with your achievement and contribution\nTechcombank is the Top 2 Best place to work in the banking industry where you can experience various exciting activities throughout the year: Company anniversary, Team building, Active Saturday , Year End Party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

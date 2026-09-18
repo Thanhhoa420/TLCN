@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-augmented-software-engineer-net-ai-agents-hqsoft-4415",
+  "tieu_de": "AI-Augmented Software Engineer .NET  AI Agents",
+  "ten_cong_ty": "HQSOFT",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    ".NET",
+    "LLM",
+    "Prompt Engineering",
+    "C#",
+    "AI",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "72 Phan Đăng Lưu",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "🏢 Về HQSOFT\nHQSOFT - Distribution & Retail Expert được thành lập từ năm 2006, là công ty hàng đầu tại Việt Nam chuyên cung cấp giải pháp phần mềm quản lý phân phối và bán lẻ (DMS/ERP). Với hơn 20 năm kinh nghiệm, HQSOFT đã đồng hành cùng hơn 500 doanh nghiệp và 70.000 người dùng, trở thành đối tác chiến lược trong hành trình chuyển đổi số.\nChúng tôi không chỉ phát triển các giải pháp công nghệ, mà còn xây dựng một hệ sinh thái phần mềm toàn diện gồm: eSales DMS, nRetail, 1CX, Data Warehouse & BI – tất cả đều được thiết kế để tối ưu vận hành và gia tăng hiệu quả kinh doanh.\nTại HQSOFT, bạn sẽ được làm việc trong môi trường chuyên nghiệp – sáng tạo – hiện đại, nơi đề cao sự hợp tác, tư duy phát triển và giá trị cốt lõi “Khách hàng là trung tâm”.\n🚀 Tại sao chọn HQSOFT?\nLàm việc trong các dự án công nghệ hiện đại, có ảnh hưởng lớn.\nLộ trình phát triển sự nghiệp rõ ràng, cơ hội thăng tiến nhanh.\nThu nhập & chế độ phúc lợi cạnh tranh.\nMôi trường làm việc năng động – công bằng – chuyên nghiệp.\n📌 Tóm tắt vị trí\nChúng tôi tìm kiếm những Engineers:\nXem AI Agent là “digital teammates”\nBiết orchestration workflow thay vì làm mọi thứ thủ công\nCó khả năng leverage AI để tăng tốc độ phát triển sản phẩm và xử lý vấn đề ở quy mô lớn\nMuốn tiên phong trong mô hình AI-Augmented Engineering tại HQSOFT.\n🔑 Nhiệm vụ chính\n1. Phát triển sản phẩm với AI Agent\nThiết kế, phát triển và triển khai tính năng cho hệ thống DMS / ERP, sử dụng các công cụ AI như Claude Code, Codex, Cursor, GitHub Copilot trong quy trình làm việc hằng ngày.\nLập AI execution plan cho từng user story: phân rã task, xây dựng prompt/spec/skill/workflow cho từng loại agent, review diff, đảm bảo tuân thủ theo predefined guardrails và kiểm soát chất lượng đầu ra.\nÁp dụng phương pháp spec-driven development: viết requirement và test case trước, các technical specs liên quan (architecture, detailed design), sử dụng AI agent để implement theo bộ devkits specs; là kỹ sư đóng vai trò đưa ra kiến trúc, giải pháp và review lại để đảm bảo chất lượng outputs.\nThực hiện refactor và migration codebase legacy (.NET / C#) với sự hỗ trợ của AI, đảm bảo tính ổn định và backward compatibility cho hệ thống đang vận hành production (FMCG/Pharma).\n2. Bug Fixing & Root-Cause Analysis tự động hóa\nXây dựng và vận hành AI-powered debugging pipeline: sử dụng AI agent để phân tích log, stack trace, error report và đề xuất root cause cùng fix candidate.\nPhát triển agent hỗ trợ incident response: đọc log hệ thống ERP, truy vấn database, đối chiếu code history (Git) để đưa ra giả thuyết nguyên nhân lỗi.\nPhân loại và hệ thống hóa bug theo severity và root-cause nhằm xây dựng knowledge base nội bộ cho AI tra cứu và tái sử dụng.\nMục tiêu: giảm Mean-Time-To-Resolution (MTTR) tối thiểu 40% trong 6 tháng đầu.\n3. Xây dựng AI Agent & Automation Pipeline\nThiết kế và triển khai các AI Agent phục vụ quy trình phát triển phần mềm: code review agent, test generation agent, release notes agent, customer support triage agent…\nTích hợp MCP (Model Context Protocol) để kết nối AI agent với hệ thống nội bộ (ERPNext, Gitlab repository, SynergyHub - internal tool, log system…).\nSử dụng các orchestration framework như LangChain, n8n hoặc tương đương để xây dựng multi-agent workflow xử lý tác vụ song song.\nTheo dõi và đánh giá hiệu quả (ROI)\n4. Phát triển năng lực AI cho đội ngũ\nHướng dẫn và mentor Junior/Middle Developer về cách sử dụng AI hiệu quả: viết prompt, kiểm chứng output, tránh phụ thuộc thiếu kiểm soát.\nĐóng góp vào AI Playbook nội bộ của công ty (best practices, prompt templates, agent recipes).\nTham gia tổ chức các buổi chia sẻ định kỳ (AI demo / show-and-tell) nhằm lan tỏa và chuẩn hóa workflow AI trong đội ngũ.",
+  "yeu_cau": "👤 Yêu cầu năng lực\n1. Kinh nghiệm lập trình: 2-3 năm\n.NET / C# (ASP.NET Core, WinForms/WPF), SQL Server.\nTham gia phát triển & bảo trì hệ thống thực tế.\nMobile (Xamarin / Flutter / React Native) là lợi thế.\nĐiểm cộng: có kinh nghiệm thiết kế hệ thống, code review, mentor.\n2. Năng lực AI (Bắt buộc)\nSử dụng hằng ngày ít nhất 2 trong 3 công cụ: Claude Code, Cursor, GitHub Copilot cho các task lớn (refactor, build feature, debug).\nHiểu context engineering, biết feed đầy đủ context để LLM tạo output đạt chất lượng production.\nĐã dùng AI để phân tích log, stack trace, xử lý bug phức tạp (có ví dụ thực tế khi phỏng vấn).\nQuen thuộc với: prompt engineering, tool use/function calling, MCP, agent loops, evals.\n3. Năng lực kỹ thuật cốt lõi\nVững OOP, Design Patterns, SOLID; refactor được codebase legacy.\nThành thạo Git, code review, CI/CD.\nSQL tốt: query phức tạp, tối ưu performance, đọc execution plan (MS SQL, PostgreSQL)\nSenior++: hiểu API design, message queue, caching, transaction, distributed architecture\n4. Tư duy & Thái độ\nChủ động, đề xuất giải pháp (high-agency).\nBiết kiểm chứng output AI (nhận diện hallucination, verify bằng test & đọc code).\nOutput-driven (đo bằng feature & bug fix).\nĐọc hiểu tài liệu tiếng Anh tốt.\n4. Ưu tiên\nTừng deploy web/app lên server (IIS/Linux)\nBiết Docker cơ bản\nCó kiến thức về CI/CD hoặc Git workflow\nCó hiểu biết về Backup, Monitoring, Security cơ bản\nTừng sử dụng AI tools để hỗ trợ troubleshooting hoặc automation\nCó kinh nghiệm hỗ trợ hệ thống ERP/DMS là lợi thế",
+  "quyen_loi": "Lộ trình nghề nghiệp rõ ràng, thăng tiến nhanh\nThu nhập & chế độ phúc lợi cạnh tranh\nMôi trường công bằng, chuyên nghiệp, năng động.\n\n💰 Quyền lợi\nLương cạnh tranh theo năng lực thực tế (Upto 16Mil gross)\nBonus theo KPI cá nhân và performance công ty\nStock option / ESOP cho Senior và Lead (đang triển khai)\nBHXH/BHYT/BHTN đầy đủ\nClaude Max + Cursor Pro + GitHub Copilot Enterprise — cấp ngay, không xin duyệt\nAI training budget ≥10 triệu/năm (khoá học, conference, sách)\nLộ trình thăng tiến rõ ràng: Middle → Senior → Tech Lead\nTham gia dự án quốc tế: Philippines, Myanmar, Indonesia\nTiếp cận các deal M&A đang triển khai\n12 ngày phép/năm; chính sách remote linh hoạt\nGiờ làm Thứ 2–6, từ 8h00 đến 17h30.\nLàm việc tại: Lầu 2, 72/24 Phan Đăng Lưu, P. Đức Nhuận, TP.HCM.\nĐể tối ưu thời gian tuyển dụng và đánh giá đúng năng lực, HQSOFT yêu cầu ứng viên chuẩn bị video chia sẻ kinh nghiệm ứng dụng AI ngay từ giai đoạn đầu.\nĐánh giá mức độ phù hợp nhanh chóng\nRút ngắn quy trình phỏng vấn\nTránh mất thời gian cho hai bên\nCông ty ưu tiên tư duy triển khai và hiệu quả đạt được. Nếu có nội dung bảo mật, ứng viên có thể làm mờ hoặc không hiển thị chi tiết.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzUyODU2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--6480ede40c90e87707a1d8d623464a6914970a65/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/270423773_4797483310289794_5529862847469898440_n.png",
+  "company_url": "/companies/hqsoft",
+  "company_mo_ta": "HQSOFT - Distribution & Retail Solution Expert",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Emerging Tech R&D",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

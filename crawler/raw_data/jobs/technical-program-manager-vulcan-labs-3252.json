@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-program-manager-vulcan-labs-3252",
+  "tieu_de": "Technical Program Manager",
+  "ten_cong_ty": "Vulcan Labs",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Project Management",
+    "Design Systems",
+    "System Architecture",
+    "Stakeholder management",
+    "Team Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Vulcan Labs, 11-13-15, Street No. 7, An Khanh Ward, Ho Chi Minh City",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Vulcan Labs is a technology company headquartered in Ho Chi Minh City, Vietnam, founded in 2017. \nOne of our key products is Chat Smith, a global AI platform that brings multiple leading AI models and AI-powered tools into one seamless experience. Users can leverage Chat Smith for everyday conversations, writing, deep research, web search, document analysis, image creation, and more — helping them work more efficiently and get things done faster. Our product is available on both web and mobile, and we continuously integrate new AI models and capabilities to keep pace with the fast-evolving AI landscape. At Chat Smith, we aim to build AI products that are not only powerful, but also practical and accessible — helping millions of users think better, work faster, and create more.",
+  "yeu_cau": "1. RESPONSIBILITIES\nAs a Technical Program Manager, you will:\nProgram Management\nOwn end-to-end planning and execution of technical programs across the Backend Platform, covering the Agent Platform and core microservices.\nOwn and manage the Backend Platform roadmap includes milestones, priorities, dependencies, and delivery plans.\nManage timeline and delivery of core services that other squads/pods depend on and integrate with.\nCoordinate work across Backend and QA to ensure smooth execution.\nMonitor progress, identify blockers and risks, and proactively drive resolution.\nEnsure program delivery meets agreed scope, timeline, quality, and business objectives.\nTechnical & System Architecture\nOwn the microservices architecture and how services/components interact at a high level.\nUnderstand end-to-end flows of the Agent Platform and core services, including User, Payment, Transaction, Subscription, and third-party integrations.\nManage backend services, databases, and APIs interact within a microservices system.\nWork with Tech Leads/Engineers to identify technical dependencies, architecture impacts, and potential risks.\nTranslate technical discussions into clear priorities, action items, and delivery plans.\nCross-team Collaboration & Stakeholder Management\nWork closely with other squads/pods to gather integration requirements for core services, align on API contracts/interfaces, and manage integration timelines.\nFacilitate discussions around scope, priority, technical dependencies, and trade-offs across squads/pods.\nCommunicate program status, risks, blockers, and key decisions to stakeholders and leadership.\nEnsure all teams have a shared understanding of priorities and expected outcomes.\n2. JOB REQUIREMENTS\n3+ years of experience in Technical Program Management, Technical Project Management, Engineering Manager or similar roles in a software/product environment.\nStrong experience managing cross-functional technical teams, ideally involving Backend, QA, or platform teams.\nExperience coordinating across multiple squads/pods, especially where teams depend on shared/core services.\nStrong program planning, risk management, dependency management, and stakeholder management skills.\nGood understanding of microservices architecture and end-to-end system flows; exposure to AI/agent platforms is a plus.\nAble to own architecture design, API flows, and follow technical discussions.",
+  "quyen_loi": "KPI bonus\nPremium health insurance\nNew office\n\nGrow Yourself: Work with young, talented teammates on global apps across a diverse portfolio and varying app sizes (Mainly in AI domain).\nAttractive Package: 13th-month salary, performance bonus..\nHealthy Culture: 12 days of annual leave and 5 days of sick leave, health-care insurance, annual health check, and a dedicated team-bonding budget.\nWell-equipped Facility: MacBook provided, with an additional monitor available if needed.\nDiverse Activities: Complimentary coffee, tea, and snacks; company trips; team-building activities; and quarterly happy-hour events.\nInnovative Environment: Flexible working hours with one remote day per month, seminars and internal sharing sessions, and a culture with no barriers to ideas.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE5MTkxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b787097d52ea8cccd66c3ecbbbb2cf7a6f42f40/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_Transparent_HiRes_1.png",
+  "company_url": "/companies/vulcan-labs",
+  "company_mo_ta": "Vulcan Labs",
+  "job_expertise": [
+    "Program Manager / PMO"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-senior-principal-playstudios-2626",
+  "tieu_de": "DevOps Engineer Senior/Principal",
+  "ten_cong_ty": "PLAYSTUDIOS",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "DevOps",
+    "Terraform",
+    "CI/CD",
+    "Kubernetes",
+    "English",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "UDIC Building, Hoang Dao Thuy Street, Trung Hoa Ward, Cau Giay District, Hanoi City",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT THE ROLE\n \nAs a Senior/Principal DevOps Engineer at playSTUDIOS, you will be a key contributor in designing, implementing, and maintaining scalable infrastructure that powers engaging gaming experiences enjoyed by millions worldwide. You will ensure reliability, automation, and performance across development and production environments, while also mentoring teammates and driving DevOps projects with autonomy.\n \nRESPONSIBILITIES\n \n1. CI/CD & Automation:\nDesign, maintain, and enhance build pipelines for .NET and Java microservices, Unity, and Android/iOS, using continuous integration and deployment best practices.\nAutomate manual tasks related to code deployment, infrastructure provisioning, and data management.\n2. Infrastructure & Cloud:\nProvision, manage, and evolve infrastructure using an Infrastructure-as-Code (IaC) approach (e.g., Terraform).\nManage, debug, and operate the Kubernetes fleet across Azure and AWS environments.\nDeploy and maintain high-volume, scalable web services with a focus on reliability and performance.\n3. Collaboration & Delivery:\nPartner with developers, testers, and system administrators to streamline the software development lifecycle.\nWork alongside engineering teams to deliver on the technology roadmap.\nSuccessfully drive DevOps projects autonomously, ensuring on-time, high-quality delivery.\n4. Operations & Reliability:\nEnsure high availability of services and rapid response to production incidents; participate in the on-call rotation.\nTriage, resolve, or escalate production issues to minimize downtime.\nMaintain and enhance logging, monitoring, and alerting systems (e.g., Prometheus, Grafana, Azure Application Insights, CloudWatch).\n5. Leadership & Continuous Improvement:\nAct as a mentor for junior team members, supporting their growth.\nMaintain thorough documentation of tooling, processes, and procedures.\nIdentify new opportunities, propose alternative solutions, and drive continuous improvement initiatives.",
+  "yeu_cau": "Must have:\n5+ years of hands-on experience in infrastructure automation, CI/CD, and application deployments.\nGood command of written and spoken English.\nStrong expertise with Kubernetes, containerized workloads, and IaC tooling (Terraform or equivalent).\nSolid experience with CI/CD tools such as Jenkins, ArgoCD, and GitHub Actions.\nExperience with either Azure or AWS for production environments (both a plus).\nStrong knowledge of Linux systems.\nProficiency with Git and modern SCM workflows.\nStrong problem-solving, critical thinking, and ability to work semi-independently while sharing progress.\n \nNice to have:\nExperience with service mesh tools (e.g., Linkerd, Istio, Flagger).\nExperience in observability and APM systems (Datadog, New Relic, etc.).\nKnowledge of managing Windows servers.\nFamiliarity with databases (SQL, MySQL, MongoDB, Couchbase).\nFamiliarity with Unity pipelines, Android/Xcode build processes.\nProficiency with scripting and/or programming (e.g., Bash, Python, C#, Java, Go, PowerShell).\n \nAdditional Notes:\nYou may be expected to complete a test as a part of the interviewing procedure.",
+  "quyen_loi": "Top 10 global leaders in the social gaming sector\nGlobal talented members and a thriving workplace\nDesirable benefit package for you and your family\n\nWork directly with a global team of young and talented playMAKERS regardless of gender, age or experience.\nUnlimited growth opportunities and continuous improvement with English classes, workshops and other technical training courses by highly-skilled members from all over the world\nBao Viet Premium healthcare coverage is 1.2 billion VND/person/year (including you and ALL your dependents).\nA company of fulfillment: 100% salary on probation, 100% covered Social insurance, Health insurance and Unemployment insurance since probation. Moreover, Compulsory insurance for employees is also filled by the company. You only need to bear PIT.\n13 months salary/year.\nDiscretionary bonus.\nEmployee referral bonus program (Very attractive bonus range: from 300USD to 1000USD).\nFlexible working time: 5 working days/ week - from Monday to Friday (Time won't be your fear, because productivity is what we care about).\nAnnual leave: 15 days in 1st year, 17 days in 2nd year, and 20 days each year thereafter\nSick leave: 5 days/year\nDelicious, fresh and free meals are served daily!\nHigh-end workstation laptop and screens.\nEquipment Allowance: 4,500,000 VND to pick your keyboard/ mouse/ headphone... in your own style.\nTeam building activities, staff trips, and company events across the year.\nOther benefits: Sickness, funeral: support up to 2,000,000 VND/person; marriage, childbirth, and public holidays: up to 500,000 VND/person.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ4NDY0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--dfea0755f880d1c9cf582a95dcd1f42069466519/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/PLAYSTUDIOS%20-%20LOGO.png",
+  "company_url": "/companies/playstudios",
+  "company_mo_ta": "playSTUDIOS VIETNAM",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Game",
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

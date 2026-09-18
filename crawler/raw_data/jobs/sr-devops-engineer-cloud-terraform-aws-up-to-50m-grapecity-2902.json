@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/sr-devops-engineer-cloud-terraform-aws-up-to-50m-grapecity-2902",
+  "tieu_de": "Sr DevOps Engineer Cloud, Terraform, AWS Up to 50M",
+  "ten_cong_ty": "GrapeCity",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "DevOps",
+    "Terraform",
+    "Kubernetes",
+    "Azure",
+    "Cloud",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 12B tòa nhà Machinco, 444 Hoàng Hoa Thám",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "30,000,000 - 50,000,000đ",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a strong DevOps Engineer who can take ownership of building and operating modern cloud infrastructure. This role is ideal for someone who is not only hands-on, but also able to think at system level, make technical decisions, and drive improvements across environments.\nYou will work closely with engineering teams to design, build, and scale reliable, high-performance systems on AWS, leveraging Kubernetes and GitOps practices.\nKey Responsibilities\nDesign, deploy, and operate scalable infrastructure on AWS and Azure using Terraform. \nArchitect and manage Kubernetes clusters (EKS) for production workloads with high availability and reliability requirements. \nDefine and implement CI/CD and GitOps workflows (ArgoCD, GitHub Actions, Azure DevOps). \nBuild and maintain reusable infrastructure modules and multi-environment setups. \nImplement monitoring, logging, and alerting (CloudWatch, Prometheus, Grafana, ELK). \nOptimize system performance, reliability, and cloud cost at scale. \nDesign and improve deployment strategies (blue/green, canary, zero-downtime). \nEnsure security best practices (IAM, secrets management, network policies). \nTroubleshoot complex production issues and improve system resilience. \nCollaborate with developers to improve system architecture and deployment workflows. \nContribute to technical decisions and continuously improve DevOps practices across teams.",
+  "yeu_cau": "Required Qualifications\n5–6+ years of experience in DevOps / Cloud Engineering.\nStrong experience with AWS (EKS, VPC, IAM, RDS, CloudWatch, etc.). \nPractical experience with Azure (VNets, ACR, Key Vault, Application Gateway, Monitor, etc.). \nSolid experience operating Kubernetes in production environments. \nProven experience with Infrastructure as Code (Terraform), including modular design and multi-environment setups. \nExperience with CI/CD pipelines (Azure DevOps, GitHub Actions). \nHands-on experience with GitOps practices (ArgoCD or similar). \nStrong understanding of system design, scalability, and high availability. \nExperience working with high-load or production-critical systems. \nGood troubleshooting skills and ability to handle complex incidents.\nNice to Have\nExperience with multi-region or distributed systems. \nExperience with service mesh (Istio / Linkerd).",
+  "quyen_loi": "Enjoyable Team Environment\nEngaging and Innovative Work\n13th month Salary and Bonus\n\nMultinational Company – Competitive Benefits\nGrapeCity is a multinational private company with over 1,200 employees and more than 30 years of development, operating across 16 countries including Japan, USA, Korea, India, China, and Vietnam.\nWe hire only “A-level” talents for our projects, recognized by clients as clear, reliable, agile, and exceeding expectations.\nOur clients include global leaders such as Microsoft, Sony, Procter & Gamble, Intel, Mitsubishi, AT&T, Thomson, Syngenta, and Infosys.\nMicrosoft Gold Certified Partner and one of the few companies on the Microsoft Office Advisory Council.\nAttractive, competitive starting salary; mid-year and year-end bonuses; annual salary reviews based on performance.Professional Training & Development\nTraining before and during projects.\nWork with experienced engineers and be mentored by expert leaders in an international work environment\nFree English lessons with native American teachers.\nLife skills and soft skills training programs.Work-Life Balance\n8 hours/day, weekends off, flexible working hours, minimal overtime.\nAnnual company trip, team building, sports and hobby clubs (yoga, football, table tennis, etc.) with financial support.\nYoung, dynamic, professional, and creative work environment.\nFull social, health, and unemployment insurance according to law.\n12 days annual leave (increasing with seniority), Christmas holiday, and extra half-day off on March 8th for female employees.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI5ODY1MSwicHVyIjoiYmxvYl9pZCJ9fQ==--fd0e916119b29a62db0d5e54d68f03c285108164/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/grapeccity.png",
+  "company_url": "/companies/grapecity",
+  "company_mo_ta": "Japanese international enterprise software developer specializing in Microsoft technologies",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Education and Training"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-intern-fpt-is-2606",
+  "tieu_de": "DevOps Intern",
+  "ten_cong_ty": "FPT IS",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "Linux",
+    "CI/CD",
+    "Bash Shell",
+    "Kubernetes",
+    "Docker"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Keangnam Landmark 72, E6 Pham Hung",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Hỗ trợ triển khai và vận hành ứng dụng trên môi trường Linux.\nTham gia đóng gói và triển khai ứng dụng bằng Docker.\nTìm hiểu và hỗ trợ triển khai, vận hành ứng dụng trên Kubernetes (K8s).\nHỗ trợ xây dựng và vận hành các quy trình CI/CD cơ bản.\nTìm hiểu và hỗ trợ triển khai các hệ thống Monitoring & Observability cho ứng dụng và hạ tầng.\nTham gia xử lý, phân tích các vấn đề liên quan đến logs, metrics, traces dưới sự hướng dẫn của Mentor/Team.\nThực hiện các công việc liên quan đến vận hành hệ thống và tự động hóa dưới sự hướng dẫn của Mentor/Team.",
+  "yeu_cau": "Sinh viên năm 3 hoặc năm 4 các chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các chuyên ngành liên quan.\nCó kiến thức cơ bản về Linux, Docker, Kubernetes (K8s), Bash/Shell Script và CI/CD; đã từng thực hành với một hoặc một số công nghệ trên là một lợi thế.\nCó kiến thức cơ bản về Monitoring/Observability là một lợi thế.\nCó khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng Anh.\nChủ động, ham học hỏi, có tinh thần tìm hiểu và giải quyết vấn đề.\nCó định hướng phát triển trong lĩnh vực DevOps / Cloud / Platform Engineering.\nCó khả năng làm việc tối thiểu 3 ngày/tuần.",
+  "quyen_loi": "Nhiều dự án lơn và công nghệ mới theo xu hướng 4.0\nMôi trường làm việc năng động, thân thiện\nNhiều phúc lợi và lương thưởng hấp dẫn\n\nĐược Mentor hướng dẫn và đào tạo trong suốt quá trình thực tập.\nĐược tham gia vào các công việc và dự án thực tế phù hợp với năng lực.\nCó cơ hội tiếp cận hệ thống và công nghệ thực tế trong lĩnh vực DevOps, Kubernetes, CI/CD và Observability.\nĐược rèn luyện kỹ năng troubleshooting, automation và system operation.\nCó cơ hội học hỏi và phát triển trong môi trường DevOps thực tế.\nCó cơ hội trở thành nhân viên chính thức sau kỳ thực tập.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b0ad76f35fab863d1005afb348fd6d1f47ab3cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7198274729522_eef0f7d9c19666cac93f22a3189db145.jpg",
+  "company_url": "/companies/fpt-is",
+  "company_mo_ta": "Co- create the next!",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Network and Infrastructure"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

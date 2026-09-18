@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/middile-senior-automation-tester-qc-hd-securities-corporation-2636",
+  "tieu_de": "Middile/Senior Automation Tester/QC",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Automation Test",
+    "Cypress",
+    "Playwright",
+    "Selenium",
+    "Jmeter"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vị trí\nChúng tôi tìm kiếm Senior Automation Tester có nền tảng vững chắc trong kiểm thử phần mềm tài chính để tham gia đội ngũ QC. Bạn sẽ chịu trách nhiệm xây dựng chiến lược kiểm thử, phát triển framework tự động hóa và bảo đảm chất lượng toàn diện cho các hệ thống giao dịch chứng khoán, ứng dụng khách hàng và hệ thống nội bộ.\n \nMô tả công việc\n1. Phân tích, lập kế hoạch và thiết kế kiểm thử\nPhân tích yêu cầu nghiệp vụ, tài liệu kỹ thuật và user story để xây dựng test plan, test strategy cho từng dự án/tính năng. \nThiết kế test case bao phủ đầy đủ các luồng nghiệp vụ chứng khoán: đặt lệnh, khớp lệnh, quản lý tài khoản, tài sản, margin, dữ liệu thị trường real-time và các luồng tích hợp với hệ thống lõi (core trading system). \nXác định phạm vi automation, ưu tiên test case phù hợp để tự động hóa dựa trên tần suất, rủi ro và độ ổn định của tính năng. \nPhối hợp với BA, Backend, Frontend và DevOps từ giai đoạn đầu (shift-left testing) để đảm bảo testability được tích hợp ngay từ khi thiết kế. \n2. Xây dựng và vận hành automation framework\nXây dựng, phát triển và duy trì automation framework cho các lớp kiểm thử: API testing, UI testing (Web & Mobile) và end-to-end testing. \nTích hợp automated test suite vào CI/CD pipeline để kiểm thử tự động được kích hoạt theo mỗi build/release. \nBảo trì và cập nhật test script khi có thay đổi tính năng; đảm bảo tỷ lệ test pass ổn định và giảm thiểu flaky test.\nXây dựng test data, môi trường kiểm thử và cấu hình phù hợp cho từng môi trường (DEV, SIT, UAT, Production). \n3. Kiểm thử chuyên sâu và đảm bảo chất lượng dữ liệu\nThực hiện kiểm thử API (REST, WebSocket), kiểm tra tính chính xác của dữ liệu giao dịch, đối soát dữ liệu giữa các hệ thống và phát hiện sai lệch. \nKiểm thử hiệu năng (performance testing, load testing) cho các luồng có tải cao như đặt lệnh giờ mở cửa, ATO/ATC, dữ liệu bảng giá real-time.\nKiểm thử bảo mật cơ bản: xác thực, phân quyền, kiểm soát truy cập và các điểm dễ bị tấn công phổ biến (OWASP). \nSử dụng SQL để truy vấn, chuẩn bị test data và xác minh kết quả trực tiếp trên database. \n4. Báo cáo, cải tiến quy trình và hỗ trợ vận hành\nTổng hợp, phân tích kết quả kiểm thử; lập báo cáo chất lượng định kỳ và đột xuất theo yêu cầu của QC Lead/Manager. \nPhân tích root cause của defect, phối hợp với developer để xác nhận fix và thực hiện regression test. \nTham gia xử lý sự cố production liên quan đến chất lượng phần mềm; hỗ trợ phân tích log và tái hiện lỗi.\nHướng dẫn, review và nâng cao năng lực cho QC junior trong nhóm.",
+  "yeu_cau": "Yêu cầu công việc\nKinh nghiệm và trình độ\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan.\nCó từ 3–5 năm kinh nghiệm trong lĩnh vực kiểm thử phần mềm, trong đó ít nhất 2 năm làm automation testing thực tế. \nBắt buộc có kinh nghiệm làm việc trong môi trường fintech, chứng khoán, ngân hàng hoặc các hệ thống xử lý dữ liệu tài chính. \nKỹ năng kỹ thuật\nThành thạo ít nhất một automation framework: Selenium, Playwright, Cypress hoặc Appium (cho mobile). \nCó kinh nghiệm API testing với Postman, RestAssured hoặc công cụ tương đương; hiểu rõ REST, WebSocket và cơ chế xác thực (OAuth, JWT). \nCó khả năng viết script automation bằng ít nhất một ngôn ngữ: Java, Python, JavaScript/TypeScript hoặc C#.\nThành thạo SQL để truy vấn, chuẩn bị test data và xác minh dữ liệu trực tiếp trên database (Oracle, SQL Server, PostgreSQL). \nCó kinh nghiệm tích hợp automated test vào CI/CD pipeline (Jenkins, GitLab CI, Azure DevOps). \nCó kinh nghiệm với công cụ quản lý test case: Jira, TestRail, Xray hoặc tương đương.\nCó kinh nghiệm performance testing (JMeter, k6, Gatling) là lợi thế lớn trong môi trường chứng khoán.\nBiết sử dụng AI tools (ChatGPT, Copilot…) để hỗ trợ sinh test case, phân tích bug và mở rộng test coverage là điểm cộng.",
+  "quyen_loi": "Quyền lợi\nCơ hội phát triển theo lộ trình rõ ràng: Automation Tester → Senior QC Engineer → QC Lead\nThu nhập cạnh tranh theo năng lực, xét tăng lương định kỳ hàng năm.\nTham gia BHXH, BHYT, BHTN đầy đủ; bảo hiểm sức khỏe và tai nạn 24/24.\nMôi trường làm việc chuyên nghiệp, tiếp cận hệ thống giao dịch tài chính quy mô lớn với yêu cầu chất lượng cao.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

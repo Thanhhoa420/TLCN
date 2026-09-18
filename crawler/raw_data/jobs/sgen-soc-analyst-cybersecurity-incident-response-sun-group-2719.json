@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/sgen-soc-analyst-cybersecurity-incident-response-sun-group-2719",
+  "tieu_de": "SGEN SOC Analyst Cybersecurity/Incident Response",
+  "ten_cong_ty": "Sun Group",
+  "ngay_dang_raw": "2026-08-14",
+  "han_ung_tuyen_raw": "2026-09-18",
+  "ky_nang": [
+    "Cybersecurity",
+    "C++",
+    "Python",
+    "Cloud Security",
+    "SIEM",
+    "Incident Response"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Sun Ancora, 03 Lương Yên",
+  "quan_huyen": "Quận Hai Bà Trưng",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "SUN GROUP SGEN 2026 - Chương trình trọng điểm nhằm tuyển chọn và phát triển đội ngũ quản lý kế cận, đóng vai trò chiến lược trong hành trình phát triển bền vững của Tập đoàn.\nSUN GROUP SGEN 2026 – Công nghệ thông tin là chương trình tuyển chọn core tech talents (từ 2 - 5 năm kinh nghiệm) để phát triển thành future tech leaders trong hệ sinh thái số của Sun Group, tham gia trực tiếp vào các bài toán:\n- Xây dựng platform phục vụ hàng triệu người dùng (du lịch, giải trí, vận hành thông minh)\n- Phát triển hệ thống high-availability, scalable, secure by design\n- Ứng dụng AI/ML, Data-driven decision making vào sản phẩm thực tế\n- Thiết kế & vận hành cloud-native architecture (AWS/Azure)\n \nMô Tả Công Việc\nTại Sun Group, chúng tôi không chỉ xây dựng các nền tảng số phục vụ hàng triệu khách hàng mà còn kiến tạo một hệ sinh thái công nghệ an toàn, thông minh và sẵn sàng trước mọi mối đe dọa. Chúng tôi tìm kiếm SOC Analyst yêu thích điều tra, phân tích và chủ động săn tìm các mối nguy an ninh mạng, đồng thời ứng dụng AI để nâng tầm năng lực phòng thủ.\nTRÁCH NHIỆM CHÍNH\nGiám sát & Phát hiện mối đe dọa\n- Theo dõi, phân tích và xử lý các cảnh báo từ hệ thống SOC nhằm phát hiện sớm các hành vi bất thường và nguy cơ tấn công.\n- Phân loại, đánh giá mức độ rủi ro và ưu tiên xử lý các sự cố theo mức độ ảnh hưởng đến hệ thống.\nĐiều tra & Ứng cứu sự cố\n- Điều tra nguyên nhân gốc rễ, truy vết các cuộc tấn công và xác định phạm vi ảnh hưởng của sự cố.\n- Phối hợp cùng các đội ngũ liên quan để triển khai hoạt động ứng cứu, khắc phục và phục hồi hệ thống.\n- Tham gia Threat Hunting, phân tích mã độc và điều tra số (Digital Forensics) nhằm nâng cao năng lực phòng thủ.\nXây dựng & Tối ưu Security Operations\n- Xây dựng, chuẩn hóa và liên tục cải tiến Detection Rules, Playbook, Runbook và quy trình Incident Response.\n- Tối ưu hệ thống giám sát, nâng cao chất lượng cảnh báo, giảm False Positive và rút ngắn thời gian phát hiện, xử lý sự cố.\n- Nghiên cứu, đề xuất và triển khai các giải pháp mới nhằm nâng cao hiệu quả vận hành SOC.",
+  "yeu_cau": "YÊU CẦU ỨNG VIÊN\n- Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc các ngành liên quan\n- Có từ 3 năm kinh nghiệm trong SOC, Incident Response hoặc Cyber Security Operations.\n- Có kinh nghiệm làm việc với các nền tảng SIEM như Splunk, QRadar, Microsoft Sentinel, ArcSight hoặc tương đương.\n- Am hiểu các framework bảo mật như MITRE ATT&CK, Cyber Kill Chain, NIST và quy trình điều tra, ứng cứu sự cố.\n- Có kiến thức về Cloud Security; biết lập trình hoặc scripting với Python, C/C++ là một lợi thế.\n- Ưu tiên ứng viên sở hữu các chứng chỉ CEH, CySA+, CREST, GSOC, CSA hoặc tương đương.\n- Tiếng Anh thành thạo là một lợi thế\n \nLỘ TRÌNH PHÁT TRIỂN\nGia nhập Sun Group, bạn không chỉ vận hành SOC mà còn có cơ hội phát triển chuyên sâu trong các lĩnh vực:\n- Detection Engineering: Thiết kế và tối ưu các Detection Rules, Use Cases và chiến lược phát hiện mối đe dọa trên quy mô doanh nghiệp.\n- Security Automation & AI: Ứng dụng AI, SOAR và các công cụ tự động hóa để tăng tốc điều tra, phân tích và xử lý sự cố, xây dựng mô hình AI-first Security Operations.\n- Threat Hunting & Threat Intelligence: Nghiên cứu hành vi tấn công, khai thác Threat Intelligence và chủ động săn tìm các mối đe dọa trước khi chúng gây ảnh hưởng.\n- Cloud Security: Mở rộng chuyên môn về bảo mật Cloud, Identity Security, Zero Trust và các kiến trúc bảo mật hiện đại.",
+  "quyen_loi": "“An cư lạc nghiệp”- housing support for long-term\nCompetitive salary and benefits\nExclusive perks across Sun Group’s ecosystem\n\nQUYỀN LỢI\nThu nhập & Phúc lợi toàn diện\n- Mức lương cạnh tranh theo năng lực\n- Thưởng hiệu quả kinh doanh và hiệu suất dự án\n- Gói phúc lợi toàn diện về tài chính, sức khỏe, tinh thần và đời sống\nChính sách phát triển dài hạn\n- Cơ hội phát triển lên các vị trí quản lý trong lĩnh vực Dữ liệu & Chuyển đổi số\n- Chính sách “An cư lạc nghiệp” – cơ hội sở hữu nhà sau 10 năm\nChăm sóc sức khỏe cao cấp\n- Khám sức khỏe định kỳ tại hệ thống bệnh viện tiêu chuẩn quốc tế\n- Bảo hiểm chăm sóc sức khỏe toàn diện Sun Care\nĐặc quyền hệ sinh thái\n- Ưu đãi du lịch, nghỉ dưỡng, giải trí, ẩm thực và hàng không trong hệ sinh thái Sun Group\n- Hỗ trợ lưu trú tại hệ thống nhà công vụ Sunhome",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc0MjQ0MywicHVyIjoiYmxvYl9pZCJ9fQ==--68ed8ae1b9a44c71aaa5f950b436fd9dcf278127/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOGO.png",
+  "company_url": "/companies/sun-group",
+  "company_mo_ta": "Sun Group - Làm đẹp những vùng đất",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Cyber Security"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

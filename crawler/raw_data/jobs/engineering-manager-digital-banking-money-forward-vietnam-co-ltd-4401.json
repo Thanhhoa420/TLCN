@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/engineering-manager-digital-banking-money-forward-vietnam-co-ltd-4401",
+  "tieu_de": "Engineering Manager Digital Banking",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Java",
+    "English",
+    "Leadership",
+    "Scrum",
+    "Kotlin"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the position\nAs a new initiative, Money Forward has begun considering the provision of BaaS/digital banking in collaboration with Sumitomo Mitsui Financial Group and Sumitomo Mitsui Banking Corporation.\nWe are currently seeking an Engineering Manager.\nThis role expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts.\n \nResponsibilities\nLead the team to develop the digital bank system from scratch\nOverall project management including planning, tracking, risk management, stakeholder management, quality assurance etc.\nBuild and manage development teams across three countries: Japan, India, and Vietnam\nBuild & tracking engineering process follow Scrum/Agile framework\nTaking responsibility for Scrum Master of the team\nRegularly communicate with development team members to resolve technical issues, manage progress, and ensure quality\nParticipate in system design, contribute to system architecture, and handle integrations with third parties.\nReview code, provide insights, and set up coding standards for the project.\nDesign system operations and maintenance with a view from the development stage to post-release\nAfter release, efficiently and safely conduct additional system development, operations, and maintenance\nEnsure regular reports to management",
+  "yeu_cau": "Requirements / Qualifications\nOver 10 years of development experience and more than 3 years of engineering management experience / project management\nPractical experience with Scrum/Agile framework\nPractical experience leading a development team of 30 or more members\nExperience in backend system development using Java or similar\nExperience in developing micro-services applications in Cloud environment\nPractical experience related to frontend technologies such as React or NodeJS\nExperience with authentication and authorization technologies like OAuth 2.0, OIDC\nExperience in system development and operation using cloud infrastructure (AWS, Azure, GCP, etc.)\nStrong problem-solving skills and leadership\nExcellent English communication skill\n \nNice to haves\nWhile not specifically required, tell us if you have any of the following.\nExperience in developing, operating, and maintaining mission-critical business systems in financial institutions (especially core banking systems)\nKnowledge and experience in collaboration with financial institutions and regulatory compliance (experience interacting with the Financial Services Agency is a plus)\nProject experience using Mambu\nExperience implementing continuous integration and delivery (CI/CD)\nExperience in building teams and operational flows based on DevOps culture\nExperience in AI development or development using AI tools",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

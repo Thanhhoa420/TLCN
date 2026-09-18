@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-lead-information-security-engineer-fundiin-3034",
+  "tieu_de": "Senior/Lead Information Security Engineer",
+  "ten_cong_ty": "Fundiin",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Security",
+    "CI/CD",
+    "ISO 27001",
+    "OWASP"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 7, tòa Lottery Tower, 77 Trần Nhân Tôn",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Overview\nFundiin is evolving from a BNPL product into a multi-product consumer financial platform — and with that evolution comes increasing regulatory scrutiny, higher expectations from lenders and partners, and a growing attack surface that needs to be managed proactively.\nAs Information Security & Compliance Lead, you will play a pivotal role in shaping Fundiin's security function — building on existing practices and certifications to establish a comprehensive, proactive framework that scales with the business. You will own the security and compliance posture end-to-end, working closely with engineering, DevOps, and external vendors to ensure Fundiin can scale into regulated financial services with confidence.\nFundiin already holds ISO 27001 and PCI-DSS certifications and has established security practices in place — this role is not about starting from zero, but about bringing structure, ownership, and a proactive mindset to what exists, and building what is still missing.\nFor the right person, this is a rare opportunity to own and shape an entire security function at a high-growth fintech — with direct visibility to the CTO and meaningful impact on how Fundiin scales into regulated financial markets.\nThis is a role for someone who is technically grounded, ownership-oriented, and comfortable leading through influence rather than headcount.\nWhat You Will Do\n1. Vulnerability & Threat Management\nOwn the vulnerability management program — define scope, tooling, SLAs, and remediation workflows; coordinate with DevOps and vendors for execution\nMonitor CVE feeds and vendor advisories; assess impact on Fundiin's tech stack and drive timely remediation\nDefine security requirements and acceptance criteria for CI/CD pipeline — coordinate with DevOps to implement scanning and security gates\n2. Security Operations & Access Control\nDefine monitoring requirements and detection rules; coordinate with SOC vendor for 24/7 coverage; lead incident response when escalated\nOwn the access control framework — enforce least privilege, conduct periodic access reviews, and ensure clean offboarding\nDefine and enforce policies for developer access to production environments and sensitive data\n3. Data Security & Privacy\nOwn the data security framework — define classification, encryption, masking, and export control policies for customer PII and eKYC data\nDrive NĐ 13/2023 compliance — own data mapping, DPIA, and consent management; coordinate with product and engineering for implementation\n4. Policy, Governance & Compliance\nDefine and maintain security policies, rules, and checklists across the organization\nOwn renewal and maintenance of ISO 27001 and PCI-DSS certifications; drive compliance with local regulatory requirements — coordinate with external auditors and consultants as needed\nDefine and standardize compliance checklists for lender onboarding; coordinate responses to audit and security questionnaires from partners\nMaintain risk register and track remediation status; report regularly to management\n5. Awareness & Reporting\nDefine and drive the security awareness program — coordinate training and secure coding sessions for the engineering team\nDeliver regular risk, vulnerability, and remediation status reports to management\nServe as primary point of contact for internal and external audits",
+  "yeu_cau": "Must Have\n3–5+ years of experience in information security with hands-on technical depth — vulnerability management, access control, log monitoring, and incident response\nStrong understanding of common attack vectors and security controls — OWASP Top 10, CVE management, secure architecture principles\nExperience in fintech, banking, or a regulated financial environment\nFamiliarity with at least one compliance framework — ISO 27001, PCI-DSS, or equivalent — sufficient to maintain and operate, not just document\nAble to drive programs forward without a dedicated team — comfortable coordinating across engineering, product, and external vendors to get things done\nStrong ownership mindset — identifies gaps proactively, drives resolution, does not wait to be told what to do\nNice To Have\nSecurity teams within fintech or financial technology companies: In-house security teams at reputable banks , Reputable security service providers, Fintech security teams in Fintech companies\nCandidates with strong hands-on technical depth in incident response, and combined with exposure to security and compliance frameworks.\nFamiliarity with AI-powered security tools — vulnerability scanning (Snyk or equivalent), threat detection, or security operations — and comfortable using LLMs to accelerate security workflows such as threat analysis, policy drafting, and reporting\nFamiliarity with GCP security tools — Cloud Audit Logs, Security Command Center, Cloud DLP\nExperience with CI/CD security integration — SAST, DAST, dependency scanning\nKnowledge of NĐ 13/2023 and Vietnamese regulatory requirements for financial services\nSecurity certifications — CISSP, CISM, ISO 27001 Lead Implementer, or equivalent",
+  "quyen_loi": "Full social and unemployment insurance benefits\nReview salary for every six months according to KP\nAnnual health check-up\n\nAt Fundiin, we believe in fostering a dynamic work environment that encourages personal and professional growth.\nEmpowerment and Growth:\nWe offer great autonomy, freedom to make decisions, room to take risks and learn from mistakes.\nGet involved from the ground up in creating and developing new products, leading teams, working on innovative projects, and gaining visibility within the industry.\nCompetitive Benefits:\nEnjoy a robust benefits package, including meaningful ESOP options.\nAccess our premium health care program and annual health checkup.\nReceive a budget of 2,400,000 VND per year for professional development.\nTake advantage of device allowances or financing options covering up to 50% of new device purchases.\nEngaging Work Environment:\nParticipate in our monthly Town Hall meetings and collaborative sharing sessions.\n15 days of annual leave to recharge and pursue personal interests, plus an extra day for every 3 years of service.\nJoin biannual team-building trips for bonding and connections.\nEnjoy free daily drinks and weekly TGIF snacks and beverages.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ0ODEwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--7310c6f340db07aca84f12b8091e9b20da63e9d5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/F_ava_1%20(1).jpg",
+  "company_url": "/companies/fundiin",
+  "company_mo_ta": "FUNDIIN - Financial Services Platform",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

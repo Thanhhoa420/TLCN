@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-one-mount-group-0131",
+  "tieu_de": "AI Engineer",
+  "ten_cong_ty": "One Mount Group",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "Python",
+    "API",
+    "scikit-learn",
+    "Pandas",
+    "SQL",
+    "ELT"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tower 2 (T26) Times City, 458 Minh Khai",
+  "quan_huyen": "Quận Hai Bà Trưng",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT ONE MOUNT\nOne Mount is Vietnam’s largest technological ecosystem that creates solutions along the entire value chain, starting with retail, distribution, real estate, and financial services. Our mission is to build Vietnam’s most trusted ecosystem, empowering all people and businesses to realize their full potential at the intersection of technology and humanity.\nMAIN RESPONSIBILITIES\nWe are seeking highly skilled AI Engineers to enhance our product team. This position focuses on developing and implementing AI and data solutions within the real estate domain.\nBuild Data Pipelines: You'll directly build pipelines for collecting, processing, and standardizing real estate data (listings, transactions, legal documents, images, maps, etc.).\nDevelop Automated Valuation Models (AVM): Develop real estate valuation models based on big data.\nOptimize Search & Recommendation Engines: Enhance search and product recommendation tools using Recommendation Systems and NLP (Natural Language Processing) algorithms.\nIntegrate AI into Products: Collaborate with software architects, GIS, backend, and product teams to integrate AI models into real-world products.\nImplement & Improve ML Ops: Deploy, monitor, and continuously improve machine learning models in a production environment (ML Ops)",
+  "yeu_cau": "Graduated with a degree in Computer Science, Mathematics, AI, or equivalent fields.\nMinimum of 3-4 years of practical experience in deploying ML/AI models.\nProficient in Python and related libraries: Pandas, Scikit-learn, XGBoost, PyTorch/TensorFlow.\nExperienced with ETL systems, crawling, and big data processing.\nFamiliar with database systems as SQL & NoSQL (PostgreSQL, MongoDB, Elastic, BigQuery...).\nExperience API-izing models and deploying machine learning models to the Cloud (GCP/AWS preferred).\nExperience in PropTech, FinTech, AdTech platforms or data-driven products.\nKnowledge of real estate, finance, investment, or online user behavior.\nLogical thinking, ability to work in a fast-paced environment, and not afraid to experiment.",
+  "quyen_loi": "Môi trường đẩy nhanh phát triển năng lực\nNơi quy tụ nhân tài người Việt trên toàn cầu\nVăn hóa thành công, đề cao sáng kiến\n\nSalary & Allowances\n13-month salary with annual performance bonus, project incentives, sales incentives (based on position)\nLunch allowance: 730.000 VND/month\nSpecial occasion bonus: 2.500.000VND/year\nAnnual leaves: Up to 20 days/year (based on levels)\nHealth: Social insurance, premium health insurance, yearly health check \nLaptop, screen and other needed facilities/accounts/tools for work Career Growth\nYearly salary review and promotion\nDiverse career path: Management or Expert and functions rotation opportunity\nFree learning sources in Udemy, Coursera, O’Reilly platforms; internal workshop, certification sponsorship, and exclusive mentoring from C-levels\nRecognition and awards at team and organizational levels.\nGrow your career with opportunities across the dynamic ecosystem of Techcombank & Masterise Group.\nAccess special loan offers with competitive interest rates and flexible grace period options tailored to your financial needs.\nWorking Environment\nOpen & collaborative working space fosters both individual focus and teamwork activities\nYoung, dynamic, and collaborative working atmosphere\nUnwind zones: gaming, table tennis, yoga, gyms, bath rooms.\nPersonal lockers with QR code access.\nQuarterly/yearly teambuilding & engaged internal events.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwODYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fbc585037de70459ceb84a7ff645e0793a3e5fbb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/348293627_945972456713361_1472506581702735508_n.png",
+  "company_url": "/companies/one-mount-group",
+  "company_mo_ta": "ONE MOUNT | GROW TOGETHER",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

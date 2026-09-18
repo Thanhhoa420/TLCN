@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-it-governance-iso-27001-pci-dss-timo-5511",
+  "tieu_de": "Senior IT Governance ISO 27001, PCI DSS",
+  "ten_cong_ty": "Timo",
+  "ngay_dang_raw": "2026-09-01",
+  "han_ung_tuyen_raw": "2026-10-06",
+  "ky_nang": [
+    "IT Governance",
+    "IT Audit",
+    "PCI DSS",
+    "ISO 27001",
+    "Identity & Access Management",
+    "Risk Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "412 Nguyen Thi Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Timo\n \nLaunched in 2015, Timo pioneered digital banking in Vietnam with a mission to make banking faster, simpler, and more accessible.\nToday, as part of one of Southeast Asia’s leading digital financial services platforms, Timo is building secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\nWe are looking for curious minds and driven talents from fintech, digital banking, and technology companies who are excited to move fast, build meaningful products, and help shape the future of banking in Vietnam.\n \nAbout the Role\n \nWe are looking for a Senior IT GRC to assist in driving a robust Governance, Risk, and Compliance framework across Timo and Kredivo Group.\nIn this role, you will operate at the intersection of security governance, risk mitigation, and regulatory alignment. You will be responsible for promoting our information security framework, ensuring all products, systems, and third-party partnerships meet the highest international and local security regulations. Working closely with Timo's IT, engineering, and business stakeholders, you will drive systemic security resilience, conduct critical audits, and establish continuous feedback loops to protect Timo's digital banking platform and its customers.\nYou will report to the Infosec Lead.\n \nWhat You Will Do\nRegulatory Compliance Management: Continuous monitoring and compliance maintenance with rigid Vietnamese Banking and Personal Data Protection regulations.\nAudit & Assessment Coordination: Lead, coordinate, and respond to at least annual cycles of strict internal and external audits—including regulatory inspections and critical compliance assessments.\nGovernance & Policy Monitoring: Conducting regular policy compliance monitoring, internal control reviews, and governance structural updates across entities; continuously updating and refining internal policies, procedures, and standards to ensure strict regulatory compliance.\nInternational Standards Maintenance: Prepare evidence and drive annual assessments to maintain the PCI DSS Level 1 Standard certification.\nIdentity & Access Governance: Leading the comprehensive User Access Review (UAR) program applications across internal and external core systems.\nThird-Party Risk Management (TPRM): Conducting comprehensive risk assessments and mitigation plans for all vendors and third-party partners.\nSecurity Culture: Driving and planning security awareness training across all business, technical units.\nWhy Join Us\nHelp defend and govern one of Vietnam's leading digital banks and the customers who trust it.\nWork as part of Kredivo Group's regional security team (Vietnam, Indonesia, Singapore).\nHands-on GRC and security resilience work across a real, large-scale fintech environment.\nHybrid model: 4 days HCMC office, 1 day work from home.",
+  "yeu_cau": "What We Are Looking For\n \nExperience\n3+ years of hands-on experience directly related to IT Security Governance, Risk, and Compliance (GRC).\nProven track record of participating in or leading the implementation and assessment of international governance frameworks (PCI-DSS, ISO-27001).\nExperience operating in highly regulated, production-scale environments (Fintech, Banking, or Digital Services).\nComfortable collaborating with cross-functional stakeholders, software engineers, and external third-party entities.\n \nSkills & Expertise\nFrameworks & Methodologies: Deep, practical knowledge of GRC frameworks, security audit methodologies.\nSecurity Controls Familiarity: Strong fundamental knowledge of network security, IAM (Identity and Access Management), and enterprise security tools (Antivirus, Firewalls, SIEM, IDS/IPS, Cloud Security) to effectively review system configurations and access controls.\nVendor Risk Assessment: Strong capabilities in defining, evaluating, and managing third-party security baselines.\nProfessional Working English: Regular collaboration with Kredivo's regional Team and Timo's local teams.\n \nAttributes\nHighly Responsible & Proactive: You don't wait for compliance gaps to be found; you actively collaborate to strengthen defenses.\nPragmatic Communicator: You can translate complex security regulations and risk metrics into actionable steps for engineers and business leaders alike.\nAnalytical & Structured: Exceptional attention to detail when conducting system-access audits and reviewing security policies.\n \nBonus Points\nPossession of professional security/auditing certifications: CRISC, CISA, CISM, CISSP, CGRC or equivalent.\nPrior experience navigating SBV (State Bank of Vietnam) and MPS regulatory requirements for digital banking.\nExperience in Cloud Environments and automated GRC workflows.",
+  "quyen_loi": "Big chance to build Fintech system, large data\nInternational & English environment\nApply new Tech-Stack, Technology and more\n\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI4NzkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c42f54d9d26674f8a00e350a54f4cd5dc0e0cb94/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/timo",
+  "company_mo_ta": "Timo Vietnam",
+  "job_expertise": [
+    "IT Auditor / IT Risk Manager"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

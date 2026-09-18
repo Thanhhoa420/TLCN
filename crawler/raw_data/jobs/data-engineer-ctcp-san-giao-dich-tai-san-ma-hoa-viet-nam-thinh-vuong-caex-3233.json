@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/data-engineer-ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex-3233",
+  "tieu_de": "Data Engineer Python, Kafka, Data Warehousing, NoSQL",
+  "ten_cong_ty": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    "Data Engineer",
+    "NoSQL",
+    "Data Warehousing",
+    "ETL",
+    "Kafka",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 04, Tòa nhà số 5 Điện Biên Phủ",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thiết kế và triển khai kiến trúc Data Platform (Data Lake/Data Warehouse) chuyên biệt cho nền tảng giao dịch, hỗ trợ song song mục đích Analytics và Machine Learning.\nXây dựng hệ thống Data Pipeline (ETL/ELT) linh hoạt, xử lý tối ưu cả dữ liệu Batch và Real-time từ nhiều nguồn: Trading System, Blockchain và External APIs.\nPhát triển Streaming Pipelines với Apache Kafka, thiết kế kiến trúc Event-driven để xử lý giao dịch tức thời và phục vụ hệ thống phát hiện gian lận.\nThiết kế Schema và Data Models đa dạng, đảm bảo cấu trúc dữ liệu chuẩn hóa cho các bài toán nghiệp vụ phức tạp.\nVận hành và tối ưu hạ tầng Big Data (Spark, Hadoop, Kafka), thực hiện giám sát, cảnh báo và tinh chỉnh hiệu năng hệ thống định kỳ.\nĐảm bảo tiêu chuẩn Data Governance, duy trì chất lượng dữ liệu và khả năng truy xuất nguồn gốc xuyên suốt hệ thống.\nXây dựng Feature Stores và Data APIs nhằm cung cấp dữ liệu sạch, chuẩn hóa cho đội ngũ Data Scientist, ML Engineer và các Dashboard nội bộ.\nThực thi các chiến lược bảo mật và tuân thủ, bao gồm Data Archiving, Backup và Audit Trails nhằm đáp ứng các quy định lưu trữ khắt khe của ngành tài chính.",
+  "yeu_cau": "Tối thiểu 3 năm làm Data Engineer; từng xử lý hệ thống dữ liệu lớn (TB+ scale) và thành thạo quy trình Agile.\nThành thạo Python và SQL (tối ưu query); ưu tiên thànn thành thạo Java hoặc Scala và các công cụ điều phối luồng dữ liệu (Airflow, Dagster).\nKinh nghiệm thực chiến với đa dạng loại hình DB như PostgreSQL, ClickHouse, BigQuery và NoSQL (MongoDB, Redis).\nAm hiểu AWS/GCP, Docker, Kubernetes; ưu tiên ứng viên có tư duy về Terraform hoặc dbt.\nKỹ năng xử lý sự cố tốt; tiếng Anh đọc hiểu tài liệu chuyên ngành.\nNice to have:\nCó kinh nghiệm trong lĩnh vực Fintech, Blockchain hoặc xây dựng hệ thống phát hiện gian lận\nAm hiểu kiến trúc dữ liệu hiện đại (Data Mesh, Lakehouse) hoặc xử lý dữ liệu On-chain.\nCó kiến thức chuyên sâu về bảo mật dữ liệu và tối ưu hóa Real-time Analytics (Flink).",
+  "quyen_loi": "Thưởng tháng 13\nThưởng hiệu quả kinh doanh\nBảo hiểm sức khoẻ cao cấp\n\nThu nhập hấp dẫn, cạnh tranh theo năng lực\nThưởng các dịp Lễ, Tết theo quy định và chính sách của công ty\nThưởng tháng 13, thưởng hiệu quả hoạt động theo quy định và chính sách công ty\nBảo hiểm bắt buộc theo luật lao động + Bảo hiểm sức khỏe\nChế độ ngày phép hấp dẫn theo cấp bậc công việc, du lịch/teambuilding hằng năm\nMôi trường làm việc chuyên nghiệp, năng động, tôn trọng, kỷ luật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk5NDMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7b79b0d832c1fea467ee5b09018a1dd4685f2a6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20CAEX.jpg",
+  "company_url": "/companies/ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex",
+  "company_mo_ta": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

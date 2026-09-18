@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-developer-up-to-50m-gapo-5726",
+  "tieu_de": "Senior Backend Developer - Up to 50M",
+  "ten_cong_ty": "GAPO",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Golang",
+    "API",
+    "Java",
+    "PostgreSql",
+    "MySQL",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 14, Toà G-Group Tower, Số 5 Nguyễn Thị Duệ,",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "• Thiết kế, xây dựng và triển khai các dịch vụ backend hiệu năng cao phục vụ core features của nền tảng. \n• Phát triển API RESTful và các module backend phục vụ hệ thống workflow builder, automation engine, user management, và business logic engine. \n• Thiết kế kiến trúc dữ liệu, tối ưu truy vấn và quản lý cơ sở dữ liệu lớn (MySQL, PostgreSQL, Redis…). \n• Tối ưu hiệu năng, đảm bảo khả năng chịu tải lớn và độ ổn định của hệ thống. • Tích hợp message queue (RabbitMQ/Kafka) khi cần mở rộng xử lý bất đồng bộ. \n• Tham gia thiết kế – xây dựng – vận hành Microservices trên Kubernetes/Swarm. \n• Nghiên cứu và đề xuất công nghệ mới nhằm tăng hiệu quả phát triển và hiệu suất hệ thống. \n• Review code, cải tiến coding standard, hỗ trợ team trong việc giải quyết lỗi hoặc bài toán phức tạp.",
+  "yeu_cau": "• Từ 5 năm kinh nghiệm phát triển backend (biết Golang, Java là lợi thế lớn). \n• Thành thạo OOP và nắm chắc tư duy thiết kế hệ thống. \n• Kinh nghiệm với MySQL, PostgreSQL, Redis; nắm vững indexing, query optimization, transaction. \n• Hiểu sâu RESTful API, Webhook, OAuth2. \n• Am hiểu kiến trúc Microservices, design patterns, clean architecture. \n• Sử dụng thành thạo Git và CI/CD cơ bản. \n• Kinh nghiệm với RabbitMQ/Kafka, distributed systems là lợi thế mạnh. \n• Tư duy logic tốt, tự chủ, có trách nhiệm và khả năng phân tích vấn đề ở quy mô lớn. \n• Có kinh nghiệm làm sản phẩm hoặc hệ thống lớn là một điểm cộng rất mạnh.",
+  "quyen_loi": "Bạn là người định hướng xu thế\nLương thưởng cao, Lộ trình công danh rõ ràng\nLàm việc với các KOLs và Top trong làng Công nghệ\n\n• Thu nhập cạnh tranh (up to 50M), đánh giá theo năng lực và kinh nghiệm. \n• Môi trường làm việc hiện đại, văn hóa trẻ trung – năng động, đồng nghiệp hỗ trợ nhiệt tình. \n• Xét tăng lương định kỳ hằng năm dựa trên kết quả công việc và mức độ đóng góp. \n• Thưởng đa dạng: thưởng lễ – Tết, thưởng cuối năm theo hiệu quả kinh doanh. \n• Đầy đủ chế độ BHXH – BHYT – BHTN, nghỉ phép theo luật và theo chính sách nội bộ. \n• Tham gia các hoạt động nội bộ: Team Building, Gala cuối năm, sinh nhật, chương trình văn hóa sự kiện. \n• Lộ trình thăng tiến rõ ràng, có cơ hội phát triển nghề nghiệp lâu dài.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTEzODcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--0921fd51b385bb90d7f85809a97437c5b176217d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20Gapo%201.jpg",
+  "company_url": "/companies/gapo",
+  "company_mo_ta": "Mạng xã hội Gapo - Lãnh địa đầy mê hoặc của giới trẻ",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

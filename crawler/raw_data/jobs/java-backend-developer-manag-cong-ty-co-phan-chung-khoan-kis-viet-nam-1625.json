@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/java-backend-developer-manag-cong-ty-co-phan-chung-khoan-kis-viet-nam-1625",
+  "tieu_de": "Java Backend Developer Manag",
+  "ten_cong_ty": "Công ty Cổ phần Chứng khoán KIS Việt Nam",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Java",
+    "Jenkins",
+    "MongoDB",
+    "Git",
+    "Spring Boot",
+    "MySQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3 và tầng 11, Tòa nhà TNR, số 180-192 Nguyễn Công Trứ, Phường Nguyễn Thái Bình",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "3,000 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, build, and maintain scalable backend systems using Java 21+ / Spring Boot 3+.\nImplement microservices and APIs with a focus on performance, security, and resilience.\nOptimize queries and data pipelines (MySQL/MongoDB).\nIntegrate with messaging systems (Kafka, Redis Pub/Sub) and API gateways (Kong/Traefik).\nLead code reviews, refactoring, and architecture discussions.\nCollaborate with DevOps to deliver production-grade services on Docker/Docker Swarm/Kubernetes.\nMentor junior engineers and contribute to best practices.",
+  "yeu_cau": "Requirements:\nBachelor’s degree in Information Technology, Management Information Systems, Computer Science, or a related field.\n8+ years of experience with Java backend development.\nStrong knowledge of Spring Boot, RESTful APIs, asynchronous processing, and security standards (JWT/OAuth2).\nExperience with RDBMS, query tuning, and caching strategies.\nHands-on with CI/CD (Jenkins, Git), containerization, and monitoring stacks (Prometheus, Grafana, Loki).\nFamiliar with cloud or hybrid deployments.\nExcellent problem-solving and system design skills.\nNice to have:\nKnowledge of financial/trading systems or fintech platforms.\nFamiliarity with event-driven architecture and reactive programming.\nExperience with high availability & zero downtime deployments.",
+  "quyen_loi": "Professional working environment, foreign language\nKnowlegde in Securities/Finance/Bank progamming\nOppornities to learn about Securities Market\n\nSalary: Negotiated during the interview.\nFull-salary insurance in accordance with Vietnamese labor law.\n13th-month salary and attractive year-end bonus based on individual performance and company business results.\n12 annual leave days per year and additional days off following the State Securities Commission calendar.\nAnnual health check-up, company trips, and team-bonding internal activities.\nDirect training and mentorship from experienced professionals in the industry.\n100% sponsorship for professional license exams (brokerage, analysis, fund management), budget for foreign language courses, and other professional development programs.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjMwMDk3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--d77443de4f932e3bc5397b9e4ae4fae3e0a4bad1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-kis-viet-nam",
+  "company_mo_ta": "Công ty Cổ phần Chứng khoán KIS Việt Nam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Professional Services",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-team-lead-net-angular-cong-ty-co-phan-dtsoft-3247",
+  "tieu_de": "Senior/ Team Lead .NET / Angular",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN DTSOFT",
+  "ngay_dang_raw": "2026-08-26",
+  "han_ung_tuyen_raw": "2026-09-30",
+  "ky_nang": [
+    "Team Management",
+    "Database",
+    "React Native",
+    "NextJS",
+    "Angular",
+    ".NET"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 6, 3RD Ave, Sunrise D, KĐT The Manor Central Park, Nguyễn Xiển, Định Công",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,200 - 1,600 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Quản lý và đảm nhận độc lập một hoặc nhiều dự án phần mềm từ tiếp nhận yêu cầu, phân tích thiết kế, phát triển đến bàn giao và bảo trì.\nLập kế hoạch, phân bổ nguồn lực, theo dõi tiến độ và chất lượng các dự án; báo cáo định kỳ cho Ban lãnh đạo.\nPhân công, hướng dẫn, review code và phát triển năng lực thành viên trong team.\nTrực tiếp phát triển full-stack (backend .NET, frontend Angular/Next.js, mobile React Native, database) các chức năng, module quan trọng theo tài liệu thiết kế và framework đã được thông qua.\nỨng dụng và thúc đẩy việc sử dụng công cụ AI trong team để nâng cao năng suất và chất lượng code.\nGiám sát hệ thống, phát hiện và xử lý kịp thời sự cố; tối ưu, bảo trì, nâng cấp phần mềm.\nTriển khai các hệ thống quy trình và hệ thống quản lý cho khách hàng.",
+  "yeu_cau": "Có 3 – 5 năm kinh nghiệm phát triển phần mềm, trong đó ít nhất 1 năm ở vị trí quản lý/trưởng nhóm.\nCó khả năng làm việc full-stack và tự chạy độc lập một dự án hoàn chỉnh; đồng thời quản lý nhiều dự án song song.\nThành thạo .NET (6 trở lên) và Angular.\nCó kinh nghiệm với Next.js và React Native (web/mobile).\nCó kinh nghiệm thiết kế, tối ưu CSDL với ít nhất một trong: PostgreSQL, Oracle, SQL Server.\nCó kinh nghiệm triển khai và vận hành với Docker, Redis, RabbitMQ.\nSử dụng thành thạo công cụ AI hỗ trợ lập trình; chủ động cập nhật và áp dụng công nghệ mới vào công việc.\nLà lợi thế nếu có hiểu biết về: Design Pattern, SOLID, DevOps, Agile/Scrum.\nCÔNG NGHỆ SỬ DỤNG\nBackend: .NET 6 – 10\nFrontend web: Angular, Next.js\nMobile: React Native\nDatabase: PostgreSQL, Oracle, SQL Server\nHạ tầng & tích hợp: Docker, Redis, RabbitMQ\nAI trong phát triển: 100% đội ngũ dev sử dụng công cụ AI (Claude, GitHub Copilot, ChatGPT…) trong lập trình, review code và xử lý công việc hàng ngày",
+  "quyen_loi": "Mức lương: 30 – 40 triệu/tháng + 2% giá trị dự án (hoặc theo quyết định của công ty)\nĐược cấp tài khoản/bản quyền các công cụ AI phục vụ công việc.\nThưởng tháng 13, thưởng hiệu quả kinh doanh hàng năm (1 – 3 tháng lương).\nVòng 1: Phỏng vấn chuyên môn, kỹ thuật - PGĐ Kỹ Thuật\nVòng 2: Phỏng vấn quản lý, định hướng - Giám đốc",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzExMDgyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--583b92f30ab3a596f47a44be4d45a259dbdfb341/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/DT%20Soft%20-%20LOGO-01.png",
+  "company_url": "/companies/cong-ty-co-phan-dtsoft",
+  "company_mo_ta": "CÔNG TY CỔ PHẦN DTSOFT",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

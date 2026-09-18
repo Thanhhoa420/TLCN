@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-engineer-python-etl-vortech-service-company-limited-0334",
+  "tieu_de": "Senior Data Engineer Python, ETL",
+  "ten_cong_ty": "Vortech Service Company Limited",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "Data Engineer",
+    "Kafka",
+    "Spark",
+    "Apache Airflow",
+    "ETL",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark Building, 15 Tran Bach Dang Street, An Khanh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Summary: \nFor one of our clients, we are seeking an experienced Data Engineer to join our dynamic team. The ideal candidate will have a solid background in data engineering, with expertise in Python, ETL tools, Airflow, and Hadoop. You will be responsible for building, maintaining, and optimizing data pipelines that handle high-volume transactions exceeding 50 million per day. \nIf you're excited about solving challenging problems, delivering polished user experiences, and contributing to a fast-paced and innovative environment, we’d love to meet you. \nKey Responsibilities: \nDesign, develop, and maintain scalable data pipelines and data models for large transaction systems. \nUtilize Python and ETL tools to extract, transform, and load data efficiently from various sources. \nImplement and manage workflows using Apache Airflow to automate data processing tasks. \nCollaborate with data scientists, analysts, and other stakeholders to understand data requirements and ensure data quality and availability. \nOptimize data processing performance and reliability in a Hadoop environment. ● Monitor and troubleshoot data pipeline issues to ensure operational efficiency and reliability. \nDocument processes, data flow, and architecture for future reference and compliance. ● Stay current with industry trends and emerging technologies in data engineering.",
+  "yeu_cau": "MUST HAVE \n5+ years of experience in data engineering role. \nStrong proficiency in Python for data processing and manipulation. \nHands-on experience with ETL tools (e.g., Talend, Informatica, Apache NiFi). \nIn-depth knowledge of Apache Airflow for workflow management. \n3+ years of hands-on experience with Spark \nStrong experience working with Kafka/Flink \nExperience with big data technologies such as Hadoop and its ecosystem (e.g., HDFS, \nProven experience in building and maintaining big transaction systems (handling over 50 million transactions per day). \nFamiliarity with cloud platforms (e.g., AWS, Azure, GCP) is a plus. \nExcellent analytical and problem-solving skills. \nStrong communication skills and the ability to work collaboratively in a team environment.",
+  "quyen_loi": "A supportive and flexible working environment\nMacbook provided\nPremium health insurance\nSHUI contributions which comply with local laws\n13th month salary\n15 paid annual leaves per year\nWork from home 3 days/month\nCompany trip, happy hour, snack and coffee",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQyMDI4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--5f5bbd6b794bb24f994c9077508f914ab56cc5eb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20full%20-%20Hien.png",
+  "company_url": "/companies/vortech-service-company-limited",
+  "company_mo_ta": "Powering the Future of Software Outsourcing",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/cloud-devops-engineer-good-english-netcompany-1102",
+  "tieu_de": "Cloud DevOps Engineer Good English",
+  "ten_cong_ty": "Netcompany",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Cloud",
+    "AWS",
+    "Azure",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Opal Tower 92 Nguyen Huu Canh Street",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As our new colleague in the Cloud Platform Services team, you will play a key role in agile projects for both large Danish and international customers. You have a unique opportunity to be part of a team responsible for multiple disciplines: Cloud Governance, Cloud Operations, Cloud Center of Excellence, and Cloud Consultancy.\n \nWe design and implement business-critical solutions on state-of-the-art infrastructure for customers, where you get hands-on experience with Azure. You will help build and operate our central architecture and solutions, impacting all our cloud solutions across all customers. You will ensure operations in the intersection of infrastructure, security, and the development of customer solutions. Additionally, you will have the opportunity to be lent out to other projects within the organization as a cloud consultant for both shorter and longer periods. All of which we convert to services that enhance and develop our central capability.\n \nAs a Cloud DevOps Engineer, your tasks will include:\nMonitoring, alerting, automation, and scaling of cloud solutions.\nCreating coherence between development, operations, and security in accordance with DevOps and Infrastructure as Code (IaC) principles.\nInfrastructure as Code (IaC) tasks, e.g., in Terraform.\nAutomation and standardization of cloud infrastructure processes (PowerShell/ Azure CLI or Microsoft Graph API).\nDesign and implementation of cloud governance solutions.\nDelivering internal methods/methodologies/principles into customer projects.\nLeading or contributing to technical initiatives in the internal cloud infrastructure through experience from customer projects.",
+  "yeu_cau": "Have a bachelor's, master's, or engineering degree in ICT/IT, computer science, software/computer engineering, infrastructure, or other relevant vocational education experience.\nHave experience with coding/scripting (.NET, Java, Web, PowerShell, Python) and/or DevOps (Terraform, CI/CD) from education or previous work.\nHave experience with Azure or other Global Cloud Providers (e.g., AWS, GCP, OCI) from education or previous work.\nPossess an analytical mindset, are motivated, and know how to work in a structured manner.\nHave good communication skills and Teamwork\nGood English communication",
+  "quyen_loi": "Fully sponsored trips in Europe by Netcompany\nInternational working environment\nClear career path and established process\n\n13th-month salary bonus for all employees, with additional rewards upon promotion to Senior level\nFully sponsored seminar trips in Europe by Netcompany for all levels, offering an opportunity to enhance your skills and strengthen collaboration across countries  \nClear Academy system and mentoring program to help you develop your career within Netcompany  \nPerformance appraisal twice a year to guarantee constructive feedback  \nProfessional Scandinavian working environment that values innovation, creativity and new ideas along with being supportive, fun and flexible  \nAdvanced technical solutions, agile culture and the opportunity to work with the latest technologies  \nAttractive salary that is adjusted annually based on your performance  \nAttractive Healthcare insurance program for you and your family.  \n24/7 Mental Wellbeing Companion Program to help you overcome challenges and crisis in your life and work.\nVarious training on trending technologies, best practices, and soft skills  \nManagement and leadership are accessible and encourage input from employees\nWorking with a variety of clients and colleagues all over the world  \nSocial and sports activities hosted by Netcompany After Dark (Friday bar, go-kart, BBQ, escape room, football, badminton, table tennis etc.) \nIn Netcompany we believe that a diverse and inclusive workplace is central to our success, which is why all qualified candidates are invited to apply regardless of gender, sexual orientation, disability, age, religion and belief, ethnic background, nationality, gender identity or culture. We are committed to live out a culture where we provide equal opportunities for all.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTMwODcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--e958ac94df2f4cfcd8254e0f8d6406342fe60de3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/netcompany-logotype-dark-green-RGB%204.png",
+  "company_url": "/companies/netcompany",
+  "company_mo_ta": "Part of a global success and a strong team in Vietnam",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

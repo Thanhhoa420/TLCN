@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-net-back-end-developer-c-asp-net-emct-company-limited-0119",
+  "tieu_de": "Senior .NET Back-end Developer C#, ASP.NET",
+  "ten_cong_ty": "EMCT Company Limited",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    ".NET",
+    "API",
+    "Database",
+    "ASP.NET",
+    "C#"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "1B Hoang Dieu",
+  "quan_huyen": "Quận 4",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "EMCT focuses on digital transformation solutions for utility systems in buildings and factories, especially remote fire monitoring and control services that apply advanced digital technologies to protect lives and assets. We provide intelligent, real-time fire safety solutions for businesses and facilities across South Korea, United States, Vietnam, and other countries. Our mission is to combine advanced software platforms with strict safety standards to create a safer environment through innovation.\nWe are currently building our core product engineering team and are looking for a Senior Backend .NET Developer to join us. In this role, you will play a key part in developing both our SaaS systems and our core IoT platform for smart buildings.\nKey Responsibilities:\nDevelop, maintain, and enhance backend services for SaaS systems\nBuild and expose RESTful APIs consumed by frontend and client applications\nEnsure data integrity across core business workflows\nBuild scalable, real-time backend services for IoT and smart building solutions\nDevelop WebSocket-based communication layers for device data streaming\nDesign and maintain APIs for integration with IoT devices and third-party systems\nOptimize backend performance and reliability for real-time IoT data processing at scale\nEvolve the platform architecture to support global service expansion, including multi-region deployment and scalability across countries\nCollaborate with frontend and client app teams on integration",
+  "yeu_cau": "Required:\n7+ years of experience in software development, with a strong focus on backend/server-side\nExpert-level proficiency in C# / .NET and  ASP.NET Core, with hands-on experience building RESTful APIs\nExperience with EF Core or an equivalent ORM\nExperience with relational databases, including query optimization and schema design\nStrong problem-solving skills and the ability to work independently\nComfortable communicating in English in a business setting (both written and verbal)\nNice to have:\nExperience with SaaS, ERP, or IoT platforms\nExperience with real-time systems and WebSocket-based communication\nKnowledge of Microservices architecture, Kafka, or gRPC\nExposure to IoT systems and Linux environments\nFamiliarity with WPF, MAUI, or WinForms for legacy/desktop integration\nA degree in IT from a top 5 university is a plus",
+  "quyen_loi": "Young and fast grow\nAttractive salary, Full insurance package\nGlobal training (United State, Korea)\n\nCompany Culture:\nInternational work environment with real career advancement opportunities.\nBusiness Trip: Opportunity to travel around the world and make important contributions to useful solutions for life.\nSnacks & drinks provided at the office.\nSalary and Benefits:\nCompetitive Salary\nComprehensive Benefits: social insurance, a 13th-month bonus,12 days of annual leave, and Vietnamese public holidays.\nWelcome party, birthdays, weddings, funerals, additional annual leave after 3 years of employment, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ5NzQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c32e65d1d1dab2783566a5cc06d75d1d2afbbdbd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/logo%20%C4%91%E1%BA%ADm.jpg",
+  "company_url": "/companies/emct-company-limited",
+  "company_mo_ta": "EMCT-EMPOWER YOUR CAREER",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

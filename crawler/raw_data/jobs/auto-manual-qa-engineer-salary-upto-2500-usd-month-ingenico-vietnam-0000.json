@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/auto-manual-qa-engineer-salary-upto-2500-usd-month-ingenico-vietnam-0000",
+  "tieu_de": "Auto/ Manual QA Engineer Salary upto 2500 /month",
+  "ten_cong_ty": "Ingenico Vietnam",
+  "ngay_dang_raw": "2026-08-13",
+  "han_ung_tuyen_raw": "2026-09-17",
+  "ky_nang": [
+    "QA QC",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "21 Duy Tân",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "WELCOME TO INGENICO\nPayments happen everywhere. In shops, on busy streets, and across countless digital touchpoints. In many of these everyday moments, Ingenico quietly powers the way customers pay.\nAs a global leader in payment acceptance, we make transactions simple, secure, and seamless for millions of people worldwide.\nWith operations in more than 30 countries and over 4,000 experts, we have spent more than 45 years shaping the future of commerce. Guided by trust, innovation and care, we build technology that moves payments. \nABOUT THE JOB\nIngenico Android Competence Center (ACC) is responsible for building and maintaining Android-based payment software used across multiple regions worldwide. \nWe are looking for 2 QA Engineers (1 Auto, 1 Manual) to join our growing QA team in Hanoi. Whether your expertise is in Manual Testing, Test Automation, or both, you will play a key role in ensuring the quality, stability, and reliability of Android and Web applications delivered to global customers.\nYou will collaborate with Project Managers, Business Analysts, Developers, Scrum Masters, and QA professionals in an international Agile environment while contributing to product quality throughout the software development lifecycle.\n \nKEY RESPONSIBILITIES\nAnalyze requirements and create test cases, test plans, and test data.\nExecute functional, integration, regression, and release testing for Android/Web applications.\nReport, track, and verify defects with development teams.\nCollaborate with PMs, BAs, Developers, and global stakeholders.\nPerform exploratory and end-to-end testing.\nSupport release validation and product quality improvement initiatives.\nMentor junior QA engineers.For Manual QA\nDefine test strategy and estimate testing effort.\nPerform exploratory and end-to-end testing.\nTrack QA metrics and support release sign-off.For Automation QA\nDesign, develop, and maintain automated test scripts.\nIdentify automation opportunities and improve test coverage.\nContribute to automation frameworks and reusable components.\nIntegrate automated tests into CI/CD pipelines.\nAnalyze automation results and optimize automation effectiveness.",
+  "yeu_cau": "Bachelor's degree in Computer Science, IT, Software Engineering, or related fields.\nMinimum 3 years of experience in Software Testing/QA.\nExperience testing Android and/or Web applications.\nGood understanding of software testing methodologies and Agile practices.\nStrong analytical, problem-solving, and communication skills.\nFluent English communication.For Manual QA\nStrong experience in functional, regression, integration, and release testing.\nExperience creating test plans and test strategies.\nExperience with test management and defect tracking tools.\nAutomation knowledge is a plus.\nCan lead the small team (3 -5 QA) is an advantageFor Automation QA\nHands-on experience with automation testing for Android and/or Web.\nExperience with Selenium, Appium, UI Automator2, or similar tools.\nExperience with Robot Framework, Cypress, Katalon, Serenity, or equivalent frameworks.\nProgramming experience in Python.\nUnderstanding of POM, BDD, TDD, and Data-Driven Testing.\nCI/CD experience is a plus.",
+  "quyen_loi": "Work life balance & no OT\nGreat salary package & Performance bonus\nPremium Health insurance for employee & family\n\nWHAT WE OFFER AT INGENICO\nAt Ingenico, we believe our people are our greatest asset. We offer a rewarding package designed to support your career growth, wellbeing, and work-life balance:\nCompetitive salary package with full statutory social insurance coverage and Premium Healthcare Insurance for you and your family.\nMonday to Friday working schedule.\nOpportunity to work in a global organization and collaborate with talented colleagues from diverse cultural backgrounds across different countries.\nStrong focus on employee wellbeing with 15 annual leave days and a supportive, people-centric culture.\nModern Grade A office located in Duy Tan, Hanoi, equipped with employee-friendly amenities and collaborative workspaces.\nA dynamic and innovative environment where you can learn, grow, and make an impact in the future of payments technology.\nOUR COMMITMENT TO INCLUSION AND BELONGING\nAs part of our values, we embrace diversity and inclusion at Ingenico. We are an equal opportunity employer and welcome applications from people of all backgrounds and experiences.\nAccommodation is available on request throughout the recruitment process. We are committed to creating an environment where everyone feels respected, valued, and empowered to succeed.\nPlease note: We are currently accepting applications from Vietnamese candidates only.\nWe look forward to connecting with talented professionals who are excited to grow their careers in a global environment at Ingenico.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ5NDY3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--2555fe29c71ca7fff99444b66219c7d1219eec39/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/514273011_1183254713816654_532303894334394840_n.jpg",
+  "company_url": "/companies/ingenico-vietnam",
+  "company_mo_ta": "The world’s largest payment acceptance network",
+  "job_expertise": [
+    "Manual Tester"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/java-software-engineer-senior-epos-vietnam-3033",
+  "tieu_de": "Senior Java Software Engineer Spring, Cloud, AI",
+  "ten_cong_ty": "EPOS Vietnam",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Java",
+    "SQL",
+    "OOP",
+    "AWS",
+    "Cloud",
+    "Spring"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9 Dinh Tien Hoang, Tan Dinh Ward",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Develop and maintain clean, scalable, and reliable Java backend services\nOptimize system performance, reliability, and development workflows\nIdentify workflow bottlenecks and leverage AI tools and automation to improve team productivity\nDefine and promote AI usage standards and best practices across the engineering team\nEstablish validation practices for AI-generated code to ensure quality and maintainability\nBuild reusable AI playbooks, templates, and toolkits to scale effective practices across the team\nDevelop and maintain unit tests and participate in code reviews to ensure code quality\nCollaborate with engineers and cross-functional teams to design and deliver new features\nContribute to the evolution of microservices architecture, focusing on scalability, reliability, and maintainability\nMentor and guide junior engineers, sharing technical knowledge and best practices",
+  "yeu_cau": "Bachelor’s degree in Computer Science / Information Technology / Software Development, or related fields\nAt least 6 years of experience in Java Backend and Spring frameworks (Spring Boot, JUnit, etc)\nSolid experience with Cloud platforms (AWS, Azure, GCP) and cloud-based application development\nExperience with AI-assisted development, workflow automation, or AI tools is a must\nGood knowledge of Relational Databases, SQL, and ORM\nStrong understanding of OOP, data structures, design patterns, concurrency, and problem-solving\nUnderstanding of SDLC and software engineering best practices\nGood/Fluent English communication is mandatory\nProactive, open-minded, and willing to challenge existing ways of working and drive continuous improvement",
+  "quyen_loi": "Performance Bonus\nBiannual Performance and Salary review\nLiberty Insurance covers inpatient + outpatient\n\nWe are a multinational, product-driven company specializing in proprietary POS solutions — developing in-house and delivering directly to our worldwide customers.\nBenefits\nRecognition & Rewards:\nPerformance Bonus (subject to the company’s business results and the employee’s performance evaluation)\nBiannual Performance Review and Salary Adjustment\nComprehensive Insurance Coverage:\nFull government public insurance contributions based on gross salary\nPremium health insurance from Liberty Insurance\nAnnual health check\nClear career development and growth structure; Training sessions and Learning workshops\n14 days of annual leave and one additional day of leave for every year of service\nLaptop/MacBook and top-notch facilities are provided based on each role\nAgile/Scrum-based internal workflows for efficient and collaborative development\nCompany trips, parties and regular team-building activities; Weekly happy hour, coffee, snacks, and board games\nWorking Environment & Culture\nInternational Workplace: English-speaking environment\nPositive and Open-Minded Culture: Engineers are encouraged to propose innovative solutions that enhance productivity and code quality\n1-on-1 Mentorship: Monthly coffee sessions with managers offer personalized feedback, goal setting, and career development opportunities\nFlexible Working Hours: Promote work-life balance and individual productivity",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NDIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4873c73fd10f2e39668f60cc9e784fe31eedfd1b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/EPOS-Logo_Full-Color.png",
+  "company_url": "/companies/epos-vietnam",
+  "company_mo_ta": "Singapore's #1 POS system vendor empowering SMEs with powerful digital solutions for growth!",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

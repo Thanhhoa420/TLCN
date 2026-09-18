@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/network-security-intern-fpt-is-1927",
+  "tieu_de": "Network Security Intern",
+  "ten_cong_ty": "FPT IS",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Firewall",
+    "IDS/IPS",
+    "Windows",
+    "Linux"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Keangnam Landmark 72, E6 Pham Hung",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Triển khai & Cấu hình: Cài đặt, cấu hình và quản lý các thiết bị bảo mật như Firewall, IPS/IDS, VPN, Proxy, và các giải pháp Loadbalancer.\nGiám sát & Vận hành: Theo dõi lưu lượng mạng, phân tích log hệ thống để phát hiện các dấu hiệu bất thường hoặc hành vi tấn công, xâm nhập trái phép.\nỨng phó sự cố: Phối hợp xử lý các sự cố an ninh mạng (Incident Response), điều tra nguyên nhân gốc rễ và đưa ra phương án khắc phục.\nĐánh giá rủi ro: Tham gia kiểm tra lỗ hổng bảo mật (Vulnerability Assessment) trên hệ thống mạng định kỳ.\nTài liệu hóa: Xây dựng quy trình vận hành chuẩn (SOP) và tài liệu sơ đồ mạng bảo mật.",
+  "yeu_cau": "Học vấn: sinh viên năm cuối học Đại học chuyên ngành CNTT, An toàn thông tin hoặc các ngành liên quan\nKiến thức kỹ thuật:\nCó kinh nghiệm với các hệ thống cloud.\nNguyên lý hoạt động của Network.\nNguyên lý hoạt động của các dòng Firewall.\nƯu tiên ứng viên có chứng chỉ quốc tế về Network, Security.\nCó thể tham gia tối thiểu 3 ngày/tuần.",
+  "quyen_loi": "Nhiều dự án lơn và công nghệ mới theo xu hướng 4.0\nMôi trường làm việc năng động, thân thiện\nNhiều phúc lợi và lương thưởng hấp dẫn\n\nThời gian làm việc: Thứ Hai – Thứ Sáu \nĐược Mentor hướng dẫn và đào tạo trong suốt quá trình thực tập.\nĐược tham gia các công việc, dự án thực tế về Network Security.\nCó cơ hội thực hành với Firewall, IPS/IDS, VPN, Proxy, Load Balancer và các giải pháp bảo mật mạng.\nĐược rèn luyện kỹ năng giám sát, phân tích log, xử lý sự cố và đánh giá rủi ro an ninh mạng.\nCó cơ hội trở thành Cộng tác viên hoặc nhân viên chính thức sau kỳ thực tập dựa trên năng lực và kết quả công việc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b0ad76f35fab863d1005afb348fd6d1f47ab3cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7198274729522_eef0f7d9c19666cac93f22a3189db145.jpg",
+  "company_url": "/companies/fpt-is",
+  "company_mo_ta": "Co- create the next!",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Cyber Security"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

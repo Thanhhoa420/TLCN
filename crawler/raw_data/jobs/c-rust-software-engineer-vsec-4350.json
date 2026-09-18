@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/c-rust-software-engineer-vsec-4350",
+  "tieu_de": "C++/Rust Software Engineer",
+  "ten_cong_ty": "VSEC",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "C language",
+    "CI/CD",
+    "Linux",
+    "Rust",
+    "C++"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà G Group, số 5 Nguyễn Thị Duệ, Yên Hòa, Cầu Giấy. ",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Phát triển Endpoint Agent: Xây dựng agent trên Windows/Linux thu thập sự kiện hệ thống (Process, File, Network, Registry, User, Kernel/eBPF/ETW...); tối ưu CPU/RAM, cơ chế cache/queue offline, tự động cập nhật và bảo vệ agent chống tampered.\nXây dựng Detection Engine: Phát triển logic phát hiện dựa trên IOC, YARA, Sigma, MITRE ATT&CK, phân tích hành vi bất thường (Ransomware, Credential Dumping, Persistence...).\nPhát triển Response Engine: Thực thi tự động/bán tự động các hành động phản ứng (Kill process, quarantine file, isolate network, disable account, Live Response...).\nPhát triển Server & Backend: Xây dựng API tiếp nhận telemetry, quản lý policy, tích hợp hệ thống sinh thái (SIEM, SOAR, Sandbox, Threat Intel...).\nChất lượng & Bảo mật (Secure SDLC): Kiểm thử, code review, phân tích crash/memory dump, tối ưu hiệu năng và xử lý lỗ hổng bảo mật.",
+  "yeu_cau": "Junior EDR Developer\nKinh nghiệm: 0 – 2 năm phát triển phần mềm (chấp nhận sinh viên mới tốt nghiệp có nền tảng tốt).\nKỹ năng: Nắm vững Rust, C, C++ hoặc Go; có kiến thức cơ bản về OS (Process, Memory, File System, Network) và An toàn thông tin (Malware, IOC, Encryption).Middle EDR Developer\nKinh nghiệm: 2 – 5 năm làm phần mềm, ít nhất 1 năm về System Programming, Endpoint Agent, Security Product, Antivirus/EDR hoặc High-performance Backend.\nKỹ năng: Thành thạo Rust/C/C++; thành thạo Multi-threading, Async I/O, IPC; hiểu về MITRE ATT&CK và phân tích hành vi malware; có kinh nghiệm làm việc với REST/gRPC/Message Queue.Senior EDR Developer\nKinh nghiệm: 5+ năm phát triển phần mềm, 3+ năm chuyên sâu về Endpoint Security, Kernel Development, OS Internals hoặc Telemetry System.\nKỹ năng: Am hiểu sâu Windows/Linux Internals (ETW, WFP, Minifilter Driver, eBPF, Linux Audit...); thiết kế kiến trúc hệ thống EDR, Detection/Response Engine, Mutual Auth, Tamper Protection; dẫn dắt kỹ thuật và review code cho nhóm.\n KỸ NĂNG & ĐIỂM CỘNG ƯU TIÊN\nNgôn ngữ: Rust, C/C++, Go, Python.\nBackend & Database: PostgreSQL, ClickHouse, Elasticsearch/OpenSearch, Kafka/NATS, Redis.\nƯu tiên cao:\nĐã từng phát triển Windows Driver, Linux Kernel Module hoặc eBPF program.\nCó kinh nghiệm phân tích Malware hoặc làm việc với hệ thống xử lý lượng telemetry cực lớn.\nĐóng góp cho dự án Open Source về System/Cybersecurity hoặc có các chứng chỉ an toàn thông tin liên quan.",
+  "quyen_loi": "Thử việc 100% lương, Thưởng Esop.\nVăn hóa trẻ, năng động, không ngừng học hỏi.\nĐội ngũ Lãnh đạo & chuyên gia công nghệ cao.\n\nMức lương cạnh tranh (thương lượng theo năng lực, bao gồm lương cứng + thưởng doanh thu khu vực hấp dẫn).\nThử việc 100% lương. \nChế độ bảo hiểm đầy đủ, nghỉ phép năm, team building, đào tạo chuyên môn. \nThưởng ESOP (Employee Stock Ownership Plan) đối với nhân viên và quản lý xuất sắc vào cuối năm. \nCơ hội thăng tiến lên cấp cao hơn trong VSEC & Tập đoàn G-Group.  \nLàm việc trong môi trường chuyên nghiệp, năng động, với đội ngũ chuyên gia hàng đầu Việt Nam.  \nHỗ trợ xe công tác, chi phí đi lại khu vực.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk3MjMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--ec4cf4ebb34affeec4524162d497fffc92b53b00/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/vsec",
+  "company_mo_ta": "VSEC - đơn vị cung cấp các giải pháp an toàn thông tin mạnh mẽ trên phạm vi toàn cầu",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Cyber Security"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

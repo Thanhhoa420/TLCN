@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-nodejs-typescript-van-hai-group-0026",
+  "tieu_de": "Senior Backend Engineer NodeJS, TypeScript",
+  "ten_cong_ty": "Vạn Hải Group",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "NodeJS",
+    "TypeScript",
+    "CI/CD",
+    "SQL",
+    "NestJS",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "75 Nguyễn Phước Lan",
+  "quan_huyen": null,
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi đang tìm kiếm một Senior Backend Engineer xây dựng control plane đáng tin cậy cho LogiUP — nền tảng SaaS đa tenant giúp doanh nghiệp quản lý xuất nhập khẩu\nTRÁCH NHIỆM CHÍNH\nThiết kế API, domain service và data model trên TypeScript, NestJS, PostgreSQL và Prisma.\nXây dựng workflow nghiệp vụ cho shipment, document, customs, tenant, authorization và audit.\nXử lý transaction, idempotency, concurrency, retry, timeout và backpressure để dữ liệu vẫn đúng khi hệ thống lỗi một phần.\nGiữ ranh giới Platform–Engine ổn định qua queue hoặc internal API contract; làm việc với Redis, BullMQ và Cloudflare R2.\nXây dựng OAuth 2.1/OIDC, JWT/JWKS, RBAC và bảo vệ tenant isolation tại data-access layer, không chỉ ở controller.\nThiết kế migration an toàn, có rollback và tương thích rolling deployment; duy trì OpenAPI contract và backward compatibility cho client cũ.\nXây structured logs, metrics, tracing, audit trail và operational runbook; debug production dựa trên runtime evidence.\nViết unit, integration và end-to-end tests tương xứng với rủi ro; review code và theo dõi thay đổi đến tận production.",
+  "yeu_cau": "Kinh nghiệm backend, vững TypeScript, Node.js và một backend framework có cấu trúc (ưu tiên NestJS).\nHiểu sâu PostgreSQL: SQL, indexing, transaction isolation, locking và migration.\nĐã xây hoặc vận hành queue, worker hay asynchronous workflow trong môi trường production.\nNắm chắc API validation, error contract, pagination, versioning và idempotency.\nCó kinh nghiệm authentication, authorization, multi-tenancy và bảo vệ PII.\nPhân biệt rõ durable source of truth với cache hoặc delivery mechanism.\nDebug được production dựa trên logs, metrics, database và runtime evidence.\nKinh nghiệm với automated tests, CI/CD, Docker và code review\nĐIỂM CỘNG\nPython, FastAPI hoặc data-processing pipeline.\nStreaming upload, file lớn, S3/R2, checksum và malware verification.\nPostgreSQL outbox, Redis Streams hoặc leased-worker patterns.\nOAuth/OIDC provider, PKCE, JWKS hoặc multi-tenant identity flows.\nDocument processing, OCR, LLM structured extraction hoặc AI workflow.\nKinh nghiệm logistics, khai báo hải quan hoặc enterprise SaaS.",
+  "quyen_loi": "Lương cạnh tranh.\nBài toán thực tế về multi-tenancy, identity, storage và distributed processing.\nMôi trường để đóng góp, học tập và phát triển thực sự.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk0ODk0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--4facc5a452f44d87f4d90627a1da986e4070ca02/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/v%E1%BA%A1n%20h%E1%BA%A3i%20gr.jpg",
+  "company_url": "/companies/van-hai-group",
+  "company_mo_ta": "Vạn Hải Group",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-net-c-postgresq-microservices-vdcd-software-4622",
+  "tieu_de": "Senior Backend Developer .Net, C#, PostgreSQL",
+  "ten_cong_ty": "VDCD Software ",
+  "ngay_dang_raw": "2026-08-29",
+  "han_ung_tuyen_raw": "2026-10-03",
+  "ky_nang": [
+    ".NET",
+    "PostgreSql",
+    "Docker",
+    "API",
+    "Microservices",
+    "C#"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà Cienco 8, 18 Hồ Đắc Di, Đống Đa Hà Nội ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "MỤC TIÊU VỊ TRÍ\nChịu trách nhiệm nghiên cứu, thiết kế, phát triển và tối ưu các hệ thống backend quy mô lớn; dẫn dắt về mặt kỹ thuật, đảm bảo chất lượng, hiệu năng, bảo mật và khả năng mở rộng của sản phẩm; quản lý tiến độ phần công việc kỹ thuật và nâng cao năng lực cho đội ngũ developer.\nCHI TIẾT CÔNG VIỆC\nNghiên cứu, thiết kế kiến trúc hệ thống backend (microservices, modular monolith, Cloud Native), lựa chọn công nghệ và định hình chuẩn kỹ thuật (technical standard) cho dự án.\nPhát triển, tối ưu và bảo trì RESTful API / gRPC hiệu năng cao, đảm bảo bảo mật (security) và khả năng mở rộng (scalability).\nThiết kế cơ sở dữ liệu (database design), tối ưu truy vấn (query optimization) và xử lý các bài toán hiệu năng: indexing, caching, bulk insert, xử lý dữ liệu lớn.\nXây dựng và triển khai các giải pháp bất đồng bộ: message queue, background job, event-driven (RabbitMQ/Kafka/MQTT).\nXây dựng tài liệu kỹ thuật (technical documentation) cho sản phẩm, dự án; tham gia xây dựng tài liệu và hỗ trợ đào tạo người sử dụng.\nReview code, thiết lập coding convention, CI/CD (Continuous Integration / Continuous Deployment) và đảm bảo chất lượng đầu ra của team.\nQuản lý chất lượng, tiến độ phần công việc kỹ thuật đảm nhiệm; dẫn dắt kỹ thuật (technical lead), mentoring và nâng cao năng lực cho thành viên junior/middle.\nBảo trì, nâng cấp hệ thống; phối hợp với BA, QA, DevOps và các bộ phận liên quan trong suốt quá trình thực hiện dự án.\nTham gia cải tiến quy trình phát triển sản phẩm; nghiên cứu, đề xuất và áp dụng công nghệ mới nhằm nâng cao chất lượng và hiệu quả hệ thống.\nBáo cáo kết quả công việc theo quy định của Công ty và thực hiện các công việc phát sinh khác theo yêu cầu kỹ thuật dự án.",
+  "yeu_cau": "Bắt buộc:\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin hoặc tương đương.\nTừ 3 – 4 năm kinh nghiệm xây dựng và phát triển dự án backend với .NET/C# trong lĩnh vực CNTT.\nThành thạo .NET Core/.NET 6+, C#, OOP, SOLID, Design Pattern và Entity Framework Core.\nKinh nghiệm thiết kế hệ thống (system design), thiết kế và tối ưu RESTful API.\nHiểu và áp dụng tốt các mô hình kiến trúc: Clean Architecture, DDD, CQRS, Microservices.\nThành thạo Git; có kinh nghiệm với CI/CD, Docker và triển khai hệ thống thực tế.\nKinh nghiệm tối ưu hiệu năng (performance tuning), xử lý concurrency và các hệ thống chịu tải cao (high load).\nTiếng Anh đọc hiểu tài liệu kỹ thuật tốt, giao tiếp cơ bản; tư duy logic, phản biện và giải quyết vấn đề tốt.\nKhả năng làm việc độc lập và chịu áp lực trong môi trường nhịp độ cao.\nCơ sở dữ liệu (Database):\nThành thạo thiết kế cơ sở dữ liệu (database design), chuẩn hóa dữ liệu và mô hình hóa quan hệ (ERD).\nKinh nghiệm chuyên sâu với ít nhất một trong các hệ CSDL: PostgreSQL, MS SQL Server, Oracle, MySQL.\nThành thạo tối ưu truy vấn (query optimization), lập chỉ mục (indexing), execution plan và xử lý transaction/locking.\nKinh nghiệm với stored procedure, function, trigger và xử lý dữ liệu lớn (bulk insert/update, batch processing).\nƯu tiên hiểu biết về caching (Redis), full-text search (Elasticsearch) và dữ liệu phi cấu trúc (JSON/JSONB).\nƯu tiên:\nKinh nghiệm xây dựng ứng dụng trên nền tảng Cloud Native / kiến trúc Microservice.\nKinh nghiệm triển khai ứng dụng trên Container / Docker cho môi trường Windows & Linux.\nHiểu biết về các yêu cầu bảo mật (security) trên môi trường Cloud (AWS/Azure/GCP), Kubernetes, monitoring & logging.\nQuen thuộc với Continuous Integration / Continuous Deployment (CI/CD).\nKinh nghiệm với message broker (RabbitMQ, Kafka, MQTT).\nCó kinh nghiệm mentoring, dẫn dắt team hoặc vai trò Tech Lead.\nĐã tham gia xây dựng, triển khai giải pháp CNTT trong lĩnh vực Tài chính – Ngân hàng, hoặc các lĩnh vực fintech, GIS, IoT, hệ thống multi-tenant là một lợi thế lớn.",
+  "quyen_loi": "QUYỀN LỢI\nThu nhập cạnh tranh, tương xứng với năng lực và kinh nghiệm; xét tăng lương định kỳ.\nTham gia BHXH, BHYT theo quy định của Nhà nước.\nHỗ trợ ăn trưa tại công ty.\nĐược tham gia các dự án lớn với công nghệ hiện đại và có tiếng nói về mặt kỹ thuật.\nMôi trường làm việc năng động, chuyên nghiệp; lộ trình phát triển rõ ràng và gắn bó lâu dài.\nTHỜI GIAN LÀM VIỆC\nThứ 2 – Thứ 6: 08:00 – 17:30 (nghỉ trưa 12:00 – 13:30).\nThứ 7: làm việc cách tuần.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyMzQ2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b35a88c4f8324dbed68884c861b95becc6c1e85/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/_VDCD%20logo%20BRAND%20ver%202.png",
+  "company_url": "/companies/vdcd-software",
+  "company_mo_ta": "VDCD Software",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

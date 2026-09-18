@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-android-engineer-grab-vietnam-ltd-4843",
+  "tieu_de": "Senior Android Engineer",
+  "ten_cong_ty": "Grab (Vietnam) Ltd.",
+  "ngay_dang_raw": "2026-08-21",
+  "han_ung_tuyen_raw": "2026-09-25",
+  "ky_nang": [
+    "Android",
+    "kotlinx.coroutines",
+    "Software Architecture",
+    "JSON",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "CMC Creative Space",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Get to Know the Team\nCome join the Communications Engineering team! The Interactive Comms team at Grab revolutionizes how people connect and communicate on the Grab platform, spanning multiple Apps and Web. We are on an exciting mission to shape the future of communications as our platform evolves, weaving social interactions, groups and more.\nGet to Know the Role\nYou will manage the Android engineering surface for Grab's Interactive Communications products — real-time chat, VoIP calling, and number masking. You'll work across the full mobile lifecycle: architecture decisions, feature delivery, SDK integrations, and production stability. You will report to the Engineering Manager\n \nThis is a senior IC role where you'll be expected to lead system design for Android, mentor mid-level engineers, and partner closely with product, design, QA, and backend teams to ship high-quality features that connect millions of passengers, drivers, and merchants daily. This role will be onsite in HCMC\nThe Critical Tasks You Will Perform\nDesign Android applications using Kotlin and Java, following best practices and architectural patterns\nImplement user interfaces following Material Design principles and ensure user experience across several devices and screen sizes\nIntegrate RESTful APIs and backend services, ensuring efficient data communication and synchronization\nWrite clean, maintainable, and well-documented code with comprehensive unit and integration tests using frameworks such as JUnit, Espresso, and Mockito\nOptimize application performance, identify bottlenecks, and implement solutions to enhance speed and efficiency\nConduct code reviews and provide constructive feedback to team members, encouraging a culture of continuous improvement\nTroubleshoot and debug complex issues, using analytical skills to identify causes and implement solutions\nCollaborate with product managers, designers, and backend engineers to translate requirements into technical specifications\nStay current with Android ecosystem developments, new technologies, and industry best practices\nParticipate in Agile ceremonies and contribute to sprint planning, estimation, and retrospectives\nMentor junior developers and support their professional growth through guidance and knowledge sharing",
+  "yeu_cau": "What Essential Skills You Will Need\n5+ years of professional Android development experience with experience with shipping production applications\nAdvanced proficiency in Kotlin and Java programming languages\nExperience with Android SDK, lifecycle management, and modern architecture components (MVVM, MVP, Clean Architecture)\nSolid experience with RESTful API integration and backend service usage\nProficiency with version control systems, Git\nDemonstrated expertise in implementing responsive UI/UX designs and Material Design principles\nExperience with testing frameworks and a commitment to writing testable, maintainable code\nExperience approaching a problem from different angles, analyzing pros and cons of different solutions w\nExperience reviewing code to find and address potential issues and defects\nExperience working in Agile/Scrum environments\nExperience communicating updates and resolutions to customers and other partners with the ability to collaborate across team\nExperience with Jetpack libraries and modern Android development frameworks\nKnowledge of CI/CD pipelines and automated testing practices\nFamiliarity with third-party libraries and dependency management tools\nUnderstanding of mobile security best practices and secure coding principles\nContributions to open-source Android projects",
+  "quyen_loi": "13-month Salary, Performance Bonus, Stock Reward\nPremium Healthcare & Flexible Spending Allowance\nGlobal & Large-scale Systems With Billion Of Data\n\nLife at Grab\nWe care about your well-being at Grab, here are some of the global benefits we offer:\nWe have your back with Term Life Insurance and comprehensive Medical Insurance.\nWith GrabFlex, create a benefits package that suits your needs and aspirations.\nCelebrate moments that matter in life with loved ones through Parental and Birthday leave, and give back to your communities through Love-all-Serve-all (LASA) volunteering leave\nWe have a confidential Grabber Assistance Programme to guide and uplift you and your loved ones through life's challenges.\nWhat we stand for at Grab\nWe are committed to building an inclusive and equitable workplace that enables diverse Grabbers to grow and perform at their best. As an equal opportunity employer, we consider all candidates fairly and equally regardless of nationality, ethnicity, religion, age, gender identity, sexual orientation, family commitments, physical and mental impairments or disabilities, and other attributes that make them unique.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NTkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1548f352bef950a9cdf4f054f1fd6dee62639e1b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Grab_Final_Master_Logo_2019_RGB_(green).png",
+  "company_url": "/companies/grab-vietnam-ltd",
+  "company_mo_ta": "Driving Southeast Asia Forward Together",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/lead-data-science-analytics-ahamove-4453",
+  "tieu_de": "Lead Data Science  Analytics",
+  "ten_cong_ty": "Ahamove",
+  "ngay_dang_raw": "2026-08-16",
+  "han_ung_tuyen_raw": "2026-09-20",
+  "ky_nang": [
+    "Python",
+    "Data modeling",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà Rivera Park 7/28 Thành Thái",
+  "quan_huyen": "Quận 10",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the role\nAhamove is an on-demand logistics platform handling large daily volumes of orders, drivers and delivery points nationwide. Our Data function is split into two groups: Data Platform owns the infrastructure — warehouse, lake, pipelines, analytics engineering — while Data Science & Analytics, the group you will lead, applies that data through models and AI to improve how the platform performs.\n \nYou will build the team on an existing foundation, set how it works, and own the data group's project portfolio end to end.\n \nWhat you will do\nSet the direction for our modeling work — currently dynamic pricing and dispatching, with demand forecasting, matching and operational optimisation as likely next steps.\nIdentify where machine learning and AI can measurably improve platform performance: pricing efficiency, dispatch quality, driver and customer experience, operational cost.\nOwn delivery of the data group's projects: scope, prioritise, and drive them through to production alongside product and engineering.\nMake sure models reach production, are measured against real business impact, and stay operationally healthy — research that never ships does not count.\nBuild an experimentation culture: design and evaluate A/B tests for pricing, product and algorithm changes.\nKeep the analytics the business relies on accurate and trusted, and use those insights to surface the next opportunity worth modeling.\nLead, coach and grow the team; own hiring as it expands.\nPartner with Data Platform on data and feature requirements, and with Backend and Product Owners to ship model outputs into the product.",
+  "yeu_cau": "6+ years in data (data science, analytics, or a mix), including 2+ years managing a team.\nA track record of machine learning work that reached production and moved a business metric.\nBackground in a data-heavy digital product; marketplace, logistics, fintech, e-commerce or ride-hailing preferred.\nPython for modeling and analysis (pandas, scikit-learn or equivalent), and strong SQL on a modern warehouse.\nSolid statistical foundations: experiment design, hypothesis testing, careful interpretation of results.\nPractical understanding of the full model lifecycle, from research through deployment, monitoring and retraining.\nAwareness of the current AI and ML landscape, and judgement about where it genuinely applies to a logistics business.\nEnough familiarity with warehouse architecture and analytical data modeling to work effectively with data and analytics engineers.\nCommunicates complex findings simply and persuasively to non-technical audiences.\nPrioritises problems by business value, not technical interest.\nComfortable operating with ambiguity in a fast-moving environment.\nNice to have\nPricing, matching, dispatching or operational optimisation problems.\nGeospatial data, mapping or routing.\nExperimentation platforms, feature stores, or real-time inference.\nBasic Kubernetes knowledge and familiarity with ML workflow tooling (MLflow, Airflow, Kubeflow or similar).",
+  "quyen_loi": "Disruptive innovations\nPeople-oriented philosophy of doing business\nYour footprint on regional on-demand market\n\nPhysical Wellbeing Benefit: General Insurance, Medical check-up, Accident Insurance, Healthcare Insurance.\nEmotional Wellbeing Benefit: Company Trip, Year End Party, Aha Hour Activities, Special Day Gifts, Aha Club (Badminton, Soccer).\nFinancial Wellbeing Benefit: Grab/Be For Work (Tech/Lead Level), Workplace Relocation, 13th Month Salary, PP Appreciate, Annual Leave Remain.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0MDA4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--e261371b08f0a4b3a7a050a9cc5627be530abebe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20intern.png",
+  "company_url": "/companies/ahamove",
+  "company_mo_ta": "Ahamove is positioned as Vietnam’s leading intracity commercial delivery provider.",
+  "job_expertise": [
+    "Data Scientist"
+  ],
+  "job_domain": [
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

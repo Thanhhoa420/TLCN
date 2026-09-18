@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/data-engineer-english-required-ho-chi-minh-ha-noi-fullerton-health-5950",
+  "tieu_de": "Data Engineer English required, /",
+  "ten_cong_ty": "Fullerton Health",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "Data Engineer",
+    "AI",
+    "Azure",
+    "SQL",
+    "Python",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 1, số 127 Hồng Hà, Phường Đức Nhuận, TP. Hồ Chí Minh, Việt Nam.",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Data Engineer to support the design, development, and maintenance of scalable data pipelines and enterprise-wide data platforms to power AI-driven healthcare automation systems. You will have the opportunity to work alongside one of Southeast Asia’s leading AI teams, applying cutting-edge AI and LLM technologies to solve complex, real-world healthcare challenges at scale. From enabling agentic automate processing to building AI-ready data lakes, this role sits at the core of our regional AI transformation journey.\n \n \nKey Responsibilities:\n- Develop and maintain ETL/ELT pipelines (batch + near real-time)\n- Integrate data from multiple sources (Claims, Member Data, Finance, APIs, Applications, CMS)\n- Build and optimize data models for analytics and AI training\n- Work with Azure Data Services (Blob, Data Lake, Azure SQL, Service Bus, etc.)\n- Ensure data quality, validation, and logging mechanisms\n- Support AI model training by preparing structured datasets\n- Assist in building dashboards for operations monitoring",
+  "yeu_cau": "- Because of recruitment needs, we accept Vietnamese candidates only\n- 2–5 years of experience in Data Engineering\n- Strong Python + SQL skills\n- Experience with data pipelines (Airflow / Prefect / Azure Data Factory / similar)\n- Familiar with cloud platforms (Azure preferred)\n- Experience handling structured + semi-structured data\n- Experience leveraging AI/ML techniques to enhance data processing, database optimization, data quality monitoring, or intelligent data workflows is a plus\n- Excellent written and spoken English; able to communicate effectively with regional and global stakeholder is a plus",
+  "quyen_loi": "Exciting projects and young team\nGlobal company and dynamic environment\nCompetitive Salary and great benefits\n\nA young and dynamic team where you can develop your career path and improve your English skills\nAn exciting project which uses cutting-edge technology\n14 days annual leave per year\n13th-month salary\nPrivate insurance for employees. After 1 year, company will cover the insurance for family members (spouse, children)\nProviding Laptop to work\nCompany trip \nAnnual health check \nMonthly teambuilding activities\nWhen applying for this position at Fullerton Health Vietnam, you have provided us with your information. Please trust that we are always dedicated and set strict privacy principles. Please read the \"Privacy Policy\" below to understand more about our commitment to respecting and protecting the rights of applicants.\nPrivacy Policy: www.fullertonhealth.com/vn/chinh-sach-bao-mat",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTU1ODkzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--89761c484b8ec92c9a0d8fdb23a5150c42830c10/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/7ac93d5926afc5da1aef5c2ef1857c5d.png",
+  "company_url": "/companies/fullerton-health",
+  "company_mo_ta": "Fullerton Health",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "IT Services and IT Consulting",
+    "Healthcare",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

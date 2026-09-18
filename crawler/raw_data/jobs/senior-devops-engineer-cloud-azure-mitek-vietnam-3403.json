@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-cloud-azure-mitek-vietnam-3403",
+  "tieu_de": "Senior DevOps Engineer Cloud Azure",
+  "ten_cong_ty": "MiTek Vietnam",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "DevOps",
+    "Cloud",
+    "CI/CD",
+    "Terraform",
+    "PowerShell",
+    "Azure"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà A5, Lô số A5, khu E-Office, đường Sáng Tạo, KCX Tân Thuận",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Join MiTek's Global Cloud Operations Team\nMiTek is looking for Senior DevOps Engineers (Cloud Azure) to support, optimize and expand our global Azure cloud infrastructure and Azure DevOps ecosystem.\nThis role is ideal for cloud professionals who are passionate about automation, infrastructure as code, cloud operations, DevOps best practices and enterprise-scale environments. Senior-level candidates will have opportunities to mentor junior engineers and lead cloud initiatives across the organization.\n \nWhat You Will Do\nServe as a cloud supporting point for the Cloud Engineer I and II team members. \nSupport Managed Services offered in Azure \nApply Azure subscription/tagging standards; uphold least privilege and access reviews \nAssist in supporting our external customer AVD environment \nDesign and support Azure DevOps pipelines \nAssist in managing our Azure DevOps environment \nImplement and audit Azure DevOps security controls (secure variables, audit logs, service connections, environments) \nAssist the Cloud Architecture team with the implementation of cloud-based solutions \nImplement our TTO (Transition to Operations) process for new services \nEnforce change control with ServiceNow and ADO release gates/approvals. \nMeet patch SLAs and security baselines \nValidate backup policies and perform restore tests; maintain DR playbooks. \nMentor Cloud Engineer I/II and create Work Instructions for common tasks \nHours: Would like person to have a 2-3-hour overlap with US timezone.",
+  "yeu_cau": "5 - 7+ years of relevant IT, Cloud, Infrastructure, DevOps, or Systems Engineering experience \nStrong hands-on experience with Microsoft Azure services; experience with AWS or GCP is also valuable \nPractical experience with Infrastructure as Code, scripting, or Automation tools such as Terraform, PowerShell, Azure CLI, JSON, YAML, or similar technologies. \nExperience with Azure DevOps, GitHub Enterprise, GitLab, or similar DevOps platforms \nExperience writing or maintaining YAML pipelines, CI/CD workflows, deployment templates \nExperience supporting Azure Virtual Desktop (AVD), Windows Server, Azure storage \nSome familiarity with ServiceNow \nProficient in English \nMicrosoft Azure Fundamentals (AZ-900) Certification is preferred \nMicrosoft Azure Administrator Associate (AZ-104) Certification is preferred \nBachelor’s degree in a related field preferred. Technology Stack: Microsoft Azure, Terraform, Azure DevOps, Azure Virtual Desktop (AVD), PowerShell, Azure CLI, GitHub Enterprise, YAML, CI/CD, ServiceNow.\nTechnology Stack: Microsoft Azure, Terraform, Azure DevOps, Azure Virtual Desktop (AVD), PowerShell, Azure CLI, GitHub Enterprise, YAML, CI/CD, ServiceNow.",
+  "quyen_loi": "Competitive salary + Healthcare insurance package.\nFlexible Working Hours\n13th month and productivity bonus.\n\nWhy You'll Love Working Here\nTotal Rewards\nCompetitive salary package\nPerformance bonus\n13th-month salary\nPremium healthcare insurance (PVI)\nAnnual health check-up at international hospitals\nFull statutory insurance benefits\nCareer Development & Global Learning\nClear career progression within a multinational organization\nUnlimited access to LinkedIn Learning\nAccess to MiTek University\nFree English and French language training\nLeadership development programs\nOverseas training opportunities\nWork-Life Balance & Culture\n5-day work week\nFlexible working hours\n12 annual leave days plus Christmas holiday\nModern Grade A office environment\nOn-site gym, yoga, football and pickleball facilities\nComplimentary lunch, tea and coffee provided daily\nAnnual company trip\nPremium travel program for long-service employees\nEmployee sports clubs including football, badminton, swimming and yoga.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NTQ1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--aa68bfff78b397beb49bcc1079b420d36dcbf296/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/MicrosoftTeams-image%20(51).png",
+  "company_url": "/companies/mitek-vietnam",
+  "company_mo_ta": "Join us, Develop with us!",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

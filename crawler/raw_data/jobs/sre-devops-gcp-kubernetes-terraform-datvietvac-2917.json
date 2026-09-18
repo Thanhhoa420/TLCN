@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/sre-devops-gcp-kubernetes-terraform-datvietvac-2917",
+  "tieu_de": "SRE DevOps, GCP, Kubernetes, Terraform",
+  "ten_cong_ty": "DatVietVAC",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "DevOps",
+    "Linux",
+    "CI/CD",
+    "Terraform",
+    "GCP",
+    "Kubernetes"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "222 Pasteur, Phường Xuân Hòa",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "DatVietVAC Group Holdings is looking for an SRE Engineer with strong DevOps expertise to operate and continuously improve the infrastructure and engineering tools of our Fan Commerce Platform.\nThe official position title is SRE Engineer. The role combines site reliability engineering with hands-on DevOps responsibilities, including cloud infrastructure, Kubernetes, CI/CD, monitoring, automation, and production incident response.1. Cloud Infrastructure and Platform Operations\nOperate and maintain application infrastructure in cloud environments, including compute, databases, caching, message queues, and object storage.\nManage and continuously improve Development, Staging, and Production environments.\nOperate and improve CI/CD pipelines that support application development, testing, and deployment.\nProvision and manage infrastructure as code using Terraform and Ansible.\nManage network configurations, firewalls, routing, VPC connectivity, and cloud VPNs.\nOperate containerized workloads and Kubernetes clusters, particularly Google Kubernetes Engine.\nPerform routine system upgrades, security patching, configuration changes, and infrastructure maintenance.\nMaintain infrastructure documentation and configuration standards.2. Monitoring, Reliability, and Incident Response\nMonitor platform availability, performance, capacity, and reliability against agreed service-level objectives.\nBuild and maintain monitoring, logging, dashboard, and alerting systems using Prometheus, Grafana, Google Cloud Operations, Datadog, or equivalent tools.\nParticipate in the production on-call rotation and respond to incidents in a timely manner.\nTroubleshoot application, infrastructure, network, database, cache, and message-queue issues.\nSupport root-cause analysis and contribute to post-incident reports and corrective actions.\nDevelop and maintain operational runbooks for platform services and recurring incident scenarios.\nAnalyze operational data and system metrics to identify reliability and performance improvements.3. Automation and Continuous Improvement\nDevelop automation tools and scripts to reduce manual operational work and repetitive engineering tasks.\nImprove deployment automation, environment consistency, and release reliability.\nSupport load and performance testing before high-traffic on-sale periods and major events.\nAssist with capacity preparation, scaling configuration, and infrastructure readiness.\nIdentify technical debt, operational risks, and opportunities to improve platform resilience.\nSupport backup, recovery, and system-security activities.\nContribute to continuous improvements in infrastructure management, monitoring, and incident response.4. Cross-functional Collaboration\nCollaborate closely with Backend Engineers, AI-Native Engineers, QC Engineers, and Product Owners to improve development and release processes.\nSupport engineering teams in resolving environment, deployment, configuration, and production issues.\nParticipate in release planning and production-readiness reviews.\nCommunicate technical issues, operational risks, and dependencies clearly to relevant stakeholders.\nWork independently when required while contributing to the overall effectiveness of the engineering team.\nMaintain technical documentation, operational procedures, and service runbooks.",
+  "yeu_cau": "Education\nBachelor’s degree in information technology, Software Engineering, Computer Science, or a related field.Experience\nAt least three years of experience as a DevOps Engineer, Site Reliability Engineer, System Engineer, Cloud Engineer, or in a related role.\nHands-on experience operating cloud infrastructure and production systems.\nExperience with containerized applications and Kubernetes in a production environment.\nExperience provisioning and managing infrastructure through Infrastructure as Code.\nExperience supporting production deployments and responding to system incidents.\nExperience with transactional, e-commerce, OTT, entertainment, or other high-traffic platforms is preferred.Technical Knowledge and Skills\nSolid knowledge of TCP/IP, HTTP/1.1, HTTP/2, DNS, gRPC, VPC peering, Cloud VPN, and connectivity between cloud environments.\nGood understanding of clustering, replication, microservices, failover, HTTP/gRPC load balancing, and distributed-system concepts.\nHands-on experience with Linux system administration.\nExperience with containers, Docker, Kubernetes, and preferably Google Kubernetes Engine.\nExperience provisioning and managing infrastructure using Terraform and Ansible.\nExperience implementing or maintaining CI/CD pipelines using Git, GitHub Actions, Argo CD, or equivalent tools.\nExperience with Google Cloud Platform or another major cloud provider.\nExperience with monitoring, logging, alerting, and performance-analysis tools.\nFamiliarity with Prometheus, Grafana, Google Cloud Operations, Datadog, or equivalent solutions.\nAbility to monitor system performance, analyze bottlenecks, and troubleshoot production issues.\nKnowledge of system, cloud, network, and application security.\nBasic scripting or programming ability for infrastructure and operational automation.\nFamiliarity with Agile/Scrum or Kanban development processes.Soft Skills\nStrong troubleshooting, analytical, and problem-solving skills.\nCalm and structured when responding to incidents under pressure.\nData-driven approach to operational and technical decisions.\nStrong teamwork and cross-functional collaboration skills.\nProactive attitude and willingness to continuously develop technical capabilities.\nAbility to manage multiple responsibilities and organize work effectively.\nStrong ownership and attention to detail.\nAbility to work independently when required.Language Skills\nBasic English communication skills.\nAbility to read and understand technical documentation in English.Other Requirements\nWillingness to participate in the production on-call rotation.\nWillingness to provide operational support during major releases, on-sale periods, or live events when required.",
+  "quyen_loi": "Build impactful products from the ground up\nTackle high-scale, real-world tech challenges\nGrow with a multidisciplinary tech team\n\n• Full statutory insurance, including Social Insurance, Health Insurance and Unemployment Insurance, based on 100% of the official salary and in compliance with Vietnamese labor regulations.\n• Working hours: Monday to Friday, from 8:30 AM to 5:30 PM, with a one-hour lunch break.\n• 14 days of annual leave.\n• Company-provided working equipment, including a laptop or desktop computer.\n• Employee parking area.\n• Annual PMP performance bonus, subject to individual KPI achievement and the Company’s business performance.\n• Periodic health check-ups.\n• Employee engagement programs and internal activities throughout the year.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxNjQwMywicHVyIjoiYmxvYl9pZCJ9fQ==--38a31cba1c04acf166ac613585a209a997ba1fee/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/23755704_1310790502360028_1434939933779469615_n.png",
+  "company_url": "/companies/datvietvac",
+  "company_mo_ta": "30 years of DatVietVAC, 30 years of shaping trends, ...",
+  "job_expertise": [
+    "Site Reliability Engineer (SRE)"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Media, Advertising and Entertainment",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

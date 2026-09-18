@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/agentic-ai-engineer-cong-ty-tnhh-nexlab-it-solutions-3914",
+  "tieu_de": "Agentic AI Engineer LLM, Python",
+  "ten_cong_ty": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Agentic AI",
+    "AI",
+    "LLM",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Sài Gòn",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us\nWe are a cybersecurity company building AI-native security platforms that span both offensive and defensive operations:\nOffensive Platform — An autonomous security platform that uses agentic AI to continuously penetration-test APIs, web applications, and cloud infrastructure. It validates vulnerabilities, chains attack paths, and generates audit-ready reports — all with human-in-the-loop safety\ncontrols.\nDefensive Platform — A role-based AI SOC platform where specialized agents (SOC Manager, Analyst, Incident Response, Threat Hunter) work as a coordinated crew to triage alerts, investigate incidents, hunt threats, and manage Detection-as-Code — at machine speed, under human oversight.\nWe are not building wrappers around ChatGPT. We are building autonomous, multi-step AI agent systems that reason, plan, use tools, and take real-world action in high-stakes security environments.\nThe Role\nAs an Agentic AI Engineer, you will design, build, and ship the autonomous AI agent systems at the core of our products. Depending on your background and interest, you'll work on one or both of the following:\nOffensive Security Agents: You'll build the agent brain that plans multi-step attack strategies, generates auditable configuration files, orchestrates security tool execution (Nmap, Nuclei, Nessus, custom exploits), validates discovered vulnerabilities, and chains minor findings into critical attack paths — all within a human-in-the-loop approval framework.\nDefensive Security Agents: You'll build the specialized SOC agents that autonomously triage and correlate alerts, enrich events with contextual data, summarize investigations, propose detection rules, execute threat hunting queries, and recommend incident response actions — while keeping analysts in control of final decisions.\nWhat You'll Do\nDesign and implement autonomous agent architectures that handle multi-step reasoning, tool use, memory, and planning in production security workflows\nBuild reliable agent loops with proper error handling, retry logic, guardrails, and human-inthe-loop approval gates for high-risk actions\nDevelop dynamic tool-calling pipelines where agents select, configure, and orchestrate external security tools based on contextual analysis\nEngineer prompt chains and agent reasoning strategies across multiple LLM providers (OpenAI, Google Vertex AI, Anthropic Claude) with model-agnostic abstractions\nBuild and maintain the context layer that gives agents awareness of users, assets, past incidents, typical behavior, and environmental state\nDesign evaluation frameworks to measure agent reliability, accuracy, and safety — especially for high-stakes actions like exploit execution or incident response recommendations\nCollaborate with security engineers to translate offensive and defensive domain expertise into agent behavior, tool profiles, and decision logic\nOptimize for latency, cost, and token efficiency in production agent workloads\nSupport on-premise deployments using self-hosted open-source models (DeepSeek, Llama) for air-gapped enterprise customers",
+  "yeu_cau": "Must Have\n4+ years of software engineering experience with strong proficiency in Python\n1+ year of hands-on experience building LLM-powered agent systems — not chatbots, but agents that reason, plan, use tools, and take multi-step actions\nDeep working knowledge of at least one agentic framework: LangGraph, LangChain, CrewAI, AutoGen, or equivalent\nExperience with tool-calling / function-calling patterns, including dynamic tool selection and chaining\nSolid understanding of prompt engineering for complex reasoning tasks — chain-of-thought, ReAct, plan-and-execute patterns\nExperience integrating with multiple LLM providers (OpenAI, Anthropic, Google) and managing model-agnostic abstractions\nAbility to build robust, production-grade systems — not just prototypes. You think about failure modes, retries, timeouts, guardrails, and observability\nStrong fundamentals in distributed systems, async programming, and API design\nStrong Plus\nBackground in cybersecurity — offensive (pentesting, vulnerability assessment, red teaming) or defensive (SOC operations, SIEM, detection engineering, incident response)\nFamiliarity with MITRE ATT&CK framework, Sigma rules, or detection-as-code practices\nExperience deploying and fine-tuning open-source LLMs (Llama, DeepSeek, Mistral) for onpremise or air-gapped environments\nKnowledge of graph databases (Neo4j) for modeling attack paths or entity relationships\nExperience building multi-agent systems where multiple specialized agents collaborate, delegate, and share context\nFamiliarity with RAG pipelines, vector databases, and knowledge retrieval systems\nMindset\nYou're excited about building AI systems that take real action in the world, not just generate text\nYou have a strong security intuition — you think about what can go wrong, what an adversary would do, and where guardrails are needed\nYou're comfortable with ambiguity and can translate vague domain requirements into concrete agent behaviors\nYou care about reliability over cleverness — a working agent that handles edge cases beats a flashy demo",
+  "quyen_loi": "Opportunity to build AI agent systems for two products simultaneously — offensive and defensive security — a rare engineering challenge \nDirect influence on product architecture and AI strategy from day one \nWork with a team that understands both security and AI deeply \nCompetitive compensation",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2daef7638bfe1f6fb7ebdcbd3e75a71e14258485/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nexlab%20IT.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nexlab-it-solutions",
+  "company_mo_ta": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

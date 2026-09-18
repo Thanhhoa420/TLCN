@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-principal-solution-architect-one-mount-group-2932",
+  "tieu_de": "Technical Principal/Solution Architect",
+  "ten_cong_ty": "One Mount Group",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Java",
+    "Spring Boot",
+    "System Architecture",
+    "Domain-Driven Design",
+    "Google Cloud",
+    "Microservices"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Toa One Mount, T26, Times city",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,000 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "One Mount is Vietnam's largest technological ecosystem that creates solutions along the entire value chain, starting with retail, distribution, real estate, and financial services. Our mission is to build Vietnam's most trusted ecosystem, empowering all people and businesses to realize their full potential at the intersection of technology and humanity.\nWe are looking for an innovative and experienced Hands-on Solution /Technical Principal to lead the design and implementation of scalable, resilient, and secure architectures for our fintech platforms. This role plays a key part in shaping the technical vision and system blueprint for digital financial services. You will work closely with cross-functional teams to ensure that architecture decisions align with business goals, technological capabilities, and long-term scalability.\nRESPONSIBILITIES\nDesign, build, and maintain high-throughput, resilient, and event-driven distributed systems (Microservices, Kafka/RabbitMQ).\nGuide dev teams in identifying technical debt, code refactoring, and optimizing complex database queries (PostgreSQL, MongoDB).\nPartner with data engineers to bridge application architecture with scalable data pipelines; drive automated CI/CD and Cloud infrastructure (GKE, Docker, Kubernetes).\nChampion observability, low-latency execution, clean code, and Domain-Driven Design (DDD) methodologies.",
+  "yeu_cau": "Experience: 7+ years in Software Engineering & Architecture, with a strong background as a Senior Developer / Technical Lead / Architect role.\nCore Tech Stack: Deep expertise in Enterprise Java (Spring Boot / WebFlux) and designing low-latency, high-availability systems.\nSystem & Database Design: Hands-on experience with Microservices, Event-Driven Architecture, relational DB tuning (PostgreSQL/MySQL), and NoSQL.\nCloud & DevOps: Strong knowledge of GCP/AWS, Containerization (Docker, Kubernetes/GKE), and modern CI/CD pipelines.\nProblem-Solving: Strong technical communication—ability to simplify complex technical trade-offs for technical and non-technical stakeholders.",
+  "quyen_loi": "Môi trường đẩy nhanh phát triển năng lực\nNơi quy tụ nhân tài người Việt trên toàn cầu\nVăn hóa thành công, đề cao sáng kiến\n\nSalary & Allowances\n13-month salary with annual performance bonus, project incentives, sales incentives (based on position)\nLunch allowance: 730.000 VND/month\nSpecial occasion bonus: 2.500.000VND/year\nAnnual leaves: Up to 20 days/year (based on levels)\nHealth: Social insurance, premium health insurance, yearly health check \nLaptop, screen and other needed facilities/accounts/tools for work\nCareer Growth\nYearly salary review and promotion\nDiverse career path: Management or Expert and functions rotation opportunity\nFree learning sources in Udemy, Coursera, O'relly platforms; internal workshop, certification sponsorship, and exclusive mentoring from C-levels\nRecognition and awards at team and organizational levels.\nWorking Environment\nOpen & collaborative working space foster both individual focus and teamwork activities\nYoung, dynamic, and collaborative working atmosphere\nUnwind zones: gaming, table tennis, yoga, gyms, bath rooms, sleep corner.\nQuarterly/yearly teambuilding & engaged internal events.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwODYzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--fbc585037de70459ceb84a7ff645e0793a3e5fbb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/348293627_945972456713361_1472506581702735508_n.png",
+  "company_url": "/companies/one-mount-group",
+  "company_mo_ta": "ONE MOUNT | GROW TOGETHER",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

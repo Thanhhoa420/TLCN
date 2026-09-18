@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-powered-automation-engineer-itviec-recruitment-consulting-2325",
+  "tieu_de": "AI-Powered Automation Engineer  ",
+  "ten_cong_ty": "ITviec Recruitment Consulting",
+  "ngay_dang_raw": "2026-08-11",
+  "han_ung_tuyen_raw": "2026-09-15",
+  "ky_nang": [
+    "Python",
+    "English",
+    "Power Automate"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "City",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Itviec’s client is seeking an AI-Powered Automation Engineer to rebuild how our 1,000-person manufacturing company runs using AI agents. In this role, you will skip the corporate fluff and focus on shifting code weekly to eliminate manual inefficiencies across departments. Working in a greenfield environment with near-zero politics, you will report directly to the General Director, define your own tech stack, and build AI-driven tools that deliver immediate, real-world impact. \n \nNAS Cleanup: Use AI to read disorganized file trees, design a proper folder structure, and mass-rename via scripts.\nData Integration: Stitch together disconnected Sales, Material, and Production data islands into a trusted master file.\nERP Prep: Clean legacy datasets and write batch-loading migration scripts ahead of next year's ERP launch.\nInternal Tooling: Turn raw feature ideas from non-tech field staff into functional tools within 48 hours.\nMarket Intelligence: Maintain AI pipelines that scrape competitor filings and websites to identify potential buyers.\nTask Automation: Eliminate daily manual bottlenecks across operations (e.g., automated cash consolidation scripts for Finance).",
+  "yeu_cau": "AI-Powered Builder: Must have shipped at least one real end-to-end project using AI\ncoding tools (Cursor, Claude Code, Windsurf, v0, etc.). Live links matter more than a\npolished resume.\nHands-on Mindset: Comfortable diving into messy, undocumented Excel sheets. Uses\nAI to proactively learn garment operations instead of waiting for senior guidance.\nCommunication & Languages: Able to translate factory-floor needs into technical tools.\nMust hold a working conversation in English or Korean.\n Nice-to-have: SQL, Python, manufacturing exposure, and ERP experience.",
+  "quyen_loi": "Our client is a premier, large-scale OEM headwear manufacturer headquartered in Hanoi, operating with a robust workforce of 1,000 personnel. Far from a traditional garment company, they are driving a pioneering corporate transformation by aggressively investing in AI agents and rapid automation to fully restructure their enterprise operations. With a high-tech strategy and substantial budgeting that rivals modern tech startups, they offer an agile, greenfield environment where engineers communicate directly with top management, bypass corporate politics, and deploy real-world automation tools on a fast-paced weekly rhythm. \n \nSalary: Meaningfully above the garment-industry baseline (strongly open to negotiation for top talent)\n100% salary during probation + 13th-month bonus.\nInsurance: 100% Gross Salary Social Insurance (BHXH) coverage.\nAI Tooling Budget: $200 provided for AI subscriptions and tools.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5OTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6543d306293819ea2f1a6e0636a7b12b5ccc2c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20ITViec%20Recruitment%20Consulting%20(1).png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "ITviec Recruitment Consulting",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

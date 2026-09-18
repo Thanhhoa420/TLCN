@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-solution-architect-senior-ai-engineer-mitek-vietnam-0211",
+  "tieu_de": "AI Solution Architect/ Senior AI Engineer",
+  "ten_cong_ty": "MiTek Vietnam",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "AI",
+    "Agentic AI",
+    "RAG",
+    "LLM",
+    "MLOps",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà A5, Lô số A5, khu E-Office, đường Sáng Tạo, KCX Tân Thuận",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role\nWe are looking for a AI Solution Architect/ Senior AI Engineer to design, develop, and deploy AI-powered solutions that address complex business challenges. This role requires a strong combination of AI/ML expertise, cloud technologies, MLOps practices, and system design capabilities.\nThe ideal candidate has experience building AI applications in production environments, contributing to technical architecture decisions, and driving the adoption of modern AI techniques to improve solution quality and scalability.\n \nKey Responsibilities\nAI Solution Development\nDesign, build, and deploy AI/ML applications and services for production environments.\nParticipate in technical design discussions and contribute to architecture decisions for AI-driven systems.\nDevelop scalable and maintainable AI solutions aligned with business and technical requirements.\nEvaluate and implement advanced AI techniques to improve system performance and user experience.\nGenerative AI & Machine Learning\nDesign and implement modern AI solutions utilizing technologies and approaches such as:\nLarge Language Models (LLMs)\nRetrieval-Augmented Generation (RAG)\nModel Context Protocol (MCP)\nAgentic AI frameworks and workflows\nOptimize AI applications for performance, accuracy, reliability, and scalability.\nCollaborate with product and engineering teams to integrate AI capabilities into software products.\nCloud & MLOps\nBuild and maintain AI solutions on cloud platforms, preferably Microsoft Azure.\nDevelop and manage MLOps pipelines covering model deployment, monitoring, versioning, and continuous improvement.\nDeploy and operate containerized applications using technologies such as Docker and Kubernetes.\nSupport production operations and continuously improve system reliability and performance.\nData & System Design\nWork with structured and unstructured data to support AI model development and deployment.\nDesign and optimize data pipelines, databases, and data storage solutions for AI workloads.\nContribute to the design of scalable AI services capable of supporting growing business demands.\nCollaboration & Leadership\nTake ownership of assigned initiatives and deliver high-quality solutions.\nMentor junior engineers and share best practices across the team.\nCollaborate effectively with stakeholders, product teams, and other engineering functions.\nActively contribute to technical discussions, code reviews, and continuous improvement initiatives.",
+  "yeu_cau": "Required Qualifications\nBachelor's degree in Computer Science, Artificial Intelligence, Data Science, Software Engineering, or a related field.\n4-5+ years of experience in software engineering and  2-3 years in machine learning engineering or AI development.\nExperience designing scalable and reliable AI services.\nStrong programming skills in Python.\nStrong analytical, problem-solving, and communication skills.\nDemonstrated ownership, accountability, and ability to work independently.\nProven experience building and deploying AI/ML applications in production environments.\nExperience contributing to system design and technical architecture decisions.\nStrong knowledge of machine learning, generative AI, and modern AI application development.\nHands-on experience with:\nMicrosoft Azure or other major cloud platforms\nMLOps tools and practices\nDocker and container orchestration technologies\nModel and service deployment\nDatabases and data warehouse solutions",
+  "quyen_loi": "Competitive salary + Healthcare insurance package.\nFlexible Working Hours\n13th month and productivity bonus.\n\n• Competitive salary with 13th‑month bonus, productivity bonus, and annual salary review\n• Comprehensive healthcare package, including 24/24 personal accident insurance\n• State‑of‑the‑art office environment (gym, shower, basketball & soccer field) with a high‑end laptop provided\n• Work hand‑in‑hand with global software teams (Australia, New Zealand, UK, US, Canada…)\n• Strong learning culture: paid self‑learning hours, LinkedIn Learning & Pluralsight access, in‑person classes with professional trainers (leadership, soft skills, English…), workshops, technical sharing activities...\n• Clear career development with structured onboarding, ongoing training, and a mentorship program\n• Flexible working: 5‑day work week and flexible start times\n• Free lunch and free parking\n• Team bonding through quarterly team‑building events, yearly company outing, and a special 3‑year anniversary trip\n• Active social clubs: gym, yoga, football, badminton, swimming…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NTQ1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--aa68bfff78b397beb49bcc1079b420d36dcbf296/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/MicrosoftTeams-image%20(51).png",
+  "company_url": "/companies/mitek-vietnam",
+  "company_mo_ta": "Join us, Develop with us!",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

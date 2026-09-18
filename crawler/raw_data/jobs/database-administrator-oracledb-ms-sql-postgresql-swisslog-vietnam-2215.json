@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/database-administrator-oracledb-ms-sql-postgresql-swisslog-vietnam-2215",
+  "tieu_de": "Database Administrator OracleDB, MS SQL, PostgreSQL",
+  "ten_cong_ty": "Swisslog Vietnam",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Oracle",
+    "Database",
+    "MySQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "324-326-328 Lê Văn Sỹ",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As a Database Administrator at Swisslog, your key responsibilities are:\nProject activities:\nInstallation, troubleshooting and configuration of databases on Unix/Linux and MS Windows platform.\nInstallation and configuration Application servers (Weblogic, Wildfly, JBoss)\nInstallation of system upgrades (patching) on customer systems (Remote or Onsite)\nConfigurating and ensuring high availability of database systems (data guard)\nData migration from an older DB version to newer version\nDeveloping and enhancing the backup & restore strategy\nDocument changes in the change log and asset management database\n \nSupport activities:\nStandby support 24x7, up to 2 weeks/month\nIndependent problem analysis e.g., slowness and troubleshooting incident/problem.\nConduct regular database checks and provide a report including recommendation.\nAdhere to Swisslog processes.",
+  "yeu_cau": "Your skills and experience:\nDegree in information technology, computer science or equivalent.\nMinimum 5 years of working experience as a Database Administrator with one of the; following Database: \nOracle DB, \nMS SQL,\nPostgreSQL.\nExpertise in the development of scripts (SQL, Shell, PL/SQL).\nExpertise in the following application servers: Weblogic, Wildfly and JBoss.\nProficient in English with strong writing and speaking skills.\nAbility to collaborate across teams and departments.\nProactive and team player mindset and reliability.\nAbility to work independently and customer oriented.\nGood communication skills, flexibility, and willingness to travel abroad.\nIndependent and customer-oriented behavior as well as a high willingness to learn.\nWorking Domains:\nTechnical: OracleDB, MS SQL, PostgreSQL\nBusiness: Intralogistics\nAll interviews are preferred to be done in English.",
+  "quyen_loi": "Attractive salary and benefit\nHybrid work\nStrong & long career-path development in business\n\nGlobal opportunities \nOur international network and scale, as a member of the KUKA Group, provide you with the opportunity to work in truly global teams.\nOur workplace values\nSwisslog is a knowledge-based company. Our technology and the know-how of our employees are key assets. \nWorking at Swisslog gives you the opportunity to continuously improve and adapt your skills and knowledge. Individual performance is assessed using a behavioral framework that is based on Swisslog core values:\nYour Benefits \n100% Salary payment during probation period;\nBonus: 13th & 14th month salary;\nOnsite chances to EU and Middle East countries;\nWorking hybrid with 3 days in the office;\nInsurance is according to the VN labor law and based on gross salary;\nPremium health care for you plus your spouse or child;\n20 days of annual leave and fully paid sick leave;\nAnnual team building trip;\nYearly performance review;\nHappy lunch every Friday and other team activities monthly;\nMonthly individual phone cost;\nFree snack & coffee;\nFree motorcycle parking;\nLaptop and accessories for the highest mobility;\nAnd importantly, endurance care and support from team and management.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDI2OTEyMywicHVyIjoiYmxvYl9pZCJ9fQ==--2dfcff2e9dcf15418c32dc150c10a6c21272e000/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/swisslog_logo_1_red_cmyk.jpg",
+  "company_url": "/companies/swisslog-vietnam",
+  "company_mo_ta": "Teamwork are Swisslog core values. Are you ready to shape your future?",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

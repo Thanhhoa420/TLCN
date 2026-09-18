@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/sr-mid-corporate-it-engineer-it-support-it-helpdesk-money-forward-vietnam-co-ltd-4243",
+  "tieu_de": "Sr/Mid Corporate IT Engineer IT Support / IT Helpdesk",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "IT Support",
+    "System Admin",
+    "Networking",
+    "English",
+    "Linux",
+    "Windows"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 11, ROX Tower, 54A Nguyễn Chí Thanh,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Kitting & Device Management via Jamf:\nBuild, configure, and optimize automated computer deployment scenarios (Kitting/Provisioning) for macOS using Jamf systems (Jamf Pro/Jamf School). \nEnsure newly issued devices automatically install all required software, security configurations, and company policies right out of the box (Zero-touch deployment).\nHandle application packaging and push remote software updates to Mac systems via Jamf.\n2. IT Support & Ticketing Workflow:\nReceive, track, and resolve in-depth technical issues related to macOS and Windows (hardware, profile errors, access permissions, software conflicts) for both local and international users via Jira Service Management (JSM).\nUtilize Jira platforms to collaborate on tasks, escalate complex technical bugs, and maintain service-level agreements (SLAs).\nAssist users in integrating Mac computers with the internal network, office printers, file servers, and global collaboration tools.\n3. Administration, Security & System Communication:\nMonitor security compliance on Mac devices (FileVault, Firewall, Antivirus) through configuration profiles on Jamf.\nWork and communicate directly with Global IT teams, Regional IT teams, or foreign vendors to resolve major system issues.\nAssist with basic administration of infrastructure systems, including local networks, Linux servers, and VMware virtualization environments.\n4. Asset Management:\nManage the lifecycle of Apple devices within the company from purchasing, activation on Apple Business Manager (ABM), and synchronization to Jamf, through to decommissioning.\nTrack, update, and audit all corporate hardware and software assets using Jira ITAM (Assets) to maintain an accurate inventory database.\nNote: All positions in MFV expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts.",
+  "yeu_cau": "Language (Mandatory):\nWorking proficiency in English (listening, speaking, reading, writing).\nAbility to explain technical issues to foreign users in an easy-to-understand manner.\nExperience & Expertise:\nHaving minimum 4 years hands-on experience at a similar role (CorpIT Engineer, IT Support, IT HelpDesk) in a corporate environment \nHaving strong experience in MacOS, Windows or Linux ecosystem \nHaving experience in one of below User Management tools: EntraID, AzureAD, Windows Microsoft AD, Okta, etc\nExperience in computer kitting, configuring using one of below Devices management tools: Jamf, Office365, Intune, etc\nExperience working with ticketing systems such as Jira Service Management (JSM), Jira workflows, Trello or similar tools \nNice to have requirements: \nUnderstanding of Jamf Pro/Jamf Now operations and the connection process with Apple Business Manager (ABM).\nHands-on experience using Jira ITAM (Assets / Insight) for tracking equipment and managing IT asset inventories.\nKnowledge of application packaging (.pkg, .dmg) and basic scripting (Bash/Shell) on macOS is a strong plus.\nPersonal Attributes: \nProactive and positive working attitude\nHighly motivated and eager to learn\nStrong customer-centric mindset (or User-focused approach)",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "IT Support"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Network and Infrastructure",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

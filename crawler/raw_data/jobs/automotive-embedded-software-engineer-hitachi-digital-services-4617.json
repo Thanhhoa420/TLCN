@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/automotive-embedded-software-engineer-hitachi-digital-services-4617",
+  "tieu_de": "Automotive Embedded Software Engineer ",
+  "ten_cong_ty": "Hitachi Digital Services",
+  "ngay_dang_raw": "2026-08-13",
+  "han_ung_tuyen_raw": "2026-09-17",
+  "ky_nang": [
+    "Zephyr",
+    "Hardware Design",
+    "AUTOSAR",
+    "Linux",
+    "Embedded"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Helios Bldg, Quang Trung Software City",
+  "quan_huyen": "Quận 12",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Analyze requirements, perform architecture design, detailed design, implementation, unit test, integration test and qualification test for Embedded Software and HW Drivers.\nDevelop, integrate and maintain device drivers and low-level software components on Embedded Linux and/or Zephyr RTOS platforms.\nDesign and implement OS abstraction layers (OSAL) and support software portability across different operating systems.\nWork independently and collaboratively with cross-functional teams to deliver high-quality software solutions.",
+  "yeu_cau": "3+ years of experience in Automotive Embedded Systems or Linux Embedded Systems.\nStrong programming skills in C/C++ for HW Drivers, Linux Kernel, Embedded Software, Compiler, Bash/Shell Script and Makefile.\nExperience with Embedded Linux Driver/Kernel/UBOOT development.\nExperience with device driver development and low-level software programming.\nExperience with Zephyr RTOS and OSAL (Operating System Abstraction Layer).\nExperience with Renesas FSP (Flexible Software Package) for RA/RX/RZ platforms is highly preferred.\nExperience with Hardware Manuals, Schematics and Datasheets.\nExperience with any AUTOSAR Classic Platform module (MCAL, BSW, ASW, BLE).\nExperience with communication protocols such as I2C, SPI, CAN, LIN, FlexRay and Ethernet.\nExperience with AUTOSAR Configuration Tools (e.g. DaVinci, ECU Spectrum).\nExperience with Software Development Lifecycle (SDLC).\nExperience with emulators, simulators, debugging and test equipment.\nExperience with multi-tasking and multi-thread programming is a plus.\nGood teamwork, communication and self-management skills.\nEnglish proficiency in reading and writing.",
+  "quyen_loi": "International working environment\nCompetitive compensation package and benefits\nInteracting with leading-edge technologies\n\nAt Hitachi Digital Services, we enjoy:\nUnique opportunity to work with multinational team of Hitachi in over 130 countries.\nIncomparable chance to participate in full Software Development Life Cycle (SDLCs) and comprehensive soft skills training.\nCompetitive remuneration with attractive allowances & bonuses.\nHitachi Digital Services offers a competitive benefit packages. Come join us to enjoy:\nOpportunities for advanced career development overseas, including the US, UK,. Japan...\nCompetitive & attractive compensation and benefits packages:\nAllowance for English, Japanese language certifications.\nSubsidy for transportation and meals.\n13th salary & Bonus\nAdditional Premium Health Insurance Package for employees.\nAnnual checking of health and company trip for employees.\nFlexible working hours\nBeing an integral part of a dynamic and fast-growing global enterprise.\nAn open, professional, and nourishing environment with out-side of work activities, such as football, tennis, badminton, dancing, music, and charity.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3MDg5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bf0f50b20c0b64492520f9079b6b0c43adfb115c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%202.png",
+  "company_url": "/companies/hitachi-digital-services",
+  "company_mo_ta": "Hitachi Digital Services Vietnam",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-engineer-net-angular-soxes-ag-0247",
+  "tieu_de": "Senior Fullstack Engineer .Net, Angular",
+  "ten_cong_ty": "soxes AG",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    ".NET",
+    "CI/CD",
+    "API",
+    "Angular",
+    "C#",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Estar Building, 147-149 Vo Van Tan St., ",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,200 - 2,800 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a highly skilled and experienced Senior Full-stack Software Engineer with strong expertise in .NET backend development and Angular frontend technologies.\nThe ideal candidate should have solid experience building scalable enterprise applications, APIs, and modern web platforms, while also being familiar with AI-assisted coding tools and modern software development practices to improve productivity and innovation.\nThis role requires strong technical ownership, system-thinking capabilities, and close collaboration with cross-functional teams in an Agile software development environment.\nFull-stack Software Development:\nDesign, develop, maintain, and optimize full-stack web applications using .NET technologies and the Angular framework.\nBuild scalable, secure, and high-performance enterprise applications and APIs.\nDevelop RESTful APIs, backend services, and frontend user interfaces.\nEnsure application performance, scalability, responsiveness, and security.\nOptimize database performance, application workflows, and system reliability.\nBackend Development (.NET):\nDevelop backend systems using .NET Core/ASP.NET Core, C#, Entity Framework, and RESTful APIs.\nIntegrate applications with cloud platforms, mobile applications, and third-party services.\nSupport microservices architecture and backend integrations when required.\nFrontend Development (Angular):\nDevelop and maintain frontend applications using Angular.\nCollaborate with UI/UX designers to create responsive, user-friendly interfaces.\nEnsure frontend performance optimization and cross-browser compatibility.\nIntegrate the frontend application with the backend APIs and Services.\nAI-Assisted and DevOps\nUtilize AI-assisted coding tools to improve software development productivity and code quality.\nTroubleshoot and resolve complex technical and production issues.\nSupport CI/CD pipelines, deployment, and DevOps processes.",
+  "yeu_cau": "Minimum 7+ years of experience in full-stack software development.\nStrong experience with: .NET Core / ASP.NET Core, C#, Angular, SQL Server /MySQL / PostgreSQL, RESTful APIs\nExperience with: Entity Framework, Microservices architecture, Git version control, CI/CD pipelines, Docker or container technologies.\nFamiliarity with cloud platforms (AWS, Azure, or GCP) is preferred.\nFamiliarity with AI-assisted development tools: Claude code, Copilot,…\nInterest or experience in AI-powered applications or integrations is a plus",
+  "quyen_loi": "Work in an international environment\nGood salary, good benefit, and health care insur\nOn-site opportunity in Europe\n\nAttractive Benefits:\nGreat salary package and comfortable working environment.\nSalary increases yearly.\n13th-salary Bonus included probation time.\nYearly Bonus.\nLoyalty Employee Benefit.\nOpportunity to go work on-site in Europe.\nPremium Healthcare Insurance Package.\nCompany trip, Year-End Party, Annual Health Check-up.\nWorking hours: 40h/week (Monday to Friday).",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIwMzA4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--082096ae44d1f91657295a3033b847cb38ecaea2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/soxes_gruen_rgb_claim-02.png",
+  "company_url": "/companies/soxes-ag",
+  "company_mo_ta": "www.soxes.ch",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

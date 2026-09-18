@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-backend-developer-golang-aviron-3425",
+  "tieu_de": "Middle Backend Developer Golang",
+  "ten_cong_ty": "Aviron",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Golang",
+    "Microservices",
+    "Redis",
+    "Kafka",
+    "Games",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "30 Ap Bac",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We're looking for a Backend Developer to help build and run the services that power Aviron's real-time multiplayer experiences. These are the systems that keep players' workout data synchronized and their races consistent while a lot is happening at once across many machines.\n \nYou'll take features from design through to production. You won't own the overall platform architecture, but you'll be expected to write reliable Go, reason carefully about concurrency, and take ownership of the code you ship.\n What you'll do\nBuild and maintain the Go services behind our real-time multiplayer features, keeping them reliable and low-latency—watching for memory and goroutine leaks, and recovering gracefully when connections drop.\nDesign data models and queries that perform well under load.\nWork with the app and product teams to scope and deliver features.\nInvestigate and resolve production issues as they arise.",
+  "yeu_cau": "What we're looking for\nMust-have\nBachelor‘s degree in computer science, information technology, engineering, or a related study, or equivalent experience.\nHave at least 2 years of experience in Backend development, including production Go.\nStrong Go fundamentals, including goroutines, channels, context, and common concurrency pitfalls like data races and goroutine leaks.\nWrites clean, idiomatic Go and backs important changes with tests.\nExperience building real-time or multiplayer systems where clients need timely, consistent updates, including keeping client state in sync and handling reconnection.\nSolid PostgreSQL skills: schema design, indexing, transactions, and efficient queries.\nComfortable building REST APIs, gRPC is a plus.\nComfortable debugging production services with logs and metrics.\nEffective and responsible use of AI coding tools—you use them to work efficiently, but you review their output and remain accountable for what ships.\nStrong plus\nDeeper multiplayer experience: message ordering, advanced reconnection flows, or other latency-sensitive systems.\nExposure to horizontally scaled real-time services, or stateful sessions running across multiple instances.\nExperience with tracing, load testing, Redis, Kafka, NATS, Kubernetes, or GCP.\nAnalytical databases such as ClickHouse or BigQuery, and high-volume event pipelines (relevant to the workout and leaderboard data we process).\nPrior work on games, fitness tech, or other latency-sensitive products.",
+  "quyen_loi": "Competitive pay and attractive benefits\nOpportunities for career development\nInternational,open, respectful working environment\n\nFlexible working time: From 7:00 AM to 4:30 PM or 9:00 AM to 6:30 PM, Monday-Friday.\nSalary: Competitive (based on skills and experience).\nPerformance review and bonus every year.\nBreakfast allowance.\nHealth care program up to 2000$/year.\nEducation fund.\nInternational, open, and respectful working environment.\nSports activities.\nYearly company trip.\nTeam building activities.\nTechnical seminar in the company.\nSocial Insurance, Health Insurance, Unemployment Insurance, Annual Health Check, and Others as Vietnamese Labor Code and Company Policy.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDA1NDI2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--a7395c92f48fe65deb7c144a90406885ff9067ac/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/OZuaHIo7_400x400.jpg",
+  "company_url": "/companies/aviron",
+  "company_mo_ta": "Bring Your A Game",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Game",
+    "Software Products and Web Services",
+    "Sports and Fitness"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

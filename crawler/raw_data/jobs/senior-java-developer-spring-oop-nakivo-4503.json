@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-java-developer-spring-oop-nakivo-4503",
+  "tieu_de": "Senior Java Developer Spring/OOP",
+  "ten_cong_ty": "Nakivo",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Java",
+    "OOP",
+    "Spring"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "TGI Building, 208 Nguyen Trai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a person, who can:\n● Designing and estimating feature architecture based on the written specification.\n● Implementing features full-stack (Java backend + ExtJS frontend + database migrations)\n● Ensuring code quality through testing and code review\n● Working independently with minimum guidance",
+  "yeu_cau": "You properly are a potential candidate for this position, if you have:\n● Able to use AI tools to accelerate development\n● Strong understanding of object-oriented design patterns.\n● Fluency in Java 8+ and the related ecosystem.\n● Solid experience with Spring Framework (dependency injection, transactions, security, scheduling)\n● Solid experience with Hibernate/JPA (entity mapping, lazy/eager loading, cascading, HQL/JPQL)\n● Good at JavaScript, HTML, and CSS.\n● Strong SQL skills and experience with database migration tools (Liquibase or Flyway)\n● Experience with multi-threaded / concurrent programming\n● Experience with Gradle or Maven build systems\n● Able to quickly learn and work with new APIs, SDKs.\n● Able to follow existing code standards.\n● Able to write modules, clean and well-tested code.\n● At least 5 years of experience in a relevant position.\n● Intermediate+ English (reading specs, writing documentation, team communication)\n● At least 1 year of mentoring, training, or managing experience.\nYou would be a strong candidate, if you have one of these following:\n● Knowledge of virtualization concepts (VMs, snapshots, replication, hypervisor APIs)\n● Experience with Linux administration and bash scripting\n● Familiarity with PowerShell for Windows automation\n● Experience with network programming (sockets, SSH, HTTP clients)\n● Experience with SVN, Jira, and Confluence\n● IntelliJ IDEA or VSCode\n● Experience with large monolithic Java codebases",
+  "quyen_loi": "Flexible working hour\nPrivate health care insurance\nPremium annual health care check\n\nThe Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years. \nWe welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offering\nFlexible working hours: Office opens from 6.00 AM to 10.00 PM\nPrivate health care package\nPremium health care check\nGift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday\n15-18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)\nTeam building\nFree and un-limited snack, tea, coffee and by-choice request.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MTk2LCJwdXIiOiJibG9iX2lkIn19--bceea6d3244169111f1344425f9c11dc02e70eb5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nakivo-logo.jpg",
+  "company_url": "/companies/nakivo",
+  "company_mo_ta": "Providing continuous data protection software for VMware-based virtual servers.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

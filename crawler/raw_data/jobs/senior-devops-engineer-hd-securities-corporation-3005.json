@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-hd-securities-corporation-3005",
+  "tieu_de": "Senior DevOps Engineer",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "DevOps",
+    "Docker",
+    "Azure",
+    "Jenkins",
+    "GitLab",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "900 - 1,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. MÔ TẢ CÔNG VIỆC\nTham gia xây dựng và vận hành môi trường triển khai ứng dụng; đảm bảo các hệ thống giao dịch, ứng dụng khách hàng và hệ thống nội bộ được triển khai ổn định, có giám sát và đáp ứng yêu cầu bảo mật, kiểm soát thay đổi của Công ty.\n \n2. TRÁCH NHIỆM CHÍNH:\n1. Triển khai và vận hành ứng dụng\nXây dựng, duy trì pipeline CI/CD; thực hiện build, deploy, rollback và quản lý phiên bản ứng dụng trên các môi trường DEV, UAT và Production.\nPhối hợp với đội ngũ Phát triển, Kiểm thử và các đơn vị liên quan lập kế hoạch triển khai; kiểm tra điều kiện triển khai và xử lý các vấn đề phát sinh.\nQuản lý cấu hình triển khai, tham số môi trường, lịch sử release và tài liệu vận hành của các hệ thống được phân công.\n2. Quản trị nền tảng và tự động hóa\nTriển khai, vận hành các nền tảng phục vụ ứng dụng như Linux, Docker, Kubernetes, web server, database middleware hoặc các dịch vụ liên quan.\nTự động hóa cấu hình và cấp phát hạ tầng bằng script, Ansible, Terraform hoặc công cụ tương đương; hạn chế thao tác thủ công trên môi trường vận hành.\nPhối hợp với bộ phận Hạ tầng CNTT trong các công việc liên quan đến máy chủ, mạng, lưu trữ, cân bằng tải, DNS, SSL và phân quyền truy cập.\n3. Giám sát và xử lý sự cố\nTheo dõi tình trạng hoạt động, hiệu năng, dung lượng và log hệ thống; cấu hình cảnh báo cho các dịch vụ và ứng dụng quan trọng.\nTham gia xử lý sự cố production, xác định nguyên nhân, thực hiện khắc phục hoặc phối hợp với các đội ngũ liên quan để khôi phục dịch vụ.\nThực hiện backup/restore, kiểm tra phương án dự phòng; cập nhật tài liệu, báo cáo sự cố và đề xuất biện pháp ngăn ngừa tái diễn.",
+  "yeu_cau": "Kinh nghiệm\nTốt nghiệp Đại học chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật phần mềm hoặc ngành liên quan.\nCó từ 3–5 năm kinh nghiệm tại vị trí DevOps Engineer, System Engineer, Cloud Engineer, SRE hoặc tương đương.\nCó kinh nghiệm triển khai và hỗ trợ vận hành hệ thống trên môi trường production; ưu tiên ứng viên từng làm việc tại ngân hàng, chứng khoán, fintech hoặc doanh nghiệp có hệ thống vận hành liên tục.\nKiến thức và kỹ năng chuyên môn\nCó kinh nghiệm với Linux, Git, CI/CD như GitLab CI/CD, Jenkins, Azure DevOps hoặc công cụ tương đương.\nCó khả năng làm việc với Docker, Kubernetes, Helm; có kinh nghiệm sử dụng Terraform, Ansible hoặc công cụ tự động hóa hạ tầng là lợi thế.\nCó kiến thức về monitoring/logging như Prometheus, Grafana, ELK/EFK, Zabbix; hiểu về DNS, SSL/TLS, reverse proxy, load balancer, firewall và quản lý secrets.",
+  "quyen_loi": "4. QUYỀN LỢI\nThu nhập, thưởng và các chế độ phúc lợi theo chính sách Công ty.\nĐược tham gia vận hành và cải tiến các hệ thống công nghệ phục vụ hoạt động chứng khoán.\nĐược đào tạo và hỗ trợ phát triển chuyên môn về Cloud, Kubernetes, CI/CD, bảo mật và vận hành hệ thống.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-data-quality-engineer-qa-money-forward-vietnam-co-ltd-3125",
+  "tieu_de": "AI/Data Quality Engineer QA",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Automation Test",
+    "Python",
+    "Machine Learning",
+    "Data Quality Tools",
+    "AI",
+    "Tester"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking an AI QA & Data Quality Specialist to ensure the quality, reliability, and performance of AI-driven products and the data pipelines that support them. This role focuses on validating AI model outputs, testing AI-powered features, and ensuring the integrity and quality of datasets and data pipelines used for training and inference.\nYou will work closely with engineering, data engineering, and product teams to improve the overall quality of AI systems through systematic testing, data validation, and automation.\n \nThis role expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts.\n Key ResponsibilitiesAI System Quality Assurance\nDesign and execute test strategies for AI/ML-powered applications and features.\nValidate AI model outputs for accuracy, reliability, and consistency.\nPerform prompt testing, response evaluation, and edge case validation for AI systems.\nIdentify issues such as hallucinations, bias, incorrect reasoning, or unstable responses\nDefine acceptance criteria and quality benchmarks for AI-driven features.Data Engineering & Data Pipeline Testing\nValidate data pipelines (ETL/ELT) used to prepare datasets for AI models.\nTest data ingestion, transformation, and loading processes to ensure reliability.\nVerify data integrity between source systems, data warehouses, and AI models.\nDetects and reports data anomalies, schema changes, missing data, or transformation errors.\nCreate data validation rules and automated data quality checks.Dataset & Model Evaluation\nValidate training datasets and feature engineering pipelines.\nMonitor dataset quality to prevent data drift or unexpected data changes.\nDefine and track AI model evaluation metrics such as accuracy, precision, recall, and response quality.\nCollaborate with data scientists to analyze model performance and identify improvement areas.Test Automation\nDevelop automated tests for AI APIs, workflows, and data pipelines.\nBuild automation frameworks to test AI output regression and data validation.\nIntegrate automated testing into CI/CD pipelines.Collaboration & Process Improvement\nWork closely with AI engineers, data engineers, product managers, and QA teams.\nProvide feedback during AI model development and deployment cycles.\nContribute to building AI testing standards, data quality guidelines, and QA best practices.",
+  "yeu_cau": "Bachelor’s degree in Computer Science, Software Engineering, Data Science, or related field.\n5+ years of experience in software QA, test automation, or data validation and 2+ years of experience in AI & Data quality testing\nExperience testing APIs, web services, or distributed systems.\nStrong knowledge of SQL and data validation techniques.\nStrong with Python for data automation, typescript and or Java for other automation.\nUnderstanding of machine learning concepts and AI system behavior.\nExperience with test automation tools.\nExperience testing AI systems, LLM applications, or chatbots.\nExperience with big data platforms.\nKnowledge of prompt engineering or AI evaluation methods.\nExperience working with cloud platforms AWS\nFamiliarity with CI/CD and DevOps practices.\nGenerative AI: Enthusiastic user of Generative AI and advanced AI tooling to streamline workflows and significantly accelerate project delivery timelines.\nProduct Mindset: Proven track record to translate high-level product requirements into detailed  requirements, and into comprehensive technical requirements through close partnership with Product Managers\nCommunication: Good verbal and written English skills, ensuring clarity and alignment within distributed, multi-national product engineering teams.Key Skills\nAI/ML testing\nData pipeline testing\nData quality validation\nSQL and dataset analysis\nTest automation\nAPI testing\nPrompt evaluation\nData integrity verificationSuccess Metrics\nImproved AI output quality and reliability (accuracy rate, latency, token, cost,...)\nEarly detection of data pipeline or dataset issues\nIncreased automation coverage for AI and data testing\nReduced production issues caused by data or AI failures",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nFinancial Benefits:\nAttractive Salary Package\nInsurance based on full salary (Social Insurance, Health Insurance, Unemployment Insurance)\nPrivate health insurance and accident insurance for employees. Covering for family member, applied from manager level\nFull salary during probation period\n17 paid leaves per year\nWorking environment:\nVery well-equipped facility: Macbook, Additional monitor\nHybrid working model with 2 working days in office per week\nAnnual Company trip and Quarterly Team building\nWorking in an international environment with nice and supportive colleagues\nWork life balance environment\nSport clubs in the company for engagement activities: billiard club, running club\nCareer Development:\nClear Career path\nExternal & internal training courses\nSoft-skill workshops\nMonthly and biannual Recognition Awards\nPerformance & salary review: twice/year (Jun & Dec)",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Software Engineer in Test (SDET)"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

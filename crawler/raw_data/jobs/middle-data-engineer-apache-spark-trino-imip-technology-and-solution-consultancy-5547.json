@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-data-engineer-apache-spark-trino-imip-technology-and-solution-consultancy-5547",
+  "tieu_de": "Middle Data Engineer Apache Spark, Trino",
+  "ten_cong_ty": "IMIP Technology And Solution Consultancy ",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Data Engineer",
+    "Business Intelligence",
+    "CI/CD",
+    "Kubernetes",
+    "Apache Spark"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 5, Tòa nhà Lucky, số 81 Trần Thái Tông",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "750 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Overview \nWe are seeking a Middle Data Engineer to build and scale our Production Datahouse on-premise environment. This is a purely technical, hands-on role focused on implementing a high-performance, on-premise data architecture. \nYou will own the end-to-end technical execution, managing the entire lifecycle of data as it moves from landing ingestion to the final serving layer. This role is not about high-level theory; it is about the hard engineering required to optimize on-premise hardware, tune distributed processing engines, and ensure a seamless data flow across our internal ecosystem. \nKey Responsibilities \nData Pipeline Engineering: Design, build, and maintain automated data ingestion pipelines from several source systems using Airbyte and Airflow, ensuring reliability and scalability. \nLakehouse Architecture Implementation: Develop and manage the Medallion Architecture (Bronze/Silver/Gold) using dbt-spark to enable structured, high-quality analytical datasets. \nPlatform Performance Optimization: Optimize Spark and Trino workloads on Kubernetes and manage the full lifecycle of Apache Iceberg tables (compaction, snapshotting, and maintenance) to improve query performance, storage and reduce latency. \nInfrastructure & Reliability Management: Proactively monitor and maintain Data Platform resources using Grafana and Prometheus; analyze query patterns to enhance system stability and performance for production users. \nData Security & Governance: Enforce row- and column-level security using Open Policy Agent (OPA) and develop foundational frameworks for Data Governance and Data Quality, embedding lineage, automated testing, and compliance directly into pipelines. \nEnterprise Data Integration: Architect and implement high-performance data bridges to deliver on-premise Lakehouse data into Microsoft Fabric, enabling seamless and secure hybrid-cloud connectivity.",
+  "yeu_cau": "3+ years of hands-on experience in Data Engineering or Platform Engineering, building and operating production-grade data platforms. \nStrong expertise in distributed processing with Apache Spark and Trino, including performance tuning and optimization. \nProven experience designing and maintaining reliable data pipelines using Airbyte and Apache Airflow. \nSolid understanding of modern Lakehouse architectures, dbt-based transformations, and Iceberg table management. \nHands-on experience with Kubernetes, containerized deployments, and CI/CD for data workloads. \nKnowledge of data security, governance, and access control practices (row/column-level security, policy enforcement, IAM). \nExperience supporting BI/analytics use cases and integrating with enterprise reporting tools (e.g., Microsoft Fabric, Power BI). \nStrong troubleshooting, system reliability, and problem-solving skills in complex distributed environments. \nAbility to work independently in a highly technical, ownership-driven role.",
+  "quyen_loi": "Attractive salary\nHealth care insurance (3 million VND/years)\nLearn English for free with native speakers\n\n**easy going and friendly environment \n**Remuneration Package: \n• Working hours: 5 days per week (in a professional and yet young, dynamic environment); \n• Salary: Competitive remuneration package (based on skills and experience); \n• 12 leave days per year",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2OTE3LCJwdXIiOiJibG9iX2lkIn19--42042283032f344a3ffed30ab486ee4c70ad0c99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/imip-technology-and-solution-consultancy-logo.png",
+  "company_url": "/companies/imip-technology-and-solution-consultancy",
+  "company_mo_ta": "IMIP specializes in productivity solutions for scanning, marketing automation and document capture.",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

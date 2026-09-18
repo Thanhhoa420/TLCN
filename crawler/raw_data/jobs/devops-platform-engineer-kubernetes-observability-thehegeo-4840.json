@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-platform-engineer-kubernetes-observability-thehegeo-4840",
+  "tieu_de": "DevOps / Platform Engineer Kubernetes, Observability",
+  "ten_cong_ty": "TheHeGEO",
+  "ngay_dang_raw": "2026-08-22",
+  "han_ung_tuyen_raw": "2026-09-26",
+  "ky_nang": [
+    "DevOps",
+    "PostgreSql",
+    "CI/CD",
+    "Linux",
+    "Docker",
+    "Kubernetes"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "185 Giảng Võ, Cát Linh",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Kubernetes & ảo hóa: Vận hành cụm K8s self-hosted (Kubespray/kubeadm), HA control plane, Longhorn/storage; ảo hóa KVM/libvirt trên bare-metal Linux (Ubuntu).\nCI/CD & Container: Jenkins (hoặc GitLab CI/ArgoCD), Harbor registry, build/scan/deploy pipeline, GitOps.\nNetworking & Edge: HAProxy/Nginx load balancing, host-based routing, Cloudflare (Tunnel, Zero Trust/Access, DNS), VPN, firewall/NAT, troubleshooting tầng mạng.\nSecurity (DevSecOps): Hardening, secrets management, RBAC, IAM/Keycloak, vulnerability scanning, least-privilege, audit/compliance (ưu tiên hiểu Nghị định 13 về dữ liệu cá nhân).\nData platform (lợi thế): MinIO/S3, Lakehouse (Iceberg/Nessie/Trino/Spark), PostgreSQL.\nTự động hóa & vận hành: Bash/Python, IaC (Ansible/Terraform), monitoring (Prometheus/Grafana), tư duy debug độc lập, chủ động — quen môi trường on-premise/data center.\nXây dựng CI/CD, GitOps, Monitoring, Logging, Tracing.\nBackup, DR, Security Hardening.",
+  "yeu_cau": "Kubernetes, Docker, Helm, Helmfile\nLinux & PostgreSQL\nCI/CD, GitOps, OIDC/SSO\nPrometheus, Grafana, OpenTelemetry\nĐiểm cộng\nKinh nghiệm AI/LLM, Kubernetes, hệ thống phân tán, GovTech hoặc Enterprise Platform.",
+  "quyen_loi": "Mức thu nhập cạnh tranh\nThưởng theo hiệu quả\nTham gia các dự án AI/Data quy mô lớn\nMôi trường công nghệ hiện đại.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNzE2LCJwdXIiOiJibG9iX2lkIn19--91e20f075255045afd65c7c3135a8e1a2fa2fe72/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/thehegeo-logo.png",
+  "company_url": "/companies/thehegeo",
+  "company_mo_ta": "be smart working!",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

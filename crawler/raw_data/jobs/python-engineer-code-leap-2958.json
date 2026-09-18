@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/python-engineer-code-leap-2958",
+  "tieu_de": "Python Engineer",
+  "ten_cong_ty": "CODE LEAP",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Python",
+    "English",
+    "FastAPI",
+    "Django"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "101-103 Nguyen Cuu Van",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "YOUR NEW ROLE CODE LEAP\nThis role is for CODE LEAP's sister-company named AINAVIO.\n \nAINAVIO is a startup providing an all-in-one cloud solution for the e-commerce industry to gather, enrich, and distribute product content at scale. We are using AI and workflow automation to help our clients improve their product information management. As a spinoff of a consulting company, we already have a large e-commerce company as our client and are financially backed to get our product to the next level.\n \nWe are looking for an experienced Backend Engineer (Python) to join our team and help us develop further our deep learning models for image processing and classification.\nYOUR EXCITING TASKS\nDevelop and maintain cloud-native backend services on AWS (e.g., ECS, SQS, SNS)\nDesign and build scalable backend services using Python on a production running product\nDevelop and maintain RESTful APIs following industry best practices\nWrite clean, maintainable code with proper testing coverage (unit and integration tests)\nParticipate in code reviews and architectural discussions\nImplement basic observability practices including logging and monitoring\nCollaborate with frontend engineers, QA, DevOps, and product stakeholders to deliver high-quality solutions\nContribute to technical documentation and knowledge sharing\nSupport troubleshooting and root-cause analysis of production issues\nStay up to date with emerging technologies, especially in AI/LLM tooling",
+  "yeu_cau": "4+ years of experience in backend software development using Python\nStrong Python skills with experience building production systems using FastAPI or similar frameworks\nSolid software engineering fundamentals: clean code, design patterns, testing discipline\nExperience with RESTful API design\nHands-on experience with SQL and/or NoSQL databases (e.g., PostgreSQL, MySQL, MongoDB)\nExperience with automated testing using Pytest or similar\nExperience deploying or working with cloud-native applications (Azure preferred)\nGood problem-solving ability and willingness to take ownership\nGood communication skills and ability to collaborate across teams\nProficiency in English communication\nNice to have:\nC# experience\nHands-on experience building LLM-powered features: prompting, tool calling, agent frameworks",
+  "quyen_loi": "Boost your international career at CODE LEAP\nWork on challenging German products\nFlexible work policy with Grab sponsorship\n\nBENEFITS AWAIT YOU AT CODE LEAP\nCompetitive salary and beneﬁts\nYear-end bonus (13th-month salary)\nGenerous annual leave of up to 18 days\nAdditional premium health insurance\nEnjoy a stress-free and comfortable commute to and from work with our Grab Services sponsor\nEnjoy an endless selection of delicious refreshments, including gourmet coffee, beverages, snacks, and fresh fruits, all complimentary\nFocused on individual development:\nUnlimited access to Udemy and other recommended courses\nSponsored Professional certificates such as AWS, PMI, Scrum Master, etc\nSoft skill training for professional growth\nSharing session every Friday, come along with lunch provided by CODE LEAP\n1-on-1 coaching with experienced professionals\nFlexible work policy, which provides flexible hours to accommodate personal schedules and commitments\nDynamic, fun, and agile environment, perfect for sharing and creativity\nOpen-minded, kind & humble colleagues",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTk5NTUwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ed3dbc0604a82deba119aa3a092efd6019ae1d9b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/CODE%20LEAP_logo_1024sq%20-%20Bach%20Tung%20Vu.png",
+  "company_url": "/companies/code-leap",
+  "company_mo_ta": "CODE LEAP's expert teams in Germany and Vietnam build leading software products in the German market",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/infrastructure-cloud-platform-operations-manager-dai-ichi-life-viet-nam-1048",
+  "tieu_de": "Infrastructure, Cloud  Platform Operations Manager",
+  "ten_cong_ty": "Dai-ichi Life Việt Nam",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "System Admin",
+    "IBM DB2",
+    "Microsoft SQL Server",
+    "Cloud Security",
+    "Redhat",
+    "Linux"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "149-151 Nguyen Van Troi",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "JOB PURPOSE:\nThis position is responsible for leading the design, implementation, administration, monitoring, and continuous improvement of the Company's infrastructure platforms, including servers, storage, Active Directory, messaging systems, virtualization, cloud services, and related technologies.\nThis role ensuresthe availability, security,performance, resilience, and scalability of the Company's technology infrastructure while supporting business growth, digital transformation initiatives, regulatory compliance, and operational excellence. The position also providesleadership to the System Administration team, driving innovation, operational efficiency, and service quality.\nPRINCIPAL ACCOUNTABILITIES:\nLead the design, architecture, and implementation of infrastructure solutions, including servers, storage, virtualization platforms, Active Directory, messaging systems, cloud services, backup, and disaster recovery solutions.\nManage, mentor, and develop the System Administration team by assigning priorities, monitoring performance, building technical capabilities, and fostering a culture of accountability and continuous improvement.\nOversee the administration, monitoring, maintenance, and optimization of infrastructure platforms to ensure system availability, reliability, and performance across all company locations.\nEnsure compliance with IT governance standards, cybersecurity policies, technology procedures, Enterprise Architectures and regulatory requirements to protect critical infrastructure and information assets.\nManage backup, disaster recovery (DR), and business continuity (BCP) capabilities to ensure operational resilience and periodic recovery readiness.\nLead problem management activities, including root cause analysis, troubleshooting, and resolution of infrastructure, system, and platform-related incidents.\nDrive infrastructure modernization initiatives by evaluating emerging technologies and recommending solutions that improve efficiency, security, scalability, and user experience.\nCollaborate with internal stakeholders, vendors, and project teams to deliver infrastructure services and support strategic technology initiatives.\nManage infrastructure budgets, asset lifecycle planning, vendor relationships, maintenance contracts, and technology procurement activities.",
+  "yeu_cau": "Education & Experience:\nBachelor's degree in Computer Science, Information Technology, Computer Engineering, or a related discipline.\nMinimum 5 years of experience in infrastructure operations, system administration, or technology platform management.\nMinimum 2 years of people management or team leadership experience preferred.\nExperience in enterprise environments with high availability, security, and compliance requirements.\nExperience in financial services, insurance, or highly regulated industries is an advantage.\nPreferred Certifications\nMicrosoft Certified: Azure Administrator Associate; Azure Solutions Architect Expert.\nRed Hat Certified Engineer(RHCE).\nVMware CertifiedProfessional (VCP).\nITIL Foundation Certification.\nCISSP, CISM, or equivalent security certification (preferred).\nTechnical skills:\nInfrastructure & Operating Systems: MS Windows Server; Linux (Red Hat Enterprise Linux, OpenShift, CentOS, Ubuntu); Active Directory, Group Policy, DNS, DHCP; Identity and Access Management (IAM).\nVirtualization & Cloud: VMwarevSphere / Hyper-V;Microsoft Azure; MS 365 Administration; Hybrid Cloud Infrastructure.\nStorage & Backup: Enterprise Storage Platforms; Backup and Recovery Solutions; Disaster Recovery Technologies.\nMessaging& Collaboration: MS Exchange Online;MS 365 Platform; Teams Administration\nDatabase & Middleware: MS SQL Server; MySQL; IBM DB2 (preferred); IBM ACE; IBM Data Power.\nSecurity: Infrastructure Security Management; Vulnerability Management; Privileged Access Management; Endpoint and Server Hardening; Security Monitoring and Compliance.\nMonitoring & Automation: Infrastructure Monitoring Solutions; PowerShell Scripting; Infrastructure Automation; Configuration Management Tools.\nService Management: Incident,Problem, and Change Management; ITIL-based Operational Practices; Vendor and SLA Management\nLeadership & Soft Skills:\nStrong leadership and people managementskills.\nExcellent stakeholder managementand communication abilities.\nStrong analytical and problem-solving capabilities.\nAbility to make sound decisionsunder pressure.\nStrong planning, prioritization, and organizational skills.\nAbility to lead infrastructure transformation and modernization initiatives.\nCustomer-oriented mindsetwith continuous improvement focus.\nPersonal Attributes\nHigh integrity and accountability.\nStrong sense of ownership and responsibility.\nDetail-orientedwith commitment to operational excellence.\nProactive and results-driven.\nAdaptable and open to innovation and change.",
+  "quyen_loi": "Salary for 13th month, Bonus & Special Bonus\nFull of social welfare under Vietnamese Labor Law (Insurance, annual leave, ...)\nHealthcare for yourself & Your Family\nAnnual travel and team building activities\n15-16 annual leave days\nCompany will buy Life Insurance Contract for yourself after 1 year working\nTraining: Trained in soft and technical skills\nInternational, challenging, and friendly working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NDQ1LCJwdXIiOiJibG9iX2lkIn19--25a3ed11f78397e26bab59430a62cfdcd7b7cf70/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJQTkciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--8bc50d7c71db3d85710f2b7b7cfd08fe61e2a416/dai-ichi-life-vi-t-nam-logo.PNG",
+  "company_url": "/companies/dai-ichi-life-viet-nam",
+  "company_mo_ta": "Dai-ichi Life Việt Nam",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "IT Services and IT Consulting",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

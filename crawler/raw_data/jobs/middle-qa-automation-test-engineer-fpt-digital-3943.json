@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-qa-automation-test-engineer-fpt-digital-3943",
+  "tieu_de": "Middle QA/ Automation Test Engineer",
+  "ten_cong_ty": "FPT Digital",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Automation Test",
+    "Cypress",
+    "Playwright",
+    "Selenium",
+    "QA QC",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "FPT Tower, 10 Phạm Văn Bạch, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội, Việt Nam",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "800 - 1,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Automation Testing (Core Focus):\nDesign, build, and maintain automated test scripts using frameworks such as Playwright, Selenium, or Cypress for core system workflows.\nIntegrate automated test suites into CI/CD pipelines to ensure release quality and continuous delivery.\nPerform API testing (using Postman, RestAssured, or API automation libraries) and execute regular regression testing.\n \n2. Test Strategy & Quality Mindset:\nAnalyze business requirements (SRS/User Stories) and Acceptance Criteria to create comprehensive Test Plans and Test Cases covering Happy Paths, Edge Cases, and Boundary Conditions.\nConduct functional testing (Web/App UI), workflow validations, and perform SQL database checks to verify data integrity and consistency.\nLog, track, and manage defect lifecycles on Jira; collaborate closely with Developers and PMs to resolve issues efficiently.\n3. AI & LLM Feature Testing:\nTest AI/LLM-driven product features (e.g., AI Chatbots, automated data extraction, RAG workflows).\nEvaluate AI output quality based on established criteria: accuracy, completeness, source attribution, and detection of AI hallucinations (incorrect or fabricated responses).\nTest different prompt variations to compare performance, answer stability, and response consistency.\nLeverage modern AI tools (ChatGPT, Claude, Copilot) to accelerate test case generation, test data creation, and script writing.",
+  "yeu_cau": "1. Experience & Quality Assurance:\nBachelor’s Degree in Computer Science, Information Technology, or a related field.\n2–4 years of experience in software testing (Manual and Automation).\nStrong QA Mindset: Excellent analytical skills, attention to detail, strong logic for identifying system flaws, edge cases, and effective bug-hunting.\n \n2. Automation & Tech Stack (Must-have):\nProficiency in at least one UI Automation framework (Playwright, Selenium, or Cypress) with corresponding programming languages (JavaScript/TypeScript, Python, or Java).\nSolid hands-on experience in API testing with Postman or API automation libraries.\nProficiency in writing SQL queries to query, validate, and verify system database records.\n3. AI Exposure & Willingness to Learn:\nPrior experience testing AI/LLM features OR active use of GenAI assistants (ChatGPT, Claude, etc.) in daily QA workflows.\nOpen, curious mindset with a strong passion for specializing in AI Quality Assurance.",
+  "quyen_loi": "Hands-on experience testing GenAI applications, LLM Chatbots, or Big Data systems.\nFamiliarity setting up CI/CD test automation pipelines (GitHub Actions, GitLab CI, Jenkins).\nBasic understanding of RAG (Retrieval-Augmented Generation) architecture or prompt engineering principles.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzExMDI5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--e1949c7f58d26cb57a535ffa4b0216d610df84ba/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/ta%CC%89i%20xuo%CC%82%CC%81ng%20(2).jpeg",
+  "company_url": "/companies/fpt-digital",
+  "company_mo_ta": "FPT Digital",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

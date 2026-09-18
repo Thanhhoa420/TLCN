@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/remote-qa-engineering-manager-playwright-typescript-orgscale-recruitment-0230",
+  "tieu_de": "Remote - QA Engineering ManagerPlaywright, TypeScript",
+  "ten_cong_ty": "OrgScale Recruitment",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "AI",
+    "API",
+    "DevOps",
+    "CI/CD",
+    "Selenium",
+    "Cypress"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": ".",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "3,000 - 5,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Key Responsibilities\n1. Quality Strategy, Portfolio Governance & Standards\nOwn quality strategy, standards, and delivery health across multiple products, projects, and peak traffic periods\nDefine org-wide QA processes, test automation frameworks, and the core quality metrics executive leadership relies on\nPartner with Engineering, Product, and business leaders on release readiness, risk management, and multi-product sprint execution\nEstablish a high bar for engineering standards, test coverage, and code craftsmanship across functional and automated testing\n2. Test Automation Architecture, Infrastructure & AI Innovation\nDesign, evolve, and scale modern test automation frameworks (Playwright, TypeScript, Cypress) used across the QA org\nDrive AI-augmented testing as a baseline standard across teams (AI-assisted test generation, maintenance, coverage analysis, and triage)\nOwn CI/CD test integration, test infrastructure, reporting, and proactive flaky-test reduction to ensure fast, reliable build pipelines\nStay hands-on - write and review automation code, troubleshoot complex pipeline failures, and set technical standards by example\n3. Leadership, Team Growth & Talent Bench\nLead, coach, and mentor QA Leads, Senior QAs, and Automation Engineers into autonomous leaders\nBuild a multiplier culture where success is measured by your team outperforming and outgrowing you\nBuild and scale the QA organization by maintaining an always-on recruitment pipeline ahead of business growth\nCreate clarity, establish autonomous team operating models, and foster high ownership with zero hand-holding culture\n4. Cross-Functional Alignment & Continuous Improvement\nEmbed quality, automation, and continuous integration into the end-to-end product delivery lifecycle\nRepresent quality in company-wide planning, resource allocation, and prioritization across competing product lines\nProactively manage technical debt, test environment risks, and opportunities for testing innovation",
+  "yeu_cau": "Quality Leadership & Portfolio Strategy\n7–8+ years of professional experience in QA with a proven track record managing QA teams, QA Leads, or multi-product portfolios\nDeep expertise defining end-to-end quality strategies - from initial scope to final sign-off across complex digital products\nProven experience in high-growth, fast-moving environments \nTest Automation & Architecture\nDeep hands-on expertise with Playwright and TypeScript (or modern equivalents like Cypress, Selenium) including building frameworks from scratch\nStrong programming fundamentals, code review capabilities, and advocacy for code craftsmanship\nProven experience integrating automated testing into CI/CD pipelines, DevOps tooling, and managing test infrastructure\nAI-Augmented Testing\nHands-on fluency applying AI tools to daily testing tasks (test case generation, triage, coverage gap analysis, flaky test diagnosis)\nAbility to drive team-wide adoption of AI-assisted QA processes as a baseline capability\nPeople Leadership & Hiring\nDemonstrated track record as a \"multiplier\" - growing engineers into leaders and building high-performing, autonomous teams\nActive experience in hiring, pipeline building, and hiring for long-term growth rather than control\nHigh autonomy, strong ownership, and a calm, decisive leadership style under pressure\nCommunication\nExceptional stakeholder management and collaboration skills across Product, Engineering, and Business functions\nFluent in written and spoken English",
+  "quyen_loi": "Birthday leave\nCompetitive salary package\nLearning & development opportunities",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "Headhunt",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMxOTQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--61a4f1b1796c111b2b6c01de40aafbf7660440b4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image%20(1).png",
+  "company_url": "/companies/orgscale-recruitment",
+  "company_mo_ta": "OrgScale Recruitment",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

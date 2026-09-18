@@ -18,7 +18,7 @@ HEADERS = {
 
 LISTING_URL = "https://www.topcv.vn/tim-viec-lam-cong-nghe-thong-tin-cr257?category_ids=257&page={page}"
 MAX_PAGES = 15
-RAW_PATH = "crawler/raw_data/topcv_salary_listing.json"
+RAW_PATH = "crawler/raw_git stdata/topcv_salary_listing.json"
 
 
 def parse_salary(text):

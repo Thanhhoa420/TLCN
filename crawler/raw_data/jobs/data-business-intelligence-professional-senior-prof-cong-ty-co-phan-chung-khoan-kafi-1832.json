@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/data-business-intelligence-professional-senior-prof-cong-ty-co-phan-chung-khoan-kafi-1832",
+  "tieu_de": "Data  Business Intelligence Professional / Senior Prof",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN KAFI",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "SQL",
+    "Oracle",
+    "Database",
+    "Data Analysis",
+    "Power BI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Sailing Tower, 111A Pasteur, Ward Sai Gon",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Overview\nWe are seeking a skilled Data & Business Intelligence Professional to join our team. In this role, you will transform data into meaningful insights through compelling data storytelling and intuitive visualizations, with a strong focus on generating actionable insights that directly support business decision-making.\nYou will work closely with business stakeholders to understand key problems, design analytics solutions, and deliver impactful dashboards that support data-driven decision-making. \n \nKey Responsibilities \nCollaborate with business teams to understand requirements, define key metrics, and translate business questions into analytical solutions.\nAnalyze large datasets to identify trends, root causes, and actionable insights that directly influence business decisions.\nDesign and develop dashboards with clear business narratives, focusing on driving understanding and decision-making (not just reporting).\nCommunicate insights clearly and effectively to both technical and non-technical stakeholders.\nPerform ad-hoc analyses to support business initiatives, performance tracking, and strategic planning.\nWork closely with Data Engineers to understand data pipelines, ensure data quality, and propose data structure improvements for analytics use cases.\nContribute to the design of analytical data models / data marts to enable scalable and reliable analytics.",
+  "yeu_cau": "Must-Have:    \nStrong proficiency in SQL and experience with relational databases (PostgreSQL, Oracle).\nHands-on experience with BI tools such as Power BI, Tableau, or Looker.\nStrong data visualization and data storytelling skills, with proven ability to generate actionable insights that support business decision-making.\nAbility to connect data insights to business context, quantify impact, and provide clear recommendations for decision-making.\nGood foundational understanding of data pipelines and data transformation to effectively collaborate with Data Engineers on data preparation.\nStrong analytical thinking and problem-solving skills.\nHonesty, dignity, and responsibility.\nPrecision, passion, open-mindedness, and quick self-learning skills in big data, as well as enthusiasm for solving business problems.\nFor Senior-level candidates, additional expectations include experience in hypothesis-driven analysis, predictive or forecasting models, scenario modelling, leading end-to-end analytics projects, and delivering strategic recommendations to senior stakeholders.\n \n \nNice-to-Have:\nBackground or experience of financial services, securities, or fintech.\nHands-on experience with cloud platforms (GCP, Azure, AWS).\nExperience with Python, R, or similar programming languages.\nExposure to or ongoing learning in Data Science, Data Modelling, or Data Governance concepts.",
+  "quyen_loi": "Go build a great FinTech product\nGo build it on top of the state-of-the-art tech\nGo together with top-of-mind people and team.\n\nAttractive salary\nGovernment Social Insurance is based on full of gross salary\nFull salary during probation\nWorking Monday – Friday, 8am:5pm\nFor every 5 work-years, +2 day to annual leave​​\nDiverse company culture activities: Annual Year End Party, Quarterly party, Company outings, Team building, Coffee and Snack, etc",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc4OTQxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4b52d42e37ae67146aefaac02069efb9b2d46faa/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/SOLID%20DARK.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-kafi",
+  "company_mo_ta": "Kafi Securities Corporation (Kafi)",
+  "job_expertise": [
+    "Data Analyst"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

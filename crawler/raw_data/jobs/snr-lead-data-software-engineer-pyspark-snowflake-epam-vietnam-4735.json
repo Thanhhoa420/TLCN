@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/snr-lead-data-software-engineer-pyspark-snowflake-epam-vietnam-4735",
+  "tieu_de": "Snr/Lead Data Software Engineer Pyspark, Snowflake",
+  "ten_cong_ty": "EPAM Vietnam",
+  "ngay_dang_raw": "2026-08-13",
+  "han_ung_tuyen_raw": "2026-09-17",
+  "ky_nang": [
+    "Data Engineer",
+    "CI/CD",
+    "Cloud",
+    "Kubernetes",
+    "Snowflake",
+    "Spark"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Hybrid, Floor 13, MB Sunny Tower, 259 Tran Hung Dao",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a Lead Data Engineer (Python, Kubernetes, Snowflake) to own reliable data pipelines and production platforms across Cloud and on-prem. You will deploy and run data and ML workloads on OpenShift, improve CI/CD, troubleshoot complex issues and guide engineering teams as we scale an enterprise analytics and ML platform.\nApply today and be eligible for a one-month sign-on bonus.*\n*Terms & Conditions apply.\n \nResponsibilities:\nDesign, build and maintain scalable data pipelines and platform components using Snowflake, Apache Spark (PySpark), SQL and Apache Airflow\nDeploy, operate and support data and ML workloads on Kubernetes and OpenShift in production\nDevelop and maintain Python services and APIs using FastAPI or similar frameworks\nMonitor, troubleshoot and optimize performance, reliability and data quality across pipelines and platforms\nBuild and improve continuous integration and continuous delivery (CI/CD) pipelines for safe, repeatable releases\nPartner with DevOps, Platform, ML, infrastructure and application teams to deliver production-ready solutions\nDrive root cause analysis for complex incidents and define preventative fixes and operational best practices\nProvide technical leadership through architecture decisions, reviews and mentoring",
+  "yeu_cau": "Requirements:\n7+ year of experience in data engineering and enterprise-scale data platform delivery\nHands-on expertise with Snowflake, Apache Spark (PySpark), SQL and Apache Airflow\nStrong Python development capability, including building services or APIs\nProduction experience operating workloads on Kubernetes or Red Hat OpenShift\nSolid background in continuous integration and continuous delivery (CI/CD), Git workflows, containers and deployment automation\nExperience supporting solutions across Microsoft Azure and hybrid cloud environments\nStrength in monitoring, troubleshooting and production support for distributed systems\nTrack record of technical ownership, clear communication and mentoring within engineering teams\nNice to have:\nExperience with FastAPI, Databricks or Splunk\nExposure to MLOps practices, ML platform operations or LLM and GenAI enablement platforms\nInfrastructure as Code experience (tooling aligned to your environment)",
+  "quyen_loi": "Flexible hybrid working model\nLead innovative projects with global brands\nEmpower your personal and professional growth\n\nBy choosing EPAM Vietnam, you're getting a job at a Vietnam Best Workplace™ certified company (2022-23 and 2023-24)\nYou'll work with the latest and most advanced technologies on exciting global projects with a supportive multicultural team where your voice matters\nWe prioritize a healthy work-life balance with a flexible hybrid working model and generous annual leave of up to 19 days.\nWe offer a transparent career path and an individual roadmap to engineer your future and accelerate your journey\nOur commitment is to the well-being of our employees and their families by offering premium healthcare insurance for employees and 2 dependents, annual health checkup and 10 days of paid sick leave\nAt EPAM, you can find vast opportunities for self-development: access to over 25,000 online courses and libraries from industry leaders, English classes, mentoring programs, partial grants of certification, and experience exchange with colleagues around the world. You will learn, contribute, and grow with us.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3ODYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--638ad354c242acc8ce90fc202796641d8556c249/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/EPAM_Vietnam_Photo_Square_400x400.png",
+  "company_url": "/companies/epam-vietnam",
+  "company_mo_ta": "EPAM Systems, Inc. is a leading digital transformation services and product engineering company.",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Consumer Goods",
+    "IT Services and IT Consulting",
+    "Transportation, Logistics and Warehouse",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

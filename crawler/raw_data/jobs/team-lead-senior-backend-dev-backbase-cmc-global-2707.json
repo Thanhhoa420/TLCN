@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/team-lead-senior-backend-dev-backbase-cmc-global-2707",
+  "tieu_de": "Team Lead - Senior Backend Dev Backbase",
+  "ten_cong_ty": "CMC Global",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "English",
+    "API",
+    "Spring Boot",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 10, Tháp A, tòa nhà CMC Creative Space, Lô Vb.27b-28-29, Đường 19, Khu Chế xuất Tân Thuận, P. Tân Thuận Đông",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, develop, and optimize backend services, integration components, and APIs on or around the Backbase platform, ensuring security, scalability, maintainability, and delivery quality.\nTranslate business requirements into technical designs, API contracts, data mappings, integration flows, estimates, and implementation plans.\nIntegrate Backbase with Core Banking, Payment Hub, CRM, eKYC, LOS, IAM, Data Platform, and other banking systems through REST/SOAP APIs, event-driven architecture, message queues, or middleware.\nParticipate in architecture, code, and design reviews; enforce coding standards and ensure quality through unit tests, integration tests, static analysis, and defect prevention.\nDiagnose and resolve integration, performance, security, and production issues; conduct root-cause analysis and implement preventive actions.\nCollaborate with DevOps, QA, BA, Solution Architect, and client teams to improve CI/CD pipelines, release readiness, observability, and deployment reliability.\nProduce and maintain technical artifacts, including solution design, API specifications, sequence diagrams, data-mapping documents, deployment guides, and operational runbooks.\nFor Tech Lead level: lead a backend workstream of 4–8 engineers; plan and prioritize work, review critical pull requests, manage technical risks, mentor team members, and deliver agreed milestones.",
+  "yeu_cau": "5 years of proven experience in backend software development, including enterprise-scale systems and complex system integrations.\nDemonstrable experience delivering, customizing, upgrading, or integrating Backbase in at least one digital-banking project; familiarity with Backbase Engagement Banking Platform, Digital Banking Services, or Backbase Integration is highly valued.\nStrong hands-on experience with Java 11+, Spring Boot, Spring Security, RESTful API design, JSON/XML, Maven or Gradle.\nSolid understanding of microservices architecture, API lifecycle management, versioning, authentication and authorization, idempotency, error handling, and observability.\nExperience integrating enterprise systems using REST/SOAP, Kafka or equivalent messaging technologies.\nStrong database experience with Oracle, PostgreSQL, or MySQL, including SQL analysis, query optimization, and data modeling for integration workloads.\nFamiliarity with Docker, Kubernetes/OpenShift, Git, Jenkins/GitLab CI, and CI/CD practices.\nBackbase certification is required\nStrong communication and interpersonal skills in English; able to read and write technical documentation and participate effectively in technical discussions with international stakeholders.",
+  "quyen_loi": "Phát triển sự nghiệp với nhiều dự án lớn\nTham gia các dự án công nghệ trong và ngoài nước\nThu nhập hấp dẫn cùng những đại ngộ toàn diện\n\nTraining and career development opportunities.\nPackage: 13, 14 salary month + Project bonus + Extra package: 16 Mil/employee/year (Bonus at: Tet, New Year, CMC Corp’s birthday, 2/9 and Tet’s gift, Middle-Autumn gift, …)\nOpportunity to approach newest technology trends; development of your career within an international Company\nBuilding large-scale & global software products for our clients.\nOnsite opportunities: short-term and long-term assignments in the US, Europe and Asia.\nPaid annual leave: 12 days (12 vacation days)\nSalary review 2 times/year or on excellent performance\nCompany’s labor policy completely pursuant to Vietnamese labor legislation plus other benefits offered by the company (AON care premium, Company trip, Holiday, Sum-up, etc)\nWorking time: 8h/day (from Monday to Friday",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA1NzYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--95ca7af8ca8522f67a276b0c27c636307ea54517/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/86661851_2561563027499893_5501897791015747584_n.jpg",
+  "company_url": "/companies/cmc-global",
+  "company_mo_ta": "CMC GLobal, a member of CMC Corporation",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

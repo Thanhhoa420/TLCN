@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-manager-data-engineering-techcombank-4418",
+  "tieu_de": "Senior Manager, Data Engineering",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-08-06",
+  "han_ung_tuyen_raw": "2026-09-25",
+  "ky_nang": [
+    "Team Management",
+    "ETL",
+    "SQL",
+    "Python",
+    "Big Data",
+    "Data Engineer"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 6 Quang Trung, phường Trần Hưng Đạo",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\nThe job holder responsible for: \n- Leads team to design and develop programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from disparate sources and implement complex business logic as needed with the available data processing tools. \n- Integrates new data sources to increase throughput of existing systems, manages data pipelines that facilitate robust analysis, and sources và prepares data to ensure data completeness on metadata platforms.\nKey Accountabilities\nData Architecture \n- Deliver functionality required for business and data analysts, data scientists and other business roles to advance the overall analytic performance and strategy of the bank \n- Build the best practices and strategies for data infrastructure to fulfill data analytic and utilization needs of the business with emerging latest technologies and capabilities. \n- Guide the team or teams in identifying opportunities to manage data and provide solutions for complex data feeds within the bank. \n- Evaluate various data architectures in the bank and utilize them to develop data solutions to meet business requirements. \n- Drive the delivery of data products and services into systems and business processes in compliance with internal regulatory requirements. \n- Oversee the review of internal and external business and product requirements for data operations and activity and suggests changes and upgrades to systems and storage to accommodate ongoing needs.\nData Integration \n- Strategically obtain and integrate data and information from various sources into the firm’s platforms, solutions and statistical models. \n- Lead discussion with Data Scientists to understand the data requirements and create re-usable data assets to enable data scientists to build and deploy machine learning models faster. \n- Design, build, and maintain optimized data pipelines and ETL solutions as business support tools in providing analysis and real time analytics platform for critical decision making. \n- Ensure data assets are organized and stored in an efficient way so that information is high quality, reliable, flexible, and efficient. \nProject Management \n- Manage project conflicts, challenges and dynamic business requirements to keep operations running at high performance. \n- Work with team leads to resolve people problems and project roadblocks, conduct post mortem and root cause analyses to improve practices for maximum productivity.\nPEOPLE MANAGEMENT \n- Attract, onboard and retain the right talents for a high- performing team \n- Communicate team and individual KRAs/ KPIs, goals, action plan, expectations and results to team members \n- Manage team performance & provide feedback regularly (following the annual performance management cycle); \n- Enable team member’s professional and personal development through capability assessment, training, coaching & feedback, etc. \n- Motivate and recognize team members’ contributions towards the team’s shared goals \n- Responsible for developing talents within the team \n- Act as a role model and promote corporate culture at sub- function level \n- Understand & communicate relevant HR offerings to team members.",
+  "yeu_cau": "Qualifications\n- Bachelor's or Master’s degree in Statistics, Mathematics, Quantitative Analysis, Computer Science, Software Engineering or Information Technology\nWork Experience\n- 8+ years of relevant experience with developing, debugging, scripting and employing big data technologies (e.g. Hadoop, Spark, Flink, Kafka, Arrow, Tableau), database technologies (e.g. SQL, NoSQL, Graph databases), and programming languages (e.g. Python, R, Scala, Java, Rust, Kotlin) with preference towards\nfunctional/trait oriented, including 4+ years of equivalent managerial roles\n- English proficiency requirements are pursuant to Techcombank's policy\n- Deep experience in designing and building dimensional data models, ETL processes, applied data warehouse concepts and methodologies, optimized data pipelines and wore the architect hat in the past or worked with one extensively\n- Deep experience with monitoring complex system and solving data and systems issues having a consistent and algorithmic approach to resolving them\n- Deep understanding of Information Security principles to ensure compliant handling and management of all data\n- Proven track-record in working in Agile teams to lead company-wide successful digital transformation initiatives and change management, having mastered and mentored on Agile principles, practices and Scrum methodologies\n- Mastery in Data và Analytics and is an industry expert on the latest data-related technology trends\n- Having a long history of architecting, coding and delivering high performance micro services and/or recommenders delivering recommendations to (tens of) millions of users",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\nWHY BECOME IT/DATA EXPERTS AT TECHCOMBANK?\nInvesting over 500 million USD to develop large-scale IT projects, Techcombank is one of the leading bank in Technology trends in Vietnam\nYou will grow with Techcombank by having the opportunity to learn from top experts from across the world\nTechcombank provides a rewarding remuneration structure that commensurate with your achievement and contribution\nTechcombank is the Top 2 Best place to work in the banking industry where you can experience various exciting activities throughout the year: Company anniversary, Team building, Active Saturday , Year End Party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

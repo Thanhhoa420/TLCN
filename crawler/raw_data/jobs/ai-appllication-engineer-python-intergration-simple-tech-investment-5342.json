@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-appllication-engineer-python-intergration-simple-tech-investment-5342",
+  "tieu_de": "AI Appllication Engineer Python/Intergration",
+  "ten_cong_ty": "Simple Tech Investment",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "Golang",
+    "System Architecture",
+    "PostgreSql",
+    "Machine Learning",
+    "DevOps",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "402 Nguyễn Thị Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,500 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Architect and implement core platform services (microservices/APIs) for GenAI applications using Python.\nBuild and operate enterprise information retrieval systems leveraging RAG architecture, Vector Search, and Embeddings.\nIntegrate, fine-tune, and manage integration flows with major LLM provider APIs (OpenAI, Claude, etc.).\nOptimize prompt engineering and establish testing/evaluation workflows for AI output quality.\nDesign data pipelines to power intelligent recommendations, advanced search, and workflow automation.\nTweak and optimize backend performance, ensuring scalability, low latency, and high availability.\nWork closely with the Product team to translate business requirements into feasible technical solutions.",
+  "yeu_cau": "Strong proficiency in asynchronous programming, API performance optimization, and relational database queries (PostgreSQL).\nSolid mindset in system architecture: Caching, Message Queues, Asynchronous Tasks, and High-Availability system design.\nHands-on production experience in deploying LLM-powered applications.\nDeep understanding of Prompt Engineering, model evaluation methodologies (LLM Evaluation), and Embeddings.\nExcellent command of English across all 4 skills: Reading technical API/AI documentation, discussing technical solutions, and working directly with the team.\nFamiliarity with or experience building systems with Go (Golang) (goroutines, channels, backend services) to optimize or transition ultra-high-performance modules is a big plus.\nDevOps & Infrastructure: Practical experience with Containerization & Orchestration (Docker, Kubernetes) and CI/CD pipelines.\nAdditional Expertise: Knowledge of Machine Learning algorithms, Recommendation Systems, or Large-scale Natural Language Processing (NLP).\nPartner with Product Managers and Engineering teams to analyze business requirements, propose solutions, and turn them into optimized technical execution.\nProactively research and stay up-to-date with the latest AI/LLM technologies to continuously enhance company products.",
+  "quyen_loi": "Competitive packages Parking fee & Lunch allowance\nFlexible working hour. Annual leave 15 days/ year\nRoom to grow professionally. Sponsorship for L&D\n\n100% salary on your probation period.\n15 full-paid days off per year.\n13th-month bonus salary.\nRoom to grow with support from the team and sponsorship for L&D.\nPerformance review 2 times/year.\nCompetitive packages.\nRoom to grow professionally, sponsorship for learning & development of related skills.\nOpportunity to work on a mission that can transform the lives of millions of Vietnamese.\nAnnual Performance Bonuses (up to 2 salary months per year).\nParking fee & Lunch allowance.\nAnnual Health Checkup, Premium Health Care (Manager level), Accident Insurance for all members.\nEnjoy a variety of corporate events, from sports competitions, monthly birthday parties, and team building to Year-End Party, etc.\nFlat, open, and fast-paced environment where every idea is welcomed.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTg1MTEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--2640f36cf519be8fe7a1b84d4a3d9f1b2d4fb5a4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/images.png",
+  "company_url": "/companies/simple-tech-investment",
+  "company_mo_ta": "Simple Tech Investment",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "IT Services and IT Consulting",
+    "Transportation, Logistics and Warehouse",
+    "Healthcare",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

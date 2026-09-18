@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/automotive-software-engineer-c-oop-middleware-lg-electronics-development-vietnam-lgedv-1055",
+  "tieu_de": "Automotive Software Engineer C++, OOP, Middleware",
+  "ten_cong_ty": "LG Electronics Development Vietnam (LGEDV)",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "C++",
+    "Middleware",
+    "Linux",
+    "OOP",
+    "Embedded"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 17 đến tầng 21, Tòa văn phòng, Lotte Mall Hà Nội, Số 272 Võ Chí Công, Phường Tây Hồ, Thành phố Hà Nội",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "800 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As member of Software Development team, you will be responsible for researching and developing applications for Car Infotainment, AVN (Audio Video Navigation) system, Cluster and , detailed as below: \n• Develop automotive products and technologies (included HMI Applications, HMI frameworks, Protocols to interface with HMI framework and middleware …); \n• Responsible for software delivery to head quarter; \n• Generate reports, communicate with local managements and head quarter.",
+  "yeu_cau": "*** General requirements:\n• Bachelor degree in Information Technology, Computer Science, Computer Engineering, Electrical Engineering, Telecommunication Engineering, Mathematics, Mechanics and Informatics or equivalent.\n• Strong motivation to develop career in automotive software field.\n• Software development experience in C++ programming;\n• Having good knowledge with OOP, OOAD (Object-Oriented Analysis and Design);\n• Having hands-on experience to use JIRA, GIT and Gerrit;\n• Having hands-on experiences in developing large software systems;\n \n*** These skills would be considered as an advantage but not the must:\n• Experiences related to multi-thread, multi-process programming;\n• Having hands-on experiences to use and implement design patterns (MVC, Singleton, Observers);\n• Experiences related to develop application using Qt/QML;\n• Experiences related to design and develop GUI frameworks, front-end applications;\n• Ability to effectively present information to top management, public groups, and/or board of directors.",
+  "quyen_loi": "Competitive salary & up-to 16-month income / year\nAttractive allowances & benefits\nFlexible working time with many company holidays\n\n13th month salary + Incentive bonus (Total remuneration package / year: up to 16-month salary) + Annual salary review;\nHYBRID WORKING, flexible working time (Mon - Fri)\nSupport for lunch, transportation and other allowances (Coding Expert, Technical leader, phone...);\nPremium health care & accident insurance;\nTotal 18 days off (12 days of annual leave & additional 6 days of company holidays: Summer holiday,  Christmas, LG Foundation Days);\nSupport fee to get TOEIC & technical certifications (ISTQB, Agile Scrum...);\nOn-site & training opportunities abroad;\nCompany trip, sport clubs (yoga, football, pingpong, badminton,...);\nMonthly budget for team activities, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3NzIwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--5519243d863ae3f1da9a2be736910ce2d29dc474/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LGE_Logo_HeritageRed_Grey_CMYK%20(1).png",
+  "company_url": "/companies/lg-electronics-development-vietnam-lgedv",
+  "company_mo_ta": "LG Electronics Development Vietnam (LGEDV)",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

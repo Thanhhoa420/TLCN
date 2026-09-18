@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/cloud-solution-engineer-innova-software-research-and-development-2925",
+  "tieu_de": "Cloud Solution Engineer",
+  "ten_cong_ty": "Innova -Software Research and Development",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Cloud",
+    "AWS",
+    "Azure",
+    "IT Support",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a skilled Cloud Solution Engineer to support and maintain our cloud and infrastructure environment across AWS, Azure, and GCP. This role is responsible for ensuring stable, secure, and efficient operations across cloud platforms, network services, identity integration, and application delivery systems.\nThe ideal candidate will have strong hands-on experience in multi-cloud administration, network and firewall configuration, CI/CD support, and production troubleshooting. This position works closely with infrastructure, security, and application teams to support business continuity and operational excellence.Responsibilities\nAdminister and support cloud environments across AWS, Azure, and GCP.\nConfigure and maintain firewall rules, routing, NAT, and related network settings.\nSupport and maintain CI/CD pipelines and deployment processes.\nInstall, configure, and troubleshoot Nginx services.\nSupport Active Directory integration and access management.\nMonitor cloud and infrastructure services, respond to incidents, and resolve technical issues.\nMaintain documentation for configurations, procedures, and operational standards.\nCollaborate with internal teams to support security, compliance, and system reliability.",
+  "yeu_cau": "Required Qualifications\nProven experience working with AWS, Azure, and GCP.\nStrong knowledge of firewall configuration and network configuration, including routing and NAT.\nExperience with CI/CD tools and deployment automation.\nExperience managing Nginx in a production environment.\nWorking knowledge of Active Directory.\nStrong troubleshooting and problem-solving skills.\nAbility to work independently and communicate effectively with technical teams.\nWillingness and ability to work on-site, full-time, at the company's office (this role is not remote or hybrid).\nSSL/TLS Certificate Lifecycle Management\nHands-on experience with SSL/TLS certificate procurement, issuance, renewal, and revocation across enterprise environments.\nProficiency with certificate formats and workflows: PEM, PFX/PKCS#12, CSR generation, private key management, and chain trust validation.\nExperience deploying and binding certificates on IIS, Apache, Nginx, and other web servers; troubleshooting binding mismatches, chain errors, and private key association issues.\nFamiliarity with Let's Encrypt / Certbot and ACME protocol-based automation for certificate issuance and renewal.\nExperience with AWS Certificate Manager (ACM) — provisioning, DNS/email validation, and integrating with ALB, CloudFront, and API Gateway; understanding ACM's scope limitations (AWS-managed services only) vs. imported certs for EC2/on-prem use.\nExposure to Azure Key Vault certificate management — importing, auto-renewal policies, and integration with App Service, Application Gateway, and Azure Front Door.\nFamiliarity with GCP Certificate Manager or managed SSL on Google Cloud Load Balancing; understanding of Google-managed vs. self-managed certificate workflows.\nUnderstanding of Windows ADCS (Active Directory Certificate Services) for internal PKI — CA hierarchy, certificate templates, and auto-enrollment via Group Policy.\nAwareness of CA/Browser Forum compliance trends, including the shift toward shorter certificate validity windows (sub-90-day by 2027) and the operational need for automation.\nExperience with certificate monitoring and alerting to prevent expiry-related outages.\nInformation Security Management (ISO/IEC 27001 & TISAX)\nProven experience in information security management, cybersecurity, or IT governance.\nExperience implementing and maintaining an Information Security Management System (ISMS).\nStrong knowledge of TISAX requirements and the VDA ISA catalogue.\nGood understanding of ISO/IEC 27001 principles, risk management, security controls, and compliance requirements.\nAbility to manage and improve information security policies, procedures, risk assessments, and security awareness activities.\nExperience coordinating audits and managing corrective action plans.\nUnderstanding of automotive cybersecurity requirements is an advantage.Preferred Qualifications\nExperience with Terraform, Ansible, or other infrastructure automation tools.\nExperience with Linux administration.\nExperience with Windows Server administration.\nKnowledge of DNS, VPN, load balancing, and hybrid cloud connectivity.\nExperience supporting enterprise cloud operations.\nScripting experience in Bash or PowerShell.\nRelevant cloud certifications (e.g., AWS Solutions Architect, Azure Administrator, or Google Cloud Engineer).\nExperience with container orchestration using Docker and Kubernetes.\nFamiliarity with monitoring and observability tools (e.g., Prometheus, Grafana, Datadog, or CloudWatch).\nCertifications and Training (Information Security)\nISO/IEC 27001 Lead Implementer or Lead Auditor.\nPECB — ISO/IEC 27001 Lead Implementer / Lead Auditor.\nTÜV or similar bodies — ISO/IEC 27001 Auditor / Implementer qualifications.\nTISAX Practitioner / TISAX Implementer training.\nCISSP, CISM, or equivalent cybersecurity certifications.",
+  "quyen_loi": "Excellent environment and team to help you grow\nThe best vehicle diagnostic information company\nCompetitive salary and learning culture\n\nCompany Benefits:\n- 15 Vacation days, 5 sick days and Holiday.\n- 2 paying days for Christmas holiday.\n- Paid foreign language school English, Chinese, Japanese, Spanish.\n- Paid Health and Life insurance for employees and family.\n- Opportunity to travel abroad.\n- Salary based on your abilities and contribution.\n- Professional working environment.\n- Project and performance bonus.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjgyNjAxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--622a5bb3478c8795836dba83371d966af690942d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo-inv-black.png",
+  "company_url": "/companies/innova-software-research-and-development",
+  "company_mo_ta": "Help people make sense of vehicle diagnostic information using quick and accurate simple software",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

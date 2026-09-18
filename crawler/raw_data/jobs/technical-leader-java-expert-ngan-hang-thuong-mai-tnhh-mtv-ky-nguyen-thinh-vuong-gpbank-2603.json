@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-leader-java-expert-ngan-hang-thuong-mai-tnhh-mtv-ky-nguyen-thinh-vuong-gpbank-2603",
+  "tieu_de": "Technical Leader Java Expert",
+  "ten_cong_ty": "NGÂN HÀNG THƯƠNG MẠI TNHH MTV KỶ NGUYÊN THỊNH VƯỢNG (GPBANK)",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Solution Architecture",
+    "CI/CD",
+    "Leadership",
+    "Java",
+    "AWS",
+    "Agile"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "18 Phạm Hùng",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "I. OVERVIEW OF GPBANK\nOn January 17, 2025, GPBank was converted into a single-member limited liability Commercial Bank with 100% capital owned by VPBank. From October 8, 2025, GPBank officially launches a new brand identity, marking a comprehensive transformation with the new name Generation of Prosperity Bank - symbolizing the journey towards an era of prosperity and sustainable development.\nAt the same time, GPBank is the pioneer bank in Vietnam to implement a completely new Core Banking system, built on China’s modern OneConnect Core platform. This strategic move reflects the bank’s ambition to become a technology-driven digital banking leader, not only rebuilding its entire system from scratch but also laying the foundation to replicate and transfer this model to other member units within the VPBank ecosystem.\nII. JOB RESPONSIBILITIES\nAnalyze business requirement and identify scope of work related to Micro-service and API\nDesign technical integration between core systems and external/internal platforms\nCreate detail design for identified Micro-service\nCreate specification for identified API\nSupport to deploy Micro-service and API into production\nSupport to resolve incident/problem on production\nReview and accept Micro-services design documents and source code delivered by partners.\nResearch and improve the Micro-service and API development framework/standard\nTraining for other team members",
+  "yeu_cau": "III. JOB REQUIREMENTS\nRelevant Knowledge / Expertise\nBachelor’s degree in Computer Science, Engineering, Mathematics, or related field of study: or equivalent education, training & experience\n8+ years’ experience in full-stack application development (backend and frontend).\n8+ years designing and building Java applications with Spring/Spring Boot and relational/NoSQL databases (MS SQL, MySQL, MongoDB).\nStrong ability to analyze and design systems, and to code/debug single-page applications using React or Angular.\nProven experience delivering responsive, cross-platform web apps and collaborating on UI/UX to ensure accessibility and usability\nAPI-first architecture; DDD-based microservices; event- and message-driven systems\nFamiliar with CI/CD tools and practices (e.g., Jenkins, Git, Maven/Gradle, or equivalents).\nExperience deploying applications with Docker/containers.\nProficient with source control (e.g., Git, SVN).\nExperience working in Agile/Scrum environments.\nExperience deploying and operating applications on public cloud platforms.\nAbility to develop mobile applications with Flutter.\nAWS experience/certifications (e.g., AWS Certified Solutions Architect, AWS Certified Developer) or equivalent cloud credentials.\nSkills\nCan work as individual or as a team member, under stressful conditions, good teamwork attitude Self-development.\nAbility to communicate clearly and concisely, both orally and in writing, as an advocate for technological solutions.\nBeing able to understand and catch-up quickly with new technology\nExperience of supervision of a development team\nRelevant Experience\nBanking Domain experience\nAgile/Scrum experience",
+  "quyen_loi": "IV. ATTACTIVE BENEFITS & COMPENSATION PACKAGE\nCareer Opportunities & Projects\nJoin one of Vietnam’s largest Core Banking Transformation Projects, handling up to 1 billion transactions per day.\nWork in a modern, technology-driven environment leveraging Cloud-native, DevOps, Microservices, and CI/CD practices.\nLearn directly from international technology experts and participate in strategic digital banking initiatives.\nEnjoy a clear career development roadmap with opportunities to advance to Leader or Expert roles in the Digital Banking domain.\nCompensation & Benefits\nCompetitive salary package: Upto 65M x 14–15 months/year.\nPerformance-based bonuses: business results, individual performance, innovation, responsibility\nHealth insurance & wellness: GPBankCare package (provided by Bao Viet Insurance) extended to employees and family members.\nLearning & Development: support for professional training courses and international certification exams.\nAnnual company trip and vacation allowance: up to 6M/year.\nHoliday & special occasion bonuses (National holidays: Sept 2nd, Apr 30th, Hung Kings’ Festival, birthdays, weddings, etc.)\nV. WORKING HOURS AND LOCATION\nWorking Hours: Standard working hours: Monday – Friday (flexible start time: 8:00 / 8:30 / 9:00) and 2 Saturday mornings per month (8:00–12:00).",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcyNzIyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f82d19802042c8c51ce5cfb8c349543d0ca96d2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Standard%20(1).png",
+  "company_url": "/companies/ngan-hang-thuong-mai-tnhh-mtv-ky-nguyen-thinh-vuong-gpbank",
+  "company_mo_ta": "Ngân hàng Thương mại Trách nhiệm Hữu hạn Một thành viên Kỷ Nguyên Thịnh Vượng",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/android-developer-react-native-cong-ty-co-phan-giai-phap-nen-tang-ip-0802",
+  "tieu_de": "Android Developer React Native",
+  "ten_cong_ty": "Công ty cổ phần Giải pháp nền tảng IP",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "Android",
+    "CI/CD",
+    "Firebase",
+    "UI-UX",
+    "React Native"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "46-48 đường Tạ Hiện, khu phố 1, Phường Thạnh Mỹ Lợi",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Phát triển, tối ưu và bảo trì ứng dụng Android TV cho hệ thống IPTV/OTT.\nLàm việc với Android TV SDK, ExoPlayer, Leanback Library và các API liên quan.\nBám sát thiết kế\nTích hợp với các hệ thống backend thông qua API\nXử lý các vấn đề liên quan đến DRM, bảo mật nội dung số.\nKiểm thử, debug và tối ưu hiệu suất ứng dụng trên các thiết bị Android TV.\nCập nhật và triển khai các bản nâng cấp tính năng theo yêu cầu của dự án.",
+  "yeu_cau": "Thành thạo lập trình trên nền tảng Android: React (React Native), Android thuần (Native)\nKinh nghiệm phát triển ứng dụng trên Android TV hoặc các thiết bị Android.\nHiểu biết về Leanback Library, ExoPlayer, RecyclerView, ViewModel, LiveData.\nCó kinh nghiệm tối ưu UX/UI trên màn hình lớn và điều khiển từ xa.\nKinh nghiệm làm việc với DRM (Widevine, PlayReady) là một lợi thế.\nHiểu biết về giao thức streaming (HLS, DASH, RTSP).\nKinh nghiệm với các công cụ kiểm thử và tối ưu hóa hiệu suất như Profiler, ADB.\nCó kinh nghiệm tích hợp Firebase, Google Analytics, quảng cáo trên Android TV là điểm cộng.\nKỹ năng làm việc nhóm, giao tiếp và đọc hiểu tài liệu tốt.\nƯu tiên\nỨng viên có kinh nghiệm làm việc với Tizen (Samsung) hoặc WebOS (LG).\nĐã từng triển khai ứng dụng IPTV/OTT trên Google Play Store hoặc các hệ thống phân phối ứng dụng Android TV.\nHiểu biết về CI/CD, DevOps, Docker là một lợi thế.",
+  "quyen_loi": "Làm việc trong môi trường năng động, có cơ hội tiếp cận công nghệ mới.\nĐược đào tạo và tham gia các dự án thực tế trong lĩnh vực IPTV/OTT.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc0NzQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--8f95a0827dd3e03b04beee2718860e17b4f0df4d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Ipbase-logo-1200-%C3%97-630-.png",
+  "company_url": "/companies/cong-ty-co-phan-giai-phap-nen-tang-ip",
+  "company_mo_ta": "Công ty cổ phần Giải pháp nền tảng IP",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

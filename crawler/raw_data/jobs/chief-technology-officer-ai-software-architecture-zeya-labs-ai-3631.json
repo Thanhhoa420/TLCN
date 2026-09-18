@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/chief-technology-officer-ai-software-architecture-zeya-labs-ai-3631",
+  "tieu_de": "Chief Technology Officer AI, Software Architecture",
+  "ten_cong_ty": "Zeya Labs AI",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "AI",
+    "Generative AI",
+    "Technology Roadmapping",
+    "Cybersecurity",
+    "Software Architecture",
+    "Leadership"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Phòng L5-20, Tầng 5, Số 343, đường Hoàng Sa, Phường Tân Định",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Zeya Labs builds the systems, models, and data infrastructure for a group operating across broad industries — including financial services, real estate, retail, healthcare, and more — in Southeast Asia. Real backing, real scale, real stakes. Almost none of it has a technology backbone yet.\nWe are a small AI-native engineering team based in Ho Chi Minh City, and the central technology delivery engine for that group. We are not a consultancy. We do not hand off blueprints. We build, run, and own what we ship.\nThat's the opportunity here: no legacy architecture to inherit, no decade of technical debt to manage around, no entrenched way of doing things to unwind. You'd be one of the first people deciding how this gets built, secured, and run — at group scale, from close to zero.\nWHAT THIS ROLE IS\nThis is a new, senior role, and it owns the technology function. You report to the CEO and are accountable for everything: architecture, security, testing, how software gets built and run, and the teams that build it — consistently, as we scale into new industries and new group entities. This only works if you stay close to the work. Everyone at Zeya Labs is hands-on, including you.\nConcretely, the CTO is responsible for three things:\nLeading AI-native delivery, for real. You've shipped complex AI products into production, not pilots or proofs of concept — this is a hard filter. You know from experience why conventional scrum ceremonies and fixed pods are often the wrong shape for AI-native work, and you have an actual point of view on what to run instead.\nOwning the engineering organization. Building and running the team as it scales — hiring, developing engineering leadership under you, and being the technical voice the board and senior stakeholders trust without needing it re-explained.\nBuilding the operating system. Designing the standards for architecture, security, testing, and delivery before scale forces them on us — not after an incident makes them unavoidable.",
+  "yeu_cau": "You have built engineering structure at an organizational level before — standards, governance, how work actually gets done — not just run a team executing inside a structure someone else designed. That's the differentiator. Plenty of people can manage delivery well; what's rare is having built the system delivery runs on, and having done it ahead of a crisis, not in response to one.\nYou have genuine, delivered experience shipping AI-integrated systems into production — not coursework, not demos, not a certification. You understand where AI tooling helps, where it creates fragility, and how conventional team structures often fight against how AI-native work actually gets done.\nYou are still hands-on and technically credible, not someone who has moved fully into frameworks and slides. Ideally you've worked inside financial services or another regulated environment, since parts of this group carry real compliance weight. You are comfortable holding your own in a board or governance conversation without hiding behind jargon.\nYou'd rather design the system once than firefight the same problem in every new team.\nYou can go from setting direction to getting hands-on when something needs it, without it feeling like a step down.\nYou're motivated by scale and blank space, not by inheriting something already built.",
+  "quyen_loi": "AI-native culture with enterprise AI tools\nFlexible hybrid work, focused on outcomes\nSmall team, high ownership\n\n.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxMDM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b426d8710ffc8744b78b926946df464335e6ec12/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/1785735005565_8251303350573331076_8251303350573331076_4747fcc64212e2931fb5228fc3db356c.jpg",
+  "company_url": "/companies/zeya-labs-ai",
+  "company_mo_ta": "Zeya Labs AI",
+  "job_expertise": [
+    "C-level (CTO, CIO, CISO, CDO)"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

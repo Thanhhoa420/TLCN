@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/modern-erp-software-engineer-koidra-tech-0520",
+  "tieu_de": "Modern ERP Software Engineer",
+  "ten_cong_ty": "Koidra Tech",
+  "ngay_dang_raw": "2026-09-13",
+  "han_ung_tuyen_raw": "2026-10-18",
+  "ky_nang": [
+    "Fullstack",
+    "Product Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3, số 8-10 Tạ Hiện",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,500 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "🚀 The Mission\nKoidra isn't just building software; we are building the brain for industrial automation. To support this mission, we're working on a special project: build a business hub software (called BizHub), tailored for manufacturing companies, to best capture the operational data at a factory before feeding it to the AI engine.\nMost factories still run on spreadsheets and a decade-old ERP nobody enjoys opening. BizHub replaces both. We are looking for a Principal Fullstack Engineer to build it alongside the CEO.\n 🛠️ What You Will Do\nOwn the stack end-to-end: Django Ninja, Pydantic and PostgreSQL through Vue 3.5, and TanStack Query, deployed on Kubernetes with Helm.\nOrchestrate AI agents: architect and review the agents that write most of the code. You define what \"good\" means here and encode it as types, rules and tests instead of repeating it in prompts.\nModel the domain: production planning, supply chain management, etc. Get the model right and the screens mostly fall out of it.",
+  "yeu_cau": "Deep fullstack engineering: 7+ years shipping production software, with real depth in Python and TypeScript. You can judge the quality of code you did not write, which is most of the code here.\nAI-native: you have spent the last year on agentic coding and know the difference between a lazy prompt and a specification that produces code you would sign. You build verification loops, property-based tests and static analysis gates that catch agent mistakes before they merge.\nData modelling is your strength: ERP is a modelling problem wearing a UI. Multi-tenant PostgreSQL, migrations against live data, money, calendars and shift boundaries that cannot be 1% wrong at month end.\nParanoid about Safety: You understand that “hallucination” in a chatbot is annoying, but hallucination in an industrial control system is catastrophic. You know how to build verification loops, property-based tests, and static analysis gates that catch AI errors before they merge.\nSystems Thinker: You care about the “why” and the “how”. You can explain the whys and whys not of the engineering decisions, whether made by yourself or your AI agents, to both the CEO and other engineers.\nNice to have: ERP or Supply Chain Management software experience",
+  "quyen_loi": "Work on game-changing solutions\nwith world-class experts\nwe train and empower you to be at your very best\n\nDeep Tech: Work alongside PhDs in AI and Physics. This is not an e-commerce shop.\nReal Impact: Your code helps grow food more efficiently and reduce industrial carbon footprints.\nThe Lean Philosophy: We believe a team of 5 AI-augmented high-caliber engineers can out-ship a team of 100 traditional developers. You will prove this thesis.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMwMDgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--c80e8332d3abf3aec28996ec82acca0afcc6357d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Mini_Fill_1.png",
+  "company_url": "/companies/koidra-tech",
+  "company_mo_ta": "Koidra Tech",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

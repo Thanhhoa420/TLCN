@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-developer-java-spring-boot-bpm-bolt-tech-0808",
+  "tieu_de": "Senior Backend Developer Java Spring Boot, BPM",
+  "ten_cong_ty": "Bolt Tech",
+  "ngay_dang_raw": "2026-08-20",
+  "han_ung_tuyen_raw": "2026-09-24",
+  "ky_nang": [
+    "Java",
+    "Database",
+    "Solution Architecture",
+    "Spring",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 8, Tòa nhà Hapro Building, 11B Cát Linh",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Very attractive!!!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi đang tìm kiếm Senior Backend Engineer để thiết kế và phát triển nền tảng Workflow Management và Business Process Management (BPM) phục vụ các quy trình nghiệp vụ trong lĩnh vực Chứng khoán, Đầu tư và Bất động sản.\nBạn sẽ chịu trách nhiệm xây dựng framework cho phép các phòng ban có thể khai báo, quản lý, cấu hình và thực thi các luồng nghiệp vụ phức tạp trên toàn hệ thống.Responsibilities\nXây dựng nền tảng BPM hỗ trợ khai báo và thực thi quy trình nghiệp vụ.\nThiết kế kiến trúc Workflow Definition, Workflow Instance và State Management.\nXây dựng cơ chế Approval Process nhiều cấp.\nThiết kế Dynamic Workflow Configuration không cần thay đổi source code.\nPhát triển hệ thống phân quyền, vai trò và cơ chế phê duyệt theo tổ chức.\nThiết kế Audit Trail, Activity Log và Workflow Monitoring.\nXây dựng cơ chế Event-driven phục vụ xử lý workflow phức tạp.\nTối ưu hiệu năng, khả năng mở rộng và độ ổn định của nền tảng.\nHỗ trợ các đội Product và Engineering tích hợp workflow vào các sản phẩm hiện hữu.Expected Outcomes\nXây dựng thành công BPM Platform dùng chung cho toàn doanh nghiệp.\nChuẩn hóa toàn bộ quy trình phê duyệt trên các hệ thống.\nGiảm thời gian triển khai các quy trình nghiệp vụ mới.\nĐảm bảo khả năng mở rộng và tái sử dụng cho các sản phẩm trong tương lai.",
+  "yeu_cau": "Must Have\nTừ 5 năm kinh nghiệm phát triển Backend Systems.\nTừ 2 năm kinh nghiệm thiết kế kiến trúc hoặc dẫn dắt kỹ thuật.\nThành thạo Java Spring Boot hoặc Java Core.\nCó kinh nghiệm xây dựng hệ thống Workflow hoặc Approval Process.\nHiểu biết sâu về BPMN, Workflow Engine hoặc State Machine.\nKinh nghiệm thiết kế Microservices Architecture.\nThành thạo SQL và Database Design.\nHiểu về Event-driven Architecture.\nKinh nghiệm với Kafka, RabbitMQ hoặc Message Queue tương đương.\nHiểu về Distributed Systems và Transaction Management.\nKỹ năng phân tích nghiệp vụ và làm việc với Business Teams.\nNice to Have\nKinh nghiệm với Camunda, Flowable hoặc Activiti.\nKinh nghiệm xây dựng Low-code hoặc No-code Platform.\nKinh nghiệm trong lĩnh vực Chứng khoán, Đầu tư hoặc Bất động sản.\nCó kinh nghiệm Solution Architecture.",
+  "quyen_loi": "Thưởng tháng 13 và thưởng hiệu quả làm việc\nThời gian làm việc từ thứ 2 - thứ 6\nĐào tạo theo khung năng lực\n\nMức lương & phụ cấp : Thỏa thuận theo năng lực và kinh nghiệm.\n Phụ cấp ăn trưa. \n Phụ cấp gửi xe. \nThưởng : Thưởng lễ, Tết và cuối năm., Thưởng tháng lương thứ 13+++, Thưởng thâm niên: 5 – 10 – 15 năm. \nPhúc lợi : \nĐược tham gia đầy đủ BHXH, BHYT. \nTeambuilding và du lịch nghỉ dưỡng. \nCơ hội thăng tiến\nLàm việc đúng chuyên môn, hợp tác với đội ngũ giàu kinh nghiệm.\n Được đào tạo nâng cao kiến thức ngành. \nXét tăng lương và thưởng theo quy định của Công ty.\nMôi trường làm việc : Năng động, trẻ trung, nhiệt huyết. \nVăn phòng hiện đại. \nLàm việc từ thứ Hai đến thứ Sáu (nghỉ thứ Bảy và Chủ nhật).",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc0NzQxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--7df80fd2a7e251a4e483074988a8bc0feddab608/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/BoltX.jpg",
+  "company_url": "/companies/bolt-tech",
+  "company_mo_ta": ".",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

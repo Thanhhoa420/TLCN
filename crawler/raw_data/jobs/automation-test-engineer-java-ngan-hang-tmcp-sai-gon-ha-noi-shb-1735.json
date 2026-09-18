@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/automation-test-engineer-java-ngan-hang-tmcp-sai-gon-ha-noi-shb-1735",
+  "tieu_de": "Automation Test Engineer Java",
+  "ten_cong_ty": "Ngân hàng TMCP Sài Gòn - Hà Nội (SHB)",
+  "ngay_dang_raw": "2026-08-20",
+  "han_ung_tuyen_raw": "2026-09-24",
+  "ky_nang": [
+    "Automation Test",
+    "API",
+    "CI/CD",
+    "Selenium",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "77 Trần Hưng Đạo",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Develop automation testing strategies and plans aligned with system requirements and project objectives.\nDesign, develop, and maintain scalable and reusable automation frameworks.\nDevelop test scripts for UI, API, Integration, and Contract Testing.\nPerform Performance Testing, including developing performance, load, and stress testing scenarios; analyzing bottlenecks and proposing system optimization solutions.\nIntegrate automation testing into CI/CD pipelines to ensure fast feedback for development teams.\nAnalyze test results, troubleshoot issues, and optimize the stability and reliability of the automation test suite.\nCollaborate with Developers, BAs, and QAs throughout the software development lifecycle.\nResearch, recommend, and implement new automation technologies and tools.\nFor Senior level: Provide guidance, mentoring, and support to enhance the team's technical capabilities.",
+  "yeu_cau": "Education: Bachelor’s degree or higher in Information Technology, Computer Science, or a related field from reputable universities, such as Banking Academy of Vietnam, Hanoi University of Science and Technology, Posts and Telecommunications Institute of Technology, Vietnam National University, University of Technology, Thuongmai University, University of Economics, or reputable universities overseas.\nExperience\nMid-level: At least 3 years of QA experience, including a minimum of 2 years in automation testing.\nSenior-level: At least 5 years of experience, with the ability to design automation frameworks and/or lead automation testing initiatives.\nTechnical Expertise\nProficient in Java with a strong understanding of OOP, SOLID principles, and design patterns.\nStrong experience in UI/API automation testing.\nStrong expertise in Performance Testing.\nGood understanding of CI/CD, microservices, databases, and message queues.\nExperience with tools such as Serenity BDD, Selenium, Jenkins, and Docker is a plus.\nExperience working in Agile/Scrum environments.\nSoft Skills\nStrong analytical and problem-solving skills, with a proactive mindset and strong sense of ownership.\nGood communication and teamwork skills.\nPassion for technology and a strong interest in test automation.\nCandidates with experience in the finance/banking industry are preferred.",
+  "quyen_loi": "1. Attractive Compensation & Benefits\nCompetitive monthly salary and allowances aligned with the market.\nPerformance-based year-end bonus.\nAdditional bonuses for birthdays, public holidays, Tet, and employee welfare programs.\nComprehensive healthcare package, including annual health check-ups and SHB Care health insurance.\nTeam-building activities, internal cultural and sports events to foster employee engagement.\nCompany trips twice a year.\n2. Modern & Innovative Working Environment\nA young, dynamic, and modern workplace that encourages creativity and innovation.\nAn empowering work culture with autonomy, flexibility, and a forward-thinking mindset.\nDiverse learning and development programs to support both professional and personal growth.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcwOTAxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--a0a6c75e6264c5a4cbcc37d68ff955a6aea0fcf9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%202026%20_Logo%20header_%20210%20%C3%97%2052.png",
+  "company_url": "/companies/ngan-hang-tmcp-sai-gon-ha-noi-shb",
+  "company_mo_ta": "Ngân hàng TMCP Sài Gòn – Hà Nội (SHB)",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

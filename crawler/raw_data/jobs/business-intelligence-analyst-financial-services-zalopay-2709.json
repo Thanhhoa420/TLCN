@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/business-intelligence-analyst-financial-services-zalopay-2709",
+  "tieu_de": "Business Intelligence Analyst Financial Services",
+  "ten_cong_ty": "Zalopay",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "SQL",
+    "R",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Z06 Đường số 13, Phường Tân Thuận Đông",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Business Intelligence Analyst for the Credit Enablement team delivers the insights and data-driven recommendations that support the growth of Zalopay's lending products. You will own recurring analytical delivery and reconciliation while contributing to strategic analysis across product, marketing, and risk. This is not a query-service role — you own each piece of work end-to-end, from clarifying the question to landing the insight.\n Key Responsibilities\n1. Operational Analytics & Reporting\nEnsure reporting accuracy through data validation, quality controls, standardized logic, and clear documentation.\nHandle ad-hoc analytical requests end-to-end — clarify scope, deliver validated output, and communicate results stakeholders can act on.\n2. Deep-Dive Analysis & Business Insight\nConduct deep-dive analyses on user acquisition, retention, churn, and risk metrics; investigate anomalies and communicate root causes with recommended actions.\nMeasure the impact of implemented initiatives and continuously refine metrics and recommendations to support ongoing business improvement.\n3. Analytics Infrastructure & Standards\nCollaborate with Data Platform, Data Service, and Risk teams to build and standardize shared data foundations - reusable layers, metric definitions, pipelines, and event tracking - so analysis stays consistent and scalable across the team.",
+  "yeu_cau": "﻿Must Have\nBachelor's degree in Business Analytics, Data Science, Statistics, Economics, Computer Science, or a related quantitative field.\n2+ years of hands-on BI/Data Analyst experience with end-to-end delivery ownership.\nStrong SQL proficiency, with hands-on experience extracting, transforming, and analyzing large and complex datasets. Experience with data modeling and analytical frameworks.\nFundamental knowledge of statistical programming language (Python, R) to manipulate and draw insights from large data sets.\nProactive and accountable - manages own timeline and multiple stakeholders, validates output before sending, and delivers under tight timelines without escalating every conflict. \nNice to Have\nPrior experience in fintech, digital lending, digital payments..\nBasic understanding of dimensional modeling (dim/fact tables, Star or Snowflake schema).\nStay up-to-date with the latest data technologies and trends. Hands-on use of AI/GenAI tools (Claude, ChatGPT, Gemini) in real analytics work.",
+  "quyen_loi": ".",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxMDA3NywicHVyIjoiYmxvYl9pZCJ9fQ==--e62f66d120122555990710e33f0fcb8d351f6387/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/zalopay.png",
+  "company_url": "/companies/zalopay",
+  "company_mo_ta": "Zalopay",
+  "job_expertise": [
+    "Data Analyst"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

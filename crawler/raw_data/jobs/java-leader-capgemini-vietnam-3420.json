@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/java-leader-capgemini-vietnam-3420",
+  "tieu_de": "Java Leader",
+  "ten_cong_ty": "Capgemini Vietnam",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Java",
+    "Spring Boot",
+    "Cloud",
+    "Spring",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "106 Nguyen Van Troi",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role/position\n \nIn this role, you will a Java backend developer (Senior/Lead). You will help Java back-end team and work in project team with other sub-teams (front-end, mobile, DevOps, BA) and partner closely with our clients on a wide variety of collaborative and innovative engagements.\n \nOne should be a phenomenal teammate with a forward-thinking mindset, ability and confidence to challenge the status quo to define future visions.",
+  "yeu_cau": "Responsibilities:\nTranslate application User Stories into functional applications\nDesign, build, and maintain efficient, reusable, reliable, testable and secure Java code\nDesign and build API following microservices principles\nEnsure the best possible performance, quality, and responsiveness of the applications\nIdentify bottlenecks and bugs, and find solutions to fix issues\nHelp team to maintain code quality, organization, and automatization\nMust have Technical Requirements / Qualifications\nPrimary Skills:\nLanguage: Java, SQL\nFrameworks: SpringMVC, SpringBoot, Hibernate, Junit, Mockito\nAPI specification: Spectral, Swagger \nJava API Security: Authentication, Authorization, common security standards\nDatabase: SQL server, MariaDB, MySQL, PostgreSQL\nTools: Gradle, Maven, GIT, JIRA/Confluence\nAt least basic knowledge of AWS Cloud and deployment\nSecondary Skills:\nBasic of advanced knowledge of an alternate cloud provider (AWS, GCP…)\nKubernetes on one cloud provider\nCI/CD tools (Harness, Jenkins)\n \nBS/MS degree in Computer Science, Engineering or a related subject\nGood English communication is a must\nMinimum 6+ years of relevant experience primarily in Java backend development\nProficient in Java, with a good knowledge of its ecosystems\nProficient in writing efficient, reusable, reliable, testable and secure Java code\nExcellent in popular Java frameworks: Spring MVC, Spring Boot, Hibernate\nFamiliarity with concepts of MVC, JDBC, and RESTful, micro service\nFamiliarity with security aspects of backend API: authentication, authorization, OAuth, OpenID, JWT, SAML, SSO\nObject Oriented analysis and design using common design patterns\nFamiliarity with common integration patterns: REST, Messaging, Streaming, SOAP\nKnowledge of concurrency patterns in Java\nExcellent knowledge of Relational Databases, SQL and ORM technologies (JPA2, Hibernate)\nProficient understanding of code versioning tools, such as Git\nFamiliarity with build tools such as Gradle, Maven, Ant\nKnowledge of the business domains is a plus: Insurance (Life/Non-life), Banking\nExperience working in an agile team, practicing Scrum, Kanban\nGood communication skills, interpersonal and teamworking skills\nPro-active and flexible working approach\nTeam-player with experience working with international and multi-functional teams\nSelf-development skills to keep up to date with fast-changing trends",
+  "quyen_loi": "Benefit\nCompetitive salary, health insurance covered for employee and dependents.\nWorking on international projects. Professional and dynamic working environment\nAchieving valuable experience with variety projects, new technologies and hundreds of talents\nReceiving training opportunities including many technical seminars and soft skill training courses\nGood opportunity for promotion through regular performance review system.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzcwLCJwdXIiOiJibG9iX2lkIn19--b64c7e7749d6343faa318ff956e5f43d4db1d72f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/capgemini-vietnam-logo.jpg",
+  "company_url": "/companies/capgemini-vietnam",
+  "company_mo_ta": "One of the world leading company in IT services",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

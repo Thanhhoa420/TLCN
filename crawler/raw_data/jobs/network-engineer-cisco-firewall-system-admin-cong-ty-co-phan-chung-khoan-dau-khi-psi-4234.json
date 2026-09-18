@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/network-engineer-cisco-firewall-system-admin-cong-ty-co-phan-chung-khoan-dau-khi-psi-4234",
+  "tieu_de": "Network Engineer Cisco, Firewall, System Admin",
+  "ten_cong_ty": "Công Ty Cổ Phần Chứng Khoán Dầu Khí (Psi)",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "Networking",
+    "System Admin",
+    "Security",
+    "Juniper",
+    "Cisco",
+    "Firewall"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "18 Lý Thường Kiệt",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Khảo sát, thiết kế, triển khai và quản trị vận hành hệ thống hạ tầng mạng (LAN, WAN, Wireless, VPN, Internet) cho doanh nghiệp/khách hàng.\nXây dựng tài liệu thiết kế High-Level Design (HLD) và Low-Level Design (LLD); lập kế hoạch và phương án triển khai dự án.\nCấu hình, cài đặt, vận hành các thiết bị mạng và bảo mật: switch, router, firewall, wireless controller, load balancer (Cisco, Juniper, Aruba, Fortinet, Check Point, F5...)\nGiám sát hoạt động hệ thống mạng 24/7, xử lý sự cố kịp thời; xây dựng kịch bản ứng phó và khôi phục hệ thống (DR/BCP).\nXây dựng quy trình, chính sách quản trị mạng và bảo mật thông tin; phối hợp triển khai các giải pháp an ninh mạng (Firewall, Endpoint Protection...).\nQuản lý nhà cung cấp, đường truyền và chi phí dịch vụ mạng; đề xuất cải tiến nhằm tối ưu hiệu năng và chi phí vận hành.\nĐào tạo, chuyển giao công nghệ và hỗ trợ người dùng nội bộ về hệ thống mạng và an ninh thông tin.",
+  "yeu_cau": "Học vấn: Tốt nghiệp Đại học chuyên ngành CNTT, Điện tử – Viễn thông hoặc tương đương.\nKinh nghiệm: Tối thiểu 5 năm kinh nghiệm thiết kế, triển khai và vận hành hạ tầng mạng doanh nghiệp quy mô lớn.\nChứng chỉ: Ưu tiên ứng viên có CCNA/CCNP, Aruba ACMA/ACMP, Fortinet NSE, Check Point CCSA/CCSE hoặc tương đương.\nKiến thức chuyên môn: Thành thạo định tuyến (Routing), chuyển mạch (Switching), bảo mật mạng, HA, NAT, VLAN, MLAG, Trunking; nắm vững các giải pháp của Cisco, Juniper, Aruba, Fortinet, Check Point, F5.\nCông cụ: Sử dụng thành thạo công cụ giám sát và phân tích mạng như SolarWinds, Zabbix, Wireshark, PuTTY.\nKỹ năng mềm: Tư duy logic, phản biện và thuyết trình tốt; quản lý công việc, quản lý dự án và làm việc nhóm hiệu quả.\nNgoại ngữ: Đọc hiểu tốt tài liệu kỹ thuật tiếng Anh; giao tiếp tiếng Anh là một lợi thế.\nKiến thức ngành IT - Phần cứng và máy tính, IT - Phần mềm",
+  "quyen_loi": "Làm việc từ thứ 2 đến thứ 6 hàng tuần, từ 8:00 - 17:00 (nghỉ thứ 7, Chủ nhật)\nĐóng bảo hiểm xã hội đầy đủ.\nThu nhập Thỏa thuận\nThưởng hàng năm theo hiệu quả kinh doanh.\nBảo hiểm sức khỏe khi ký HĐLĐ chính thức, khám sức khỏe, nghỉ mát, và nhiều chế độ phúc lợi hấp dẫn khác.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3MjAxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ea798524848da950cc604df8c6b52d7310a86704/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/t%E1%BA%A3i%20xu%E1%BB%91ng.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-dau-khi-psi",
+  "company_mo_ta": "PETROVIETNAM SECURITIES JOINT STOCK COMPANY",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

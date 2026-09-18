@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/java-lead-finance-banking-domain-itviec-recruitment-consulting-5325",
+  "tieu_de": "Java Lead Finance/Banking domain",
+  "ten_cong_ty": "ITviec Recruitment Consulting",
+  "ngay_dang_raw": "2026-08-26",
+  "han_ung_tuyen_raw": "2026-09-30",
+  "ky_nang": [
+    "English",
+    "API",
+    "Microservices",
+    "Leadership",
+    "Spring Boot",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "City",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Itviec’s client is seeking a Lead Java Engineer to lead the design and development of backend services for large‑scale digital banking and financial platforms. \nThe role requires strong expertise in system architecture and design, microservices backend engineering, and understanding of banking / financial service domains, along with the ability to lead engineering teams and communicate confidently with client stakeholders to deliver scalable, secure and high-quality backend solutions. \n \nKey Responsibilities \nTechnical Leadership \nLead and mentor a team of backend engineers across multiple functional domains. \nProvide technical direction and ensure alignment with architecture standards and engineering best practices. \nReview solution designs, code quality, and implementation approaches — promoting clean architecture, resilient microservices, and AI‑enhanced development patterns. \nGuide the team in diagnosing complex technical challenges, using both traditional analysis and AI-powered debugging or observability tools. \nSupport planning, estimation, and technical decision-making within the engineering team. \nBackend Architecture & Development \nDesign and develop backend services using Java and modern backend frameworks (e.g., Spring Boot). \nDefine and implement microservices-based architecture and API-driven systems. \nEnsure backend services are scalable, secure, resilient, and maintainable. \nDrive best practices in backend development, including maintainable system design, automated testing, code quality, API governance, performance optimization and documentation. \nWork closely with DevOps teams to support CI/CD pipelines, incorporate intelligent automation, and ensure stable, secure deployment environments. \nIntegrate AI-assisted development practices into coding, testing, documentation, code reviews, and defect prevention workflows. \nBanking & Payment Domain \nDesign backend systems supporting banking products and financial transaction processing. \nBuild and maintain services related to payments, card processing, financial operations, and core banking functions. \nEnsure backend implementations comply with financial industry standards and security requirements. \nCollaborate with business and product teams to translate banking and financial requirements into technical solutions. \nClient Collaboration & Delivery \nWork directly with client stakeholders, architects, and product owners to understand business processes, requirements and define technical solutions. \nChallenge and clarify requirements with curiosity dig deep into the \"why\" behind business needs. \nParticipate in architecture discussions and technical workshops with client teams. \nCommunicate technical designs, trade-offs, and solutions clearly to both engineering teams and non-technical stakeholders. \nSupport project delivery by ensuring technical risks are identified and mitigated early.",
+  "yeu_cau": "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field \n8+ years of backend development experience. \n3+ years in a Technical Lead or senior engineering role. \nStrong experience with Java and backend frameworks (e.g. Spring Boot). \nExperience designing and implementing microservices, API-driven systems, event-driven architectures or messaging systems (e.g., Kafka), RDBMS and SQL. \nSolid experience working with containerization (Docker, Kubernetes). \nStrong understanding of CI/CD, version control (Git), and automated pipelines. \nExperience working in Agile delivery environments. \nExcellent leadership, communication, and stakeholder management skills. \nSpecific Qualifications \nExperience working in banking, fintech, or financial services environments. \nFamiliarity with core banking, card, payment systems, or related financial systems. \nKnowledge of industry standards (e.g. PCI-DSS) or payment security practices. \nHandson exposure to AIassisted development tools (GitHub Copilot, Claude Code, or similar). \nAbility to write effective prompts and context for AI code generation. \nAbility to assess AI-generated code, verify security vulnerabilities, validate AI-generated tests for completeness and edge case coverage.",
+  "quyen_loi": "Global Innovation Hub: Be part of a prestigious European technology firm with a 30-year legacy, working on large-scale digital transformation projects for top-tier global financial institutions.\nCutting-Edge Tech Stack: Engage with an AI-centric environment where you are encouraged to leverage advanced AI-assisted development tools (like GitHub Copilot and Claude Code) to redefine engineering productivity.\nExpert Collaboration: Work alongside some of the industry's brightest minds in an international setting that fosters professional growth and cultural exchange.\nContinuous Upskilling: Access specialized training programs, including professional English courses and advanced certifications in Cloud, Architecture, and emerging technologies like Smart Contracts.\nCompetitive & Transparent Rewards: Enjoy a robust compensation package featuring a guaranteed 13th-month salary, performance-based bonuses, and premium health insurance for your peace of mind.\nWork-Life Balance: Benefit from a flexible Hybrid working model and extensive annual leave, allowing you to balance professional excellence with personal well-being.\nHigh-Impact Projects: Direct your expertise toward modernizing next-generation core systems that power the daily lives of millions in the banking and fintech sectors.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5OTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6543d306293819ea2f1a6e0636a7b12b5ccc2c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20ITViec%20Recruitment%20Consulting%20(1).png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "ITviec Recruitment Consulting",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

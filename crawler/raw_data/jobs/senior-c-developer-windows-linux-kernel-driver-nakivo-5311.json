@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-c-developer-windows-linux-kernel-driver-nakivo-5311",
+  "tieu_de": "Senior C++ Developer Windows/Linux Kernel Driver",
+  "ten_cong_ty": "Nakivo",
+  "ngay_dang_raw": "2026-09-01",
+  "han_ung_tuyen_raw": "2026-10-06",
+  "ky_nang": [
+    "C++",
+    "System Architecture"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "TGI Building, 208 Nguyen Trai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,300 - 2,800 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "● Design and implement features for a backup and replication product.\n● Delivering clean code supporting consistent user experience and product quality.\n● Working closely with front-end developers and product managers on the\nenhancement and development of our products.",
+  "yeu_cau": "Required Qualifications:\n● At least 5 years experience as a Senior Developer\n● Windows/Linux kernel driver development experience is required.\n● Extensive experience with C/C++ cross-platform development (Windows & Linux\nplatforms) and OOP.\n● Deep understanding of modern Windows and Linux OS internals.\n● Solid knowledge of OS storage organization (partition tables, dynamic volumes,\nsnapshots, file systems, etc).\n● Experience with multi-threading, IPC and TCP/IP networking is a plus (Win API,\nPOSIX, BSD sockets).\n● Experience with C++ build system (e.g: msbuild, make)\n● Intermediate English communication and writing skills, and the ability to facilitate\nyour own meetings as necessary.\n \nDesired Qualifications:\n● Scripting languages are a plus.",
+  "quyen_loi": "Flexible working hour\nPrivate health care insurance\nPremium annual health care check\n\nThe Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years. \nWe welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offering\nFlexible working hours: Office opens from 6.00 AM to 10.00 PM\n13-month bonus & performance bonus\n100% salary on probationary period\nPrivate health care package\nHealthcare package for family members\nPremium health care check\nGift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday\nUp to 18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)\nTeam building\nFree and un-limited snack, tea, coffee and by-choice request.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MTk2LCJwdXIiOiJibG9iX2lkIn19--bceea6d3244169111f1344425f9c11dc02e70eb5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nakivo-logo.jpg",
+  "company_url": "/companies/nakivo",
+  "company_mo_ta": "Providing continuous data protection software for VMware-based virtual servers.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

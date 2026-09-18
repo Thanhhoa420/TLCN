@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/cvcc-van-hanh-ung-dung-appops-cong-ty-co-phan-thanh-toan-so-mobifone-0837",
+  "tieu_de": "CVCC Van hanh Ung dung AppOps",
+  "ten_cong_ty": "Công ty Cổ phần Thanh toán số MobiFone",
+  "ngay_dang_raw": "2026-08-11",
+  "han_ung_tuyen_raw": "2026-09-15",
+  "ky_nang": [
+    "Security",
+    "CI/CD",
+    "Database",
+    "Networking",
+    "Linux"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 30 - Tòa tháp C5 D’Capital, 119 Trần Duy Hưng, Phường Yên Hoà, Thành phố Hà Nội, Việt Nam",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose: Vận hành hệ thống, đảm bảo tính sẵn sàng, ổn định và tuân thủ quy trình an toàn thông tin cho các hệ thống cấp độ 3 và 4 (Chuyển mạch tài chính, Trung gian thanh toán,...) được triển khai trên GCP và các data center đặt tại Việt Nam (private cloud).Responsibilities\nTiếp nhận, triển khai và quản lý phiên bản cho các ứng dụng nghiệp vụ: Chuyển mạch tài chính, Trung gian thanh toán, AML, BillHub.\nGiám sát chuyên sâu ở tầng ứng dụng và nghiệp vụ, đảm bảo SLA đã cam kết với khách hàng.\nTrực tiếp phân tích log, trace lỗi giao dịch, phối hợp với bộ phận phát triển và hạ tầng để xử lý sự cố trên môi trường Production.\nTham gia xây dựng kịch bản và thực hiện diễn tập DRP (Disaster Recovery Plan) định kỳ cho các hệ thống cấp độ 3, 4.\nQuản lý cấu hình ứng dụng, certificate và thực hiện các yêu cầu nghiệp vụ (hỗ trợ tra soát, đối soát, cấp tài khoản cho tổ chức thành viên).\nXây dựng tài liệu vận hành, viết runbook vận hành/giám sát/xử lý sự cố, đào tạo L1.",
+  "yeu_cau": "Trình độ học vấn & kinh nghiệm\nTối thiểu 3 năm kinh nghiệm vận hành ứng dụng trong lĩnh vực Tài chính, Ngân hàng hoặc Fintech.\nCó kinh nghiệm phát triển, vận hành, tối ưu các ứng dụng Java/Spring Boot, Microservices.\nKiến thức & năng lực chuyên môn\nHiểu biết về luồng nghiệp vụ thanh toán điện tử, ví điện tử, cổng thanh toán hoặc các chuẩn giao tiếp tài chính (ISO 8583, ISO 20022, JSON/RESTful API).\nCó kỹ năng sử dụng thành thạo các công cụ giám sát hiệu năng ứng dụng (APM) và phân tích log (Splunk, ELK, New Relic, Grafana,...).\nCó kiến thức nền tảng tốt về Linux, Network, Database (Oracle, Postgresql, TiDB) và hiểu quy trình CI/CD.\nHiểu biết về các quy định An toàn thông tin đối với hệ thống thông tin cấp độ 3, 4 là một lợi thế lớn.",
+  "quyen_loi": "Lương & Phụ cấp\nLương tháng 13, thưởng hiệu quả công việc năm (theo kết quả kinh doanh của công ty).\nPhụ cấp ăn trưa: 730.000đ/tháng.\nPhép năm: Tối đa 15 ngày/năm (theo cấp nhân sự).\nSức khỏe: Bảo hiểm xã hội, BH sức khỏe và khám sức khỏe định kỳ hàng năm.\nMáy tính xách tay, màn hình và các phương tiện/tài khoản/công cụ cần thiết khác cho công việc.\nCơ hội nghề nghiệp\nXét tăng lương hàng năm và cơ hội thăng tiến.\nCông nhận và khen thưởng ở cấp độ nhóm và Công ty.\nMôi trường làm việc\nMôi trường làm việc trẻ trung, năng động và hợp tác.\nTeambuilding hàng quý/ hàng năm & các sự kiện nội bộ gắn kết.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1MTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3949eed3261251b80971e00ce1935dac2c392fb8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z6865355798986_a06ac35089a943e03ac47319554e367c.jpg",
+  "company_url": "/companies/cong-ty-co-phan-thanh-toan-so-mobifone",
+  "company_mo_ta": "Công ty Cổ phần Thanh toán số MobiFone",
+  "job_expertise": [
+    "Application Security Engineer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

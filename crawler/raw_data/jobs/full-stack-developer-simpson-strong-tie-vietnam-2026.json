@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-developer-simpson-strong-tie-vietnam-2026",
+  "tieu_de": "Full-stack Developer",
+  "ten_cong_ty": "Simpson Strong-Tie Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Fullstack",
+    "AI",
+    "TypeScript",
+    "ReactJS",
+    ".NET",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9th Floor, Etown 6 Building, 364 Cong Hoa Street, Tan Binh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "You want to be a key member of a strong team of creators who take pride in their work and support one another. As a Software Developer, you will take ownership of features across the stack — from API and data model through to the UI that consumes them — across Simpson Strong-Tie's enterprise platforms. We don't split our team into backend and frontend silos; everyone here is a software developer who can move across the stack. This is a mid-level role, so we're not expecting you to already be equally strong everywhere: backend is where we need your core strength, and we'll support you in growing your frontend range over time. Specializing deeper into backend or frontend later is a welcome career choice, not a requirement from day one. Your impact will be recognized, and if career growth is important to you, we not only know how to support your development — we're passionate about it.\n \nWHAT YOU'LL BE DOING\nFull-Stack Feature Ownership\nDesign, build, and maintain RESTful APIs and services using Java/Spring Boot and/or .NET/ASP.NET Core.\nContribute to the UI features that consume those APIs, using React/Next.js and TypeScript.\nWrite clean, testable, well-structured code following SOLID principles and established architectural patterns (controller/service/repository).\nDesign and optimize data models across relational (Azure SQL/MSSQL, MySQL) and NoSQL (Cosmos DB) databases, with attention to indexing and query performance.\nIntegrate services with internal and third-party APIs, message queues, and background/async processing.\nWrite unit and integration tests for the code you ship.\nParticipate in code reviews, troubleshoot production issues, and contribute to system reliability and performance improvements across the stack.\nAI-Augmented Development\nLeverage AI coding assistants (Claude Code, Cursor, Copilot, or similar) to accelerate development while maintaining code quality.\nUse AI tools effectively for code review, refactoring, debugging, and documentation across the stack.\nCritically evaluate AI output, knowing when to trust, verify, or override.\nCollaboration & Quality\nWork closely with tech leads, QA, and product owners within our Scrum framework with daily standups, sprint planning, and retros.\nOwn your tickets end-to-end, including breaking work into and managing subtasks, you're expected to drive a ticket, not just take direction on it.\nEmbrace collective code ownership with code review, improve, and take responsibility for shared implementation.\nRaise blockers, risks, and improvement ideas proactively, rather than waiting to be asked.\nLook for opportunities to improve code quality, team processes, and your own skills as part of your normal workflow, not as a separate initiative.\nWrite and maintain clear technical documentation for APIs, services, and data models.\nParticipate in sprint planning, estimation, and delivery commitments as part of a cross-functional team.",
+  "yeu_cau": "DESIRED SKILLS AND EXPERIENCE\nThe list below reflects what's required to be considered and what strengthens an application.\nMust-Have\n2-4 years of professional software development experience, with solid backend fundamentals as the core of your background.\nStrong proficiency in Java/Spring Boot (Spring MVC, Spring Data JPA) and/or C#/.NET (ASP.NET Core, EF Core).\nWorking knowledge of TypeScript and React/Next.js and comfortable contributing to UI features alongside your backend work; deep independence here is something you can grow into.\nSolid understanding of relational database design (MySQL or MSSQL/Azure SQL) with schema design, indexing, query optimization.\nBasic knowledge of unit testing (JUnit, xUnit/NUnit, or Jest).\nUnderstanding of RESTful API design principles and experience integrating with third-party or internal APIs.\nExperience working in a Scrum team includes daily standups, sprint planning, retrospectives, and estimation.\nComfortable owning tickets and features across the stack rather than working strictly within one layer.\nBusiness-level English communication skills (both verbal and written)\nNice-to-Have\nFamiliarity with both Java/Spring Boot and .NET, rather than one of the two.\nIf you already lean toward specializing deeper in backend or frontend, that's welcome.\nExposure to Cosmos DB or other NoSQL stores.\nFamiliarity with Git-based workflows, code review practices, and CI/CD pipelines.\nBasic exposure to cloud platforms (Azure preferred) including App Services, Function Apps, or containerized deployments (AKS/Docker).\nExperience using AI coding tools (Claude Code, Cursor, Copilot, or similar) in daily work.\nFamiliarity with web security principles and common vulnerabilities (XSS, CSRF, SQL Injection).",
+  "quyen_loi": "13th Salary; Performance bonus\nPremium health care for you and your family\nOpportunity to be on site in the USA\n\nAttractive salary with 100% SHUI applied salary during probation \n13th month salary, Performance Bonus, Salary review annually \nOpportunity to be on site in the USA\n Chance to collaborate and work with our global stakeholders \nWe provide employee training & development to enhance skills set and competencies \nPremium health care program for you + one of your beloved ones, Annual medical check-up \n14 vacation days and Christmas Day (25/12) per year \nBenefits for special holidays (Birthday, Marriage, Women’s Day, Tet Holidays, Mid-Autumn, Newborn babies, International Children ‘s Day…) \nSocial Activities, Sports Clubs, Team-building events, Year-End party are carried out on a regular basis \nYoung, friendly, quality and result oriented working environment under team-work spirit\nCompliance fully to Vietnam Labor Code",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyODIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--159644f9509787107037fb1c15998a7c61d17a4e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_SST_RGB.png",
+  "company_url": "/companies/simpson-strong-tie-vietnam",
+  "company_mo_ta": "We provide No-Equal Engineering Services including constructions, mechanical and software solutions.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

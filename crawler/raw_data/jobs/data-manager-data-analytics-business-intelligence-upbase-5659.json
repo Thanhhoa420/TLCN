@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-manager-data-analytics-business-intelligence-upbase-5659",
+  "tieu_de": "Data Manager Data Analytics, Business Intelligence",
+  "ten_cong_ty": "UpBase",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Data Analysis",
+    "ELT",
+    "ETL",
+    "Data Warehousing",
+    "Business Intelligence",
+    "Team Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3, toà Hanoi Centerpoint, 27 Lê Văn Lương",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "UpBase là Tech-Driven Ecommerce Enabler, cung cấp giải pháp vận hành Ecommerce toàn diện kết hợp công nghệ (OMS, WMS, Lark, AI), đang đồng hành cùng 300+ brands tại Việt Nam và khu vực.\nVị trí tại UpBase dành cho các bạn trẻ có mong muốn:\nKhông chỉ phân tích dữ liệu, mà tạo ra tác động trực tiếp tới doanh thu và lợi nhuận\nLàm việc sát với BOD và tham gia vào các quyết định chiến lược\nXây dựng hệ thống Business Intelligence trong một tổ chức đang scale nhanh\nĐây là vai trò trung tâm trong việc biến dữ liệu thành lợi thế cạnh tranh của UpBase trong giai đoạn tăng trưởng mạnh.\nVai trò chiến lược\nĐóng vai trò “Business Intelligence Partner” của BOD, chịu trách nhiệm phân tích dữ liệu kinh doanh toàn diện\nChuyển hóa dữ liệu thành insight có giá trị và đề xuất hành động cụ thể nhằm tối ưu vận hành, tăng trưởng doanh thu và cải thiện P&L.\nTham gia trực tiếp vào quá trình ra quyết định chiến lược dựa trên dữ liệu. Mô tả công việc:\n1. Xây dựng Hệ thống Quản trị Dữ liệu (Data & Dashboard)\nThiết kế và vận hành hệ thống Dashboard Real-time (BI) tích hợp dữ liệu đa nguồn: OMS, WMS, CRM và các sàn TMĐT.\nChuẩn hóa bộ từ điển dữ liệu (Data Dictionary), đảm bảo tính nhất quán và chính xác của chỉ số trong toàn tổ chức.\nNâng cao văn hóa sử dụng dữ liệu (Data-driven) cho các đội ngũ vận hành và quản lý.\n \n2. Phân tích & Tối ưu Hiệu quả Kinh doanh (Business Insight)\nTheo dõi và phân tích các chỉ số sức khỏe doanh nghiệp\nĐánh giá chi tiết hiệu suất theo mô hình (Service, Consignment, Outright), theo ngành hàng và theo kênh (Shopee, TikTok, Website).\nChủ động phát hiện các \"điểm nghẽn\" và cơ hội tăng trưởng; đề xuất giải pháp cụ thể để tối ưu chi phí và cải thiện tỷ lệ chuyển đổi.\n \n3. Tham mưu Chiến lược (Strategic Planning)\nThực hiện các phân tích chuyên sâu (Ad-hoc) theo yêu cầu từ Ban lãnh đạo (BOD).\nPhối hợp xây dựng kế hoạch kinh doanh, dự báo (Forecasting) và lập kịch bản tăng trưởng (Scenario Planning).\nNghiên cứu thị trường, đối thủ và xu hướng TMĐT để tham mưu cho các dự án mở rộng quy mô.\n \nTechstack tại UpBase\nInfrastructure: Container, K8S\nETL Tool: DBT\nSchedule: Airflow\nDWH: Clickhouse\nVisualisation: Superset, Lark, build tools",
+  "yeu_cau": "Có tối thiểu 3-5 năm kinh nghiệm trong lĩnh vực Data Analytics, Business Intelligence hoặc Data Platform.\nCó kinh nghiệm xây dựng và phát triển Dashboard BI, hệ thống báo cáo quản trị và các chỉ số vận hành/KPI cho doanh nghiệp.\nCó kinh nghiệm làm việc với Data Warehouse, ETL/ELT và các công cụ xử lý dữ liệu.\nCó hiểu biết về hạ tầng dữ liệu hiện đại (Container, Kubernetes, ClickHouse...) hoặc sẵn sàng học hỏi và làm việc trên các nền tảng này.\nCó kinh nghiệm phân tích dữ liệu kinh doanh, xây dựng KPI và đưa ra các insight hỗ trợ ra quyết định.\nCó khả năng thực hiện Forecasting, Business Planning hoặc các phân tích chuyên sâu là một lợi thế.\nƯu tiên ứng viên có kinh nghiệm trong E-commerce, Retail, Logistics hoặc SaaS; hiểu về các chỉ số vận hành trên Shopee, TikTok Shop, Website...\nCó tư duy Data-driven, khả năng làm việc trực tiếp với BOD và các phòng ban để chuyển đổi dữ liệu thành các đề xuất kinh doanh.\nKỹ năng giao tiếp, trình bày và storytelling với dữ liệu tốt; có khả năng dẫn dắt các buổi review số liệu và đề xuất giải pháp.",
+  "quyen_loi": "Kết cấu thu nhập đa dạng: Lương offer theo năng lực + thưởng + ESOP cho nhân sự chủ chốt\nĐược triển khai thực chiến và phá vỡ giới hạn tư duy thông thương:\nTham gia xây dựng hệ sinh thái Ecommerce & SaaS quy mô lớn, tốc độ phát triển nhanh\nĐược trao quyền rõ nét, được thử và được sai để tim ra công thức thành công\nTham gia xây dựng và phát triển sản phẩm/công nghệ phục vụ các nhãn hàng Việt Nam trong quá trình mở rộng ra thị trường khu vực.\nQuyền lợi khác:\nThưởng tháng lương 13++ (theo tình hình sản xuất kinh doanh), Thưởng hiệu suất, thưởng dự án.\nChính sách ESOP: Dành cho nhân sự gắn bó, key và có đóng góp nổi bật\nCơ hội thăng tiến minh bạch, review định kỳ nâng lương/level sau 3-6 tháng.\nChế độ phúc lợi đầy đủ: BHXH, BHYT, BHTN theo quy định, Khám sức khỏe định kì hàng năm cho CBNV\nChế độ làm việc: 5 ngày/tuần, nghỉ Thứ 7 và Chủ Nhật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTU4MjczMCwicHVyIjoiYmxvYl9pZCJ9fQ==--dd090e46ae6533b7b4bea6e0fdbf0551387bdb76/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20UpBase%20Do%CC%A3c%20-%20Hung%20Dinh.png",
+  "company_url": "/companies/upbase",
+  "company_mo_ta": "Đồng hành cùng doanh nghiệp phát triển bền vững trên Thương mại điện tử",
+  "job_expertise": [
+    "Data Analyst"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/frontend-developer-erp-focus-reactjs-vuejs-gon-tech-2755",
+  "tieu_de": "Frontend Developer ERP Focus, ReactJS, VueJS",
+  "ten_cong_ty": "GON TECH",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "ReactJS",
+    "Git",
+    "JavaScript",
+    "Odoo",
+    "ERP",
+    "VueJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 669 Điện Biên Phủ, Phường Thạnh Mỹ Tây",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design and develop high-performance, user-friendly interfaces for ERP systems — including Accounting, Inventory, Manufacturing, HRM, and SCM modules.\nImplement UI/UX designs (Figma/Sketch) ensuring consistency, smooth user experience, and alignment with complex ERP workflows.\nBuild data-heavy ERP screens: multi-step forms, approval flows, financial dashboards, real-time reporting tables.\nIntegrate APIs (RESTful/gRPC, GraphQL) with ERP backend systems.\nBuild reusable components and optimize frontend architecture (ReactJS or Vue.js).\nOptimize frontend performance, handle real-time data, and ensure responsive design across devices.\nApply best practices in frontend security and performance.\nCollaborate with designers, backend engineers, BA/consultants, and QA to deliver high-quality ERP products.\nResearch and adopt new frontend technologies, contributing to continuous improvements.",
+  "yeu_cau": "Bachelor's degree in Computer Science, IT, or related fields.\n3.5+ years of experience in frontend development (Senior level preferred: 5+ years).\nExperience building or customizing ERP frontend modules is required — Odoo Web Client, ERPNext/Frappe UI, SAP Fiori, or custom ERP is a strong plus.\nFamiliarity with ERP domain and workflows: GL/AR/AP, purchase-to-pay (P2P), order-to-cash (O2C), inventory management, approval flows.\nProficient in ReactJS or Vue.js (TypeScript preferred).\nStrong knowledge of JavaScript (ES6+), TypeScript, HTML5, CSS3, SCSS, Styled Components, TailwindCSS.\nSolid understanding of RESTful APIs, GraphQL, WebSocket.\nHands-on experience in frontend performance optimization and SEO.\nProficient with Git, CI/CD; Docker is a plus.\nNice to have: \nSSR/SSG (Next.js / Nuxt.js), micro frontend, unit testing (Jest, Vitest, React Testing Library / Vue Test Utils), mentoring experience, Vietnamese accounting standards (VAS) localization.\nStrong problem-solving mindset, proactive communication, passion for UI/UX and clean code.",
+  "quyen_loi": "Grow and advance into higher-level roles\nA creative and innovative work culture\nCompetitive pay and great benefits\n\n85% salary during probation.\nAttractive salary package, including 13th-month bonus.\nProvided with MacBook & iPhone 16e.\nPremium healthcare package.\nMonthly Happy Hour & annual company trips.\nOpportunity to improve English skills with international clients.\nExposure to new tech stacks for business growth.\nFlexible working hours & attractive annual leave policy.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU4MzM1NCwicHVyIjoiYmxvYl9pZCJ9fQ==--1969a046a22126907b0c1b42bd6f9ff497d750e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202025-09-03%20at%2014.20.45.png",
+  "company_url": "/companies/gon-tech",
+  "company_mo_ta": "GON TECH",
+  "job_expertise": [
+    "Frontend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-engineer-devops-timo-0613",
+  "tieu_de": "Principal Engineer DevOps",
+  "ten_cong_ty": "Timo",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "DevOps",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "412 Nguyen Thi Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Timo\n \nLaunched in 2015, Timo pioneered digital banking in Vietnam with a mission to make banking faster, simpler, and more accessible.\n \nToday, as part of one of Southeast Asia’s leading digital financial services platforms, Timo is building secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n \nWe are looking for curious minds and driven talents from fintech, digital banking, and technology companies who are excited to move fast, build meaningful products, and help shape the future of banking in Vietnam.\n \nAbout the Role\n \nWe are looking for a Principal Software Engineer, DevOps, to define and drive the infrastructure and delivery foundations behind Timo's digital banking platform.\n \nIn this role, you will own Timo's DevOps strategy, building and scaling the infrastructure, CI/CD pipelines, and operational practices that power our production, QA, and development environments. You will set the technical direction for reliability, deployment, and cloud efficiency.\n \nYou will report to the Head of Engineering.\n \nWhat You Will Do\n \nDefine and drive Timo's DevOps strategy: infrastructure, deployment, observability, and cloud efficiency\nArchitect and maintain stable, secure, and efficient infrastructure across production, QA, and development environments\nLead CI/CD and GitOps practices from build, packaging, and deployment pipelines through to continuous improvement\nDrive DORA metrics improve lead time for changes, deployment frequency, time to restore service, and change failure rate\nStandardize Infrastructure as Code practices: Terraform, Ansible, Packer across Timo's engineering teams\nPartner with Engineering, Security, and Compliance to ensure infrastructure meets banking-grade reliability and security requirements\nOptimize cloud costs while ensuring scalable, performant infrastructure\nMentor senior engineers and help drive adoption of DevOps best practices across the organization",
+  "yeu_cau": "What We Are Looking For\n \nExperience\n8+ years in DevOps, SRE, or Infrastructure Engineering, with prior experience in a Principal, Staff, or technical leadership role\nProven track record of operating production systems at scale, ideally in fintech, banking, or another regulated environment\nExperience driving infrastructure strategy and standards across multiple engineering teams\n \nSkills & Expertise\nDeep expertise in container orchestration, Kubernetes, Docker, Helm\nStrong experience with CI/CD and GitOps: GitLab CI/CD, ArgoCD, Helm Charts/Helmfile\nHands-on with Infrastructure as Code: Terraform, Ansible, Packer\nExperience with public cloud platforms: AWS preferred\nProficient in scripting and automation: Bash, Python (or Go/Java for tooling)\nStrong understanding of observability: logging, tracing, and monitoring\nFamiliarity with secrets management (HashiCorp Vault) and infrastructure security best practices\nExperience supporting databases and messaging systems at scale\nProfessional working English: Collaboration with Timo's local and Kredivo's regional teams\n \nAttributes\nBuilds influence through technical credibility, not authority\nPragmatic: balances long-term architecture with short-term delivery\nComfortable shaping direction in ambiguous, fast-moving environments\nStrong sense of ownership and operational rigor: you treat reliability as a first-class engineering concern\n \nBonus Points\nExperience in fintech, banking, or other regulated industries\nHands-on with cloud cost optimization at scale\nBackground in Platform Engineering, SRE, or DevEx teams\n \nWhy Join Us\n \nDefine the infrastructure foundations behind one of Vietnam's leading digital banks\nWork alongside Kredivo Group's regional DevOps and Platform Engineering teams (Vietnam, Indonesia, Singapore)\nSet the technical bar for how Timo builds, deploys, and operates at scale\nHybrid model: 4 days HCMC office, 1 day work from home",
+  "quyen_loi": "Big chance to build Fintech system, large data\nInternational & English environment\nApply new Tech-Stack, Technology and more\n\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI4NzkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c42f54d9d26674f8a00e350a54f4cd5dc0e0cb94/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/timo",
+  "company_mo_ta": "Timo Vietnam",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

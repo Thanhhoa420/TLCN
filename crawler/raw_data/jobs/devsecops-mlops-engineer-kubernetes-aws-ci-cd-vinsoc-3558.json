@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devsecops-mlops-engineer-kubernetes-aws-ci-cd-vinsoc-3558",
+  "tieu_de": "DevSecOps/MLOps Engineer Kubernetes, AWS, CI/CD",
+  "ten_cong_ty": "VinSOC",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "DevSecOps",
+    "Terraform",
+    "CI/CD",
+    "Kubernetes",
+    "AWS",
+    "MLOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Technopark Tower",
+  "quan_huyen": "Quận Long Biên",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,000 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Define and execute the end-to-end DevSecOps / MLOps strategy (CI/CD, infrastructure, security, observability).\nArchitect, deploy, and operate cloud infrastructure (AWS) with focus on scalability, high availability (HA), and security.\nDesign and optimize CI/CD pipelines using Jenkins, GitLab CI, ArgoCD.\nStandardize and manage Kubernetes environments (EKS / on-prem), including GPU workloads, networking, ingress, and autoscaling.\nImplement Infrastructure as Code (Terraform, Ansible) for automated provisioning and operations.\nBuild and maintain monitoring & observability systems (Prometheus, ELK/OpenSearch, Datadog).\nDrive DevSecOps best practices: SAST, DAST, container security, SBOM.\nOptimize infrastructure cost following FinOps principles.\nCollaborate closely with Engineering, AI, Data, and Security teams.\nDevelop runbooks, disaster recovery (DR) plans, and design high availability architectures.",
+  "yeu_cau": "Requirements\nBachelor’s degree in computer science, IT, or related field.\n5+ years in DevOps / SRE / Platform Engineering.\nProven experience operating large-scale production systems (AI/GPU workloads is a strong advantage).\nTechnical Skills\nCloud & Infrastructure: Strong expertise in AWS / Azure / GCP; solid understanding of HA, DR, multi-region architecture.\nContainers & Orchestration: Hands-on experience with Docker & Kubernetes (EKS/AKS/on-prem); strong understanding of networking (CNI, ingress); service mesh is a plus.\nCI/CD: Experience with Jenkins, GitLab CI, ArgoCD; ability to design full pipelines (build → scan → deploy → rollback).\nInfrastructure as Code: Strong hands-on with Terraform (required); Ansible/Helm is a plus.\nObservability: Experience with Prometheus, Grafana, ELK/OpenSearch, Datadog; understanding of APM & distributed tracing (OpenTelemetry is a plus).\nSecurity: Solid knowledge of DevSecOps practices (SAST, DAST, container security); experience with tools like Trivy, Dependency-Track, DefectDojo.\nExperience building end-to-end MLOps platforms\nFamiliarity with tools such as KServe, MLflow, Airflow, DVC.\nUnderstanding of model reproducibility, GPU workload automation, and advanced deployment patterns (canary, A/B testing, shadow traffic).\nPreferred\nExperience building Internal Developer Platform (IDP).\nExposure to AI/LLM in DevOps (AIOps, AI Agents).\nKnowledge of Kafka, ClickHouse, or data pipelines.\nFinOps mindset and cost optimization experience.\nRelevant certifications (AWS / Azure / GCP, CKA / CKAD).",
+  "quyen_loi": "Competitive Compensation\nCutting-Edge Technology, AI Security\nGlobal Environment\n\nWork on cutting-edge platforms at the intersection of Cloud, AI, and Cybersecurity.\nLead impactful initiatives with high ownership and real business impact.\nOpportunity to build and scale modern DevSecOps/MLOps platforms from the ground up.\nDynamic, fast-growing environment with top-tier engineering talent.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1Njk1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11d3390f3f4043281f72bd582f6687976328f232/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/ta%CC%89i%20xuo%CC%82%CC%81ng%20(5).jpeg",
+  "company_url": "/companies/vinsoc",
+  "company_mo_ta": "VinSOC",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

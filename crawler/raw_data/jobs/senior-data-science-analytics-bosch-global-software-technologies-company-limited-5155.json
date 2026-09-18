@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-science-analytics-bosch-global-software-technologies-company-limited-5155",
+  "tieu_de": "Senior Data Science  Analytics",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-08-12",
+  "han_ung_tuyen_raw": "2026-09-16",
+  "ky_nang": [
+    "Python",
+    "Machine Learning",
+    "LLM",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Develop statistical models and machine learning algorithms to identify trends, patterns, and correlations in large-scale datasets as per communication and alignment with customer or customer interface.\nDesign and build data visualizations, dashboards, and reports to communicate analytical findings to technical and non-technical stakeholders.\nPerform exploratory data analysis and feature engineering to prepare and enrich datasets for modelling and analysis\nApply advanced statistical techniques to solve classification, regression, and clustering problems.\nUtilize programming languages and data manipulation libraries to clean, transform, and analyze data efficiently.\nValidate model performance and ensure the reliability and accuracy of analytical solutions through rigorous testing and evaluation methodologies.\nContribute to technical design reviews by providing data-driven perspectives and collaborating with team members on solution improvements.\nSupport team members by sharing knowledge of data science techniques, troubleshooting complex analytical problems, and participating in peer code reviews.\nEnsure compliance with applicable industry standards, regulatory requirements, company policies, and quality frameworks applicable to the role and assigned projects.\nPerform other tasks as assigned by Managers.",
+  "yeu_cau": "Proven professional experience in data science or analytics, with demonstrated experience in building and deploying machine learning models.\nProven experience with modern data science frameworks and libraries (e.g., Scikit-learn, Pandas, TensorFlow, PyTorch) is required.\nData Management, Data Modelling and Design, Keras.\nLarge Language Models (LLMs).\nMachine Learning Model Deployment.\nMLOps / ML Lifecycle Management.\nModel Validation & Evaluation.\nNatural Language Processing (NLP).\nPython (Programming Language).\nPyTorch.\nR (Programming Language).\nStatistical Inference.\nVector DB.\nProficient in English Communication\nProficient in Office Applications (e.g. MS Word, Excel, PPT)\nBachelor's degree in Computer Science, Statistics, Mathematics, Data Science, or a related quantitative field.\nA Master's degree is preferred.",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nWhy BOSCH?\nBecause we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.\n \nBenefits and Career Opportunities\nWorking in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\nEnglish-speaking environment, with opportunity to be part of innovation team and work in global projects\nOnsite opportunities\nEngage in our diverse training programs which surely help strengthen both your personal and professionalism\nFlexible working time\n13th-month salary bonus + attractive performance bonus (you'll love it!) + annual performance appraisal\n100% offered salary and mandatory social insurances in 2-month probation\n15+ days of annual leave + 1-day of birthday leave\nPremium health insurance for employee and 02 family members\nLunch and parking allowance\nGood benefits of company activities such as: football, badminton, yoga, Aerobic, team building…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "Data Scientist"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

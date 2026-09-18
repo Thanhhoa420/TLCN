@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-lead-test-automation-engineer-bosch-global-software-technologies-company-limited-5806",
+  "tieu_de": "Senior/ Lead Test Automation Engineer ",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-08-18",
+  "han_ung_tuyen_raw": "2026-09-22",
+  "ky_nang": [
+    "Python",
+    "CI/CD",
+    "TypeScript",
+    "AI",
+    "English",
+    "Playwright"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Requirements and Test Design\nAnalyze requirements, designs, user stories, and acceptance criteria\nIdentify ambiguity, risks, dependencies, edge cases, and negative scenarios early\nDesign and review test scenarios, test cases, and automation scripts\nApply risk-based and shift-left testing to critical business journeys\nEnsure traceability between requirements, tests, defects, and releases\n2. Automation Engineering\nDesign and maintain scalable frameworks using Playwright with Python\nAutomate web applications, APIs, integrations, workflows, permissions, and approvals\nBuild reusable components and effective test-data solutions\nIntegrate automated tests into CI/CD pipelines\nImprove test stability, maintainability, reporting, and execution speed\nEliminate flaky tests and automation bottlenecks\nPerform exploratory and manual testing where it provides greater value\n3. Integration and Performance Quality\nValidate complex end-to-end workflows across multiple systems\nExecute API, integration, performance, load, scalability, and resilience testing\nCollaborate with Architecture, DevOps, Security, and Operations to validate non-functional requirements\nEnsure platform reliability for mission-critical global operations\n4. AI-Driven Quality Engineering\nApply AI to requirement analysis, test generation, test data, automation, defect analysis, and regression optimization\nExplore Agentic AI for intelligent test execution, monitoring, and continuous improvement\nEnsure human review, traceability, security, and governance for AI-generated assets\nMeasure AI impact through coverage, defect detection, productivity, and cycle-time improvements\n5. Quality Reporting and Collaboration\nMonitor test execution, defects, automation health, and release risks\nCreate clear dashboards and evidence-based quality reports\nConvert findings into concrete recommendations and improvement actions\nSupport root-cause analysis and preventive measures\nShare automation best practices and mentor other QA Engineers\nPromote quality as a shared product responsibility",
+  "yeu_cau": "Must Have\n7+ years in software testing or Quality Engineering, focused on automation\nStrong hands-on expertise in Playwright and Python\nExperience designing and maintaining scalable automation frameworks\nExperience testing enterprise web applications, APIs, integrations, and workflows\nPractical experience integrating automated tests into CI/CD pipelines\nStrong knowledge of test design, risk-based testing, test data, and defect management\nExperience with functional, regression, integration, and end-to-end testing\nStrong analytical and structured problem-solving skills\nExperience working in Agile, cross-functional product teams\nStrong English communication and documentation skills\nHigh ownership, attention to detail, and product-oriented thinking\nStrong Advantages\nPlaywright with TypeScript\nOutSystems or other Low-Code/No-Code platforms\nPractical use of GenAI or Agentic AI in testing\nAPI automation and performance testing\nSecurity, accessibility, resilience, and production validation\nWorkflow or process-automation platform experience\nCloud, observability, and production-monitoring knowledge\nISTQB or an equivalent testing certification",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nThis section fits well before “Who Will Thrive Here” or immediately before the final call to apply. I’ve refined it to match the JD’s inspiring, professional tone while keeping the benefits concrete.\n🌟 Why Join Us?\nEngineer quality for a global enterprise platform serving nearly 500,000 users worldwide\nShape the automation and quality foundation of complex workflow and enterprise systems\nCollaborate with global Product, Engineering, Architecture, DevOps, and Operations teams\nWork with modern technologies, scalable automation frameworks, OutSystems, GenAI, and Agentic AI\nInfluence engineering quality, release confidence, and product experience at enterprise scale\nGrow in a flexible, international, and English-speaking working environment\nReceive competitive compensation and company benefits, including:\n13th-month salary bonus, guaranteed upon contract completion and included in the final payroll of the labor contract\nPrivate health insurance through Generali, fully covered by the company\nPersonal accident insurance, fully covered by the company\n12 days of annual leave",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

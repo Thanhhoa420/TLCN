@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/qc-lead-quality-assurance-sstech-5509",
+  "tieu_de": "QC Lead Quality Assurance",
+  "ten_cong_ty": "SSTech",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Tester",
+    "CI/CD",
+    "Leadership",
+    "Automation Test",
+    "Jira",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "SSTECH LTD PTY",
+  "quan_huyen": "Quận 2",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,200 - 1,600 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking an experienced and proactive QC Lead to join our dedicated team in Vietnam.\n \nYou will own the quality of delivery across the team, working closely with developers, product owners, and the client to ensure work meets a high standard before it ships. This role goes well beyond basic ticket validation: we expect you to think critically about quality, surface risk early, and advocate for the end user throughout the delivery lifecycle.\n \nKey Responsibilities\n- Quality Assurance Ownership: Define, own, and continuously improve the QA process across the team, ensuring consistent quality standards are applied to every piece of work.\n- Test Strategy: Design and maintain test plans, test cases, and acceptance criteria that cover functional, edge-case, and regression scenarios — not just the happy path described in a ticket.\n- Risk Identification: Proactively identify quality, delivery, and user-experience risks early, raise them clearly, and drive them to resolution before they reach production.\n- User Experience Advocacy: Assess features from the end user's perspective and flag usability, consistency, and experience issues that fall outside strict acceptance criteria.\n- Defect Management: Reproduce, document, prioritise, and track defects with clear, actionable detail; verify fixes and prevent regressions.\n- Test Automation: Contribute to and help grow automated test coverage to improve speed, reliability, and repeatability of testing.\n- Collaboration: Participate in sizing, planning, and regular team meetings; give clear status updates and communicate quality concerns directly to developers, product owners, and the client.\n- Continuous Improvement: Review recurring issues, identify root causes, and drive process changes that raise overall delivery quality.",
+  "yeu_cau": "- Communication: Fluency in written and spoken English is essential — you will communicate directly with the client and internal teams\n- Agency Experience: Previous experience working in an agency environment, managing quality across multiple projects or clients\n- QA Depth: Proven ability to think beyond basic ticket validation and contribute to broader quality assurance, risk identification, and user experience.\n- Attention to Detail: Demonstrated rigour and accuracy in test coverage, defect reporting, and verification.\n- Proactive Thinking: Track record of anticipating problems and raising them early, rather than waiting to be told what to check.\n- Test Process: Strong experience designing test plans, test cases, and acceptance criteria for functional, regression, and edge-case scenarios.\n- Defect Tracking: Experience with defect tracking and QA tooling (e.g. Jira or equivalent) and Agile development methodologies.\n- Leadership: Experience leading or mentoring QC work and setting quality standards for a team.\n \nDesirable Skills and Experience\n- Test Automation: Hands-on experience with test automation frameworks and tooling is highly desirable.\n- API Testing: Experience testing APIs and integrations (e.g. Postman or equivalent).\n- Performance: Exposure to performance, load, or security testing.\n- CI/CD: Familiarity with running automated tests within a CI/CD pipeline.\n- Domain: Experience delivering quality for web and/or complex platform builds.",
+  "quyen_loi": "100% salary is paid in probation.\nAnnual Leave: 12 days/ year.\nCash out leaves at lunar Tet\n\nAt SSTech, we focus on web development with emerging technologies providing lots of opportunities to learn new technology, new technical skill and knowledge.\nWe aim for a friendly and flexible working environment, a work-life balance to provide the best assist for our team members to work effectively.\nOther than that, all the members are offered with many benefits:\nAttractive salary and benefits \n13th-month salary & annual salary review.\nAdded 1 day leaves/month & Cash out leaves at Lunar New Year (Tet). Furthermore, an additional day of leave will be granted for each year of seniority.\nAll benefits under the labor code\nAnnual company trip\nWell-equiped working condition\nIn-house lunch\nUnlimited free coffee, tea, snacks, and fruit to keep you energized\nDymanic and friendly working environment in a team of talented and experienced developers.\n🕑Working time: Monday to Friday.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2Mjg4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--52ba5d532cff98f6a801c6c2c7cdfef0d9fb8e01/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/sst-logo.png",
+  "company_url": "/companies/sstech",
+  "company_mo_ta": "A dynamic agile outsourced software development",
+  "job_expertise": [
+    "Software Engineer in Test (SDET)"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

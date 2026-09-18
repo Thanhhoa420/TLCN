@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-engineer-java-python-sql-cong-ty-tnhh-nexlab-it-solutions-3404",
+  "tieu_de": "Data Engineer Java, Python, SQL",
+  "ten_cong_ty": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Data Engineer",
+    "CI/CD",
+    "Cloud",
+    "SQL",
+    "Python",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Sài Gòn",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a skilled Data Engineer to design, build, and operate scalable data pipelines that power real-time processing and analytics. You will work on high-throughput data systems, ensuring reliability, performance, and maintainability across the data lifecycle — from ingestion\nto storage and search.\nThis role requires strong experience in distributed systems, stream processing, and cloud-native data infrastructure.\nKey Responsibilities\nDesign and implement real-time and batch data pipelines\nBuild and maintain scalable streaming systems\nDevelop and optimize stream processing jobs\nEnsure reliable ingestion from multiple internal and external data sources\nDesign event schemas and data contracts\nImplement data validation, transformation, and enrichment logic\nOptimize storage layouts and lifecycle management strategies\nImprove system observability (metrics, logging, alerting)\nTroubleshoot and resolve performance bottlenecks in distributed systems\nImplement retry, dead-letter, and replay mechanisms\nEnsure data quality, consistency, and governance\nCollaborate with Backend, DevOps, and Security teams",
+  "yeu_cau": "Must-Have\nProficiency in Java, Python, and SQL; strong software engineering fundamentals\nExperience with distributed messaging systems (e.g., Apache Kafka) and stream processing frameworks (e.g., Apache Flink)\nKnowledge of event-time processing, windowing, state management, and handling out-of-order events\nExperience with cloud storage/data lakes, relational databases, and search/indexing engines (e.g., OpenSearch / Elasticsearch)\nFamiliarity with cloud platforms (AWS preferred), IaC (Terraform), CI/CD, and containerization (Docker)\nStrong problem-solving skills and ability to design scalable, fault-tolerant data pipelines\nNice-to-Have\nExperience with workflow orchestration platforms\nExperience in security, log processing, or observability domains\nSchema management tools (Avro, Protobuf, Schema Registry)\nData lake table formats (Iceberg, Hudi, Delta Lake)\nExperience with distributed query engines (Athena, Trino, Presto)\nMulti-tenant system design\nCost optimization in large-scale cloud environments\nSoft Skills\nStrong problem-solving and debugging skills in distributed systems\nOwnership mindset with attention to reliability and quality\nClear communication and documentation skills\nAbility to work cross-functionally\nComfort working in fast-paced environments\nQualifications\nBachelor’s degree in Computer Science or equivalent experience.\n7+ years of experience in data engineering or distributed systems\nStrong fundamentals in system design and scalability\nProven experience operating production-grade data platforms\nAbility to balance performance, cost, and reliability",
+  "quyen_loi": "Opportunity to build AI agent systems for two products simultaneously — offensive and defensive security — a rare engineering challenge \nDirect influence on product architecture and AI strategy from day one \nWork with a team that understands both security and AI deeply \nCompetitive compensation",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2daef7638bfe1f6fb7ebdcbd3e75a71e14258485/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nexlab%20IT.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nexlab-it-solutions",
+  "company_mo_ta": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

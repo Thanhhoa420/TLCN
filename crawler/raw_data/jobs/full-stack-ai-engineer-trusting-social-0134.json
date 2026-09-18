@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-ai-engineer-trusting-social-0134",
+  "tieu_de": "Full-Stack AI Engineer",
+  "ten_cong_ty": "Trusting Social",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "AI",
+    "Design Systems",
+    "CI/CD",
+    "Security",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Havana Tower - 132 Ham Nghi",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Trusting Social is an AI Fintech pioneer that's revolutionizing credit access in emerging markets. Our mission is \"Advancing AI to Meet the Financial Needs of Everyday Consumers with Empathy.\" We've assessed over 1 billion consumers across four countries, and we're on a mission to provide 100 million credit lines using the power of AI and Big Data.How You'll Make an Impact\nJoin Trusting Social as a Full-Stack AI Engineer II and help build products that are transforming financial services in Vietnam and beyond. You will contribute to our Co-Lending partnership initiatives, building systems across the full stack (backend, web and mobile) that enable fast, scalable credit evaluation and secure integration with banks, partners, and third-party platforms.\nYour work will help power instant registration, real-time credit approval, and automated decisioning at scale. As an Engineer II, you deliver features end-to-end within a defined scope with increasing autonomy, working AI-native and broadening your skills across the full stack as you growWhat You'll Do\nDeliver high-quality features end-to-end across the full stack (backend, web, mobile), working with cross-functional teams and ensuring systems are reliable, highly scalable, and fault-tolerant.\nWork AI-native, orchestrating agents: frame the problem for the agent, delegate the implementation, run multiple agent sessions per day, and spend your own time on direction, quality review, and the hard edge cases.\nBuild and maintain the tests, evals, and harnesses that agents depend on, so the system stays legible and reliable.\nFollow Agile/DevOps and CI/CD to deliver quality code at speed.\nIdentify and resolve technical challenges within your scope with increasing autonomy.\nSupport and mentor new joiners, and share knowledge that raises team productivity.\nContinuously learn and stay current with advances in software engineering and AI technologies.\nPerform other work duties as assigned by the line manager.\nBeyond the core\nThese are the dimensions we grow our engineers into — and it's a plus if you already operate in one or more of them:\nDomain expert & architect: learn a relevant partner/product area and encode its rules into reusable skills and docs that others and AI agents can reuse; contribute product and design judgment, not just implementation.\nPlatform & operations owner: operate and monitor agent-assisted systems in production, holding the bar on reliability, security, and quality at the integration boundary.\nPartner-facing engineer: manage trust at the partner/client boundary within your scope, and communicate clearly across functions.",
+  "yeu_cau": "AI-native delivery: a track record of (or clear eagerness for) shipping production work by orchestrating AI coding agents — running multiple agent sessions, directing and reviewing their output, and building the tests and harnesses that keep it reliable.\nFull-stack engineering: solid technical foundation with 4+ years of software engineering across backend and frontend (web or mobile); experience building distributed systems, banking, or fintech is a plus.\nSecurity-aware by default: you keep data protection, access control, and auditability in mind, and are comfortable working within banking/partner compliance constraints.\nStrong sense of ownership and accountability for product quality and delivery timelines.\nA collaborative team player who contributes positively to the team environment.\nProactive, open-minded, and quick to learn.\nMotivated to raise the bar and continuously improve products and engineering practices.\nGood communication skills with working proficiency in English.",
+  "quyen_loi": "Top Salary, Awesome Benefits\nPremium healthcare for 3 members in family\nGrab to work, Lunch allowance for all employee\n\nCompetitive compensation package, including 13th-month salary and performance bonuses\nComprehensive health care coverage for you and your dependents\nGenerous leave policies, including annual leave, sick leave, and flexible work hours\nConvenient central district 1 office location, next to a future metro station\nOnsite lunch with multiple options, including vegetarian\nGrab for work allowance and fully equipped workstations\nFun and engaging team building activities, sponsored sports clubs, and happy hour every Thursday\nUnlimited free coffee, tea, snacks, and fruit to keep you energized\nAn opportunity to make a social impact by helping to democratize credit access in emerging markets.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNDkzLCJwdXIiOiJibG9iX2lkIn19--7e0bca7fee8eb985817d0e72b1dd2cebb8327b70/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/trusting-social-logo.jpeg",
+  "company_url": "/companies/trusting-social",
+  "company_mo_ta": "Making Financial Inclusion a Reality using Machine Learning and AI",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

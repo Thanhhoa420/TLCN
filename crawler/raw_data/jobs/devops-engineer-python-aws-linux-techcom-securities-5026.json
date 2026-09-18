@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-python-aws-linux-techcom-securities-5026",
+  "tieu_de": "DevOps Engineer Python, AWS, Linux",
+  "ten_cong_ty": "Techcom Securities",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "DevOps",
+    "CI/CD",
+    "Docker",
+    "Azure",
+    "AWS",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "C5 Building Tower, D’Capitale Tower, 119 Tran Duy Hung",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Techcom Securities (TCBS) đang tìm kiếm một số kỹ sư CloudOps, DevSecOps, DevOps để tham gia bộ phận CNTT của chúng tôi tại văn phòng Hà Nội. \n \nĐây là cơ hội để bạn trở thành một thành viên trong đội ngũ ngân hàng đầu tư sáng tạo và uy tín hàng đầu Việt Nam! Nơi làm việc: 119 Trần Duy Hưng, Cấu giấy, Hà Nội, Việt Nam\n \nTrách nhiệm bao gồm, nhưng không giới hạn:\n- Thiết kế, triển khai và quản lý cơ sở hạ tầng Cloud trên nền tảng AWS.\n- Tối ưu hóa hiệu suất và chi phí của các dịch vụ AWS.\n- Tích hợp và tự động hóa quy trình triển khai bằng cách sử dụng các công cụ như Terraform, CloudFormation, hoặc Ansible.\n- Giám sát và khắc phục sự cố hệ thống AWS.\n- Thiết kế, triển khai và duy trì các pipeline CI/CD để tự động hóa quy trình phát triển và triển khai phần mềm.",
+  "yeu_cau": "- Cử nhân hoặc Thạc sĩ về CNTT & Công nghệ hoặc lĩnh vực liên quan\n- Kinh nghiệm làm việc với AWS và các dịch vụ như EC2, EKS, S3, RDS, Lambda, VPC, IAM, v.v.\n- Kiến thức về mạng, bảo mật, và quản lý hệ thống.\n- Kỹ năng lập trình hoặc scripting (Python, Bash, hoặc PowerShell).\n- Kinh nghiệm với các công cụ CI/CD và tự động hóa. (Jenkins, gitlab, bitbucket, habor...)\n- Chứng chỉ AWS (AWS Certified Solutions Architect, AWS Certified DevOps Engineer, v.v.) là một lợi thế.\n- Khả năng làm việc độc lập và trong nhóm.\n- Có kinh nghiệm với các dịch vụ như Docker, Kubernetes, v.v.\n- Có kinh nghiệm với các công cụ tự động hóa / dàn dựng và các hệ thống quản lý cấu hình như Ansible, CloudFormation, Puppet, v.v.\n- Có hiểu biết về các giải pháp giám sát như Prometheus, Grafana, checkmk, hệ thống logging như ELK, splunk... là một lợi thế.\n- Có thế mạnh về các kỹ năng quản trị Linux \n- Cài đặt và sử dụng vài Web Server phổ biến như: Apache và Nginx. Tìm hiểu một số khái niệm và chức năng thường được sử dụng: Caching Server, Load balancer, Reverse Proxy, and Firewall.\n- Là người có trách nhiệm, cẩn thận, toàn vẹn, khả năng giao tiếp tốt và thái độ trung thực.",
+  "quyen_loi": "Chance to grow up in your career path\nTalented and enthusiastic colleagues.\nAmazing new tech in Bigdata & AI\n\nReview lương 1 lần/ năm\nCán bộ nhân viên sẽ có từ 12- 15 ngày phép/ năm \nBảo hiểm AON cho Cán bộ nhân viên\nCông ty có các CLB thể thao sinh hoạt hàng tuần (đá bóng, chạy bộ, cầu lông)\nTeam building 1 lần/ 1 năm theo tiêu chuẩn 5 sao\nMôi trường làm việc trẻ, năng động, cơ hội phát triển cao",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2OTk2LCJwdXIiOiJibG9iX2lkIn19--0e70c4a681bff890ea977bd5e022036f944d07e5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcom-securities-logo.png",
+  "company_url": "/companies/techcom-securities",
+  "company_mo_ta": "Chúng tôi mang đến những trải nghiệm mới về đầu tư tích lũy của bạn!",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

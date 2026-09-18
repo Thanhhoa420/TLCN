@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-python-sql-bolt-tech-0907",
+  "tieu_de": "AI Engineer Python, SQL",
+  "ten_cong_ty": "Bolt Tech",
+  "ngay_dang_raw": "2026-08-20",
+  "han_ung_tuyen_raw": "2026-09-24",
+  "ky_nang": [
+    "AI",
+    "FastAPI",
+    "Docker",
+    "TypeScript",
+    "SQL",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 8, Tòa nhà Hapro Building, 11B Cát Linh",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Very Attractive!!!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi đang tìm kiếm AI Engineers để phát triển các hệ thống AI thế hệ mới phục vụ khách hàng và hoạt động nội bộ.\nBạn sẽ tham gia xây dựng AI Agents, AI Copilots, RAG Systems và Multi-Agent Platforms nhằm tự động hóa quy trình nghiệp vụ và nâng cao năng lực ra quyết định trong lĩnh vực tài chính.Responsibilities\nThiết kế và phát triển AI Agents.\nXây dựng hệ thống RAG và Knowledge Base.\nPhát triển Multi-Agent Systems.\nThiết kế Prompt Engineering Frameworks.\nTích hợp LLMs thông qua OpenAI SDK, Claude SDK và MCP.\nPhát triển Tool Calling và Agent Workflows.\nTích hợp AI với CRM, Trading Systems và Internal Platforms.\nGiám sát, đánh giá và tối ưu chất lượng AI.\nTriển khai hệ thống trên Docker/Kubernetes.Expected Outcomes\nXây dựng nền tảng AI dùng chung cho toàn tập đoàn.\nTriển khai tối thiểu 10 AI Agents.\nTích hợp AI vào các hệ thống hiện hữu.",
+  "yeu_cau": "Must Have\n1-3 năm kinh nghiệm phát triển Backend hoặc AI Applications.\nThành thạo Python.\nKinh nghiệm SQL và thiết kế dữ liệu.\nHiểu Generative AI và LLM Architecture.\nKinh nghiệm xây dựng API với FastAPI.\nCó kinh nghiệm làm việc với OpenAI APIs hoặc Claude APIs.\nHiểu về Prompt Engineering.\nCó kỹ năng làm việc với các hệ thống API của bên thứ 3 như OpenAI, Claude\\\nƯu tiên ứng viên có sản phẩm thực tếPreferred Technologies\nFastAPI\nLangGraph\nMCP\nOpenAI SDK\nClaude SDK\nPostgreSQL\nRedis\nQdrant\nElasticsearch\nDocker\nKubernetesNice to Have\nKinh nghiệm RAG Systems.\nKinh nghiệm Multi-Agent Systems.\nOCR & Document Processing.\nVector Databases.\nMLOps hoặc LLMOps.\nKiến thức về lĩnh vực tài chính, chứng khoán.Working Model\nAgile/Scrum\nAI-first Engineering Culture",
+  "quyen_loi": "Thưởng tháng 13 và thưởng hiệu quả làm việc\nThời gian làm việc từ thứ 2 - thứ 6\nĐào tạo theo khung năng lực\n\nMức lương & phụ cấp : Thỏa thuận theo năng lực và kinh nghiệm.\n Phụ cấp ăn trưa. \n Phụ cấp gửi xe. \nThưởng : Thưởng lễ, Tết và cuối năm., Thưởng tháng lương thứ 13+++, Thưởng thâm niên: 5 – 10 – 15 năm. \nPhúc lợi : \nĐược tham gia đầy đủ BHXH, BHYT. \nTeambuilding và du lịch nghỉ dưỡng. \nCơ hội thăng tiến\nLàm việc đúng chuyên môn, hợp tác với đội ngũ giàu kinh nghiệm.\n Được đào tạo nâng cao kiến thức ngành. \nXét tăng lương và thưởng theo quy định của Công ty.\nMôi trường làm việc : Năng động, trẻ trung, nhiệt huyết. \nVăn phòng hiện đại. \nLàm việc từ thứ Hai đến thứ Sáu (nghỉ thứ Bảy và Chủ nhật).",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc0NzQxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--7df80fd2a7e251a4e483074988a8bc0feddab608/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/BoltX.jpg",
+  "company_url": "/companies/bolt-tech",
+  "company_mo_ta": ".",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

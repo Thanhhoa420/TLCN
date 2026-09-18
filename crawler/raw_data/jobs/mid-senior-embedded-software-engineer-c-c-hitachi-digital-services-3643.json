@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/mid-senior-embedded-software-engineer-c-c-hitachi-digital-services-3643",
+  "tieu_de": "Mid/Senior Embedded Software Engineer C, C++",
+  "ten_cong_ty": "Hitachi Digital Services",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "Embedded",
+    "English",
+    "RTOS",
+    "C++",
+    "CANoe"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Helios Bldg, Quang Trung Software City",
+  "quan_huyen": "Quận 12",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Role\nCommon responsibilities\nDesign, develop & test product-specific software of Radar System over the entire product development cycle;\nApply model-based development on a distributed embedded system; \nWork on SW-architecture, write, test and debug code according to software requirement specification and the defined process; \nComplete software module test report and integration test report according to test result;\nPrimarily responsible of software modules of ADAS product; \nOther job assigned by Department Manager.\nMiddle Level\nDiscuss with customer about specific solution to improve the performance of system, including function implementation and system interface. \nSenior Level\nHigh level Collaborative Design of integrated solution in compliance with a formal ASPICE. \nWork with Software PjM to find the optimal technical solution to project challenges.\nAccurately identify customer needs for Radar system, including function implementation and system interface, provide estimates for integrated system solution.\nImprove operation by conducting system analysis, recommending change in policies and procedures.\nParticipate in and lead design quality reviews and provide mentorship to other engineers.",
+  "yeu_cau": "Your Qualifications\nCommon Requirements\nBachelor degree or above, with major in Computer Science, Computer Engineering, Electrical Engineering or Mechatronics; \nExperience with simulation and development tools, e.g. Vector CANoe, etc; \nExperience with C, C++ and CAPL; \nAutosar experience preferred;\nGood team player and good communication skills.\nMiddle Level\n2-5 years experience in Embedded System; \nEmbedded development tool especially Rhapsody, Polyspace, WindIdea, Davinci, DOORs, PTC. \nBeing familiar with 32-bit MCU, Infineon TriCore MCU is a plus;\nKnowledge on Communication & Diagnostic protocols: CAN, LIN, Ethernet and TCP/IP protocols and UDS. \nAbility to communication in English. \nSenior Level\n5+ years experience in Embedded System; \nStrong at embedded development tool especially Rhapsody, Polyspace, WindIdea, Davinci, DOORs, PTC.\nStrong at 32-bit MCU, Infineon TriCore MCU; Bare Metal OS/RTOS & Multi-core development experience. \nKnowledge on Communication & Diagnostic protocols, Cybersecurity: CAN, LIN, Ethernet, TCP/IP protocols, J1939 and UDS. \nCI CD & Automation Development is a plus. \nFBL/Boot SW experiences is a plus.\nAt least one: Cyber security developments or Functional safety development experience. \nFluent in English.\nFamiliarity with maturity model such as ASPICE and/or CMMI.",
+  "quyen_loi": "International working environment\nCompetitive compensation package and benefits\nInteracting with leading-edge technologies\n\nAt Hitachi Digital Services, we enjoy:\nUnique opportunity to work with multinational team of Hitachi in over 130 countries.\nIncomparable chance to participate in full Software Development Life Cycle (SDLCs) and comprehensive soft skills training.\nCompetitive remuneration with attractive allowances & bonuses.\nHitachi Digital Services offers a competitive benefit packages. Come join us to enjoy:\nOpportunities for advanced career development overseas, including the US, UK,. Japan...\nCompetitive & attractive compensation and benefits packages:\nAllowance for English, Japanese language certifications.\nSubsidy for transportation and meals.\n13th salary & Bonus\nAdditional Premium Health Insurance Package for employees.\nAnnual checking of health and company trip for employees.\nFlexible working hours\nBeing an integral part of a dynamic and fast-growing global enterprise.\nAn open, professional, and nourishing environment with out-side of work activities, such as football, tennis, badminton, dancing, music, and charity.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3MDg5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--bf0f50b20c0b64492520f9079b6b0c43adfb115c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%202.png",
+  "company_url": "/companies/hitachi-digital-services",
+  "company_mo_ta": "Hitachi Digital Services Vietnam",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

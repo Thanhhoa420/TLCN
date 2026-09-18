@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/manual-qc-engineer-techsoft-0057",
+  "tieu_de": "Manual QC Engineer",
+  "ten_cong_ty": "TechSoft",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Tester",
+    "CI/CD",
+    "English",
+    "Playwright",
+    "API",
+    "Automation Test"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "45 Nguyễn Hữu An",
+  "quan_huyen": "Quận Sơn Trà",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We’re looking for a QC Engineer (Middle level) with solid manual testing experience and a strong eagerness to grow and develop skills in test automation. \nYou’ll work closely with developers, designers, and product stakeholders to ensure high-quality delivery across web and mobile products. \n \nWhat you’ll do\nBe involved in refining requirements and clarifying acceptance criteria with stakeholders \nTake ownership of testing scope within a feature or sprint \nDesign, write, and execute test cases\nPerform functional, regression, integration, and exploratory testing \nIdentify, log, and track bugs; support troubleshooting with developers \nEnsure product quality through post-release validation and monitoring \nParticipate in Agile/Scrum ceremonies (planning, daily, retrospective) \nContribute to test strategy, test planning, and quality improvements \nContinuously improve testing processes, tools, and frameworks \nApply a security mindset during testing and quality assurance activities",
+  "yeu_cau": "You’re a great fit if you have\n3+ years of experience in manual testing, with a strong interest in developing your automation testing skills\nSolid understanding of SDLC and software testing methodologies \nHands-on experience in: \nWriting test cases and test plans \nBug tracking and reporting \nFamiliarity with API testing tools (Postman or similar) \nExperience working in Agile/Scrum teams \nStrong logical thinking and problem-solving skills \nAbility to work independently and manage priorities effectively \nGood English communication for working directly with clients\n \nNice to have\nBasic knowledge or hands-on exposure to test automation, preferably with Playwright, Cypress, or TypeScript\nExperience with CI/CD tools (e.g., Jenkins, GitHub Actions) \nKnowledge of programming or scripting (Java, Python, C#, etc.) \nExperience in mobile testing (iOS/Android) \nExposure to cloud platforms or microservices architecture \nISTQB or other testing certifications",
+  "quyen_loi": "English Working Environment\nChallenging Projects\nSummer Week-Off\n\nWorking time: 40 hours per week from Monday to Friday\nPaid Days-off: 17 days off/year \nWork-from-everywhere: 12 WFE days/year \n13th salary, profit sharing, bonus for excellent members, bonus for excellent projects\nSocial Insurance coverage: 100% of your gross salary of the maximum related to the labor law\nProbation will receive 100% salary\nMonthly lunch and gasoline allowances\nPerformance salary review: annually after 12 months, exceptional excellence performance after 6 months\n1 Laptop and 1 additional LCD screen\nAnnual healthcare check\nAnnual company trip\nTraining opportunities\nTechSoft Learning Budget\nEnglish working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDUwNzI0MywicHVyIjoiYmxvYl9pZCJ9fQ==--f50c22bea8d556a5344b23d149b411be9365f903/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Vertical%20Logo%202.png",
+  "company_url": "/companies/techsoft",
+  "company_mo_ta": "< We contribute to a bit better world with Technologies. />",
+  "job_expertise": [
+    "Manual Tester"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

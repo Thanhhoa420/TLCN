@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/lead-senior-security-engineer-itviec-recruitment-consulting-2256",
+  "tieu_de": "Lead/Senior Security Engineer",
+  "ten_cong_ty": "ITviec Recruitment Consulting",
+  "ngay_dang_raw": "2026-08-11",
+  "han_ung_tuyen_raw": "2026-09-15",
+  "ky_nang": [
+    "English",
+    "Cybersecurity",
+    "Machine Learning",
+    "Security",
+    "DevSecOps",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "City",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ITviec's Client is seeking a highly skilled and hands-on Lead/Senior Security Engineer with a strong focus on secure coding and automation (Python) to join our Service Operations team. This role is ideal for engineers who are passionate about building secure, scalable systems, integrating security into development workflows, and supporting banking/financial domain applications in a cloud-native (AWS) environment.\n \nKey Responsibilities\nDevelop and maintain security automation tools and scripts using Python to support application security and DevSecOps processes\nPerform secure code reviews across platforms (Kotlin, Node.js, Android, iOS, Python), with strong emphasis on Python-based systems\nIntegrate and automate security controls into CI/CD pipelines (e.g., GitHub Actions)\nWork closely with engineering teams to embed secure coding practices into the SDLC\nImplement and manage SAST/SCA/DAST tools and automate vulnerability detection and remediation workflows\nSupport API and application security (REST, GraphQL), including authentication, authorization, and encryption practices\nConduct basic penetration testing and vulnerability validation (mobile, web, APIs) – depth is not required, focus is on remediation and automation\nPerform threat modelling (e.g., STRIDE) and risk assessment for applications, especially in banking systems\nCollaborate with infrastructure teams to ensure secure deployment on AWS cloud environments\nContribute to application security standards, policies, and best practices aligned with OWASP\nMonitor and respond to emerging security threats, including risks related to AI-enabled systems\nSupport BAU security operations, vulnerability management, and continuous improvement initiatives",
+  "yeu_cau": "Required Qualifications\n5+ years of hands-on experience in Python development (mandatory, strong coding capability is critical)\n8 years of experience in application security/DevSecOps\nExperience working in banking/financial services domain\nStrong experience with AWS cloud services and cloud security practices\nSolid understanding of secure coding practices and code review methodologies\nExperience integrating security tools into CI/CD pipelines\nFamiliarity with SAST/SCA/DAST tools\nBasic understanding of penetration testing concepts and tools (e.g., Burp Suite, MobSF, Frida)\nKnowledge of API security, authentication mechanisms, and cryptographic fundamentals\nExperience working in Agile/DevOps environments\nPreferred Qualifications\nExperience with security automation frameworks and tooling in Python\nExposure to AI/ML application security (e.g., prompt injection, model abuse)\nCertifications such as AWS Security Specialty, CSSLP, OSCP (optional)\nExperience with container security (Docker, Kubernetes) and IaC scanning\nFamiliarity with banking security standards and compliance requirements",
+  "quyen_loi": "Why Join ITviec's Client?\nA Top-Tier World-Ranking Corporation: Join a leading global IT powerhouse that drives digital transformation for the world’s top financial institutions and insurance companies.\nLatest Technology Updates: Work with the most updated and cutting-edge technologies, including Cloud migration, Next-Generation Mainframe, AI, and modern software architectures.\nClear Career Progression Roadmap: Enjoy a transparent and clearly defined path for your career advancement within an agile, collaborative, and fast-growing international environment.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5OTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6543d306293819ea2f1a6e0636a7b12b5ccc2c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20ITViec%20Recruitment%20Consulting%20(1).png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "ITviec Recruitment Consulting",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Cyber Security",
+    "Software Products and Web Services",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-java-backbase-cloud-abbank-4106",
+  "tieu_de": "Solution Architect Java, Backbase, Cloud",
+  "ten_cong_ty": "ABBANK",
+  "ngay_dang_raw": "2026-08-12",
+  "han_ung_tuyen_raw": "2026-09-16",
+  "ky_nang": [
+    "Java",
+    "Kubernetes",
+    "API",
+    "Docker",
+    "Solution Architecture",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "36 Hoàng Cầu",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Very Attractive!!!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Chiến lược kiến trúc ứng dụng\nXây dựng và cập nhật khung kiến trúc ứng dụng thống nhất toàn ngân hàng.\nĐịnh hướng chuyển đổi từ ứng dụng truyền thống sang cloud-native, microservices hoặc serverless.\n2. Thiết kế giải pháp ứng dụng\nPhân tích yêu cầu nghiệp vụ, kỹ thuật và dữ liệu để thiết kế kiến trúc ứng dụng tối ưu.\nXây dựng giải pháp phù hợp với cả môi trường on-prem và cloud (AWS, Azure, GCP...).\nĐề xuất các mô hình thiết kế đảm bảo khả năng mở rộng, tính sẵn sàng cao và tối ưu vận hành.\n3. Kiến trúc tích hợp và kết nối hệ thống\nThiết kế kiến trúc tích hợp giữa các hệ thống nghiệp vụ: Core Banking, CRM, kênh số, Data Platform.\nTư vấn giải pháp API Gateway, ESB, message queue (Kafka, RabbitMQ), event streaming.\nHỗ trợ chiến lược Open API và tích hợp với đối tác/Fintech theo mô hình Open Banking.\n4. Chuyển đổi lên Cloud & hiện đại hóa ứng dụng\nĐề xuất và thiết kế lộ trình chuyển đổi ứng dụng lên cloud theo mô hình Rehost/Refactor/Replatform.\nTối ưu hóa chi phí và hiệu suất vận hành trên cloud.\nThúc đẩy ứng dụng DevSecOps, container hóa (Docker, Kubernetes), GitOps.\n5. Đảm bảo phi chức năng (NFRs)\nThiết kế để đáp ứng các yêu cầu: hiệu năng, bảo mật, ổn định, mở rộng, giám sát, logging...\nTư vấn các chiến lược caching, HA, DR, autoscaling.\n6. Đào tạo và phát triển năng lực kỹ thuật\nHướng dẫn, đào tạo các nhóm kỹ thuật về kiến trúc hiện đại, công nghệ cloud và mô hình phát triển linh hoạt.\nĐóng vai trò kiến trúc sư chủ chốt trong hội đồng kiến trúc ngân hàng.",
+  "yeu_cau": "Bằng cấp: Tốt nghiệp Cao Đẳng, Đại học chuyên ngành Công nghệ thông tin/ Điện tử viễn thông/ Tin học\nKinh nghiệm: 6-10 năm kinh nghiệm, trong đó có 5 năm kinh nghiệm ở vị trí tương đương\nHiểu biết sâu về kiến trúc phần mềm: monolith, microservices, event-driven, domain-driven design.\nKiến thức vững về cloud computing, hybrid architecture, containerization (Docker, Kubernetes).\nThành thạo mô hình tích hợp hệ thống: API (REST/gRPC), messaging, streaming, event sourcing.\nKiến thức tốt về bảo mật hệ thống, xác thực phân quyền, mã hóa, logging, audit.\nCó tư duy chiến lược và khả năng truyền đạt kỹ thuật tốt.\nTư vấn công nghệ, chủ động xác định rủi ro kiển trúc và đề xuất giải pháp.\nLàm việc chặt chẽ với PM, BA, DEV, QE\nKhả năng cập nhật công nghệ mới và đánh giá áp dụng công nghệ phù hợp vào thực tiễn.\nQuyết liệt, thẳng thắn, trực diện với vấn đề nhằm đạt mục tiêu trong công việc.\nChú trọng đến chi tiết trong công việc.",
+  "quyen_loi": "Lương/ thưởng hấp dẫn\nCơ hội thăng tiến nghề nghiệp cao\nMôi trường làm việc thân thiện, năng động\n\nLương và phúc lợi hấp dẫn:\nMức lương cạnh tranh, phản ánh trực tiếp kỹ năng và kinh nghiệm của ứng viên (chi tiết sẽ được thảo luận trong buổi phỏng vấn)\n13 ngày nghỉ phép linh hoạt, bao gồm ngày sinh nhật và các dịp quan trọng khác\nBảo hiểm đầy đủ theo luật lao động, cùng với ABBANK CARE - chương trình phúc lợi bổ sung đặc biệt dành cho ABBankers\nLãi suất vay ưu đãi - Quyền lợi đặc biệt dành cho nhân viên ABBANK\nCơ hội phát triển nghề nghiệp hấp dẫn:\nGia nhập các dự án chuyển đổi quy mô lớn, cộng tác cùng các chuyên gia hàng đầu để áp dụng công nghệ mới nhất trong ngành ngân hàng\nLộ trình phát triển sự nghiệp rõ ràng, được tạo điều kiện cho cả sự phát triển kỹ thuật và quản lý\nHỗ trợ đào tạo và chứng chỉ trong lĩnh vực IT, ngân hàng/tài chính\nMôi trường làm việc năng động:\nMô hình làm việc linh hoạt, trẻ trung, khuyến khích đổi mới và sáng tạo\nVăn phòng được trang bị hiện đại, kèm theo các thiết bị tiên tiến nhất dành cho nhân viên\nTổ chức thường xuyên các hoạt động ngoại khóa (team building, hội thảo, và các sự kiện văn nghệ), tạo điều kiện cho nhân viên gắn kết và phát triển",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NDc2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--58852c6ffb6b5f4d6aa11d51a36133557ea29c4b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/ABB_CoreID_RGB.png",
+  "company_url": "/companies/abbank",
+  "company_mo_ta": "Cung ứng các sản phẩm - dịch vụ tài chính ngân hàng trọn gói",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

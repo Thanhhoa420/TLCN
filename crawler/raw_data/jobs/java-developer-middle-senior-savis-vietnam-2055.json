@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/java-developer-middle-senior-savis-vietnam-2055",
+  "tieu_de": "Java Developer Middle - Senior",
+  "ten_cong_ty": "SAVIS Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Java",
+    "Spring",
+    "Web API",
+    "Kafka",
+    "Redis",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9th floor, Viet A Tower, 9 Duy Tan.",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Tham gia phát triển và vận hành các hệ thống Web API trên nền tảng Java Spring Boot.\nThiết kế, xây dựng và tối ưu các dịch vụ backend đảm bảo hiệu năng và khả năng mở rộng.\nTích hợp với các hệ thống liên quan như Identity Server, SSO và các hệ thống nghiệp vụ khác.\nLàm việc với Redis, Kafka, JWT trong các bài toán xử lý dữ liệu và xác thực.\nTriển khai, vận hành hệ thống trên môi trường Linux.\nTham gia đóng gói và triển khai ứng dụng bằng Docker, Kubernetes, Rancher2.\nHỗ trợ xử lý sự cố, tối ưu hệ thống và đảm bảo tính ổn định của dịch vụ.\nPhối hợp với team Frontend, BA, DevOps để hoàn thành dự án đúng tiến độ.\nCó thể tham gia phát triển giao diện đơn giản bằng Angular hoặc ReactJS khi cần.",
+  "yeu_cau": "Tối thiểu 4 năm kinh nghiệm phát triển với Java Spring Boot.\nCó kinh nghiệm xây dựng và phát triển Web API.\nThành thạo hoặc đã từng làm việc với: Redis; Kafka; JWT Authentication\nCó kinh nghiệm tích hợp Identity Server, SSO hoặc các hệ thống xác thực tập trung.\nHiểu biết hoặc từng triển khai các hệ thống LGSP là một lợi thế.\nCó khả năng làm việc trên hệ điều hành Linux.\nBiết sử dụng Docker, Kubernetes (K8s), Rancher2\nCó hiểu biết cơ bản về frontend framework như Angular hoặc ReactJS.\nCó tinh thần trách nhiệm, chủ động trong công việc và khả năng làm việc nhóm tốt.",
+  "quyen_loi": "Môi trường trẻ, năng động, nhiều hoạt động hấp dẫn\nCơ hội làm việc với chuyên gia giàu kinh nghiệm\nThu nhập hấp dẫn dựa trên năng lực\n\nMức lương cực kỳ hấp dẫn tương xứng với khả năng và kinh nghiệm;\nĐánh giá & xét tăng lương hằng năm, thưởng kinh doanh cuối năm, thưởng dự án, thưởng hiệu suất, thưởng các dịp lễ tết trong năm;\nCơ hội thể hiện bản thân, làm chủ công việc và thăng tiến cao trong sự nghiệp;\nCơ hội làm việc với các chuyên gia Công nghệ hàng đầu và các hãng công nghệ lớn trên thế giới;\nMôi trường Lab hiện đại: Quyền truy cập vào các hệ thống Lab bảo mật với thiết bị HSM thật, Mobile devices đa dạng để thực hiện kiểm thử thực tế trên các sản phẩm SCA và eContract.\nTech-stack tiên phong: Cơ hội làm việc với các framework kiểm thử hiện đại nhất (Playwright, K6 for Performance, AI-powered Bug Tracking).\nMôi trường trẻ trung, năng động, khuyến khích mọi người thể hiện bản thân, tạo sân chơi lành mạnh với nhiều hoạt động sôi nổi;\nTổ chức sinh nhật và tặng quà cho nhân viên trong công ty theo tháng, khám sức khỏe định kỳ hằng năm;\nHưởng Bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp theo chế độ nhà nước ban hành;\nTeambuilding hàng năm, Olympic kỉ niệm ngày thành lập công ty, Year End Party, 20/10,... và một số hoạt động văn hóa độc đáo khác;\nKhu vực pantry rộng rãi để giải trí, ăn uống giữa giờ, ăn trưa và tổ chức các hoạt động nội bộ;\nVà rất nhiều những cơ hội công việc hấp dẫn khác nữa.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NzA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--80a849b72e71d362d3abab5a6f7243ea59793971/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20tuy%E1%BB%83n%20d%E1%BB%A5ng.jpg",
+  "company_url": "/companies/savis-vietnam",
+  "company_mo_ta": "Công ty Cổ phần Công nghệ SAVIS được công nhận nằm trong top 50 công ty công nghệ hàng đầu Việt Nam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Government",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

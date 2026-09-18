@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/software-engineer-net-3-years-exp-1-400-1-700-kis-technology-3136",
+  "tieu_de": "Software Engineer .NET  3+ Years Exp 1.400-1.700",
+  "ten_cong_ty": "Kis Technology",
+  "ngay_dang_raw": "2026-08-18",
+  "han_ung_tuyen_raw": "2026-09-22",
+  "ky_nang": [
+    ".NET",
+    "C#",
+    "Blazor",
+    "ASP.NET",
+    ".NET Standard",
+    ".Net Core"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Suite 28, C37 BCA, 17 To Huu str., Trung Van, Nam Tu Liem, Hanoi",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,400 - 1,700 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a passionate Software Engineer to join our product development team. You will participate in designing and developing software solutions for self-service systems such as Photo Booths, Kiosks, Automated Machines, and other Windows-based embedded solutions.\nYou will work closely with Business Analysts, Product Owners, QA Engineers, and Software Engineers throughout the entire software development lifecycle, from requirements analysis to product release.\n Responsibilities\nDesign, develop, maintain, and enhance software applications using Microsoft .NET technologies.\nParticipate in all phases of the Software Development Life Cycle (SDLC), including:\nRequirement analysis\nSystem design\nImplementation\nUnit testing\nIntegration testing\nDeployment and maintenance\nDevelop desktop and web applications using C#, .NET, ASP.NET, and Blazor.\nDesign clean, maintainable, and scalable software architectures.\nTroubleshoot, debug, optimize, and improve existing applications.\nCreate and maintain technical documentation (design documents, UML diagrams, API specifications, etc.).\nCollaborate with cross-functional teams to deliver high-quality software products.\nPerform code reviews and proactively ensure software quality.\nResearch and evaluate new technologies that improve product quality and development efficiency.\nPerform other duties assigned by the Team Leader.",
+  "yeu_cau": "1 - Core Requirements\nProgramming: Strong programming skills in C#, .NET Framework and modern .NET (.NET 6/8+), Object-Oriented Programming (OOP)\nSoftware Engineering: SOLID Principles, Design Patterns, Clean Code, Debugging & Troubleshooting, Unit Testing fundamentals\nWeb Development: , Blazor (Server or WebAssembly), HTML/CSS/JavaScript fundamentals\nDatabase: SQL fundamentals, Experience with relational databases (SQL Server, MySQL, PostgreSQL...)\nDevelopment Process: Git, Agile/Scrum, Jira, Confluence\nGeneral Skills: Problem solving, Analytical thinking, Intermediate English, Team collaboration2 - Strongly Preferred\nSoftware Architecture: Clean Architecture, Layered Architecture, Dependency Injection, Repository Pattern\nDistributed Systems: RESTful API, gRPC, SOAP / WCF, Microservices\nWindows Development: Windows desktop application concepts, 32-bit vs 64-bit applications, DLL, Windows Services\nAsynchronous Programming: async / await, Task Parallel Library, Thread vs Process, Synchronization, Background services3 - Product & Device Development\nHardware Integration: USB communication, COM / Serial (RS232), Printer integration, Camera integration, Scanner integration, Payment devices, Device SDK integration\nWindows Internals: Native DLL interaction, Driver concepts, Windows Registry, Windows Services, Process management\nProduct Engineering: Logging, Diagnostics, Performance optimization, Memory management, Software deployment, Offline applications\nDocumentation: UML, Sequence Diagram, Class Diagram, Technical Design Documents 4 - Nice to Have\nDevOps: Docker, Kubernetes, Linux, CI/CD, Azure DevOps, GitLab CI\nArtificial Intelligence: Machine Learning fundamentals, Computer Vision, Image Processing, OpenCV\nGenerative AI: AI-assisted software development, ChatGPT, Claude, Gemini, GitHub Copilot\nCloud: Google Cloud, Azure, AWS, Message Queue, Event-driven Architecture\nOther: WPF/MAUI/Embedded software/IoT applicationsWhat We Are Looking For\nPassion for software engineering and continuous learning.\nStrong analytical and problem-solving skills.\nOwnership mindset with attention to software quality.\nAbility to work independently as well as in a collaborative team.\nWillingness to learn new technologies and adapt to changing business requirements.\nGood communication and teamwork skills.",
+  "quyen_loi": "Flexible working hour\nCompetitive salary & good remuneration\n1 week holiday with allowance up to 300$\n\nWork on real-world products combining software and hardware.\nOpportunity to develop Windows, web, and automation solutions used internationally.\nModern Microsoft technology stack.\nCollaborative engineering culture with opportunities to learn advanced software architecture and hardware integration.\nCareer development opportunities and continuous technical learning.\nCompetitive salary & good remuneration\nSalary revised annually\n13th month salary\nProject bonus\n1 week holiday with allowance up to 300$ and fully paid salary.\n12 days fully paid annual leaves.\nSocial, healthcare & unemployment insurance.\nFlexible working hour, friendly & healthy working environment\nStart at around 9:00 AM.\n5 days a week.\nNo working overtime.\nTeam building every month.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg4MjQxMywicHVyIjoiYmxvYl9pZCJ9fQ==--10565d40642affbde25d418b8e142da37a156215/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/20191106_142513-768x364.jpg",
+  "company_url": "/companies/kis-technology",
+  "company_mo_ta": "We mainly focus on software R&D.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Emerging Tech R&D"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

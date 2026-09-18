@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/hanoi-fullstack-qa-engineer-lead-manual-auto-ai-money-forward-vietnam-co-ltd-4636",
+  "tieu_de": "Hanoi Fullstack QA Engineer Lead Manual, Auto, AI",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Automation Test",
+    "Tester",
+    "English",
+    "Playwright",
+    "TypeScript",
+    "QA QC"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 11, ROX Tower, 54A Nguyễn Chí Thanh,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Department: MFCon\nLanguage: English (Professional); Japanese (nice to have)\nGrade: 4  I. Position Overview\nAs a Hybrid QA Engineer Lead, you serve as the principal Quality Anchor for MFCon’s flagship B2B SaaS products (e.g., Michibiku & Conkan), directly collaborating with Japan-based Product Managers, Engineering Managers, and executive stakeholders. \nOperating at a Leadership level, you combine deep hands-on testing execution (Manual, E2E/API Automation, Performance, and Security awareness) with strategic Quality Enablement. You lead the transition of our testing organization into the AI Era by establishing automation standards, reviewing team PRs, managing outsourcing vendor quality, driving Shift-Left discovery, and advocating AI adoption across the SDLC.\nThis role expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts. II. Key ResponsibilitiesStakeholder Alignment & Release Risk Governance\nAct as the primary technical bridge with Japan PM/Dev teams to clarify complex domain requirements, business boundaries, and Non-Functional Requirements (NFRs).\nOwn squad-level release decisions based on holistic risk assessments, quality metrics, and business impact rather than simple pass/fail counts.\nEstablish clear Entry/Exit criteria, QA Definition of Done (DoD), and release risk governance across distributed teams in Hanoi, HCM, and Japan.Test Architecture, Strategy & Hybrid Automation\nArchitect, maintain, and expand scalable test automation frameworks for web applications and APIs (standardized on Playwright / TypeScript or Python).\nEnforce the Test Pyramid: guide teams on when to build API vs. UI tests to maximize regression feedback speed and lower runtime costs.\nConduct hands-on automation code reviews, enforce coding standards, eliminate test flakiness, and integrate quality gates into CI/CD pipelines (GitHub Actions, GitLab CI).Quality Enablement & Outsource Governance\nEnable outsourced QA teams (e.g., in HCM) and internal squad members by providing test harnesses, reusable playbooks, and targeted technical mentoring.\nDrive Shift-Left testing practices during early discovery, validating wireframes, PRDs, and logic models to prevent defects before implementation.\nEstablish performance, load, and basic security testing strategies for B2B financial/back-office workflows.AI Adoption & AI-Augmented Testing\nLead the team in adopting Generative AI tools (e.g., Cursor, GitHub Copilot, LLM assistants) to accelerate test design, script generation, and triage.\nConduct scenario-based exploratory testing and output validation for AI-assisted product features (chatbots, agents, automated suggestions).\nDefine internal guidelines for safe, compliant AI tool usage adhering to company data privacy standards.",
+  "yeu_cau": "III. Required Qualifications\nBachelor’s degree in Computer Science, Software Engineering, or related field.\n8+ years of professional software QA / SDET experience, with 3+ years in a technical leadership, QA Lead, or Principal IC role.\nEnglish Communication Fluency.\nDeep expertise in Test Automation: hands-on mastery of JavaScript / TypeScript (or Python) using Playwright, Cypress, or Selenium.\nStrong knowledge of API Testing (REST/GraphQL), SQL data validation, and complex database architectures.\nHands-on experience integrating test suites into CI/CD pipelines and Dockerized test environments.\nProven AI-Era Productivity: Active, daily practitioner of GenAI tooling to accelerate QA delivery and team output.\nStrategic Leadership Mindset: Demonstrated ability to define quality strategies, mentor engineers, and manage release risks independently.Key Skills\nTest strategy & risk governance\nAPI & UI automation architecture (TypeScript / Playwright)\nTechnical leadership & team enablement\nAI-augmented testing workflows\nCI/CD quality gate integration\nPerformance & load testing mindset\nDefect root-cause analysisNice to have skills: \nJapanese Communication Fluency\nPerformance Test experience Success Metrics\nSustainable test automation coverage across squad-owned areas with minimal manual bottlenecks.\nEscape defect rate and post-release incidents maintained below target thresholds.\nMeasurable acceleration of team test delivery via AI-driven tooling and enablement playbooks.\nSeamless, high-trust alignment and communication between Japan PM/Dev and Vietnam QA teams.",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

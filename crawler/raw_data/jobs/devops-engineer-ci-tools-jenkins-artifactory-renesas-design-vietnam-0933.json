@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-ci-tools-jenkins-artifactory-renesas-design-vietnam-0933",
+  "tieu_de": "DevOps Engineer - CI Tools Jenkins, Artifactory",
+  "ten_cong_ty": "Renesas Design Vietnam",
+  "ngay_dang_raw": "2026-08-23",
+  "han_ung_tuyen_raw": "2026-09-27",
+  "ky_nang": [
+    "DevOps",
+    "Software Architecture",
+    "Git"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "31 Tan Thuan",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the job\n \nGiven the organic growth of our enterprise, we do have the need to establish a central pool of tools, with a standardized way of using them in development, to assure development excellence, a high standard of quality and reuse across our SW assets, and investment efficiency in SW Tools, particularly in the area of DevOps, for continuous integration & continuous delivery. - Work closely with SW development teams and manage the tooling that is part of our standard CI/CD fleet to be used in a managed fashion in order to maximize the business added value and the efficiency.\n \nPrincipal Accountabilities:\n_ Be the main point of contact regarding the DevOps tools.\n- Administer and support the existing deployment of the DevOps tools: Bitbucket, Artifactory & Jenkins.\n- Offer support to the user community with the DevOps tool usage, as well as organizing regular internal trainings.\n- Maintain documentation related to the DevOps related processes and methods, and continuously improve it\n- Monitor the usage, maintain, and continuously improve the tool deployment, the method to use it, and the tool architecture to maximize the performance of the tools and the added value.\n_ Assess the DevOps tools usage by the teams, and actively pursue to onboard new teams in the tool, to take advantage of the existing opportunity\n \nKey Performance Measures:\n_ Tool uptime and performance of the service\n- Scalable architecture of new tool, with a ‘state-of-the-art’ level of security\n- Business needs are properly acknowledged, managed, and implemented.\n- Regular training sessions for the new users of the service, and increased number of users of the tool.\n- Ability and willingness to learn new skills over time which are required for the job.\n- Integrate into the existing team and be a team player",
+  "yeu_cau": "Knowledge, Skills and Experience:\n-Minimum 5 years of professional experience in tech. industry\n- Expert knowledge in the SW Quality tools: Static Code Analysis tools, SW Composition Analysis tools.\n- Processed Methods & Tools background would be an advantage.\n- Experience with version control systems: GIT and SVN\n- Scripting experience in Linux environments preferrable\n- General experience in Linux administration\n- Experience with Blackduck and/or Synopsys tools would be an advantage\n \nQualifications\n-Expert knowledge in the SW Quality toolchain.\n- Deep understanding of the state-of-the-art SW development methodologies and best practices. - Bachelor’s or master’s degree with relevant background (Computer, IT, Science)\n- Business fluent in English",
+  "quyen_loi": "Cutting-edge technology in semiconductor design\nCompetitive compensation and benefit package\nYoung, dynamic, team-oriented working environment\n\nRenesas Design Vietnam Company Limited aims to provide our employees with comprehensive compensation and benefit plans, and a professional working environment. Some featured benefits are: \n- Competitive salary/bonus based on working performance. \n- Excellent training program. \n- Opportunity for promotion.\n - Fair assessment. \n- 24/24 hour insurance package including social and medical and unemployed insurance \n- Dynamic people. \n- Team-oriented environment. \n- Sport activities and Annual company trip",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NjQxLCJwdXIiOiJibG9iX2lkIn19--ef74658b12bfb9232b249e69623e930997d2469d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/renesas-design-vietnam-logo.jpg",
+  "company_url": "/companies/renesas-design-vietnam",
+  "company_mo_ta": "Who We Are: The World - Leading Embedded Solution Provider",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

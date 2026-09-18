@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/data-engineer-lg-cns-viet-nam-0730",
+  "tieu_de": "Data Engineer ",
+  "ten_cong_ty": "LG CNS Việt Nam",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "AWS",
+    "ITIL Foundation"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 15, tòa Keangnam Landmark 72, Mễ Trì",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design and build cloud-based data pipelines with scalability and reliability in mind. \nDevelop robust modules, functions, and production-ready code for ETL/ELT workflows. \nPerform static & dynamic analysis, execute end-to-end pipeline testing to ensure accuracy and performance.\nCommit to delivery quality and task completion, meeting technical and timeline expectations.\nCreate clear documentation covering design, implementation, and testing processes.",
+  "yeu_cau": "[Required] \nBachelor’s degree in information technology, or related fields. \nMore than 3 years of experience in python development. \nExperience designing data analytics pipelines. \nExperience in using various data analysis tools. \nExperience storing data in various formats (Parquet, CSV, Iceberg, etc.). \nMemory Optimization Experience. \nExperience in gaining visibility/traceability of data analytics pipelines. \nExperience analyzing data in Python, Spark environments. \nExperience using data analytics services such as Spark. \nExperience in developing cloud (AWS) environments. \nExperience in developing with RDBMS (MySQL) SQL. \nExperience with collaboration tools such as Git, Jira, Confluence, etc. \nUnderstand and leverage CI/CD.                                                                                                                                                      [Preferred] \nTeam leading experience. \nAble to communicate in Korean.",
+  "quyen_loi": "Salary and bonus based on ability\nYoung and fun working environment\nOpportunities to study and work abroad.\n\n- Best remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.\n- High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.\n- Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.\n- Best working time: Work 8 hours/day (8:00 ~ 17:00), from Monday to Friday. No pressure to work overtime/weekends!\n- Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style!\n- Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.\n- Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!\n- Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MTIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--79414bdba1830df263fbf0fe3fbf7127abc83386/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Annotation%202025-02-14%20172858.jpg",
+  "company_url": "/companies/lg-cns-viet-nam",
+  "company_mo_ta": "TOP 1 IT COMPANY IN KOREA",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

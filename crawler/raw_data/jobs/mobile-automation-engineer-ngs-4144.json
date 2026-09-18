@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/mobile-automation-engineer-ngs-4144",
+  "tieu_de": "Mobile Automation Engineer",
+  "ten_cong_ty": "NGS",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Android",
+    "Appium",
+    "NodeJS",
+    "Python",
+    "Java",
+    "Kotlin"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 4, tòa 6th Element Nguyễn Văn Huyên, Hà Nội",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,000 - 1,200 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Lập trình điều khiển ứng dụng Android trên thiết bị thật \nXây dựng và bảo trì lớp automation cho luồng thao tác trên app, chịu được khi giao diện app thay đổi \nQuản lý session và vòng đời tài khoản trong quá trình automation \nXử lý retry và xử lý lỗi, chuẩn hóa kết quả và mã lỗi theo quy ước hệ thống \nDựng và vận hành bench điều khiển nhiều thiết bị bằng script \nĐo và báo cáo chỉ số vận hành (tỷ lệ thành công, thời gian xử lý trung bình), tách theo từng nhóm thiết bị \nViết tài liệu vận hành cho phần mình phụ trách",
+  "yeu_cau": "Từ 2 đến 4 năm kinh nghiệm Android hoặc mobile automation \nĐọc và sửa được code Kotlin hoặc Java trong codebase có sẵn \nHiểu Android ở mức Activity, Intent, permission, process, không chỉ dựng UI \nĐã sử dụng ADB ở mức thao tác thực tế: cài đặt, đọc log, chạy lệnh shell, kết nối qua TCP \nViết được automation bằng Python hoặc Node.js \nTự debug được trên thiết bị thật bằng \nĐọc được tài liệu kỹ thuật tiếng Anh logcat và dumpsys , không phụ thuộc IDE \nƯu tiên:\nĐã dùng Appium hoặc uiautomator2 trong công việc thực tế \nCó kinh nghiệm vận hành nhiều thiết bị Android cùng lúc Biết NDK, JNI, Frida, hoặc giải cấu trúc APK",
+  "quyen_loi": "Mức lương 25-30tr/ tháng ++, thỏa thuận theo năng lực\nLương tháng 13, thưởng kinh doanh, thưởng lễ Tết, 20/10, 8/3, sinh nhật,...Gói thu nhập từ 14 tháng lương\nLàm việc trong một môi trường trẻ trung, năng động, có cơ hội học hỏi; làm việc T2-T6 hàng tuần.\nTham gia đóng BHXH, BHYT, BHTN theo quy định của Luật, Bảo hiểm sức khỏe PTI\nĐược hưởng các phúc lợi của công ty như: khám sức khỏe định kỳ hàng năm, nghỉ mát 1 lần/năm, team building ít nhất 1 lần/năm, thăm hỏi ốm đau, hiếu hỉ, thai sản...\nXem xét tăng lương 2 lần/năm.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcxMjY0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--ad7032bf76f6eb2761074d75b5e763d922d504fe/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z3585571678195_22cadc7b9413e22b496310e001925031.jpg",
+  "company_url": "/companies/ngs",
+  "company_mo_ta": "CÔNG TY CỔ PHẦN THIẾT BỊ VÀ TRUYỀN THÔNG NGS",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Government",
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

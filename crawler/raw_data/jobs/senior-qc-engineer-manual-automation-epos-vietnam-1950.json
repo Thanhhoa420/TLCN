@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-qc-engineer-manual-automation-epos-vietnam-1950",
+  "tieu_de": "Senior QC Engineer Manual/Automation",
+  "ten_cong_ty": "EPOS Vietnam",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Automation Test",
+    "SQL",
+    "Tester",
+    "Selenium",
+    "Java",
+    "QA QC"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9 Dinh Tien Hoang, Tan Dinh Ward",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role\nWe are looking for Senior QC Engineers to join our QA team and contribute to ensuring the quality and reliability of our POS and SaaS products.\nWe are hiring for both Manual and Automation QC positions. Candidates with strong expertise in either Manual Testing or Automation Testing are welcome to apply. Your responsibilities will be aligned with your technical background and strengths.\n Key Contributions\nUnderstand product requirements and testing processes to define and execute effective testing activities\nDesign, maintain, and execute test plans, test cases, test scripts, and automated test scripts\nPerform functional, integration, system, regression, and performance testing\nDevelop and maintain reliable test automation frameworks and scripts where applicable\nIdentify, troubleshoot, document, and track defects throughout the development lifecycle\nWork with developers and BAs to investigate issues, analyze requirements, and ensure product quality\nPerform data validation using SQL and databases\nParticipate in test case and automation script reviews and continuously improve testing processes, coverage, and efficiency\nContribute to test strategy and quality improvement initiatives across the full software development lifecycle\nCommunicate testing progress, results, risks, and quality issues to relevant stakeholders",
+  "yeu_cau": "Bachelor’s Degree in Computer Science / Information Technology / Software Development or related fields\n6+ years of hands-on experience in software testing/quality control\nStrong experience in either Manual Testing or Automation Testing; experience in both is a plusFor Manual QC\nStrong experience in writing and executing test plans, test cases, and test scriptsFor Automation QC\nStrong programming skills in Java\nHands-on experience with automation frameworks such as Selenium, Cucumber, Appium, Playwright, or Robot Framework\nExperience building or significantly contributing to test automation frameworks is a strong plusFor All QC Candidates\nHands-on experience with SQL and at least one database, such as MySQL, SQL Server, PostgreSQL, or Oracle\nFamiliarity with testing tools such as Postman and Charles\nExperience with performance testing is a plus\nExperience applying AI technologies in software testing/test automation is a strong plus\nFluent English communication skills are mandatory\nStrong problem-solving, critical thinking, and stakeholder management skills\nExperience working on complex or large-scale software projects",
+  "quyen_loi": "Performance Bonus\nBiannual Performance and Salary review\nLiberty Insurance covers inpatient + outpatient\n\nWe are a multinational, product-driven company specializing in proprietary POS solutions — developing in-house and delivering directly to our worldwide customers.\n \nBenefits\nRecognition & Rewards:\nPerformance Bonus (subject to the company’s business results and the employee’s performance evaluation)\nBiannual Performance Review and Salary Adjustment\nComprehensive Insurance Coverage:\nFull government public insurance contributions based on gross salary\nPremium health insurance\nAnnual health check\nClear career development and growth structure; Training sessions and Learning workshops\n14 days of annual leave and one additional day of leave for every year of service\nLaptop/MacBook and top-notch facilities are provided based on each role\nAgile/Scrum-based internal workflows for efficient and collaborative development\nCompany trips, parties and regular team-building activities; Weekly happy hour, coffee, snacks, and board games\nOverseas travel opportunities based on the individual performance and policies for each evaluation period\nWorking Environment & Culture\nInternational Workplace: English-speaking environment\nPositive and Open-Minded Culture: Engineers are encouraged to propose innovative solutions that enhance productivity and code quality\n1-on-1 Mentorship: Monthly coffee sessions with managers offer personalized feedback, goal setting, and career development opportunities\nFlexible Working Hours: Promote work-life balance and individual productivity",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NDIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4873c73fd10f2e39668f60cc9e784fe31eedfd1b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/EPOS-Logo_Full-Color.png",
+  "company_url": "/companies/epos-vietnam",
+  "company_mo_ta": "Singapore's #1 POS system vendor empowering SMEs with powerful digital solutions for growth!",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

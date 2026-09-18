@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/devsecops-engineer-sast-dast-k8s-security-ssdlc-con-cung-2434",
+  "tieu_de": "DevSecOps Engineer SAST/DAST/K8S Security/SSDLC",
+  "ten_cong_ty": "Con Cưng",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "Security",
+    "DevSecOps",
+    "Cloud",
+    "AWS",
+    "Python",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5th Floor, Con Cưng Super Center, 09 Nguyen Trai Street, Ben Thanh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Introduction\nCon Cung is the biggest omni-channel company for mom & baby with 600 retail stores in Vietnam in 2021 and plan to have 1,000 stores by 2023 with 1 billion USD revenue. Con Cung's annual growth rate is more than 70%. With the vision of providing good quality products for children, Con Cung is strongly investing into Product Research and Development in order to manufacture and provide products that are suitable to the local market in terms of pricing and quality. We also invest into technology in order to manage the network and online channel efficiently. Con Cung Corporation also develops in-house cutting-edge automation and intelligence technologies. We are seeking for young, smart & dynamic talents to grow your career together with us.\nJob Description\nWe are seeking an Application Security Engineer to build and develop our application security capability. The core mandate is security: defining how the organization designs, builds, and ships software securely — spanning secure SDLC, DevSecOps, security architecture and design, application security testing, and developer enablement. The engineer drives security into the development lifecycle and CI/CD pipelines and fundamentally reduces security risk in software.\nKey Responsibilities\nSecurity by Design: Threat modeling, secure design review, security requirements; collaborate with architects to embed security into application design.\nSecurity Architecture & Solutions: Recommend and implement security controls appropriate to each application's risk profile — e.g., WAF, API security, mobile app hardening (RASP / anti-tampering).\nApplication Security Testing: Operate SAST/DAST/SCA/SBOM tooling; triage findings, eliminate false positives, validate exploitability, and prioritize remediation by real risk.\nSecure SDLC & DevSecOps Integration: Embed security gates and automated checks into CI/CD pipelines.\nAppSec Maturity (OWASP SAMM): Run SAMM assessments, define the maturity roadmap, and measure improvement over time.\nDeveloper Enablement: Secure coding training và Security Champions program.",
+  "yeu_cau": "We are looking for a highly motivated person with:\n2-3+ years of experience with Application Security Engineering or related Security roles.\nSolid foundation in application security: OWASP Top 10 and beyond — common vulnerability classes, ability to read code and understand why a finding is (or isn't) exploitable.\nHands-on secure SDLC & secure design: threat modeling, secure design review, security requirements.\nStrong understanding of SAST, DAST, SCA and SBOM tooling — interpreting results, triaging false positives, prioritizing by risk.\nAbility to select the right tool for the right context (judgment, not tool-operation).\nWorking knowledge of CI/CD and automation as the delivery medium (Python/Bash).\nExcellent collaboration and communication skills, with the ability to work closely with developers, architects, and operations teams.\nA proactive attitude & the ability to think outside of the box\nWorks in an organised, structured manner\nCan do attitude, gets things done\nExcellent communication skills with diverse audiences\nStrong critical thinking and analytical skills\nNice-to-have:\nPractical OWASP SAMM (or BSIMM) implementation experience.\nSecurity architecture experience: WAF, API security, mobile app shielding/RASP.\nAwareness of secure-by-design frameworks/regulations: NIST SSDF, EU Cyber Resilience Act.\nA relevant AppSec/offensive cert (OSWE, eWPTX, GWAPT, Burp Suite Certified, CSSLP) — tín hiệu lọc nền tảng security.\nIaC security (Terraform/K8s/Helm), cloud security, English.",
+  "quyen_loi": "Annual bonus: 2 - 3 months under minimum KPI requirement\nFast promotion opportunities based on personal ability\nWork in a dynamic, open, creative environment\nRegular training, company team building, birthday bonus",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNDYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--016130788e9191f0aa79db451d549bc4709d2d3a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOGO%20CC-2021.png",
+  "company_url": "/companies/con-cung",
+  "company_mo_ta": "Hệ thống Mẹ & Bé Lớn Nhất Việt Nam",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Retail and Wholesale"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-cloud-infrastructure-engineer-cong-ty-tnhh-yokogawa-viet-nam-1124",
+  "tieu_de": "DevOps  Cloud Infrastructure Engineer",
+  "ten_cong_ty": "Công ty TNHH Yokogawa Việt Nam",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "DevOps",
+    "AWS",
+    "CI/CD",
+    "Azure",
+    "English",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Level 10, Hoa Binh Tower, 106 Hoang Quoc Viet Street",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Negotiable",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a skilled DevOps & Cloud Infrastructure Engineer to join Yokogawa’s Renewable Energy team. In this role, you will be responsible for managing cloud infrastructure (Azure/AWS), driving CI/CD automation, ensuring operational reliability, and maintaining high availability for our Asset Performance Management (APM) platform.\nWhile the core focus is on Cloud Infrastructure and DevOps automation, you will also have the opportunity to collaborate with cross-functional teams on system operations and data analytics.\nKey Responsibilities\nSoftware Troubleshooting & Technical Support:\nSupport the deployment, configuration, maintenance, and patching of the APM platform across customer environments.\nSystematically analyze application logs, system metrics, and configuration data to identify root causes of software, connectivity, or integration issues.\nCoordinate closely with the product team in Italy to resolve deep product-level bugs or fixes.\nCloud / IT Operations & Integration:\nAdminister and monitor cloud-based environments on Microsoft Azure and/or AWS (VMs, Storage, Networking, IAM, and System Health Monitoring).\nTroubleshoot common infrastructure and network connectivity issues (DNS, VPN, Firewalls, SSL/TLS, TCP/IP).\nUse Python and SQL for data validation, operational troubleshooting, and task automation.\nCustomer & Project Delivery Support:\nCollaborate with regional technical leads and project managers during go-live, implementation, and support phases.\nCommunicate technical issues clearly to both technical teams and customer stakeholders.\nDomain & Data Skill Development (Gradual Growth):\nOver time, build domain expertise in renewable energy assets (Solar, Wind, Battery Storage) and further expand your SQL, Python, and data analytics capabilities.",
+  "yeu_cau": "1. Must-Have Requirements\nEducation & Experience: Bachelor’s degree in Computer Science, IT, Software Engineering, or a related technical discipline with 2–5 years of experience in software/application support, cloud operations, system integration, or DevOps.\nCore Troubleshooting: Strong analytical mindset with a structured, hands-on approach to reading logs and diagnosing software and application issues.\nDevOps & Cloud Capabilities:\nHands-on experience with Git, Azure DevOps, CI/CD Pipelines, and Octopus Deploy.\nPractical experience operating within Microsoft Azure and/or AWS environments across both Windows Server & Linux.\nFoundation in managing Virtual Machines, Storage, Networking, IAM, and Monitoring tools.\nTechnical Skills:\nGood understanding of networking fundamentals (TCP/IP, DNS, VPN, SSL/TLS).\nSolid SQL skills for querying and validating data integrity.\nWorking knowledge of Python for operational scripting and automation.\nLanguage: Good written and spoken English communication skills for collaborating with global teams and customers.\n2. Nice-to-Have Skills (Training Provided)\nExperience with Docker & Kubernetes (highly preferred).\nFamiliarity with relational databases (PostgreSQL, SQL Server), APIs, or industrial protocols (MQTT, WebSocket, SCADA).\nExposure to renewable energy, industrial automation, or APM platforms.",
+  "quyen_loi": "Direct product training and technical guidance from our expert engineering teams in Italy and the regional office.\nClear career evolution path from Cloud Operations and Technical Support toward Renewable Energy Data & APM Domain Specialization.\nSalary: negotiate •\n13th Salary, annual performance bonus. \nHung Vuong insurance (Health, Accident) \nYear End Party, Teambuilding \nMonetary allowance from Labor union in holidays\n12 days’ annual leave/year, increasing by 1 day per year of service, capped at 20 days/year.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk1OTIyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--11c102f7f402a51e7c3058fdb1f89dbda4cbac6a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%202.png",
+  "company_url": "/companies/cong-ty-tnhh-yokogawa-viet-nam",
+  "company_mo_ta": "Yokogawa",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering",
+    "IT Services and IT Consulting",
+    "Materials and Mining"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

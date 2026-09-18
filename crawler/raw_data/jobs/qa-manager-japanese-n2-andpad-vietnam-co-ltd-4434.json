@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-manager-japanese-n2-andpad-vietnam-co-ltd-4434",
+  "tieu_de": "QA Manager Japanese N2+",
+  "ten_cong_ty": "ANDPAD VietNam Co., Ltd",
+  "ngay_dang_raw": "2026-08-10",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Tester",
+    "QA QC",
+    "Team Management",
+    "Jira",
+    "Japanese",
+    "Agile"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3rd Floor, Dong Nhan Building, 90 Nguyen Dinh Chieu, Tan Dinh Ward",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ANDPAD Vietnam is looking for a QA Manager who is a strategic leader responsible for defining and driving the overall quality roadmap in alignment with our Japan HQ. Working within a dynamic Squad-based environment, you will not only oversee high-standard testing operations but also shape the organizational culture by integrating QA processes into every stage of the SDLC. Your mission is to build a high-performing QA organization that balances speed and quality, ensuring our products deliver exceptional value to users.\nJob Scope\nDevelop and drive QA strategies for multiple teams or the entire organization in alignment with the Japan QA organization.\nManage and develop members, ensuring high performance and professional expertise.\nIdentify organizational challenges and implement continuous improvement measures.\nCommunicate closely with dev teams and management to ensure QA processes are integrated organizationally.\nProvide stakeholders with continuous updates on QA activities, risks, and product quality.\nConduct performance evaluations.\nManage resources and drive recruitment activities.\nDevelopment environment\nAutomation test: Autify, Magicpod\nBackend: Ruby (on Rails), Go, Amazon Aurora(MySQL), Elasticsearch, DynamoDB\nFrontEnd: Nuxt.js/Vue.js, ReactJS\nMobile App: Kotlin, Swift, Flutter\nDeploy/ Build: CodePipeline, CodeBuild, CircleCI, GitHub Actions\nOthers: Swagger, Docker, Figma, Confluence, JIRA, esa",
+  "yeu_cau": "Must have\nAt least 5+ years of experience as a QA Engineer in web and/or mobile application environments\nPeople Management: Minimum 2+ years of experience leading QA Engineers, with demonstrated capability in team leadership, resource planning, performance management, team well-being, and career development of team members.\nExpertise: Mastery of QA methodologies, relevant tools, and Web/Mobile development processes.\nProblem Solving: High proficiency in identifying organizational challenges and implementing effective solutions.\nGood understanding of QA methodologies (ISTQB certification or equivalent knowledge is preferred)\nJapanese proficiency at N2 level or above (able to read Japanese documentation and communicate with Japanese stakeholders in daily work)\nPreferred\nExperience in test management within a product team or Agile/Scrum team environment\nExperience working with SDLC optimization or Shift-Left quality initiatives\nExperience lead a team more than 10 members in multiple teams \nExperience in Agile/Scrum environments\nExperience in test automation\nCommunication skills in English\nExperience in development projects for Japanese companies\nKnowledge of business flows in the Architecture/Construction industry\nExperience in non-functional testing (Security, Performance, etc.)\nContinuous Learning Mindset: A self-driven learner who continuously explores and adopts new technologies and methodologies to stay updated",
+  "quyen_loi": "No.1 Construction Tech company in Japan\nHybrid working environment\nAttractive salary and Macbook Pro\n\nCompetitive salary package, including full insurance coverage\nAnnual performance review: twice/ year\nYear-end Bonus\nHybrid working model\n12 days of annual leave and maximum of 6 days for New Year Leave\nPremium Healthcare Insurance Package starting from day one\nAnnual Health Check-up\nExcellent career development opportunities, with exposure to and experience in the latest technologies\nPatents and Inventions bonus\nCompany trip, Year-End Party, Gifts for Tet/ Holidays\nMacBook Pro/ Laptop is provided",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNzE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2442e5b084a5059142397f377f9573e6ac504dd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screen%20Shot%202022-04-05%20at%2012.11.03%20PM%20-%20Thanh%20Nguyen%20(1).png",
+  "company_url": "/companies/andpad-vietnam-co-ltd",
+  "company_mo_ta": "No.1 Construction Tech Company in Japan",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

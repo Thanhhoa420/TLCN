@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-tpisoftware-co-ltd-3309",
+  "tieu_de": "Senior DevOps Engineer",
+  "ten_cong_ty": "TPIsoftware Co., Ltd",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Cloud",
+    "English",
+    "Kubernetes",
+    "DevOps",
+    "Scrum"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Lim 3 Tower, 29A Nguyễn Đình Chiểu, Phường Sài Gòn",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1.Lead the development of high-quality, impactful, and scalable products and systems to achieve business goals.\n2. Cloud and System Management Responsibilities (GCP) : \nManage Cloud Services \nAdminister virtual machines, container services, databases, storage solutions, and other cloud resources\nEnsure optimal performance, high availability, scalability, and robust security across all cloud environments\nImplement and maintain comprehensive backup and disaster recovery solutions\nInfrastructure Optimization\nMonitor and optimize data center costs\nStay current with emerging cloud technologies and implement infrastructure improvements\nEstablish and automate access management policies for cloud services\n3. Infrastructure as Code (IaC)\nMaintain and develop IaC scripts and templates\nEnhance configuration management tools and processes\nImplement automation for consistent and reliable infrastructure deployment\n4. Collaborate closely with engineering managers and engineers across multiple platforms and domains\n5. Support to recruit, develop, and retain exceptional engineering talent who excel in innovative, user-focused, fast-paced environments.\n6. Establish and maintain high engineering standards for your team regarding quality practices, delivery speed, architecture, design, and code quality, with clear measurable goals\n7. Contribute to the improvement and scaling of the engineering organization by mentoring engineers, sharing technical knowledge, industry best practices, and leadership skills",
+  "yeu_cau": "1. Familiarity with Google Cloud Platform.\n2. Familiarity with DevOps, SRE, Platform Engineering.\n3. Have experience with Kubernetes . Having CKA Lisence is Plus.\n4. Have experience with system design.\n5. Strong analytical and problem-solving skills.\n6. Has team collaboration awareness, able to work cooperatively with team members. Experience in Scrum is a plus.\n7. Good communication skills and logical thinking/judgment abilities.\n8. Proactive and self-motivated to learn.\n9. Possesses or is willing to learn multiple languages (including Chinese, English, Vietnamese) to effectively communicate with the team.",
+  "quyen_loi": "Professional and international working environment\nGolden career path\nAttractive salary\n\nTHE BENEFITS \n13-month salary and performance bonus\nFull social benefits in accordance with the company and the Vietnam Law\nPremium health care & accident insurance\nFriendly working environment with strong startup culture \nTeam building, Company trip, Year-end party, etc.\nSalary review at least one time per year based on employee's performance and contribution",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2NDcwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--6e34b2c01836ea88ec37624b3d7a2d372011d6de/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo.jpg",
+  "company_url": "/companies/tpisoftware-co-ltd",
+  "company_mo_ta": "Expedite Digital Transformation with State-of-the-Art AI Technology",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

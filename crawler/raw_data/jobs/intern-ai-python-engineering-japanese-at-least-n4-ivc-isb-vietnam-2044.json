@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/intern-ai-python-engineering-japanese-at-least-n4-ivc-isb-vietnam-2044",
+  "tieu_de": "Intern AI / Python Engineering  Japanese at least N4",
+  "ten_cong_ty": "IVC (ISB Vietnam)",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Python",
+    "Japanese",
+    "Flask",
+    "FastAPI",
+    "AI"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Etown 2, 364 Cong Hoa",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "300 - 344 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Write clean, readable, and maintainable Python code to build scripts, REST APIs, and data processing utilities.\nAssist in integrating AI/ML models and services (e.g., OpenAI API, Hugging Face, LangChain, or custom models) into existing applications and microservices.\nHelp build, test, and optimize data extraction, transformation, and ingestion pipelines (ETL/ELT) for AI workflows.\nWrite unit and integration tests (using pytest or similar) to ensure the reliability and performance of AI features and data feeds.\nConduct fast-paced research and experiments with open-source AI tools, libraries, and prompt engineering strategies to solve specific technical problems.\nParticipate in agile team ceremonies (standups, code reviews) and maintain clear technical documentation for tools and APIs developed during the internship.",
+  "yeu_cau": "Currently pursuing or recently completed a Bachelor’s in Computer Science, Data Science, Software Engineering, or a related quantitative field.\nStrong foundation in core Python programming (data structures, OOP, file handling, async concepts, standard libraries).\nPractical coursework or project experience with machine learning concepts, NLP, or modern AI tools (e.g., NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow, or LLM APIs).\nBasic understanding of building or consuming RESTful APIs using frameworks like FastAPI or Flask.\nFamiliarity with Git and GitHub/GitLab for code versioning and pull requests.\nStrong analytical skills, curiosity about emerging AI technologies, and a self-driven willingness to learn.\nJapanese at least N4\nNice-to-Haves (Bonus)\nExperience with Apache Kafka, LlamaIndex, Ollama, and sensors.\nExperience with Docker, Kubernetes, and managing multi-database container setups.\nKnowledge of cloud platforms (AWS, GCP, or Azure) and CI/CD pipelines.\nUnderstanding of system profiling, profiling memory leaks in Python, and API benchmarking.",
+  "quyen_loi": "Premium Healthcare package insurance\n13th month salary, Performance bonus\n16 days annual leave\n\nWith Competitive salary + Lunch allowance \nMeeting and working with Technie mentor\nParticipate in full Software Development Life Cycle \nFulltime employment after program finished\nJapanese culture and working atmosphere discovery.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NTQ4LCJwdXIiOiJibG9iX2lkIn19--48fa16dfe2f44b393d0209c7d00d5d94e5ebbfca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/isb-vietnam-company-logo.jpg",
+  "company_url": "/companies/ivc-isb-vietnam",
+  "company_mo_ta": "ISB Vietnam Company Limited was established in 2003 with 100% investment of ISB Corporation",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

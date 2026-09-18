@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/sr-qa-engineer-from-6yoe-automation-english-yum-digital-technology-5203",
+  "tieu_de": "Sr. QA Engineer from 6yoe, Automation, English",
+  "ten_cong_ty": "YUM! Digital & Technology",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Automation Test",
+    "CI/CD",
+    "Leadership",
+    "English",
+    "Tester",
+    "QA QC"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Block C, 4th floor, Waseco building, 10 Pho Quang,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,000 - 2,900 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Senior Quality Engineer will design and drive testing activities following the test strategy of the platform to ensure the reliability, performance, and functional integrity of the Byte by Yum! Commerce Platform, supporting KFC and Taco Bell digital ordering journeys (web and native). The role contributes to test coverage for shared, platform-agnostic business logic as well as brand-specific web/native applications, balancing reusable core test frameworks with market/brand-specific validation needs.\n \nKey Responsibilities:\n• Define and drive the overall testing strategy, quality standards, and best practices spanning functional, integration, end-to-end, and performance testing across engineering teams, ensuring coverage accounts for both shared platform-level business logic and brand-specific customizations. \n• Build and maintain scalable, maintainable automation frameworks across web and mobile applications. \n• Perform hands-on manual and exploratory testing for new features, edge cases, and pre-release sign-off, particularly in scenarios where automation isn't practical or mature yet. \n• Collaborate with engineering, product, and DevOps teams to embed quality into the CI/CD pipeline and development lifecycle. \n• Oversee test planning, execution, and reporting including quality metrics such as defect escape rate and test coverage to ensure high levels of release confidence and platform reliability. \n• Continuously evaluate and improve testing tools, frameworks, and processes to support platform growth and scalability. \n• Lead defect management processes, ensuring issues are properly prioritized, tracked, and resolved.",
+  "yeu_cau": "• Bachelor's degree in computer science, or related technical field. \n• 6+ years of experience in software quality assurance, with at least 1 years in a senior test role supporting large-scale e-commerce or high-volume consumer platforms\n• Proven experience leading testing strategies and quality initiatives in complex software platforms.\n• Strong hands-on experience with at least one of test automation frameworks (e.g., Maestro ,Playwright, Cypress, Selenium, Appium). Experienced working with Maestro is a plus\n• Ability to collaborate effectively across engineering, product, and DevOps teams.\n• Strong communication, and problem-solving skills in fast-paced, agile environments and a passion for delivering high-quality software\n• Ability to collaborate effectively across distributed global teams.\n• Strong spoken and written English for international collaboration.\n• Adaptable and comfortable with change : able to adjust testing priorities, tools, and approach quickly as product direction, requirements, or tech stack evolve.",
+  "quyen_loi": "18 Annual Leave + 5 Recharge Days/ Year\n13th-month bonus\n2 days WFH/ week\n\n100% salary during the probation period\n18 days of annual leave per year\nFive “Recharge Days” – extra days in addition to company holidays\nOne day of paid leave for your birthday\n2 days WFH/ week\nHalf-day Fridays\nFull salary insurance\n13th-month bonus\nAdvanced health insurance (Generali)\nRegular team and engagement activities\nLinkedIn learning and training courses, based on company policy\nMacBook and monitors",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMzEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--7f9ef81513271fba66b842661a60eac5c6f0a5b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Yum%20D&T-Logo.jpg",
+  "company_url": "/companies/yum-digital-technology",
+  "company_mo_ta": "YUM! Digital & Technology",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

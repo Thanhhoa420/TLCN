@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/sap-abap-cloud-rap-technical-consultant-lg-cns-viet-nam-3631",
+  "tieu_de": "SAP ABAP Cloud/ RAP Technical Consultant",
+  "ten_cong_ty": "LG CNS Việt Nam",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "SAP",
+    "English",
+    "Fresher Accepted"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 15, tòa Keangnam Landmark 72, Mễ Trì",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, develop, and maintain SAP ABAP programs using Classic ABAP (procedural & OO).\nDevelop and enhance CDS Views and RAP-based applications for SAP S/4HANA.\nPerform development using both SAP GUI (SE80) and Eclipse (ADT).\nBuild SAP UI components including ALV, Module Pool, and SmartForms.\nDevelop ERP module-related features and integrate systems using RFC, IDoc, BDC.\nImplement and manage SAP enhancements: BAdI, User Exit, Enhancement Framework, ensuring system consistency and data integrity.\nSupport S/4HANA conversion projects, including code adaptation and performance tuning.\nAnalyze and optimize program performance using efficient SQL, CDS, and HANA optimized techniques.\nAdhere strictly to Clean ABAP standards and internal development guidelines.\nCollaborate with functional consultants, project managers, and global stakeholders to deliver high-quality solutions.",
+  "yeu_cau": "[Required]\nBachelor's degree in computer science, Software Engineering, or a related field.\n3 years of hands-on SAP ABAP development experience.\nStrong skills in Classic ABAP (procedural & object-oriented).\nSolid understanding of SQL and ABAP Dictionary.\nPractical experience with RAP and CDS View development.\nGood experience working with SAP GUI (SE80).\nHands-on experience with ALV, Module Pool, SmartForms.\nExperience in ERP module development and system integration (RFC, IDoc, BDC).\nStrong experience implementing SAP enhancements (BAdI, User Exit).\nAbility to work in secure, confidential environments following strict data protection rules.\nWillingness to travel or work in Korea for short-term or long-term assignments if required.\n[Preferred]\nExperience with HANA SQL Script (AMDP).\nExperience using Eclipse (ADT) for ABAP development.\nExperience with S/4HANA conversion, code remediation, and performance improvement.\nKnowledge of OZ Report.\nStrong adherence to Clean ABAP principles.\nHigh motivation to learn new SAP technologies and continuously upgrade technical skills.",
+  "quyen_loi": "Salary and bonus based on ability\nYoung and fun working environment\nOpportunities to study and work abroad.\n\n- Best remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.\n- High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.\n- Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.\n- Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style!\n- Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.\n- Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!\n- Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MTIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--79414bdba1830df263fbf0fe3fbf7127abc83386/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Annotation%202025-02-14%20172858.jpg",
+  "company_url": "/companies/lg-cns-viet-nam",
+  "company_mo_ta": "TOP 1 IT COMPANY IN KOREA",
+  "job_expertise": [
+    "IT Consultant"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/intern-c-c-embedded-systems-engineer-ivc-isb-vietnam-0113",
+  "tieu_de": "Intern C/C++ Embedded  Systems Engineer ",
+  "ten_cong_ty": "IVC (ISB Vietnam)",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "C++",
+    "English",
+    "Linux",
+    "Embedded C"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Etown 2, 364 Cong Hoa",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "300 - 311 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, develop, and maintain core system features and components using C/C++.\nWork closely with network communication protocols (e.g., TCP/IP, HTTP, MQTT) to ensure seamless data exchange.\nParticipate in system-level debugging, profiling, and performance analysis to keep applications running smoothly.\nInvestigate and resolve complex technical issues related to:\nNetwork connectivity and packet drops.\nSystem resource constraints (CPU, memory leaks, and usage spikes).\nUnexpected system behaviors and crashes.\nContribute to systems involving client-server architectures or message-based communication paradigms.",
+  "yeu_cau": "Technical Skills:\nCurrently pursuing or recently completed a Bachelor’s degree in Computer Science, Data Science, Software Engineering, or a related quantitative field.\nStrong academic foundation in C/C++, understanding of basic CS principles, and an eagerness to learn under senior mentorship.\nAbility to write clean C/C++ code, handle Linux environments, and debug issues with guidance.\nClear understanding of client-server architectures and how data flows over a network.\nStrong knowledge of networking concepts, particularly the TCP/IP stack.\nFundamental understanding of multi-threading concepts, race conditions, and synchronization (e.g., mutexes, semaphores).\nFamiliarity with the Linux environment and comfort using basic command-line tools.\nSoft Skills & Mindset:\nA highly analytical, logical, and disciplined approach to problem-solving and debugging.\nCuriosity to understand how things work \"under the hood\" (at the OS and hardware level).\nGood communication skills and a strong team player attitude.\nNice-to-Haves (Bonus)\nExperience with debugging/profiling tools (e.g., GDB, Valgrind, Wireshark, htop).\nExperience with shell scripting (Bash) or Python.\nKnowledge of embedded systems or RTOS (Real-Time Operating Systems).",
+  "quyen_loi": "Premium Healthcare package insurance\n13th month salary, Performance bonus\n16 days annual leave\n\nWith Competitive salary + Lunch allowance \nMeeting and working with Technie mentor\nParticipate in full Software Development Life Cycle \nFulltime employment after program finished\nJapanese culture and working atmosphere discovery.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NTQ4LCJwdXIiOiJibG9iX2lkIn19--48fa16dfe2f44b393d0209c7d00d5d94e5ebbfca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/isb-vietnam-company-logo.jpg",
+  "company_url": "/companies/ivc-isb-vietnam",
+  "company_mo_ta": "ISB Vietnam Company Limited was established in 2003 with 100% investment of ISB Corporation",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

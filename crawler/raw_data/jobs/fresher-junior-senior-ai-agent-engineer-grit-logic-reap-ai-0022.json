@@ -1,0 +1,44 @@
+{
+  "url": "https://itviec.com/it-jobs/fresher-junior-senior-ai-agent-engineer-grit-logic-reap-ai-0022",
+  "tieu_de": "Fresher/Junior/Senior AI Agent Engineer Grit, Logic",
+  "ten_cong_ty": "Reap AI",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "C++",
+    "Team Management",
+    "DevOps",
+    "Embedded",
+    "English",
+    "Python",
+    "Fresher Accepted"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Global City",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "500 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us\nAt Reap AI, we're a team that loves solving problem. We are hardworking, smart, and fast to take action. We don’t care what your degree is.  If you’re logical (no bullshit) and hardworking (almost a workaholic), this is the place for you. \n \nWe do not accept mediocrity. We build AI systems that catch fraud and reward honest effort in the real world. Candidates from Physics, Math, Computer Engineering, or self-taught backgrounds who think in first principles are strongly encouraged to apply.\n \nYou Should Apply If\nYou hate corruption & fraud to the bone\nYou loveeeeee working\nYou are obsessed with learning new things everyday\nYou have good logic\nYou are a true Generalist: You aren't afraid to jump from a PyTorch CV model to a Docker/Tailscale config, down to a C/C++ embedded routine on an edge device, up to a React dashboard.\nYou live and breathe AI tooling: You use LLMs, custom agents, and automated workflows to write standard code, scripts, and infrastructure in minutes instead of days.\nYou take absolute ownership: You prefer shipping complete features solo over endless sync meetings with large teams.\nWhat You’ll Be Doing\nInfrastructure & Sysadmin – Manage bare-metal/GPU servers, Linux environments, Docker setups, and CI/CD pipelines using AI-assisted automation.\nAI & Computer Vision – Build, evaluate, fine-tune, and optimize PyTorch/TensorFlow/ONNX models for real-world video & POS data pipelines.\nFull-Stack & Edge Delivery – Write Python APIs (Backend), lightweight React/TypeScript UIs (Frontend), and optimize C/C++ routines for resource-constrained edge hardware.\nData Pipelines: Streamline labeling workflows and automate data preprocessing using computer vision frameworks (OpenCV, CVAT, FFmpeg).\nCollaborate with a small, focused team — we value clear thinking, not loud talkin\nContribute to weekly release cycles and iterate fast based on real user feedbacks",
+  "yeu_cau": "Must-Haves\nKnowledgable in your applied field and always updating your knowledge\nIf you have a direct experience, it's a plus (but if not, it's ok)\nIf you love technology, you will have a lot of fun \nLearning is what you do everyday\nWe build fraud detection systems (so cool!!)\nHappy and good attitude \nUnderstand life – happiness and sufferings are a part of life\nEasy going, not too picky. Can enjoy colleagues at work\nIf you continue to develop yourself, your salary is subjected to increase twice a year (only if you improve)\nFighting attitude: This will be no easy work. If you give up easily, DO NOT apply.\n1-Person Avengers team: We are building a small group of incredibly capable, AI-amplified people. As revenue grows, it comes back to you.\nPerks : Free lunch every day, and building actual AI fraud detection systems (which is super cool!).\nIf you accept all of the above, click apply. \nPS. We want someone with a fighting attitude. If you give up easily, DO NOT apply.\nKnowledgable In\nAI & Computer Vision: PyTorch/TensorFlow fundamentals, OpenCV, ONNX Runtime, plus practical model evaluation (FP/FN error analysis) for classification, detection, and segmentation.\nAgentic AI & LLMs: Power-user mastery of AI agents/tools to rapidly write code, automate pipelines, and solve problems across the stack.\nBackend & API Development: Strong Python (OOP, DS&A, Graph/BFD/DFS algorithms) building APIs via FastAPI or Flask, connected to PostgreSQL.\nSysadmin & DevOps: Linux system admin, containerization (Docker/Docker Compose), networking/VPN (Tailscale), and managing bare-metal GPU/server hardware.\nMath & Algorithms: Solid foundations in linear algebra, statistics, graph algorithms, and optimization.\nFrontend & Edge Basics: Ability to maintain React/TypeScript dashboards and read/tweak C/C++ embedded routines on edge devices (with AI help).\nVideo Protocols: Basic working knowledge of FFmpeg, RTSP, or video streaming setup.\nAPI development: Fast with modern frameworks like FastAPI or Flask.",
+  "quyen_loi": "Fun\nWork with a team of avengers\nDo good thing\n\nBe part of a mission-driven team fighting fraud and rewarding real contribution\nGrow fast with biannual performance reviews and lots of ownership\nGet annual health checkups and an international trip with the team\nLearn from each team member — who value depth, honesty, and grit",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzYxMzc0MywicHVyIjoiYmxvYl9pZCJ9fQ==--10112b9fe6af24b68ad1c7482449a3a8d9e73524/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/reap-logo-v2.png",
+  "company_url": "/companies/reap-ai",
+  "company_mo_ta": "Build the world where fraud or corruption is not tolerated",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Cyber Security",
+    "Network and Infrastructure",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

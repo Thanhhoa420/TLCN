@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-principal-software-engineer-ruby-on-rails-ai-money-forward-vietnam-co-ltd-2629",
+  "tieu_de": "Senior/Principal Software Engineer Ruby on Rails, AI",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Ruby on Rails",
+    "Ruby",
+    "Kafka",
+    "AI",
+    "Kotlin",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As a Product Engineer, you will drive outcomes across the team and technical system by leading design, implementation, rollout, and operational excellence. You will work primarily in our Ruby on Rails codebase to deliver product features end-to-end. We also have services written in Java/Kotlin, and you may occasionally contribute fixes or improvements there when needed.Key Responsibilities1. Technical Leadership\nRuby on Rails: Design, develop, and operate backend features in a Ruby on Rails and core services, with strong software engineering fundamentals and pragmatic delivery.\nAPI & Services: Design and evolve RESTful APIs and service boundaries with clear tradeoffs and maintainable interfaces.\nData & Performance: Model data effectively and optimize SQL performance; identify and address bottlenecks and system inefficiencies.\nCloud-Native Delivery: Architect and operate cloud-native applications on AWS (and related tooling) with pragmatic use of Docker/Kubernetes where appropriate.\nOperational Excellence: Improve observability (logs/metrics/traces), incident response, and post-incident learning to raise system reliability.2. Delivery Ownership & Cross-Functional Collaboration\nEnd-to-end Delivery: Own delivery from problem definition through production rollout, ensuring quality and operational readiness.\nStakeholder Collaboration: Partner with Product, Design, QA, and DevOps to clarify requirements, reduce ambiguity, and deliver outcomes aligned to business goals.\nRelease Management: Plan and execute production releases, coordinate stakeholders, and continuously improve deployment safety and speed (CI/CD)3. Engineering Excellence & Quality\nCode Quality: Set and model best practices for clean, maintainable code; lead strong code review culture.\nTesting & Automation: Increase confidence and reduce manual testing via effective automated tests and robust review processes.\nCI/CD: Operate and improve CI/CD pipelines (CircleCI/GitHub Actions or similar) to support frequent and safe delivery.\nSecurity & Scalability: Ensure AI-assisted speed never compromises security, privacy, scalability, or compliance requirements.4. AI-Assisted Delivery Practices\nRapid Iteration: Use AI to speed up prototyping and iteration (requirements exploration, code scaffolding, test generation, refactoring).\nVerification & Governance: Quickly identify flaws in AI-generated output and correct them; maintain strong human verification habits (testing, reviews, threat modeling).\nAI-Friendly Documentation: Improve the clarity of logs, runbooks, and technical documentation so both humans and AI tools can understand and operate the system effectively.Scope & Collaboration\nPrimary focus is Rails-first backend/API delivery, with pragmatic cross-functional reach (infra/observability/quality) as needed to unblock outcomes.\nYou will collaborate across time zones with global stakeholders and engineering partners.",
+  "yeu_cau": "Required Skills & Competencies\nExperience: 5+ years of software engineering experience, including significant experience building and operating production web applications.\nRuby on Rails: Strong proficiency with Ruby on Rails (or a strong willingness and demonstrated ability to ramp up quickly and work day-to-day in a Rails codebase).\nDistributed Systems: Experience designing and operating web services and microservices in production environments.\nCloud: Strong hands-on experience with AWS and cloud-native development practices.\nDatabases: Deep knowledge of relational databases and practical experience with data modeling and SQL performance tuning.\nDelivery Leadership: Demonstrated ability to lead projects end-to-end and coordinate releases across stakeholders.\nCollaboration: Strong communication and ability to work effectively with cross-functional teams.\nLanguage: Professional English proficiency for global collaboration.Preferred Skills\nKubernetes/EKS experience in production.\nMonitoring/logging experience (e.g., Datadog, Prometheus, Grafana, ELK).\nMessage brokers/event-driven architectures (e.g., Kafka, RabbitMQ).\nExperience integrating LLM APIs into products or internal tools (prompting, async workflows, handling non-deterministic outputs).Technology Stack\nLanguages: Ruby on Rails (core), Go, Kotlin (selected services)\nDatastores: MySQL, DynamoDB, Redis\nInfrastructure: AWS (EKS, ECR, RDS, S3, SQS/SNS), Kubernetes, Docker, TerraformTools Used\nCommunication: Slack, Notion, Zoom\nMonitoring: Datadog, Rollbar\nSource control: GitHub\nCI/CD: Argo CD, CircleCI, GitHub Actions\nTicketing: Jira\nSecurity: Dependabot, SonarQube",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-governance-manager-onpoint-2121",
+  "tieu_de": "Data Governance Manager",
+  "ten_cong_ty": "Onpoint ",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Data Quality Tools",
+    "Data Privacy / Compliance",
+    "Data Warehousing",
+    "Databricks",
+    "Data Lineage",
+    "Data Catalog"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "AB Building, 27B Nguyen Dinh Chieu,",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "This role sets up data governance as a company-wide function — so every number we report, internally, to brand partners, and to investors, has one definition, one owner, and one source of truth.\nKey Responsibilities\nOwn the data governance policy, classification framework, and data standards.\nOwn the glossary and the shared definitions process — and settle disagreements between teams.\nLead the Master Data team and build one trusted record for each brand partner, product, channel, and location.\nSet up clear processes for requesting, approving, and reviewing data changes.\nBuild the network of Data Owners and Data Stewards across functions (Finance, Commercial, Operations, and SoCom)\nSet data quality standards and response targets and publish monthly scorecards.\nWork with Tech to automate data checks, syncing, and other repetitive tasks.\nOwn data access requests and reviews, working with Tech, Data & AI head on technical setup, and build governance into the move to Databricks.\nRun the Data Governance Council and keep a record of decisions.",
+  "yeu_cau": "Bachelor’s degree or higher in Information Technology, Management Information Systems (MIS), Computer Science, Data Science, Statistics, Business Administration, or a related field.\n5 to 8 years of experience in data governance, data management, or analytics, with real ownership of a program.\nExperience building a glossary, a master data program, or a data quality program across multiple teams.\nProven ability to hold senior leaders accountable, without having formal authority over them — this matters more than technical depth.\nComfortable working with data and cloud systems; experience with Databricks is a strong plus.\nExperience with retail, e-commerce, or marketplace data is a strong plus.\nExperience managing people. Fluent in English; Vietnamese is a plus.",
+  "quyen_loi": "Opportunity for regional scale (South East Asia)\nEnrich your skills and develop your potential\nEnjoy motivating working conditions\n\nAllowances\nWork from home 4 days/month\nFull salary insurance\nPremium health insurance\nFlexible check-in/check-out\nTet, performance bonus\nUp to 19 days of leaves\nEnjoy free coffee and tea\nLaptop provided",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0ODcxLCJwdXIiOiJibG9iX2lkIn19--5235b64078793b6c90fb00b7cf61f8b268ad2965/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/onpoint-logo.png",
+  "company_url": "/companies/onpoint",
+  "company_mo_ta": "E-commerce solution partner, help brands & retailers become more successful in Vietnam & SEA region",
+  "job_expertise": [
+    "Data Governance Specialist"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

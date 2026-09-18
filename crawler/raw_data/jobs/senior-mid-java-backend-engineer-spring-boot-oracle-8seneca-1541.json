@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-mid-java-backend-engineer-spring-boot-oracle-8seneca-1541",
+  "tieu_de": "Senior/ Mid Java Backend Engineer Spring Boot/Oracle",
+  "ten_cong_ty": "8Seneca",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "English",
+    "Oracle",
+    "PL/SQL",
+    "SQL",
+    "Spring Boot",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "19F, Coninco Tower 4 Tôn Thất Tùng",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are re-platforming a national public-sector system in the EU: ~750 screens of a legacy client-server 4GL, rebuilt as a modern Spring Boot / Spring Modulith application — on top of an Oracle database whose PL/SQL API is contractually frozen.\nYou will build real modules of that system. The architecture, module contracts, and transaction rules are set by our tech lead and senior engineers — your job is to deliver features inside those boundaries, at production quality, on a system that a whole country depends on.\nThis is a rare place to grow: modern Java on one side, deep Oracle work on the other, with senior engineers reviewing your code every week. You don't need to be an Oracle expert on day one — you need to want to become one.\n What you will do\nBuild features end-to-end inside a module — from REST API through the domain layer down to the Oracle call, with module boundaries enforced automatically in CI.\nWrite and maintain PL/SQL adapters — implement typesafe adapters against Oracle packages using patterns the team has defined (jOOQ codegen), so the domain layer never sees JDBC or PL/SQL types.\nWrite the tests that make the migration safe — module tests and integration tests against a real Oracle database; on this project, \"it works on my machine\" is not a category.\nFix what the legacy system reveals — investigate behaviour of the old application, reproduce it, and make the new code match it exactly.\nTake part in code review — both receiving it from seniors and reviewing your peers' work.",
+  "yeu_cau": "What we expect (must-have)\nSolid Java and Spring Boot in production - at least 3–5 years actually building and shipping Spring services, not just maintaining them\nReal SQL skills, and comfort going into the database - you write non-trivial queries yourself, you can read a stored procedure and reason about what it does, and you're not afraid of an execution plan\nTesting as a habit - you write tests without being asked, and you've worked with CI\nStrong skills with AI coding tools - Claude (Claude Code) or Codex - you use them daily and effectively for coding, refactoring, and reviewing; we work AI-first and expect you to multiply your output with them\nWorking English - you can read specs, write clear commit messages and comments, and hold a technical discussion in an international team\nAppetite for the hard part - this project runs on legacy Oracle logic; the engineers who thrive here are the ones curious about how the old system works, not the ones waiting for a clean greenfield ticketNice to have\nPL/SQL beyond calling it - writing packages, understanding transactions and locking\njOOQ, or any codegen against database contracts\nKeycloak or OAuth2/OIDC integration\nSpring Batch, or large-scale batch processing\nKubernetes / OpenShift\nSome React - useful when your module meets the frontend lane\nExposure to legacy modernization, banking, telco, insurance, or public-sector systems",
+  "quyen_loi": "Perks & benefits for well-being and balance\nAccess to top tech and modern engineering\nA culture of growth, collaboration & learning\n\n8seneca is committed to building a workplace where employees can grow, contribute, and thrive.\n1. Engaging perks and benefits for your well-being\nWe offer a competitive package including 13th-month salary, on-time salary payments, and project bonuses based on revenue. Employees are fully covered with 100% salary-based insurance, advanced healthcare insurance, annual health check-ups, and Tet/holiday gifts.\nWork-life balance is supported with 14 days annual leave plus 3 Christmas days, flexible working arrangements (3 days WFH for senior lever up), modern office facilities, team-building trips (4D3N at 5-star resorts), and wellness support such as vitamins in the office. In addition, the office provides coffee machines, snacks, and fresh fruits to support daily comfort and energy.\n2. World-class technology and impactful projects\nYou will work with modern technologies in AI, Data, Cloud, and Software Engineering on large-scale international projects for European clients, including strategic initiatives for our company—one of the top IT companies in Europe. We also provide access to modern AI tools like ChatGPT and Claude Code to support productivity and engineering excellence.\n3. A culture of growth, collaboration, and learning\nWe foster continuous learning through mentorship programs, 1-1 feedback, and performance reviews. Employees are empowered to take ownership, make decisions, and learn from mistakes in a safe, supportive environment. A shared company library also promotes continuous self-development.\nAt 8seneca, you will work with talented people from diverse backgrounds, united by a passion for technology and innovation.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjkxNzEyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ed88442f6cc4f08021200c15ea7a614978a9e9c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/315533013_10162104258619307_7634856272563296165_n.jpg",
+  "company_url": "/companies/8seneca",
+  "company_mo_ta": "Pure play IT team extensions B2b exclusive outsourcing of highly qualified IT professionals",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

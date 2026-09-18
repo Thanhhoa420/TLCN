@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/qc-manager-core-ai-systems-tester-sql-python-vinsoc-4153",
+  "tieu_de": "QC Manager - Core AI Systems Tester, SQL, Python",
+  "ten_cong_ty": "VinSOC",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "QA QC",
+    "Tester",
+    "API",
+    "SQL",
+    "Python",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Technopark Tower",
+  "quan_huyen": "Quận Long Biên",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,000 - 3,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Lead End-to-End (E2E) testing across complex, distributed, multi-service systems\nBuild test strategy and actively participate in testing critical system flows and define testing strategies for new features or major changes\nInvestigate and troubleshoot production incidents, especially cross-service/system-level issues\nCollaborate closely with Engineering & AI teams to identify root causes and prevent recurrence\nValidate the behavior, consistency, and output of AI-driven systems, including detecting anomalies, regressions, and unexpected results\nApply AI tools (Vibe Coding) to accelerate testing, log analysis, and system investigation\nDefine best practices and elevate the team’s capability in system-level quality assurance",
+  "yeu_cau": "Requirements\nBachelor’s degree or higher in Computer Science, Information Technology, or a related field.\n10+ years of experience in QA/QC for complex systems, distributed systems, or data-intensive platforms\nStrong hands-on experience in End-to-End testing & production incident investigation.\nSolid coding skills in Python (or equivalent) for scripting, simulation, and validation.\nStrong SQL skills for data validation and system verification.\nDeep understanding of API integration, client-server architecture, and system workflows.\nExperience in test automation, system reliability, and AI-assisted testing workflows.\nAbility to work deeply with logs, operational data, and real system behaviors.\nPriorities\nStrong system thinking: able to see the full picture, not just individual components.\nComfortable operating in fast-paced and ambiguous environments where requirements and product specifications evolve rapidly.\nData-driven, analytical, and proactive in identifying risks to system stability.\nHigh ownership, resilient under pressure, and capable of handling tight deadlines.\nCurious and willing to continuously learn in AI/ML and Cybersecurity domains.",
+  "quyen_loi": "Competitive Compensation\nCutting-Edge Technology, AI Security\nGlobal Environment\n\nWork on cutting-edge AI Security & Cybersecurity systems at scale.\nHave the opportunity to shape standards and quality assessment methods for AI application platforms.\nWork in a high-tech environment, tackling complex technical problems with a significant impact on products.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1Njk1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11d3390f3f4043281f72bd582f6687976328f232/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/ta%CC%89i%20xuo%CC%82%CC%81ng%20(5).jpeg",
+  "company_url": "/companies/vinsoc",
+  "company_mo_ta": "VinSOC",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-devsecops-engineer-aws-docker-ci-cd-hada-technology-joint-stock-company-2446",
+  "tieu_de": "DevOps/ DevSecOps Engineer AWS, Docker, CI/CD",
+  "ten_cong_ty": "HADA Technology Joint Stock Company",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "DevOps",
+    "CI/CD",
+    "DevSecOps",
+    "Docker",
+    "Terraform",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Ha Noi",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi đang tìm kiếm DevOps / DevSecOps Engineer có kinh nghiệm làm việc với Cloud (AWS) và CI/CD pipelines, tham gia xây dựng và vận hành hạ tầng cho các dự án công nghệ\nMô tả công việc\nPhối hợp với các team Dev trong các giai đoạn:\nPlanning → Development → Testing → Deployment để xây dựng môi trường:\nDev / SIT / UAT / Staging / Production\n \nTriển khai và tích hợp các công cụ DevSecOps vào quy trình phát triển sản phẩm.\nKiểm soát việc sử dụng và đảm bảo tuân thủ các công cụ DevSecOps của developer.\nHỗ trợ và đào tạo developer về CI/CD pipelines để chủ động trong phát triển và vận hành.\nXử lý sự cố phát sinh trên:\nAWS Cloud\nHạ tầng On-Premise\nTối ưu chi phí Cloud (nếu có).",
+  "yeu_cau": "3-5+ năm kinh nghiệm xây dựng và duy trì cơ sở hạ tầng cloud\nHiểu biết sâu sắc về cách bảo mật môi trường cloud và đáp ứng các yêu cầu tuân thủ\nCó chuyên môn sử dụng Chef để quản lý cấu hình\nKinh nghiệm thực hành triển khai và quản lý cơ sở hạ tầng với Terraform\nNền tảng vững chắc về mạng và quản trị Linux\nKinh nghiệm nghiệm với Docker, GitHub, Jenkins, ELK và triển khai các ứng dụng trên AWS\nCó khả năng học hỏi / sử dụng nhiều loại công nghệ và công cụ mã nguồn mở\nKinh nghiệm trong ngành Tài chính & Ngân hàng\nChứng chỉ AWS DevOps\nBiết về observability (Hiểu biết về các monitor như Grafana, Prometheus, dynatrace, opensearch)\nHiểu biết về AI là 1 lợi thế\nĐã từng vận hành hệ thống tải lớn",
+  "quyen_loi": ".",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3MTkzNywicHVyIjoiYmxvYl9pZCJ9fQ==--c4bbd741ecf289ca4491b2156f409ab725aff533/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/%E1%BA%A2nh%20m%C3%A0n%20h%C3%ACnh%202026-09-10%20l%C3%BAc%2011.58.33.png",
+  "company_url": "/companies/hada-technology-joint-stock-company",
+  "company_mo_ta": "HADA Technology Joint Stock Company",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

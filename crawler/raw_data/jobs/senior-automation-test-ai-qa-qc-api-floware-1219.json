@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-automation-test-ai-qa-qc-api-floware-1219",
+  "tieu_de": "Senior Automation Test AI, QA QC, API",
+  "ten_cong_ty": "Floware",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Automation Test",
+    "CI/CD",
+    "API",
+    "Tester",
+    "AI",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "43D/52 Hồ Văn Huê",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "OVERVIEW\nWe are seeking a detail-oriented and collaborative API Testing Engineer to join our Agile development team. You will be responsible for ensuring the quality and reliability of backend APIs through automated and manual testing, while actively collaborating with developers, product managers, and stakeholders to deliver high-quality software. In this role, you will embrace AI-assisted testing by leveraging modern AI tools to accelerate test design, automation, debugging, and quality analysis, enabling faster and smarter software delivery.\n \nWHAT YOU’LL DO \n \nCollaborate closely with cross-functional Agile teams, including Backend developers, Frontend developers, Product Owners, and Project Managers to understand requirements and ensure comprehensive Backend API test coverage.\nAnalyze functional and technical requirements, identify defects early, and ensure sufficient test coverage.\nDesign, develop, and maintain automated test scripts for Backend APIs using tools such as Postman, Python, or similar technologies.\nExecute comprehensive testing for the email system, including API, IMAP, SMTP, JMAP, migration, synchronization, authentication, performance, reliability, and end-to-end workflows.\nPerform system and service benchmarking to evaluate performance, scalability, stability, and resource utilization under different workloads.\nConduct performance, load, and stress testing to identify bottlenecks and validate system behavior under expected and peak traffic conditions.\nSupport Continuous Integration and Continuous Deployment (CI/CD) by integrating automated API tests into Jenkins pipelines.\nMonitor API performance, test execution results, and system reliability through analytics and reporting tools (e.g., Allure Reports).\nSupport Frontend developers during API integration by troubleshooting issues, validating API behavior, and verifying new features and enhancements.\nParticipate in daily stand-ups, sprint planning, backlog refinement, API reviews, internal demos, and cross-functional team demos.",
+  "yeu_cau": "At least 4 years in automation testing and ensuring product quality.\nStrong understanding of end-to-end automation testing processes \nExperience using AI tools (Claude, Cursor, Copilot, ChatGPT, etc.) to improve testing productivity. \nHands-on experience with a programming language such as Python\nExperience in API automation testing (Python, Java, JMeter, Postman, etc.)\nExperience in CI/CD process (Github, Jenkins, Gitlab CI, nightly run, etc.)\nExperience in Performance and Security testing is a plus.\nHave strong analytical and problem-solving skills.\nHave a proactive and good work relationship with other team members.",
+  "quyen_loi": "Friendly, flexible, and fun working environment\nFree office lunch, fruit, coffee, snack everyday\nAttractive salary, 100% salary in probation period\n\nWe challenge ourselves every day to find better solutions and better ways to do things. We ask difficult questions and work together to solve them. We believe in doing the right things as well as doing things right. We value honesty, hard work, integrity, and transparency. We are committed to transforming people’s lives, will you join us today?\n \nCOMPENSATION & BENEFITS\n100% salary during probation period\nFull income tax, insurance paid by company (Net Salary)\n13th month of salary\nPremium Health Insurance Package\nFree office lunch, fruit, coffee, tea, snack bar everyday\nFriendly, flexible, and fun working environment\nVery attractive salary based on skills and experience\nMonthly team activity allowance\nGreat opportunity for career development\nCompany trip, team building, monthly party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0OTk1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--cac3709b97d458da586637e08d2f5dff667e24f2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Untitled%20design%20(2).png",
+  "company_url": "/companies/floware",
+  "company_mo_ta": "Floware designs, develops, and distributes productivity software",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

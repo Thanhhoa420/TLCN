@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-scientist-zalopay-0154",
+  "tieu_de": "Senior Data Scientist ",
+  "ten_cong_ty": "Zalopay",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Data Science",
+    "PyTorch",
+    "Deep Learning",
+    "SQL",
+    "Python",
+    "Design Systems"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Z06 Đường số 13, Phường Tân Thuận Đông",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Data Scientist to join our Data Team at Zalopay. In this role, you will lead end-to-end ML solutions, optimize data pipelines, and apply modern AI/ML methodologies to solve core business problems.\nWhat You’ll Do\nDesign and engineer robust features from high-dimensional data to maximize model predictive power.\nDevelop, deploy, and monitor high-scale predictive scoring and deep learning representation models across downstream systems.\nCollaborate with cross-functional teams (Product, Data, Platform Engineers,...) to optimize ML pipelines for low latency, automate drift monitoring, and integrate reusable features into the centralized feature store.\nEvaluate and adopt modern AI/ML techniques and tooling to solve practical business challenges.\nFoster a culture of ownership and continuous improvement through technical mentorship and engineering standards.",
+  "yeu_cau": "Master’s/PhD in Computer Science, Mathematics, Statistics, Data Science, or equivalent practical experience.\n4 - 8+ years of hands-on experience building and deploying machine learning solutions on large-scale production data.\nStrong foundation in ML System Design, statistics, and core machine learning principles (familiarity with NLP is a plus).\nProficient in Python, distributed computing, large-scale data processing engines, advanced SQL and deep learning frameworks (PyTorch/TensorFlow).\nExperience in Credit Scoring / Credit Risk modeling, especially in lending, fintech, banking, or financial services.\nSelf-directed and adaptable, with a strong ability to navigate complex architectures, and drive projects end-to-end.",
+  "quyen_loi": "..",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxMDA3NywicHVyIjoiYmxvYl9pZCJ9fQ==--e62f66d120122555990710e33f0fcb8d351f6387/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/zalopay.png",
+  "company_url": "/companies/zalopay",
+  "company_mo_ta": "Zalopay",
+  "job_expertise": [
+    "Data Scientist"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

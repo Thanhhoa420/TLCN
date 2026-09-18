@@ -51,13 +51,28 @@ INSERT INTO danh_muc_hoc_van (trinh_do) VALUES
 ('Đại học'),
 ('Sau đại học');
 
--- Hình thức làm việc
+-- Hình thức làm việc (LÀM VIỆC Ở ĐÂU: tại văn phòng/từ xa/kết hợp)
 INSERT INTO danh_muc_hinh_thuc_lam_viec (ten_hinh_thuc) VALUES
+('At office'),
+('Remote'),
+('Hybrid');
+
+-- Loại hình làm việc (LOẠI HỢP ĐỒNG: khác với hình thức làm việc ở trên)
+-- Nguồn: employmentType (JSON-LD, ITviec) + filter "Loại hình làm việc" (TopCV)
+INSERT INTO danh_muc_loai_hinh_lam_viec (ten_loai_hinh) VALUES
 ('Full-time'),
 ('Part-time'),
-('Remote'),
-('Hybrid'),
-('Thực tập');
+('Internship'),
+('Contract');
+
+-- Cấp bậc / seniority level
+-- Nguồn: filter "Level" (ITviec) + filter "Cấp bậc" (TopCV)
+INSERT INTO danh_muc_cap_bac (ten_cap_bac) VALUES
+('Internship'),
+('Fresher'),
+('Junior'),
+('Senior'),
+('Manager');
 
 -- Trạng thái tin tuyển dụng
 INSERT INTO danh_muc_trang_thai_tin (ten_trang_thai) VALUES

@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-golang-developer-ai-json-sql-linux-persol-cross-technology-vietnam-co-ltd-4746",
+  "tieu_de": "Senior Golang Developer AI, JSON, SQL, Linux",
+  "ten_cong_ty": "PERSOL CROSS TECHNOLOGY VIETNAM CO., LTD.",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Golang",
+    "Linux",
+    "Docker",
+    "SQL",
+    "JSON",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "117 Ly Chinh Thang",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Golang Developer to join our engineering team and support the development, enhancement, and production operation of an enterprise AI Chatbot and AI Agent platform. The role will primarily focus on Go/Golang backend development, building and maintaining scalable services, REST APIs, and integrations with AI services, enterprise systems, databases, and knowledge platforms.\nKEY RESPONSIBILITIES\nDesign, develop, and maintain backend services using Go/Golang.\nBuild and support RESTful APIs and integrations with internal and external systems.\nWork with microservices and multi-service architectures.\nIntegrate backend services with AI/LLM and RAG-based knowledge systems.\nSupport knowledge ingestion, retrieval, and AI service integrations.\nWork with SQL databases and troubleshoot data-related issues.\nInvestigate and resolve production issues across applications, APIs, and services.\nImprove application performance, reliability, and scalability.\nWork with Docker, Linux, and containerized deployment environments.\nParticipate in code reviews, testing, documentation, and technical knowledge sharing.",
+  "yeu_cau": "A. MUST-HAVE SKILLS\n6+ years of software development experience, including at least 3 years of hands on experience working on Go/Golang projects.\nStrong hands-on experience with Go/Golang and backend development. \nExperience building and maintaining production-grade backend services.\nStrong experience with REST APIs, HTTP/HTTPS, JSON, and API integrations.\nExperience with microservices or distributed service architectures.\nExperience with SQL and relational databases.\nExperience with Docker and Linux environments.\nStrong debugging, troubleshooting, and production support skills.\nExperience with authentication and API security, such as JWT and tokenbased authentication.\nPractical experience or good understanding of AI/LLM applications and RAG (Retrieval-Augmented Generation).\nStrong problem-solving and communication skills.\nEnglish skills: Intermediate proficiency in reading and writing, communication skills for day-to-day business interactions.\nB. NICE-TO-HAVE SKILLS\nExperience with .NET / C# / ASP.NET Core Web API.\nExperience with AI Agent or Agentic AI development.\nExperience with LLM platforms such as OpenAI, Azure OpenAI, Anthropic, or similar.\nExperience with vector databases or vector search.\nExperience with Kubernetes, Redis, Kafka, or RabbitMQ.\nExperience with observability tools such as Prometheus, OpenTelemetry, or Jaeger.\nExperience working with enterprise systems and complex API integrations",
+  "quyen_loi": "Performance review 2 times per year\nLeave Paid: Summer holiday\nGood benefit package\n\n• Salary:\no Competitive & attractive salary base on your performance.\no Two performance(salary review) 2 times a year.\n• Financial Supports:                \no Parking allowance: all employees\no 13th salary (ratio of the working weeks from the first day in probation period)\no Wedding allowance: 100$\no Giving birth allowance: 100$\no Funeral allowance for close family : 300$\no Referral Bonus: depended on the needs of annual business\n• Insurance & Benefits:\no Work from home (optional)\no Premium Health Insurance package (PVI): for all contracted employees\no Premium Accident Insurance 24/24 (PVI): for all contracted employee\no Annual health check for all employees\no Social Insurance tax: was paid as the gross salary in the labor contract\no Company birthday: 1 Paid Leave\no Take Summer Leaves: 2-5 Paid Summer Leaves (used from July to September annually).\no 3 Marriage Leave days (labor law: 3days)\no 3 Funeral Leave days (labor law: 3 days)\no Total Annual Leave days will be remained within 2 years (max 24 ALs)\no Opportunities for advanced career development overseas: in Japan, Singapore,…\no Friendly, motivated working environment\no Commuting allowance for non-motorbike users. \no Sport clubs: badminton…\no Annual company trip (3 Paid Leaves)\no Hybrid working: 2 days/ months\no Team building activities (Monthly)\no Baby care time program",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM2NDUyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--baed5bdccc4f8b805b76d29aa7feffc9130b90bb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/PERSOL_CBL_PandT_Vietnam_Vertical_final.png",
+  "company_url": "/companies/persol-cross-technology-vietnam-co-ltd",
+  "company_mo_ta": "Persol Cross Technology Việt Nam (PXTV) is a Japanese IT solution company in HCMC.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

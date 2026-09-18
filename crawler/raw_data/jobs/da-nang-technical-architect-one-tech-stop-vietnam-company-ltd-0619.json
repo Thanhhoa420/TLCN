@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/da-nang-technical-architect-one-tech-stop-vietnam-company-ltd-0619",
+  "tieu_de": " Technical Architect",
+  "ten_cong_ty": "ONE Tech Stop Vietnam Company Ltd",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "Software Architecture",
+    "ReactJS",
+    "NestJS",
+    "Cloud",
+    "DevOps",
+    "NodeJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3-4 tòa nhà Phi Long, 52 Nguyễn Văn Linh",
+  "quan_huyen": "Quận Hải Châu",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "2,000 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "PRIMARY JOB RESPONSIBILITIES\nDevelopment Oversight: Lead the software development life cycle, ensuring project delivery aligns with organizational objectives. \nTechnical Solutions Design: Collaborate with stakeholders to design efficient software solutions and verify technical feasibility.\nArchitectural Guidance & Design: Define system architecture, establish coding standards, and ensure alignment with non-functional requirements.\nArchitectural Execution & Integration: Oversee software development, facilitate continuous integration/deployment, and maintain monitoring for system performance.\nArchitectural Validation & Quality Assurance: Conduct architecture evaluations, enforce continuous testing, and validate non-functional requirements.\nArchitectural Management: Develop project roadmaps, manage technical risks, maintain the technical backlog, and mentor team members.",
+  "yeu_cau": "POSITION QUALIFICATIONS AND REQUIREMENT\nFull-stack Development Expertise: Extensive experience in both backend (Node.js/NestJS) and frontend (React/Next.js) development.\nCommunication: Fluency in English is required.\nExperience: 3-5 years of experience in a similar Technical Architect role.\nCloud Infrastructure: Advanced knowledge of cloud platforms (preferably Google Cloud), with expertise in Kubernetes, Service Mesh, and optimizing infrastructure for large-scale, secure, and resilient systems.\nApplication Architecture: Expertise in designing, evaluating, and validating modern software architectures such as Microservices, Domain-Driven Design (DDD), Clean Architecture.\nData Architecture: Expertise in designing and managing data models, with a strong focus on PostgreSQL, as well as other SQL/NoSQL databases, ensuring optimal performance and scalability.\nNon-Functional Requirements: Proven expertise in managing and optimizing system non-functional requirements, including performance, security, and scalability.\nTechnical Troubleshooting: Strong problem-solving skills for diagnosing and resolving technical and production incidents effectively.\nTechnical Communication: Excellent communication skills to convey complex technical concepts clearly to both technical and non-technical stakeholders.\nPERSONAL ATTRIBUTES:\nExperience in mentoring people\nCalm in finding resolutions for issues/problems",
+  "quyen_loi": "INNOVATIVE, CREATIVE - Think outside of the box\nKEEP CHALLENGING - Never stay in your comfort zone\nCRITICAL THINKING\n\nMore on OTSV – what is it like to work in OTSV?\nAt OTSV, work is a form of self-fulfillment, we encourage staff to leave their comfort zone, think out of the box, and share their ideas without hesitation.  As a team, we analyze and evaluate issues objectively to learn quickly from mistakes. We believe in ‘fail quick, success quick’ and strive to keep pace with the forefront of technology to digitize ONE’s business.\nIn line with the Agile methodology, we have an open office concept with lots of meeting areas for spontaneous team meetings.\nWe aim to make our staff feel as comfortable in the office as they would feel at home.\nYou will love working here!\n13th-month salary\nPerformance Bonus\nSocial Security co-contribution based on full gross salary\nPremium health care (Bao Viet Insurance) for employees & dependents (parents or spouse + children).\nLunch allowance\nFree drinks and snacks\n17 days of Annual Leave\nAnnual health screening reimbursement: VND4,700,000/year\nWell-being allowance: VND13,800,000 VND/year\nTraining and education sponsorship: 38,000,000/year",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA4NjQyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--513fdacc2aa26e127770f0c982a5164b9a304d3c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/OTSV%20Logo%20Sticker.png",
+  "company_url": "/companies/one-tech-stop-vietnam-company-ltd",
+  "company_mo_ta": "Join us if you love to build a huge product for the 6th largest shipping company over the world!",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

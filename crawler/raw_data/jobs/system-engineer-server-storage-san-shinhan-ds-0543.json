@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/system-engineer-server-storage-san-shinhan-ds-0543",
+  "tieu_de": "System Engineer Server/Storage/SAN ",
+  "ten_cong_ty": "SHINHAN DS",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Linux",
+    "Hardware Troubleshooting",
+    "VMware",
+    "Bash Shell",
+    "System Admin",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "11th Floor, The Mett Tower, Tran Bach Dang Street",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Up To 35M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a System Engineer to join Shinhan DS Vietnam. This role is not a system administrator position.\nwe are seeking a hands-on field engineer who will directly install and build IT infrastructure on-site.\nThe candidate must be capable of seamlessly performing the physical deployment and configuration of servers, operating systems, storage, and SAN switches at customer sites.\nAdditionally, you will be required to collaborate with project teams and group affiliates to design infrastructure and resolve technical issues.\nKey Responsibilities\nInfra System Field Engineering Execution\nDirectly install and build systems, including server installation, OS installation, SAN switch installation, and storage installation.\nDesign and implement project IT infrastructure (servers, storage, SAN, network connectivity).\nAnalyze requirements and perform OS configuration (Windows, Linux).\nConduct troubleshooting and resolve issues for systems.\nPrepare and review equipment quotations.",
+  "yeu_cau": "Requirements\nAt least 3 years of experience as a System Engineer or a Bachelor’s degree in Information Technology, Computer Science, or Electronics & Telecommunications.\nStrong, proven, hands-on field engineering experience personally performed—including server installation, OS installation, storage installation, and SAN switch installation (must be your own direct experience, not observed or managed).\nStrong troubleshooting skills in system and infrastructure environments.\nExperience in preparing quotations and performing cost estimation for IT infrastructure deployment.\nGood English communication skills to collaborate effectively with international vendors and partners.\nPreferred Qualifications\nHands-on experience building/implementing backup solutions (personally performed).\nYour CV must clearly demonstrate the deployment, installation, and troubleshooting work you personally carried out (servers, OS, storage, SAN switches).\nApplications without clear, self-performed field experience will not be considered.",
+  "quyen_loi": "Work environment that focus solely on development\nTraining opportunities with experts\n13th month salary & Incentive Programs\n\nBenefits\nOpportunity to develop expertise in Banking IT and gain hands-on experience with banking systems in Vietnam.\nLearn banking concepts, business processes, and technical know-how from experienced Korean banking IT professionals.\nOutstanding employees may have opportunities to participate in training programs and business trips in Korea.\nSalary: Follows company policy.\nPerformance Review & Perks\nPerformance review: twice a year.\nIncentive Programs to celebrate members' development.\nCompany workshop and Company Trip (once a year).\nHealth check once a year and advanced healthcare program.\nFree snacks, coffee, and sponsored pizza or chicken & beer parties.\nWork onsite with foreign teams for short or long term.\nA culture where your solutions and opinions are heard.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NzM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--a9dead874df162738ef817333afc7f361d62148c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20-%20ShinhanDS.png",
+  "company_url": "/companies/shinhan-ds",
+  "company_mo_ta": "Shinhan DS Vietnam",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Cyber Security",
+    "Network and Infrastructure",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

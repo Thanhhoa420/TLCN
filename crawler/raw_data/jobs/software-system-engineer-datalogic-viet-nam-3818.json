@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/software-system-engineer-datalogic-viet-nam-3818",
+  "tieu_de": "Software System Engineer",
+  "ten_cong_ty": "Datalogic Việt Nam",
+  "ngay_dang_raw": "2026-09-01",
+  "han_ung_tuyen_raw": "2026-10-06",
+  "ky_nang": [
+    "Software Architecture",
+    "Project Management",
+    "CI/CD",
+    "Git",
+    "English",
+    "Embedded Android"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Datalogic Vietnam LLC. F04, Lot I-4A, Saigon High Tech Park",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a Software System Engineer with strong experience in Android rugged platforms and open‑source technologies, capable of coordinating international development teams and collaborating with global ODM partners.\nThe role involves system integration, AOSP/BSP customization, hardware–software bring‑up, and release validation across distributed engineering groups.\nKey strengths include leading technical discussions with overseas teams, aligning cross‑functional development efforts, managing platform deliverables, and driving issue resolution across time zones.\nExcellent communication skills and fluent written and spoken English are essential.\nKey Responsibilities:\nCollaborate with software, hardware, and ODM teams to define the system architecture of Android‑based rugged devices.\nSupport AOSP and BSP, Middle ware integration, including kernel customization, device tree configuration, and HAL layer adaptation for enterprise‑grade components.\nManage and coordinate technical aspects with ODM partners, software, hardware teams, including requirement definition, software release evaluation, issue monitor & analysis, and acceptance of platform deliveries.\nManage the Android security features process (e.g. monthly security updates).\nManage the process for automated test tools and CI/CD pipelines for Android platform builds (build systems, OTA updates, certification tests).\nDocument system designs, platform changes, and integration processes across the entire software stack.",
+  "yeu_cau": "Technical Skills:\nStrong understanding of Android system architecture, including Frameworks, HAL, BSP, and kernel layers.\nExperience with AOSP build systems, SoC vendor trees (e.g., Qualcomm, MediaTek, NXP), and ODM‑provided customizations.\nExperience with embedded software development and integration of enterprise/industrial peripherals driver (2D imagers, UHF RFID, UWB, serial UART accessories, custom I/O…).\nStrong experience with Git and CI/CD systems supporting Android builds and automated testing.\nExperience with Software Development lifecycle (Agile or Waterfall) and Software Release process. \nKnowledge of Software validation scope and process\nKnowledge of Android security architecture and secure update management (OTA, FOTA, update channels).\nPrevious experience working with ODMs or third party on custom Android device development, issue triage, and delivery validation.\nSoft Skills:\nExcellent written and spoken English, required for daily interaction with ODM and SoC vendors.\nAbility to collaborate closely with Software, Hardware, QA, PM, and UX teams across the full product lifecycle.\nStrong analytical and debugging mindset, able to work at kernel, hardware, and application interfaces.\nClear and effective communication skills (especially when interacting with ODM or international technical teams).\nStrong Project management and Time management skill\nProactive, detail‑oriented, and comfortable working in fast‑paced R&D environments.\nPassion for development of rugged mobile computing products, Android internals\nEducation & Experience:\nEducation: Bachelor’s degree in computer engineering, Computer Science, or related fields\n3+ years experience with Android system development, embedded platforms, or rugged device engineering.\n1+ years experience with project management",
+  "quyen_loi": "Supportive, Productive & Fair Working Environment\nEmpowerment, Recognition and Rewards\nOversea Training Opportunitiy and Mobility Program\n\nCAREER OPPORTUNIES:\n \nLive in a high-end technology R&D environment\nBe proud to see your own developed products sold all over the world\nStrong knowledge and skills improvement through practical training and technical experience\nCareer promotion with proven capabilities\nOpportunity for overseas training (US, Europe, etc.)\nBENEFITS:\n \nWorking day: from Monday to Friday (08:00 AM- 4:30 PM), One Smart working day per week\nSalary and Allowance: Competitive\nIncentive, Reward and Bonus: Outstanding employee award with attractive bonus, semi-annual KPI reward, Long term incentive for key positions and Annual bonus\nCompany’s labor policy completely pursuant to Vietnam labor legislation: working conditions, social & health insurance paid based on gross salary.\nMobility: Global mobility program in US and/or Italy\nBenefits: Free meals, transportation allowances, accident insurance 24x24, premium health care insurance including dependents; gifts for Vietnam national days, scholarship for children of employees\nExciting leisure: Sport activities, corporate parties, company trip once a year, monthly teambuilding",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk2NzMxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--ab52b8097b179550f052fa3dd07da36d40c4e9f3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_Logo_DL-EmpowerYourVision_RGB.png",
+  "company_url": "/companies/datalogic-viet-nam",
+  "company_mo_ta": "A 100% foreign owned company belonging to DATALOGIC S.p.A (Italy)",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

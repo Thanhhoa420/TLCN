@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-lead-ai-first-live-payments-5738",
+  "tieu_de": "QA Lead AI-first",
+  "ten_cong_ty": "Live Payments",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Generative AI",
+    "Tester",
+    "Team Management",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Floor 12, Halo Signature Building, 257 Điện Biên Phủ, Xuan Hoa Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,500 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us \nLive Payments is one of Australia's leading payment service providers, servicing thousands of businesses across Australia. We continue to innovate our payment solutions and expand our product offering alongside our industry-leading strategic partners, including Qantas Loyalty and Ingenico. \n \n​​Role and Responsibilities​ \nLive Payments is seeking an experienced QA Lead to join our growing/multi-national team. The QA Lead will ensure that all software products meet company standards for quality and reliability. \n \nCORE DUTIES: \nDefine quality benchmarks and criteria, and ensure products meet them for quality, functionality, and reliability before delivery. \nLead QA process improvement, using AI to identify inefficiencies, accelerate test creation, and improve coverage. \nCoordinate product testing and analyse recurring bugs and defects (with AI-assisted pattern and defect-escape analysis) to drive solutions. \nManage the QA team on hiring, performance, and resource allocation. \nMentor QA team members and lead training, including AI literacy and responsible AI use. \n \nAI-FIRST LEADERSHIP \nAt Live Payments, AI is the default way we work. As QA Lead you will champion an AI-first approach to quality-making AI the starting point for how the team designs, tests, and improves. \nDrive an AI-first quality strategy, embedding AI as the default across the four modes: automation, assistance, augmentation, and agentic. \nBuild and lead the agentic AI adoption roadmap: candidate workflows, autonomy boundaries, and escalation protocols. \nShape governance that balances agent autonomy with human accountability - review gates, audit trails, and sign-off on AI-generated artefacts. \nSet guardrails for responsible AI use (data handling, traceability, validation), suited to a regulated payments context.",
+  "yeu_cau": "Qualifications and experience \nOver 8 years in software testing, including 3+ years leading QA teams. \nExperience in payments or financial services is an advantage. \n \nKey skills \nQuality strategy: develops and implements effective quality standards and benchmarks and aligns testing strategy with business objectives. \nTesting expertise: deep knowledge of the full SDLC and test cycles (Regression, Functional, Systems, Stress & Scale, Smoke & Sanity), and the judgement to apply the right approach for each context. \nTest methodology & automation: strong command of QA best practices and methodologies for designing, implementing, and automating test processes, including CI/CD integration. \nAI-first mindset: defaults to AI, applies the right mode (automation, assistance, augmentation, agentic), and governs AI-generated outputs responsibly in a regulated environment. \nAnalytical & problem-solving: dentifies root causes of recurring defects, models defect-escape risk and drives durable solutions. \nLeadership & people management: owns business outcomes, and motivates, develops, and holds teams accountable for their decisions. \nStakeholder communication: communicates quality standards clearly and promotes open dialogue and mutual respect across teams.",
+  "quyen_loi": "Attractive Salary + Bonus\nPremium healthcare package for you and your family\nUpskill with FlexLearn Program\n\n- Fully social insurance according to Vietnam Labor Law\n- Full salary on probation\n- 13th month salary and performance bonus\n- Annual leave: 14 days/ year  + 01 day off for birthday leave\n- Performance review twice a year\n- Annual health check and vaccination\n- Premium Health Care Insurance (covering for spouse and children)\n- Personal Learning & Career Development Program (15.6 millions VND/ year)\n- Health Scheme Program\n- Laptop provided (Macbook/Window)\n- Free parking, coffee, snacks, etc\n- Attractive career path\n- Regular team dinners and team building activities\n- International and friendly working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjcyMzk5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--228021a9bf30dd8c728f95a41bac92d8ce63b3ab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/3-Logo%20Icon%20-%20%20Coloured%20-%20Live%20Payments%20(1).png",
+  "company_url": "/companies/live-payments",
+  "company_mo_ta": "Solutions to enable your business",
+  "job_expertise": [
+    "Software Engineer in Test (SDET)"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

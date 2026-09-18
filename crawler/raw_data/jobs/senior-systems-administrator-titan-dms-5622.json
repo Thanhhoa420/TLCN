@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-systems-administrator-titan-dms-5622",
+  "tieu_de": "Senior Systems Administrator",
+  "ten_cong_ty": "Titan DMS ",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "System Admin",
+    "Microsoft Dynamics 365",
+    "Security",
+    "IT Support",
+    "AWS",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "182 Lê Đại Hành",
+  "quan_huyen": "Quận 11",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the role\nThe Senior Systems Administrator is responsible for ensuring the seamless operation, reliability, and ongoing maintenance of the organisation’s IT infrastructure. This role is critical in supporting the technology backbone of the business, ensuring systems remain secure, high-performing, and highly available.\nThe successful candidate will take ownership of a broad range of responsibilities, playing a key role in maintaining a stable and efficient IT environment while supporting business operations and driving continuous improvement initiatives.\n \nKey Responsibilities\nInfrastructure & Systems\nProven experience provisioning, configuring, and maintaining servers, endpoints, and core IT infrastructure.\nStrong ability to manage both on-premises and cloud-based environments, ensuring high availability and performance.\nHands-on experience with system monitoring tools, alert management, and incident resolution aligned with SLAs.\nExperience performing system patching, updates, and performance optimisation.\nCloud & Platforms\nExperience administering cloud platforms such as AWS and/or Azure, with a focus on performance, cost optimisation, and security.\nFamiliarity with Atlassian Cloud (Jira and related tools) administration and support.\nDeployment & Operations\nExperience managing software deployments and releases with minimal business disruption.\nStrong understanding of backup and disaster recovery processes, including implementation and testing.\nNetworking & Security\nSolid knowledge of network and security infrastructure management.\nAbility to apply best practices to safeguard systems, data, and business operations.\nMicrosoft 365 & End-User Services\nExperience administering Microsoft 365, including user management, security configurations, and service optimisation.\nIncident Management & Documentation\nStrong troubleshooting and problem-solving skills with the ability to resolve incidents efficiently.\nExperience maintaining accurate system documentation and tracking issues through to resolution.\nInformation Security\nGood understanding of security policies and best practices.\nAbility to support and promote security awareness across teams.\nExperience contributing to risk mitigation, vulnerability management, and incident response.\nFamiliarity with ensuring compliance with organisational security standards, including vendor security practices.",
+  "yeu_cau": "Minimum 5+ years of experience in IT infrastructure, system administration, or a similar role.\nMinimum of 3 years’ experience in team leadership or people management is required.\nStrong experience administering Windows Server environments and supporting end-user computing, including desktop support, OS builds, and troubleshooting.\nProven ability to manage and support cloud platforms, particularly AWS and Microsoft Azure.\nHands-on experience with infrastructure monitoring tools and proactive incident management.\nSolid understanding of backup, restore, and disaster recovery planning and execution.\nStrong knowledge of network infrastructure and security principles, including firewalls, VPNs, and endpoint protection.\nExperience administering Microsoft 365, including user management, security, and compliance.\nExtensive hands-on experience with Atlassian Cloud (Jira and related platforms), with a strong focus on administration, configuration, optimisation, and end-user support.\nExcellent problem-solving and analytical skills, with the ability to prioritise tasks and resolve technical issues efficiently.\nStrong communication skills in English, both written and verbal, with the ability to collaborate effectively across teams.\nHigh attention to detail with a hands-on, proactive approach to troubleshooting and system maintenance.",
+  "quyen_loi": "International environment - Onsite Opportinity\nPremium Personal Health Insurance\n20 days Leave\n\nWe are our people, and whilst as a business we make software, as an organization, we make some of the industry’s best! Joining the team you will work with the engineers around the world from BMW, Mercedes, Honda, Porches, Hyundai …\n \n1 WORKING HOURS\nWorking hours is flexible and the standard guideline is between 8:00 AM to 5:00 PM with 1 hour break for lunch.\nStaff can start early and finish early to keep in sync with Australia working hours\n2 LEAVES\n12 days Annual Leave per annum. Annually leave is accumulated up to 2 years.\nAdditional one annual leave day for every five years of service\nSick Leave: 5 days paid per annum.\nCompassionate Leave: 3 days per annum\n3 HEALTHCARE\nPremium Personal Health Insurance package for full-time and permanent staff.\nAnnual health check\n4 BONUSES\n13th month bonus\nLoyalty reward Program (Bonus for every 3 years, 5 years of service)\nProject/ Performance Bonus\n5 OTHER BENEFITS, ALLOWANCES AND INCENTIVES\n100% salary during Probation Period\nFully sponsored onsite trip to Titan international offices (AU, Thailand, UAE, EU etc.)\nGifts on special occasions + holidays (Tet, Full-moon festival, Birthday, Christmas etc.)\nEmployee Referral Program\nInternal events every month (Happy lunch, Milk tea Friday, etc.)\nSport Activity Funding (Football every Tuesday & Thursday)\nEducation Funding",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MTg5LCJwdXIiOiJibG9iX2lkIn19--becacc32d8f8e37ff9d8085c5cab2eb294f5fa1a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/titan-dms-logo.png",
+  "company_url": "/companies/titan-dms",
+  "company_mo_ta": "Titan DMS is a leading developer and supplier of cloud based software solutions",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

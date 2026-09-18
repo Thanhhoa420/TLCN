@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-developer-ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex-1732",
+  "tieu_de": "Senior Backend Developer",
+  "ten_cong_ty": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "NodeJS",
+    "Golang",
+    "Kafka",
+    "PostgreSql",
+    "NestJS",
+    "TypeScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 04, Tòa nhà số 5 Điện Biên Phủ",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Là technical owner của một hoặc nhiều dịch vụ backend quan trọng.\nThiết kế và phát triển microservices/module phức tạp: API, data model, caching, storage, event-driven architecture.\nXây dựng và phản biện ADR, technical RFC, tài liệu thiết kế kỹ thuật.\nThiết kế API public/internal theo chuẩn REST, gRPC; đảm bảo backward compatibility, versioning và documentation.\nTham gia thiết kế end-to-end cho các tính năng cross-team, ảnh hưởng đến nhiều hệ thống.\nTối ưu throughput, latency, database query, caching và hạ tầng vận hành.\nThiết kế chiến lược sharding, replication, partitioning, indexing trên PostgreSQL, MongoDB, Redis, Kafka.\nĐảm bảo hệ thống đạt SLO/SLI; triển khai các pattern như retry, circuit breaker, bulkhead, idempotency.\nTham gia on-call, xử lý sự cố production, viết post-mortem và đề xuất cải tiến hệ thống.\nXây dựng observability: logging, metrics, tracing, alerting.\nÁp dụng Secure Coding theo OWASP Top 10, OWASP ASVS; tham gia threat modeling, audit, pentest.\nMentor Middle/Junior Developers, chủ trì code review và nâng cao engineering standards.\nPhối hợp với Product, Frontend, QA, DevOps, Security, Compliance và đối tác để đưa sản phẩm lên production.",
+  "yeu_cau": "Tốt nghiệp Đại học chuyên ngành CNTT, Khoa học Máy tính, Toán Tin hoặc tương đương.\nCó tối thiểu 4 năm kinh nghiệm backend cho hệ thống production; từng làm technical owner hoặc lead kỹ thuật cho dịch vụ/module quan trọng.\nThành thạo Node.js, TypeScript, NestJS và ORM như TypeORM, Prisma, MikroORM.\nThành thạo PostgreSQL; có kinh nghiệm với MongoDB, Redis, Kafka.\nHiểu sâu về microservices, event-driven architecture, CQRS, saga pattern, distributed systems.\nCó kinh nghiệm với Docker, Kubernetes, CI/CD, GitOps và cloud infrastructure, ưu tiên AWS.\nCó kinh nghiệm thiết kế API, tối ưu hiệu năng, caching, transaction, testing và vận hành production system.\nCó tư duy hệ thống, khả năng phân tích trade-off, mentoring/code review và phối hợp tốt với các team liên quan.\nGiao tiếp tốt bằng tiếng Việt, tiếng Anh; có thể đọc, viết và trình bày tài liệu kỹ thuật bằng tiếng Anh.\nƯu tiên\nCó kinh nghiệm với Golang, Java/Spring Boot, gRPC, GraphQL hoặc các giao thức bất đồng bộ.\nCó kinh nghiệm trong fintech, tài chính, ngân hàng, sàn giao dịch hoặc hệ thống yêu cầu độ chính xác/tuân thủ cao.\nHiểu biết về blockchain, wallet, custody, on-chain transaction, on-chain analytics.\nTừng vận hành hệ thống throughput cao/latency thấp; có kinh nghiệm với database phân tán, columnar database hoặc security tooling.\nCó chứng chỉ AWS/CKA/CKAD, đóng góp open-source, blog kỹ thuật hoặc từng chia sẻ tech talks.",
+  "quyen_loi": "Thưởng tháng 13\nThưởng hiệu quả kinh doanh\nBảo hiểm sức khoẻ cao cấp\n\nThu nhập hấp dẫn, cạnh tranh theo năng lực\nThưởng các dịp Lễ, Tết theo quy định và chính sách của công ty\nThưởng tháng 13, thưởng hiệu quả hoạt động theo quy định và chính sách công ty\nBảo hiểm bắt buộc theo luật lao động + Bảo hiểm sức khỏe\nChế độ ngày phép hấp dẫn theo cấp bậc công việc, du lịch/teambuilding hằng năm\nMôi trường làm việc chuyên nghiệp, năng động, tôn trọng, kỷ luật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk5NDMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7b79b0d832c1fea467ee5b09018a1dd4685f2a6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20CAEX.jpg",
+  "company_url": "/companies/ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex",
+  "company_mo_ta": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

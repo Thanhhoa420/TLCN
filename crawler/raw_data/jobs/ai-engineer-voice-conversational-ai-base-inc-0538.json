@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-voice-conversational-ai-base-inc-0538",
+  "tieu_de": " AI Engineer  Voice  Conversational AI",
+  "ten_cong_ty": "Base Inc.",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "AI",
+    "NLP",
+    "Deep Learning",
+    "Machine Learning",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 16 - Tháp A, Tòa nhà văn phòng HUD Tower, số 37 Lê Văn Lương, ",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT US\nBase.vn is a product-first technology company building a SaaS platform serving more than 11,000+ businesses across Vietnam and beyond.\nAs AI becomes a core capability across our product ecosystem, we are expanding into voice AI technologies to create more natural and intelligent user experiences. We are building AI-powered voice solutions that enable users to interact seamlessly through speech-from capturing voice on mobile devices to transcribing, understanding, and generating natural conversations.\nAt Base, research doesn‘t stop at experiments. We are looking for AI Engineers who can turn research breakthroughs into real product capabilities - from model development and experimentation to production deployment and continuous optimization.WHAT YOU DO\nAs an AI Engineer, you will work at the intersection of AI Research, Product Engineering, and Production, building the core AI capabilities that power our voice platform.Research & Develop Speech AI\nTurn research ideas and emerging Speech AI technologies into practical AI capabilities. You will:\nExplore and prototype new approaches for speech and audio AI problems.\nDevelop, fine-tune, and adapt speech models for real-world use cases.\nEvaluate and iterate on different modeling approaches to improve model performance.\nTranslate promising research findings into solutions that can be integrated into our products.Build Speech AI Systems\nDevelop and optimize intelligent voice technologies, including:\nAutomatic Speech Recognition (Speech-to-Text)\nText-to-Speech (Speech Synthesis)\nAudio processing and speech enhancement\nSpeech understanding and voice interaction pipelinesBuild End-to-End Audio AI Pipelines\nDesign and optimize production-ready audio AI pipelines, bridging AI models with real-world product environments. You will work on:\nAudio preprocessing and feature extraction\nNoise suppression and speech enhancement\nReal-time audio streaming and processing\nModel serving and inference pipelines\nIntegration of AI models into cloud and mobile environmentsBuild AI-powered Product Experiences\nTurn AI capabilities into real product experiences in collaboration with Product, Mobile, and Backend Engineers. You will contribute to:\nVoice recording and transcription\nAI-powered voice assistants\nVoice-driven workflows\nNatural conversational experiences\nAI capabilities embedded into mobile and business workflowsProductize & Scale AI Models\nTake AI capabilities from prototype to reliable production systems. You will continuously work on:\nImproving speech recognition accuracy and robustness\nImproving speech synthesis quality and naturalness\nReducing inference latency and resource consumption\nOptimizing models for different deployment environments\nBuilding scalable and reliable AI services\nMonitoring real-world model performance and using production feedback to drive further improvements",
+  "yeu_cau": "We are looking for engineers who enjoy solving challenging AI problems and building products that create real business impact.\n3+ years of experience building AI/ML systems or AI-powered products.\nStrong Python programming skills.\nExperience with deep learning frameworks such as PyTorch or TensorFlow.\nHands-on experience deploying AI models into production.\nSolid understanding of speech processing and audio machine learning.\nExperience working on one or more of the following:\nAutomatic Speech Recognition (ASR)\nText-to-Speech (TTS)\nAudio AI or Voice AI applications\nAbility to design and implement end-to-end AI workflows.\nStrong problem-solving skills with a product-oriented mindset.\nResearch, Data & Experimentation\nResearch, reproduce, and evaluate state-of-the-art Speech AI methods, and translate promising ideas into real-world products.\nDesign rigorous experiments, benchmarks, and systematic error analyses to understand model limitations and identify opportunities for improvement.\nFine-tune and adapt speech models, and explore new modeling approaches when existing solutions are insufficient.\nBuild and improve high-quality training and evaluation datasets, including data collection, synthetic data generation, augmentation, and quality validation.\nContinuously improve models and data based on experimental results and real-world production feedback.Nice to Have: Experience with modern Speech Foundation Models and frameworks such as Whisper, wav2vec2, NVIDIA NeMo, XTTS, VITS, SpeechBrain, Kaldi, or equivalent technologies.\nAdditional experience in the following areas is a strong advantage:\nAI deployment on mobile devices\nReal-time audio streaming\nSpeaker recognition and speaker diarization\nVoice cloning\nAudio signal processing\nLLM integration or conversational AI systems",
+  "quyen_loi": "Lương thưởng hấp dẫn (bonus hiệu quả theo tháng)\nNhận cổ phiếu ESOP\nTạo điều kiện thúc đẩy trở thành Product Owner\n\nBenefits\nCompetitive salary package with performance-based bonuses.\nFlexible salary reviews (1–2 times per year) based on performance.\nOpportunity to receive ESOP (Employee Stock Ownership Plan) for outstanding contributors.\nHigh-performance workstation and external monitor.\nAnnual company trips, team-building activities, and engagement events.\nFull statutory benefits in accordance with Vietnamese Labor Law.Career DevelopmentTurn Research into Real Impact: Explore challenging AI problems, experiment with state-of-the-art approaches, and bring promising research from prototype to production.Accelerate Your AI Career: Own the complete lifecycle of AI features-from research and model development to deployment and continuous optimization.Learn from Exceptional Builders: Work alongside experienced AI Engineers, Software Engineers, and Product Builders to create scalable AI products serving thousands of businesses.Create Visible Impact: Every model you build directly enhances how users interact with our products through intelligent voice experiences.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5NzIyLCJwdXIiOiJibG9iX2lkIn19--06bbadf1060fc85431322bf54a8444b94f84b2d4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/base-inc-logo.png",
+  "company_url": "/companies/base-inc",
+  "company_mo_ta": "BASE ENTERPRISE - THE PLATFORM COMPANY",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/junior-middle-software-engineer-net-pixelz-5431",
+  "tieu_de": "Junior/Middle Software Engineer .NET",
+  "ten_cong_ty": "Pixelz",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    ".NET",
+    "English",
+    "C#",
+    "Cloud",
+    "SQL",
+    "ASP.NET"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "107 Nguyen Phong Sac",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Role\nWe are seeking a Software Engineer with expertise in C# and .NET to join our dynamic development team. In this role, you will develop, and maintain high-performance applications, ensuring scalability, security, and efficiency. You will work closely with cross-functional teams, and contribute to develop and shape our products.\nIf you have a passion for building robust, enterprise-grade applications using modern .NET technologies, this role is perfect for you!\nTech stack we are using: SQL Server, Entity Framework, .NET Core, Identity Server, RESTful APIs, Docker, K8s, GraphQL, Amazon AWS services (EC2, S3, SQS, SES, Lambda, ECS, EKS, API Gateway, etc), Elasticsearch, NodeJS, React.js, Redux, Web socket…\nResponsibilities\nDesign, develop, and maintain scalable, high-performance applications using C# and .NET (ASP.NET Core, .NET 6/7+).\nImplement RESTful APIs, microservices, and web applications using best practices.\nCollaborate with product managers, designers, and other engineers to deliver high-impact solutions\nOptimize database interactions using SQL Server, Entity Framework, and other ORM tools.\nEnhance performance, scalability, and security of applications through optimization and best coding practices.\nWrite clean, maintainable, and testable code while following SOLID principles and design patterns.\nInvolve into the whole SDLC process.\nIntegrate third-party services, APIs, and cloud solutions (AWS, Azure, or GCP).\nWork with DevOps teams to automate CI/CD pipelines and ensure smooth deployments.\nTroubleshoot, debug, and resolve production issues, ensuring high system availability.\nStay updated with .NET ecosystem advancements and contribute to technology decisions.",
+  "yeu_cau": "3+ years of experience in software development with C# and .NET technologies.\nExpertise in ASP.NET Core, .NET 6/7+, Web API, and Microservices architecture.\nStrong experience with SQL Server, Entity Framework (EF Core), and LINQ is a plus.\nProficiency in front-end technologies (HTML, CSS, JavaScript, and frameworks like Blazor, React, or Angular) is a plus.\nKnowledge about authentication & authorization frameworks like JWT, OAuth2, and OpenID Connect.\nKnowledge Cloud platforms (Azure, AWS, or GCP) and containerization (Docker, Kubernetes) is a plus.\nFamiliarity with unit testing frameworks (xUnit, NUnit, Moq) and Test-Driven Development (TDD).\nKnowledge working with CI/CD pipelines, Git, and DevOps tools is a plus.\nExcellent problem-solving skills and a proactive attitude toward technical challenges.\nStrong communication and collaboration skills, with a track record of mentoring junior developers.\nGood communication in English",
+  "quyen_loi": "International Environment (Europe, US colleague)\nWork-Life Balance & Flexibility\nStrong Engineering Culture & Growth Opportunities\n\nInternational working environment\nFlat and transparent organization\nIndividual ideas are highly appreciated\nWorking with a strong technical team of young and ambitious members\nFlexible working time and result oriented\nPartial remotely 5 days/month\nTech summit at a 5* resort annually.\nChances to learn new business\nGreat opportunities in developing career paths, English and soft skills.\nSocial, healthcare and unemployment insurances complied with labor law.\nUp to 15 annual leave days per year\nSummer trip allowance, 2 week fully paid off for parental leave, teamwork activities and more to come once you join",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4NTMyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--06316cd04164ba4c63c6615de73ee226799d343d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logogg.png",
+  "company_url": "/companies/pixelz",
+  "company_mo_ta": "Leading product image editing service for internet retailers, designers, photographers, webmasters.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Creative and Design"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

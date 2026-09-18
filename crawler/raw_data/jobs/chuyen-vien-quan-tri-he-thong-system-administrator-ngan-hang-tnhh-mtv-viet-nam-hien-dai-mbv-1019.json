@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-vien-quan-tri-he-thong-system-administrator-ngan-hang-tnhh-mtv-viet-nam-hien-dai-mbv-1019",
+  "tieu_de": "Chuyen vien Quan tri He thong System Administrator",
+  "ten_cong_ty": "Ngân hàng TNHH MTV Việt Nam Hiện Đại (MBV)",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "System Admin",
+    "Firewall",
+    "Networking",
+    "VMware",
+    "Linux",
+    "Windows Server"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Hội sở HO - 44 Liễu Giai",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thực hiện quản trị, vận hành, giám sát và đảm bảo tính ổn định, an toàn và liên tục của hệ thống hạ tầng CNTT, bao gồm Windows Server, Linux Server, Active Directory, Microsoft Exchange, VMware, hệ thống lưu trữ NAS/SAN và các dịch vụ hạ tầng liên quan.\nTránh nhiệm chính\nQuản trị và vận hành hệ thống Active Directory, DNS, GPO, User/Group và phân quyền người dùng file server.\nQuản trị, vận hành Windows Server và Linux Server, bao gồm cài đặt, cấu hình, cập nhật bản vá và xử lý sự cố.\nQuản trị hệ thống Microsoft Exchange, Mailbox, Mail Flow và xử lý sự cố email.\nQuản trị môi trường VMware vSphere/ESXi/vCenter, VM, Cluster, Datastore và tài nguyên ảo hóa.\nQuản trị hệ thống NAS/SAN, Storage, LUN, RAID, NFS/SMB/iSCSI và dung lượng lưu trữ.\nQuản lý backup/restore.\nGiám sát hệ thống, phân tích log và xử lý các sự cố hạ tầng CNTT.\nThực hiện phân quyền, thu hồi quyền, rà soát quyền truy cập theo quy định.\nThực hiện hardening, patching và xử lý các lỗ hổng bảo mật trên hệ thống được phân công.\nCập nhật tài liệu, sơ đồ hệ thống, quy trình vận hành và báo cáo tình trạng hạ tầng.",
+  "yeu_cau": "Tốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Điện tử viễn thông hoặc các chuyên ngành liên quan.\nCó từ 1-3 năm kinh nghiệm vị trí tương đương.\nCó kiến thức nền tảng về hệ thống mạng, máy chủ, lưu trữ và bảo mật.\nCó kinh nghiệm quản trị hệ thống Windows Server và Active Directory, Microsoft Exchange.\nCó kinh nghiệm quản trị Linux Server.\nCó kinh nghiệm vận hành VMware vSphere/ESXi/vCenter.\nCó kinh nghiệm quản trị NAS/SAN hoặc hệ thống Storage tương đương.\nKiến thức và kỹ năng chuyên môn\nBackup / Restore / Disaster Recovery.\nNetworking cơ bản: TCP/IP, DNS, DHCP, VLAN, Routing, Firewall.\nCó khả năng đọc và phân tích log hệ thống.\nCó khả năng xây dựng tài liệu vận hành và tài liệu xử lý sự cố.\nCó khả năng viết PowerShell/Bash script để tự động hóa các tác vụ quản trị \nCác chứng chỉ của Microsoft, vMware, Linux",
+  "quyen_loi": "Review tăng lương định kỳ\nChính sách về sức khỏe và chế độ bảo hiểm\nLàm việc theo team có tinh thần trách nhiệm cao\n\nChế độ tiền lương và khen thưởng cho nhân viên của MBV gắn liền với kết quả hoạt động kinh doanh và chất lượng dịch vụ của mỗi nhân viên khi thực hiện công việc được giao. Một năm, nhân viên được hưởng tối thiểu 13 tháng lương, được nhận các phụ cấp theo chế độ như phụ cấp trách nhiệm, độc hại, phụ cấp rủi ro tiền mặt, phụ cấp chuyên môn; ngoài ra nhân viên còn được hưởng thêm lương theo năng suất và mức độ hoàn thành công việc; thưởng cho các đơn vị, cá nhân tiêu biểu trong năm, thưởng sáng kiến; thưởng trong các dịp lễ tết của Quốc gia và kỷ niệm thành lập MBV… Nhân viên chính thức của MBV được hưởng đầy đủ các quyền lợi phù hợp với quy định của Ngân hàng và Pháp luật hiện hành.\nLương thỏa thuận theo năng lực\nMôi trường làm việc năng động, chuyên nghiệp, có lộ trình thăng tiến rõ ràng, minh bạch, review tăng lương định kỳ\nChính sách về sức khỏe và chế độ bảo hiểm theo Luật Lao động Việt Nam\nCung cấp trang thiết bị đầy đủ để phục vụ công việc.\nLàm việc theo team có tinh thần trách nhiệm cao",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg3NDMzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b5e6460b0f2f08104c64554cae2c12580ea96b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/ocean-doi-ten.jpg",
+  "company_url": "/companies/ngan-hang-tnhh-mtv-viet-nam-hien-dai-mbv",
+  "company_mo_ta": "Cung cấp cho khách hàng các sản phẩm, dịch vụ tài chính ngân hàng",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

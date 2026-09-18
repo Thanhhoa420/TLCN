@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-developer-java-go-angular-reactjs-leap-5909",
+  "tieu_de": "Full-stack Developer Java / Go  Angular / ReactJS",
+  "ten_cong_ty": "LEAP",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Java",
+    "ReactJS",
+    "Angular",
+    "Spring"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "199 Dien Bien Phu",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Prefer immediate employment / ƯU TIÊN ĐI LÀM NGAY\n Your main activities\nDevelop back-end APIs using Java (Spring Boot) and/or Go — both are used across our new projects.\nDesign and work with relational databases (PostgreSQL) — schema, migrations, queries.\nIntegrate with third-party service providers over REST and SOAP, and make those integrations resilient when the provider is slow or down.\nWork with Kafka for asynchronous processing and event-driven flows.\nDevelop user interfaces in JavaScript / TypeScript / HTML5 / CSS3 using Angular or ReactJS, responsive on desktop and mobile browsers.\nConsume your own APIs from the client, including streaming responses where results arrive progressively rather than all at once.\nWork with shared packages in a monorepo — shared business logic, generated API clients and a design system.\nTest, commit and integrate your code with our online products.\nWork as part of an AI agent team — set up and run AI agents that implement, review and verify work under your direction.",
+  "yeu_cau": "Your Skills and Experience\nYou do not need to be equally strong on both sides. You do need to be genuinely productive on both — able to take a feature from the database to the screen without handing it over halfway.\n Back-end\nExperienced with Java (Spring Boot, Java 17+) and/or Go. Strong in one and willing to work in the other is fine; strong in both is better.\nSolid understanding of REST API design, and of documenting an API as a contract (OpenAPI).\nWorking knowledge of relational databases — transactions, indexing, and why a query is slow.\nExperience integrating third-party APIs: timeouts, retries, and knowing which operations are safe to retry and which are not.\n Front-end\nExperienced with Angular or ReactJS and TypeScript. Being able to work in both is a big plus — we run both, and people who move between them are the ones who see the pattern instead of the framework.\nExperience with micro-frontends — module boundaries, independent deployment, and the versioning and caching problems that come with them.\nSolid HTML5 / CSS3 and responsive layout skills.\nExperience handling server state properly (TanStack Query, SWR, RxJS or similar) — not everything in a global store.\nExperience building forms and data tables at real complexity — validation, server-side errors, multi-step flows.\nAwareness of accessibility and keyboard interaction as a default, not a retrofit.\nA product mindset about UI/UX. You care how the screen actually feels to use, and when a design or a requirement looks wrong you say so instead of building it silently. We would rather have the argument before the sprint than the rework after it.\n General\nComfortable with automated testing on both sides as part of your normal workflow, not as a separate phase.\nStrong interest in software design, programming and testing.\nPrefer immediate employment.\n Working with AI — required, not optional\nProficient, hands-on experience with AI coding agents in daily development work.\nAble to set up an AI agent team — define agent roles, skills and gates so a feature can be split across several agents and still come back consistent.\nProficient in prompt engineering — you can turn a vague requirement into instructions an agent executes reliably, and keep it on the project's conventions.\nExperience setting up an agent harness: project-level instruction files, custom commands and skills, sub-agents with scoped tools and permissions, hooks for the rules that must always hold.\nLoop engineering — you build an objective verifier and let the agent iterate against it instead of reviewing output by eye. On the back end that means unit tests, type checks and architecture or lint gates; turning a rule you would otherwise repeat in code review into an automated check is the core skill. On the front end it means more than \"it compiles\" — you also give the agent a way to observe the rendered result (for example a browser-automation screenshot or an accessibility snapshot). Candidates who have closed that visual loop are rare and we want them.\nExperience setting up AI code review — automated review in the pull-request flow, tuned so it catches real defects instead of producing noise everyone learns to ignore.\nExperience building an autonomous agent team — agents that plan, implement, review and verify, with a human at the gates — is a strong advantage.\nCritical evaluation of AI output. You can spot a diff that looks correct and quietly breaks a business rule, and a component that renders fine in the demo and falls apart on real data or a slow network.\nYou are empowered by AI — and you are accountable for everything it produces on your behalf. This is the single most important expectation of the role. We want you to lean on AI heavily; \"the AI wrote it\" is never an explanation for a defect that reached production.\n Nice to have\nExperienced with DevOps activities is a remarkable plus — reading and writing Kubernetes manifests, building your own service's CI pipeline, and debugging your service from outside (logs, metrics, traces) rather than waiting for the platform team.\nExperience with penetration testing and security best practices is a big plus — OWASP Top 10, authorization checks that hold when an identifier comes from outside, secret handling, and remediating a real finding rather than reading about one.\nExperienced with Linux.\nExperience with Keycloak / OAuth2, or Redis.\nExperience with React Native — some of our shared business logic is used by mobile apps too.\nExperience with Tailwind, Radix, or building a design system with multi-brand tokens.\nExperience with end-to-end testing (Playwright or Cypress).\nExperience in travel, e-commerce, fintech or any domain with money and third-party providers involved.\nGraduated in Vietnam National University, Ho Chi Minh City is a big plus.",
+  "quyen_loi": "18+ days of annual leave\nPremium health insurance\n13th month salary\n\nAs an employee in LEAP, you will\nBe involved in all the activities of Agile method (all activities from business specification, details design to development, testing and deployment)\nHave opportunities to contribute your talents to real products, watch it go live and even use it\nHave chances to work with all parts of our applications, not only front-end but also back-end and even deeper to database\nJoin a family where people are willing to help each other\nBe provided with a Claude Max account — one of the biggest benefits at LEAP. You work with the same AI tooling we build our products with, not a trial tier\nReceive a very attractive remuneration for your dedication",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxODE5LCJwdXIiOiJibG9iX2lkIn19--98116ebb6571d9cb4d5f19de9af8080efa53e3d1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/leap-logo.jpg",
+  "company_url": "/companies/leap",
+  "company_mo_ta": "We are combination of talent people who always love challenging and discovering new limitations.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

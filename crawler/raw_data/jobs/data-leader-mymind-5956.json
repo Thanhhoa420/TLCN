@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-leader-mymind-5956",
+  "tieu_de": "Data Leader",
+  "ten_cong_ty": "MYMIND",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Data Engineer",
+    "Solution Architecture",
+    "SQL",
+    "Python",
+    "Leadership",
+    "Data Analysis"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Betrimex Building, No. 63 Cao Thang Street",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,000 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT THE COMPANY\nWith over 10 years of relentless innovation, MyMind Joint Stock Company (MSM) is redefining the future of enterprise management. We deliver smart, scalable digital solutions that power business transformation across industries—from enterprises and agriculture to smart manufacturing.\nBy combining deep domain expertise with cutting-edge technology, MSM helps organizations worldwide simplify complexity, accelerate growth, and lead with confidence in the digital era.",
+  "yeu_cau": "ABOUT THE POSITION\nThe Data Leader owns the data function at MSM end-to-end: the data platform (lake, warehouse, DaaS), the data team, and the alignment between data and the business domains we serve — Ecommerce, ERP/DMS, and AgriTech. The role is hands-on at the architecture level while being accountable for people, delivery, and standards.\n1. Responsibilities\na. Team leadership & mentoring\nLead, coach, and mentor the data engineering team (Senior/Middle/Junior); run 1:1s, define growth paths, and conduct performance reviews.\nSet technical standards through design reviews, code reviews, and pairing — raise the team's bar rather than doing all the hard work alone.\nBuild the hiring pipeline: define role profiles, interview, and onboard data engineers and analysts.\nb. Resource coordination & delivery\nPlan, allocate, and rebalance team capacity across squads/projects (DigiRetail, DigiFarm, DigiFactory, DigiO) based on priority, risk, and deadlines.\nOwn the data roadmap and backlog — break business requests into epics/stories, estimate effort, track delivery, and report status to management and stakeholders.\nManage cross-team dependencies with product, backend, DevOps, and data science; unblock the team and escalate early.\nc. Business & domain alignment\nUnderstand the business data models of Ecommerce (orders, catalog, inventory, promotions, customer/CRM/CDP), ERP/DMS (sales-distribution, finance, procurement, warehouse), and AgriTech (field, crop, GIS, IoT/sensor).\nTranslate business KPIs into data products: define metrics, dimensional models, and data contracts with product owners and domain experts.\nAct as the primary data counterpart for stakeholders (Product, Finance, Operations, Customers/Partners) — and own data governance, data quality, and access policies.\nd. Platform & architecture\nArchitect and evolve the data platform: batch/streaming pipelines, data lake/lakehouse, warehouse, and DaaS/API layers for analytics, applications, and partners.\nDevelop and maintain GIS data systems enabling geospatial analytics and field-level monitoring.\nOptimize storage and compute cost/performance across on-premise and cloud; enforce infrastructure-as-code, versioning, and reproducibility.\nDrive AI/ML enablement on the platform: feature pipelines, model serving integration, and AI- ready data architecture (advantage — see Nice to Have).\n2. Requirements\na. Must Have Skills\nExperience: 7+ years in data engineering / data platform, including 2+ years leading a data team (3+ members) with direct people-management responsibility.\nLeadership & mentoring: proven track record of growing engineers, running design/code reviews, and setting team standards.\nResource & delivery management: capacity planning, prioritization, estimation, and status reporting across multiple concurrent projects; hands-on with Jira/agile delivery.\nBusiness domain knowledge: solid understanding of Ecommerce and/or ERP/DMS data (transactional models, master data, KPIs, reconciliation, reporting needs); experience working directly with business stakeholders.\nCore technical skills:\nProficient in Python and SQL for data transformation and automation.\nStrong experience with distributed processing frameworks(e.g.,Apache Spark, Flink).\nExperience designing and operating data lakes/lake houses and warehouses(e.g.,Iceberg, Delta Lake, BigQuery, Redshift).\nExperience designing APIs or DaaS platforms for data delivery.\nSolid knowledge of data modeling (Kimball, DataVault , or similar) and data governance/quality frameworks.\nFamiliarity with semi-structured and unstructured data (JSON, geospatial, IoT, sensor data).\nTools/Software proficiency:\nOrchestration tools(Airflow, Dagster, Prefect).\nCloud platforms(AWS preferred; GCP or Azure).\nGit, CI/CD, and infrastructure-as-code(Terraform or equivalent).\nb. Nice to Have Skills\nAI Engineer experience (strong advantage): designing AI/ML architecture on AWS — e.g., SageMaker, Bedrock, Lambda/Step Functions, feature store, vector databases, model serving/MLOps — and integrating AI into data pipelines (data enrichment, anomaly detection, predictive modeling for AgriTech/Ecommerce use cases).\nEducation: Bachelor's or Master's in Computer Science, Data Engineering, or related fields.\nMindset: practical, detail-oriented, collaborative, and curious about how data can improve agriculture and retail operations.\nAdvanced tools/technology skills:\nGeospatial tools and libraries (PostGIS,GeoPandas,QGIS).\nData catalog or governance tools(OpenMetadata, DataHub).\nStreaming platforms(Kafka,Pulsar).\nSemantic/BI layer and self-service analytics(dbt, Metabase, PowerBI, orsimilar).\n• Certifications: AWS Certified Data Engineer / Solutions Architect / Machine Learning Specialty.",
+  "quyen_loi": "Hybrid working model (2 WFH days/week)\nHealthcare plan for you\n15+ days of paid leave per year\n\nWHAT'S ON OFFER\nA chance to work in the fast-growing and innovative AgriTech sector, solving meaningful problems that impact farmers and sustainability.\nAn opportunity to lead and build the data function from the ground up, shaping architecture, team, tools, and standards for the future.\nA collaborative and learning-focused environment.\nCompetitive salary and benefits package.\nPersonal Healthcare Insurance, Annual Healthcare checkup....\nCompany events: 8/3, 20/10, Men's Day, Mid-Autumn, Year End Party, Company Trip....\nBonus: 13th-month salary and performance bonus (subject to individual performance and the company's business results).\nModern and well-equipped working facilities.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAzMjk1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--7b4d563defa4fccc92adf3e8b11cba234314d2c4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logoMSM%20(1).png",
+  "company_url": "/companies/mymind",
+  "company_mo_ta": "MyMind Joint Stock Company (MSM)",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

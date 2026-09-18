@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-engineer-good-english-up-to-75m-fpt-software-5541",
+  "tieu_de": "Data Engineer Good English - Up to 75M",
+  "ten_cong_ty": "FPT Software",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Data Engineer",
+    "Git",
+    "Apache Airflow",
+    "Python",
+    "SQL",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "F-Town 3, Lô E3 Võ Chí Công, Khu CNC, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, Việt Nam",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Build and optimize enterprise-scale data platforms and pipelines using modern cloud technologies across AWS, GCP, and Databricks. \nBuild and optimize ETL/ELT workflows for large-scale data processing and analytics. \nDevelop data solutions using cloud services such as AWS Glue, S3, Athena, BigQuery, Dataflow, Cloud Storage, or equivalent technologies. \nWork with Databricks and Apache Spark/PySpark to process and transform large datasets. \nDevelop and optimize data models, data warehouses, and modern data lake/lakehouse architectures. \nWrite and optimize SQL queries to support analytics, reporting, and business requirements. \nEnsure data quality, reliability, security, and performance across data pipelines and platforms. \nCollaborate with Data Architects, Data Analysts, Data Scientists, and international stakeholders to deliver end-to-end data solutions. \nTroubleshoot data pipeline issues and contribute to continuous improvement of engineering practices.",
+  "yeu_cau": "Bachelor's degree in Computer Science, Information Technology, Data Engineering, or a related field. \n3+ years of experience in Data Engineering or related roles. \nHands-on experience with at least one of the following: AWS, Google Cloud Platform (GCP), or Databricks. \nStrong proficiency in SQL and experience with data modeling, ETL/ELT, and data warehousing. \nExperience with Python, PySpark, or Apache Spark is preferred. \nGood understanding of Data Lake, Data Warehouse, Lakehouse, and modern cloud data architecture concepts. \nExperience with data orchestration tools such as Airflow, AWS Glue, Dataflow, ADF, or similar is a plus. \nFamiliarity with Git, CI/CD, and Agile development practices.\nKnowledge of data governance, security, and data quality best practices is an advantage. \nStrong analytical and problem-solving skills. \nGood English communication skills and ability to work effectively with global teams and stakeholders.",
+  "quyen_loi": "Global Exposure\nFast Track Career\nDiversified Jobs & Technologies\n\nOther Income: Project surplus bonus, extra income… (Based on the Company’s policy). \nFPT Care insurance plan tailored for FPT employees \nAttractive annual summer vacation allowance\nSalary review 1 time per year \nInternational, dynamic, and friendly working environment \nAnnual leave and working conditions follow Vietnam labor laws. \nOther benefits: sponsor for studying and taking international certification exams, sponsor loan interest policy for Fsofter. \nShuttle bus for employees \nAllowance: allowance onsite (if any)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyNzYxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a24fd92bc0f8ec348868b9e8110408860c26ce44/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20FSOFT%20d%E1%BB%8Dc.png",
+  "company_url": "/companies/fpt-software",
+  "company_mo_ta": "The leading provider of software outsourcing services in Vietnam",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

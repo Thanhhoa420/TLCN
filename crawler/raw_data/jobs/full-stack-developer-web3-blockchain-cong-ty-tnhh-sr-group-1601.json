@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-developer-web3-blockchain-cong-ty-tnhh-sr-group-1601",
+  "tieu_de": "Full Stack Developer  Web3/Blockchain",
+  "ten_cong_ty": "Công ty TNHH SR GROUP",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Blockchain",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Hồ Chí Minh",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Description\nWe are looking for a skilled and proactive Full Stack Developer to build, maintain, and improve the Company's Web3 products and applications. The role will be responsible for both frontend and backend development, as well as integrating blockchain infrastructure, smart contracts, wallets, and other Web3 technologies into scalable and secure user-facing products.\nThe ideal candidate has strong experience across the full development lifecycle and a solid understanding of Blockchain, DeFi, DEXs, wallets, smart contracts, and Web3 infrastructure.Key Responsibilities\nDevelop, maintain, and optimize frontend and backend applications for the Company's Web3 products and services.\nBuild responsive and user-friendly web applications, dashboards, landing pages, trading interfaces, and other product features.\nDevelop and maintain backend services, APIs, databases, authentication systems, and application infrastructure.\nIntegrate blockchain networks, smart contracts, wallets, RPC providers, and other Web3 infrastructure into the Company's products.\nImplement and maintain integrations with decentralized protocols, on-chain data sources, trading infrastructure, and third-party services.\nCollaborate with Smart Contract Developers and Blockchain Engineers to integrate and interact with smart contracts securely and efficiently.\nWork closely with Product Managers, Designers, and other stakeholders to translate product requirements and designs into functional technical solutions.\nOptimize application performance, scalability, reliability, and security across frontend and backend systems.\nConduct testing, debugging, troubleshooting, and issue resolution throughout the product development lifecycle.\nMonitor application performance and identify opportunities for technical improvements and optimization.\nParticipate in code reviews and maintain high standards for code quality, maintainability, and documentation.\nResearch and evaluate emerging technologies, frameworks, blockchain infrastructure, and development tools relevant to the Company's products.\nPrepare and maintain technical documentation related to system architecture, APIs, integrations, deployment processes, and application features.\nCoordinate with relevant internal and external teams to support product launches, updates, integrations, and technical initiatives.\nPerform other related development and technical services reasonably requested by the Company.",
+  "yeu_cau": "Requirements\nAt least 2 years of experience in Full Stack Development, Software Engineering, or related technical roles.\nStrong experience with modern frontend technologies such as React, Next.js, TypeScript, JavaScript, or equivalent frameworks.\nStrong experience with backend development using Node.js, Python, Go, or similar technologies.\nExperience designing and integrating REST APIs, WebSocket services, databases, authentication systems, and backend services.\nExperience with SQL and/or NoSQL databases.\nSolid understanding of software architecture, system design, scalability, performance optimization, and application security.\nFamiliarity with Blockchain and Web3 technologies, including wallets, RPC providers, blockchain transactions, smart contracts, and on-chain data.\nExperience integrating applications with EVM-compatible blockchains and Web3 libraries such as ethers.js, viem, wagmi, web3.js, or similar tools.\nUnderstanding of DeFi products, decentralized exchanges, perpetual trading, liquidity mechanisms, or other blockchain-based financial products is highly preferred.\nExperience working with Git and modern software development workflows.\nStrong problem-solving, debugging, and analytical skills.\nAbility to work independently and collaborate effectively with cross-functional teams.\nGood English communication skills, both written and verbal.Nice to Have\nExperience working in Crypto, Web3, Blockchain, DeFi, DEX, or fintech companies.\nExperience building trading platforms, perpetual DEXs, exchanges, wallets, or financial applications.\nExperience integrating smart contracts and decentralized protocols.\nExperience with EVM-compatible networks, particularly Base or other Layer 2 ecosystems.\nFamiliarity with cloud infrastructure, Docker, CI/CD, monitoring, and deployment systems.\nExperience with high-performance real-time applications and WebSocket-based systems.\nKnowledge of application security and Web3 security best practices.\nExperience working in early-stage startups or fast-paced product development environments.",
+  "quyen_loi": "Competitive salary (USD) + bonus\nQuarterly performance bonuses tied to individual and team achievements.\nOpportunities for professional growth and career development in a fast-paced and innovative environment.\nCollaborative and dynamic team culture, where creativity and innovation are encouraged.\nPublic Holidays & Team Activities: Enjoy public holidays in accordance with Vietnamese labor regulations and participate in team activities such as company retreats, outings, travel trips, charity events, and company dinners.\nCareer Advancement: Opportunities for professional development and career growth.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEzODQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f9e08bf9d2f30e5dd657b34d62a27e7290d69ba/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/SR%20Group.png",
+  "company_url": "/companies/cong-ty-tnhh-sr-group",
+  "company_mo_ta": "CÔNG TY CÔNG NGHỆ LĨNH VỰC TÀI CHÍNH",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

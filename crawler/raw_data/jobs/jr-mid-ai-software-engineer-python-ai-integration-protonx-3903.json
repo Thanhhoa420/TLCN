@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/jr-mid-ai-software-engineer-python-ai-integration-protonx-3903",
+  "tieu_de": "Jr/Mid AI Software Engineer Python/ AI Integration",
+  "ten_cong_ty": "ProtonX",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "AI",
+    "Generative AI",
+    "Flask",
+    "LLM",
+    "API",
+    "Python",
+    "Fresher Accepted"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Văn phòng ProtonX, Tòa nhà Imperial, 360 Giải Phóng",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "18 - 20M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi đang tìm kiếm Kỹ sư Phần mềm để tích hợp các công nghệ AI chúng tôi phát triển vào sản phẩm và hệ thống hiện có của khách hàng. Bạn sẽ làm việc cùng đội ngũ kỹ sư đào tạo mô hình (kỹ sư học máy) và khách hàng để xây dựng, tích hợp, triển khai và vận hành các giải pháp AI thực tế.\nCông việc\nPhát triển và tích hợp các tính năng sử dụng AI/mô hình AI vào sản phẩm và hệ thống của khách hàng.\nXây dựng backend service và API bằng Python.\nĐấu nối các APIs trên giải pháp AI của công ty vào hạ tầng của khách hàng\nPhối hợp với đội ngũ đào tạo mô hình để hiểu cách hoạt động của các mô hình AI\nLàm việc cùng Chuyên viên Phân tích Nghiệp vụ (BA) và khách hàng để tìm hiểu nghiệp vụ.\nXử lý dữ liệu, prompt, input/output của model, structured output và các tình huống lỗi.\nHỗ trợ triển khai, monitoring, troubleshooting và tối ưu các hệ thống tích hợp AI.",
+  "yeu_cau": "Bạn là ứng viên phù hợp nếu:\nCó từ 1 năm kinh nghiệm trong Software Engineering, Backend Development hoặc vị trí tương đương.\nCó kinh nghiệm tốt với Python.\nCó tư duy thuật toán/giải quyết vấn đề tốt.\nCó kinh nghiệm làm việc và tích hợp RESTful API và các dịch vụ bên thứ ba.\nCó kinh nghiệm xây dựng backend service với FastAPI, Flask hoặc framework tương đương.\nCó hiểu biết tốt về quy trình phát triển phần mềm, backend và tích hợp hệ thống.\nCó kiến thức cơ bản đến khá về Generative AI, LLM và AI API.\nCó khả năng giải quyết vấn đề, tự học và giao tiếp tốt.\nAm hiểu về đầu vào và đầu ra của các mô hình Ai hiện đại như LLM, VLM, Speech-to-text, Text-to-speech.\nBạn sẽ có lợi thế nếu:\nCó kinh nghiệm tích hợp OpenAI, Qwen, Llama, DeepSeek hoặc các LLM/AI model khác vào ứng dụng hoặc hệ thống production.\nCó kinh nghiệm xây dựng AI Agent / Agentic Workflow với LangGraph, LangChain, LlamaIndex, CrewAI hoặc framework tương đương.\nCó kinh nghiệm với AgentOps / AI Observability, như Prometheus, Grafana, OpenTelemetry, Langfuse hoặc các công cụ tương đương.\nCó kinh nghiệm với RAG, Embedding, Vector Database, Tool Calling hoặc Prompt Engineering.\nCó kiến thức về model quantization và tối ưu inference, như INT8/INT4, AWQ, GPTQ, batching, KV Cache hoặc tối ưu GPU/VRAM.\nCó kinh nghiệm với vLLM, Ollama, Triton, TensorRT-LLM hoặc các công nghệ model serving tương đương.\nCó kinh nghiệm với Docker, CI/CD, Linux hoặc cloud platforms.\nCó kinh nghiệm với database như PostgreSQL, MySQL, MongoDB hoặc Redis.\nCó kinh nghiệm làm việc trực tiếp với khách hàng hoặc trong các dự án outsourcing/tích hợp hệ thống.",
+  "quyen_loi": "Làm việc trực tiếp với Founder và đội ngũ kỹ sư/nhà nghiên cứu của ProtonX.\nTham gia xây dựng các sản phẩm AI thực tế dành cho doanh nghiệp.\nTrực tiếp tham gia khảo sát khách hàng, phân tích bài toán, thiết kế giải pháp và triển khai sản phẩm.\nĐược đào tạo bài bản về:\nBusiness Analysis & System Thinking\nAgent Engineering\nAI Products, LLM, OCR, RAG và AI Agent\nWorkflow Automation với n8n\nAPI Integration & System Integration\nAI Solution Design\nAgile Product Development\nCó cơ hội tham gia các dự án AI cho doanh nghiệp trong nhiều lĩnh vực như tài chính, ngân hàng, viễn thông, giáo dục, sản xuất, bất động sản, logistics và quản trị doanh nghiệp, giúp bạn tiếp cận đa dạng bài toán thực tế và mở rộng kiến thức về chuyển đổi số.\nMôi trường startup AI năng động, được khuyến khích học hỏi, thử nghiệm và phát triển bản thân.Salary & Benefits\nMức lương: 18.000.000 – 20.000.000 VNĐ/tháng (Net)\nReview lương định kỳ theo năng lực và hiệu quả công việc.\nThưởng theo kết quả dự án và hiệu suất làm việc.\nĐược đào tạo và mentoring trực tiếp từ Founder cùng đội ngũ AI Engineers.\nTham gia xây dựng các sản phẩm AI có tác động thực tế đến hoạt động của doanh nghiệp.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ3MzMyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac7aa76863cd26431e7475eae0d3f6230bd2f27f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-05-08%20at%2016.08.03.png",
+  "company_url": "/companies/protonx",
+  "company_mo_ta": "Tiên phong trong trí tuệ nhân tạo",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

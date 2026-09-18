@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-engineer-manual-automation-weverse-naver-vietnam-0750",
+  "tieu_de": "QA Engineer Manual, Automation - Weverse",
+  "ten_cong_ty": "NAVER VIETNAM",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "QA QC",
+    "Automation Test",
+    "Tester"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "4th and 9th Floor, Block B, Viettel Building, 285 Cach Mang Thang Tam Street, Hoa Hung Ward, Ho Chi Minh city",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a highly motivated and enthusiastic Middle to Experienced QA Engineer to join our QE team.\n \nThis role provides the opportunity to apply advanced software testing methodologies, tools, and best practices to enhance quality standards and continuously improve testing processes within a professional engineering environment. You will work closely with experienced QA Engineers and Development teams to ensure the quality and reliability of our products.\n \nYour day-to-day: \nExecute and participate in all testing activities, including manual and automation tests, to improve product quality and work closely with the team to deliver product success.\nAutomate functional, regression, and/or performance testing to speed up the product delivery cycle.\nHave complete responsibility to enhance end-to-end automated test coverage.\nParticipate in the review of project requirements to understand test objectives, to provide input on the testability of requirements, and estimate testing activities.\nPrepare detailed test reports and provide data-driven Sign-Off decisions.",
+  "yeu_cau": "Your qualifications: \nBachelor’s degree in Computer Science, IT, or a related field.\n4~7 years of experience in software quality assurance and testing.\nExperience with manual testing to make sure that the product functionalities comply with business requirements is a MUST.\nExperience in building or maintaining automation testing frameworks for Web and API automation frameworks (e.g., Puppeteer, Playwright, Selenium).\nStrong experience with at least one modern programming language such as JavaScript, Java, Python,... with a strong base in object-oriented design and development.\nStrong English communication skills, both written and spoken.\nIt's a big plus if you:\nISTQB or other relevant testing certifications.\nExperience using AI tools (GitHub Copilot, OpenAI api, etc.) or AI-based testing platforms to optimize the QA workflow.\nProficiency in Korean (TOPIK certification).",
+  "quyen_loi": "Healthcare plan for you and your family\nA work-life balance (Hybrid, Workation)\nCompetitive package\n\nFrom solid welfare programs to autonomy over working time and place, we create the culture in which we work. By joining NAVER VIETNAM, you will be involved in:\n \nA work-life balance: Hybrid working model with modern city-center offices, 14 days of annual leave (increasing yearly) and an additional day off for your birthday.\nCompetitive income package: Comprehensive package with full salary insurance, 13th-month salary, annual performance appraisals, and incentive bonuses. \nAI-powered development tools: Company-sponsored access to Claude Code Enterprise, empowering developers with advanced AI support to enhance productivity and accelerate development workflows.\nLearning and development opportunities: Monthly book allowance and an annual budget for online/offline courses (Udemy, Coursera, etc.) in tech, languages, and soft skills,...\nProtecting and enhancing healthcare plan for you and your family: Premium insurance for employees and 2 family members, plus annual health check-ups.\nEmployee's engagement activities: Respectful, engaging culture with monthly team budgets, social clubs, and celebration gifts.\nWorking environment: Driven by \"Autonomy –  Challenge – Teamwork\" values, with talented colleagues, supportive leaders, and modern devices supported such as Macbook Pro 14, Macbook Air M4, Dell 7450 Ultra 7,...\nDedication bonus: Recognizing your commitment and contributions with special bonuses and benefits at key work milestones.\nOther benefits: Home office setup allowance, happy hours, attractive referral bonus, and more!",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ea902481f8993444310a1fb4cd09822c9f9af1de/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Naver_Logo(2)-white.png",
+  "company_url": "/companies/naver-vietnam",
+  "company_mo_ta": "NAVER VIETNAM",
+  "job_expertise": [
+    "Software Engineer in Test (SDET)"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

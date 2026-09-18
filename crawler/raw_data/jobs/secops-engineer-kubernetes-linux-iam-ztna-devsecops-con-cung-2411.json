@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/secops-engineer-kubernetes-linux-iam-ztna-devsecops-con-cung-2411",
+  "tieu_de": "SecOps Engineer Kubernetes/Linux/IAM/ZTNA/DevSecOps",
+  "ten_cong_ty": "Con Cưng",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "Security",
+    "IDS/IPS",
+    "EDR",
+    "SIEM",
+    "PowerShell",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5th Floor, Con Cưng Super Center, 09 Nguyen Trai Street, Ben Thanh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Introduction\nCon Cung is the biggest omni-channel company for mom & baby with 600 retail stores in Vietnam in 2021 and plan to have 1,000 stores by 2023 with 1 billion USD revenue. Con Cung's annual growth rate is more than 70%. With the vision of providing good quality products for children, Con Cung is strongly investing into Product Research and Development in order to manufacture and provide products that are suitable to the local market in terms of pricing and quality. We also invest into technology in order to manage the network and online channel efficiently.\nCon Cung Corporation also develops in-house cutting-edge automation and intelligence technologies. We are seeking for young, smart & dynamic talents to grow your career together with us.\nJob Description\nThe company is seeking a SecOps Engineer to design, implement, and operate its core security infrastructure and network security, with particular emphasis on securing and hardening the Kubernetes/container platform. This role is both hands-on and strategic: building secure-by-design infrastructure from the ground up before expanding into SOC/DFIR capability as the security baseline matures. The engineer will combine deep systems/platform expertise with security engineering judgment to close foundational gaps.\n \nKey Responsibilities\n \n1.  Security Architecture & Infrastructure\nDesign and implement Identity & Access Management (IAM/SSO) architecture and Single Sign-On integration across internal applications.\nDesign and implement Privileged Access Management (PAM) and Zero Trust Network Access (ZTNA) / identity-aware proxy solutions.\nDesign and implement network security architecture, including segmentation, firewalls, VPN, and secure remote access.\nBuild infrastructure using Infrastructure-as-Code (Terraform, Ansible) and version-controlled configuration where applicable.\n2.  Platform & Container Security\nSupport the hardening of the company's Kubernetes platform: RBAC design, network policy, workload security baseline, secrets management.\nContribute to the rollout of Policy-as-Code (e.g., Kyverno, OPA) for cluster governance.\nCollaborate with the current Cluster Admin to reduce single-point-of-failure risk and support knowledge transfer / documentation.\n3.  SOC Development & Operations\nSupport the design, implementation, and day-to-day operation of the company's SOC capabilities (SIEM, EDR, log management, monitoring pipelines).\nContribute to detection rule and alert logic development as SOC capability is built out.\n4. Threat Detection, Response & DFIR\nParticipate in security event investigation, containment, and remediation activities.\nContribute to DFIR playbooks, escalation paths, and evidence-handling procedures.\n5.  Continuous Improvement & Collaboration\nAssist in tabletop exercises and simulations to validate incident response readiness.\nCollaborate with IT, InfraOps, AppSec, and Red Team functions to close security gaps.\nDocument architecture decisions, runbooks, and lessons learned.\nContribute to security policies, standards, and compliance initiatives (ISO 27001, etc.) incollaboration with the GRC team.",
+  "yeu_cau": "We are looking for a highly motivated person with:\n2-3+ years of experience in security engineering, infrastructure/platform engineering, SRE, or DevSecOps.\nHands-on production experience operating Kubernetes — RBAC design and troubleshooting, network policy, workload/container security fundamentals.\nPractical experience designing or implementing at least one of: IAM/SSO (e.g., Keycloak, Okta, Azure AD), PAM, ZTNA / identity-aware proxy, or network security architecture (firewall, segmentation, VPN).\nStrong Linux system administration and scripting/automation skills (Python, Bash, PowerShell, or similar).\nFamiliarity with Infrastructure-as-Code and/or GitOps concepts (Terraform, Ansible, ArgoCD/Flux, or equivalent).\nA proactive attitude & the ability to think outside of the box.\nWorks in an organized, structured manner; can-do attitude, gets things done.\nExcellent communication skills with diverse audiences.\nStrong critical thinking and analytical skills.\nNice-to-have:\nExperience with SIEM platforms (ELK Stack, Wazuh, Splunk, Graylog) or EDR tools.\nFoundation skills in log analysis, network traffic analysis, or malware analysis.\nSolid understanding of security frameworks (MITRE ATT&CK, NIST CSF, CIS Benchmarks).\nFoundation knowledge in AI integration for security operations.\nEnglish communication.\nRelevant certifications: CKA/CKS, Security+, GCIA, GCIH, or equivalent.",
+  "quyen_loi": "Annual bonus: 2 - 3 months under minimum KPI requirement\nFast promotion opportunities based on personal ability\nWork in a dynamic, open, creative environment\nRegular training, company team building, birthday bonus\nAbout Concung.com \nWorking time: 8:30 - 17:30 Monday - Friday \nWorking place: 5th Floor, Con Cưng Super Center, 09 Nguyen Trai Street, Ben Thanh Ward, Dist. 1, HCMC",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjIyNDYxMywicHVyIjoiYmxvYl9pZCJ9fQ==--016130788e9191f0aa79db451d549bc4709d2d3a/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOGO%20CC-2021.png",
+  "company_url": "/companies/con-cung",
+  "company_mo_ta": "Hệ thống Mẹ & Bé Lớn Nhất Việt Nam",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Retail and Wholesale"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-engineer-claude-code-python-react-manual-tester-brarista-4435",
+  "tieu_de": "QA Engineer Claude Code, Python, React, Manual Tester",
+  "ten_cong_ty": "Brarista",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "QA QC",
+    "English",
+    "ReactJS",
+    "AI",
+    "Python",
+    "Tester"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Vietnam",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "800 - 1,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are open to both part-time and full-time applications.\nJOB DESCRIPTION\nBrarista builds AI fit-assistance for lingerie and apparel brands — a chat assistant and sizing quizzes that are live on real stores today.\nWhen we get a size recommendation wrong, nothing crashes and no alarm goes off. A real person is simply told the wrong size, buys the wrong bra, and sends it back. That is why this role exists: you are the person who catches things before customers do.\nYou'll work alongside our engineers across the sizing engine, the chat assistant, our client dashboard, and the widgets running on our clients' storefronts.\n1. Verify the sizing engine.\nOur system converts sizes across 11 regional systems, handles sister sizing, calculates from measurements, and applies a different size chart for every brand we support. That's thousands of combinations — far more than anyone can check by hand. You'll use Claude Code to generate exhaustive test matrices, build regression suites, and prove that a change to one brand didn't quietly break another.\n2. Guard catalogue data quality.\nOur product catalogue is tagged partly by AI, and every product needs a sizing category — which is what makes it billable, so mistakes here cost money directly. You'll verify AI-suggested tags, check assignments against our rules, and find the products that slipped through. This becomes one of the most important things you own.\n3. Own release quality and the changelog.\nYou'll test what's about to ship and write the release notes our clients read. When something goes out, you're the person who can say what changed and why.\n4. Triage what clients report.\nBug reports and feedback come in from clients. You'll reproduce them, work out what's actually happening, write them up so an engineer can act immediately, and close the loop with the person who reported it.\n \nHow will the selection looks like?\nRound 1: You will first speak directly with our founder to check mutual suitability. This will be a high-level, open-ended conversation lasting between 15 and 20 minutes.\nRound 2: The second round consists of a take-home assessment, followed by a 45-minute call to discuss your submission. Please rest assured that we never use assessments to solicit free work. The task is designed purely to give you a taste of our domain and provide the best opportunity to showcase your technical abilities.\nFinal Round: Should you pass the second round, the final stage is a one-hour call. The first half will be with the wider team you would be working closely with. This is a great opportunity to ask about our culture, day-to-day work, or anything else important to you, allowing everyone to see how we vibe together. For the second half, you will have a 1-on-1 with the founder to discuss the finer details of the role before an official offer is made.",
+  "yeu_cau": "You are genuinely, unusually meticulous. You're the person who spots the inconsistent spacing, the off-by-one in a table, the one row in a spreadsheet where the pattern breaks. This isn't a preference you're describing on a CV — it's how your brain works, and people have told you so.\nYou're excellent with Claude Code, and you can prove it. We want to see a real project where you used it heavily — what you had it do, what you did yourself, and a specific time it produced something wrong that you caught. That last part is what separates people who use AI tools from people who are good with them.\nYou think in edge cases. Given a feature, you immediately wonder what happens with an empty value, a duplicate, a weird character, someone clicking twice, or the largest size in the range.\nYou write clearly, in English. Bug reports an engineer can act on without asking follow-up questions. Release notes a client can understand. You'll be working with UK-based colleagues and writing for international clients.\nYou're curious about the domain. You'll learn more about bra sizing than you expect to, and the good ones here find that interesting rather than tedious.\nExperience level is flexible — if you're early in your career but genuinely sharp with AI tools and relentless about detail, we want to talk to you.\nNice to have\nIntercom, Gleap, or similar feedback and bug-reporting tools\nWriting changelogs or release documentation\nTest automation (pytest, Playwright) — or the appetite to learn it fast with Claude Code\nE-commerce experience, especially Shopify",
+  "quyen_loi": "We are flexible, don't expect you to be in office.\nNo politics, respectful and straightforward.\nWe iterate fast and are curious.\n\nRemote and NO politics policy. You will have direct access to the founder and the engineers. You will get to develop your business understandings and upskilling in product management too. Small team, no layers, no one to route your idea through.\nGoal-first. We care about what ships and what it does for clients — no office politics, no mandatory socials, no ceremony for its own sake.\nAI-first, genuinely. Our whole team works with Cursor and Claude Code, and much of our code is AI-authored under human review. You'll get better at working with these tools here than almost anywhere else.\nReal ownership from month one. Within three months the catalogue verification queue is yours, and the sizing regression suite is something you built.\nYour work is visible. Clients read your release notes. Your bug reports change what ships. Nothing you do disappears into a backlog.\nWe move fast - which is exactly why we need someone whose job is to make sure fast doesn't mean sloppy.",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAyOTQxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--43328ed3d92e7065fac1d43edc0ed8b025fc7d71/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202025-04-15%20091143%20-%20Phuong%20Nguyen.png",
+  "company_url": "/companies/brarista",
+  "company_mo_ta": "Brarista",
+  "job_expertise": [
+    "Manual Tester"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Apparel and Fashion",
+    "Creative and Design",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

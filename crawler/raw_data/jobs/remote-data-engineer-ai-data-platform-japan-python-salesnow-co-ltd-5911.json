@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/remote-data-engineer-ai-data-platform-japan-python-salesnow-co-ltd-5911",
+  "tieu_de": "Remote Data Engineer - AI Data Platform Japan Python",
+  "ten_cong_ty": "SalesNow Co., Ltd.",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Python",
+    "Data Engineer",
+    "AI",
+    "AWS",
+    "SQL",
+    "JSON"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Remote",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "What Makes SalesNow Different\nData scale: 8B data points, 14M records, 2.3M daily updates (vs. 1M-100M rows at typical companies)\nData ownership: You build and own Japan's largest corporate intelligence platform (vs. processing someone else's data)\nAI integration: 20+ AI pipelines in production, MCP Server live (vs. \"We're planning to use AI someday\")\nDev tools: Claude Code MAX ($200/month), Cursor, CodeRabbit — all company-paid (vs. standard IDE, maybe Copilot)\nYour code's impact: Feeds AI products used by enterprise clients, millisecond latency matters (vs. dashboards no one reads)\nCareer trajectory: Build Japan's data infrastructure → architect AI data products → global leverage (vs. same stack forever)\nRemote work: 100% remote, no relocation required (vs. hybrid / office-required)\nWhy This Role Exists\nAI models are commodities now. The cost of running GPT-3.5-equivalent models dropped 280x in two years. Every company has access to the same foundation models. The war moved to data — who owns it, who structures it, who feeds it to AI.\nOracle's Larry Ellison said it plainly on his December 2025 earnings call: \"AI models are trained on the same public data, so they're rapidly commoditizing. AI inference on private data will be an even bigger, more valuable business.\" McKinsey echoes: \"By 2030, the AI leaders will be defined not by who trained the biggest model, but by who built the most reliable systems on proprietary data.\"\nSalesNow owns 14 million company records and 8 billion data points — the largest structured corporate intelligence platform in Japan. This data updates 2.3 million records daily, with differential refresh as fast as every 60 seconds. Hiring signals, funding rounds, organizational changes, press releases, job postings — all structured, all real-time, all proprietary.\nThis data doesn't exist inside any LLM's training set. The only way to access it is through SalesNow. That's the moat.\nWe need data engineers who can build and scale the pipelines that make this moat wider every day.\nWhat You'll Build\nThis is not \"maintain existing ETL jobs.\" You're building the data nervous system of Japan's corporate intelligence.\nThe Scale\n14 million+ company records across Japan's entire business landscape — from Toyota to a 3-person startup in Okinawa\n8 billion data points structured and queryable at millisecond speed\n2.3 million records updated daily — hiring signals, funding rounds, organizational changes, press releases, job postings\nSub-minute differential refresh — when a company posts a new job or announces funding, SalesNow knows within 60 seconds\n42+ data sources feeding into a unified schema\n5 delivery formats: Web app UI / CRM integration (Salesforce, HubSpot) / MCP Server / Data API / Custom AI Agents\nAI-Native Development Culture\nSalesNow doesn't just \"use AI.\" AI is the operating system of how we build software. What this means for you, concretely:\nClaude Code MAX — Company-paid for every engineer. This is a $200/month tool that most individual developers can't justify. You get it Day 1, fully covered\nMonthly AI tool budget — Tens of thousands of yen per person, on top of Claude Code MAX, for any AI tool you want to try\nCodeRabbit — Automated PR reviews powered by AI. Every pull request gets AI review before human review\nVibe coding culture — Not just engineers. The CEO, COO, and business teams all write code with AI assistance. When you propose a technical solution, leadership actually understands it\n20+ AI pipelines in production — X post generation, candidate screening, PR monitoring, behavioral analytics, financial page generation — all running daily in production. This isn't a demo. It's how the company operates\nNo \"AI committee\" or \"innovation lab\" gatekeeping — You want to try a new approach? Ship it. The decision loop is measured in hours, not quarters\nWhy this matters for your career: In 3 years, every engineering role will require AI-native development skills. At SalesNow, you build those skills now — not by watching tutorials, but by shipping production AI systems daily.\nBefore You Apply — Quick Self-Check\nPlease confirm the following before submitting your application:\n \nI have professional experience building data pipelines or data processing systems with Python\nI have professional experience writing SQL queries and working with databases\nI am available for full-time remote work (40 hours/week)\nBonus: Japanese language ability (JLPT N3+) is a strong plus.\nIn Your Cover Letter, Please Include:\n1. The largest dataset or data pipeline you've worked with — how many records per day, and what did it do?\n2. What was the most technically challenging problem you solved in your career? (1-2 sentences is fine)\n3. Which data tools or frameworks have you used? (e.g., Airflow, dbt, Spark, Kafka, Elasticsearch — list any that apply)",
+  "yeu_cau": "Must Have\n2+ years of professional data engineering experience\nStrong Python skills — clean, testable pipeline code\nStrong SQL skills — complex queries, window functions, query optimization\nExperience with at least one orchestration tool — Airflow, Dagster, Prefect, or equivalent\nExperience with relational databases at scale — PostgreSQL preferred\nEnglish proficiency (professional working level)\nNice to Have\nExperience with Elasticsearch or OpenSearch at scale\ndbt experience\nWeb scraping / large-scale data collection systems\nExperience with data quality frameworks and monitoring\nAWS experience (S3, Lambda, ECS, RDS, etc.)\nRAG pipeline / vector database experience\nExperience processing 1M+ records daily\nJapanese language ability (JLPT N3 or above)",
+  "quyen_loi": "100% remote—work from anywhere with flexible hours\nClaude Code MAX ($200/month) provided from Day 1\nBuild pipelines for 8B data points—largest in SEA\n\nSalary: $1,000–$2,500 USD/month (25–62 triệu VND)\nMacBook provided\nFull-time contract via EOR (local legal employment)\nPaid leave per local labor law\nPerformance-based salary review every 6 months\nAI translation tools provided (company-paid)\nMonthly AI tool budget in addition to Claude Code MAX\nThree Vietnamese members are currently working at SalesNow, providing a friendly and supportive environment for Vietnamese employees.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM4Njg1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--210c1ca607a34991123d520bc5ec1d1f07089cc6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/logomark.jpg",
+  "company_url": "/companies/salesnow-co-ltd",
+  "company_mo_ta": "Powering AI with proprietary data.",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

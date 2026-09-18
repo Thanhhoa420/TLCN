@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/security-administrator-onpoint-1324",
+  "tieu_de": "Security Administrator",
+  "ten_cong_ty": "Onpoint ",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Security",
+    "ServiceNow",
+    "English",
+    "IT Support",
+    "System Admin",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "AB Building, 27B Nguyen Dinh Chieu,",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Position Overview \nWe are seeking a highly skilled and proactive Security Administrator to join our technology team. This is a critical, hands-on role responsible for securing our entire digital footprint, from internal corporate systems to client-facing applications, including our proprietary solutions.\nThe ideal candidate is a versatile, technology-agnostic problem solver. You must be able to analyze complex environments, design robust security solutions, and execute the necessary configurations. A key part of this role is the ability to propose the right solution for the business, whether it is a proprietary, commercial product (like Microsoft's) or an open-source alternative.\nYou will be responsible for monitoring our security posture, responding to threats, and proactively hardening our systems. This position requires technical knowledge of both Microsoft environments and common open-source security platforms, along with a good understanding of application security. You will work hand-in-hand with our engineering team to integrate security into all aspects of our technology and will provide supervisory guidance on security-related tasks, reporting directly to the Head of Technology.\n \nKey Responsibilities\n1. Analysis & Monitoring:\n• Proactively monitor and analyze security alerts from our security tools to detect, investigate, and respond to potential threats.\n• Conduct regular vulnerability assessments and risk analyses across all corporate and client-front systems.\n• Analyze the security of our applications, identifying potential vulnerabilities in architecture and configuration, and working with engineering to prioritize remediation.\n2. Solution Design & Proposal:\n• Evaluate the current security posture and propose practical, effective solutions and configuration changes to mitigate risks.\n• Evaluate and recommend new security technologies, comparing commercial and open-source solutions to determine the most effective and cost-efficient way to meet security objectives.\n• Design secure configurations for new and existing systems and applications.\n3. Execution & Configuration:\n• Lead the hands-on configuration, implementation, and hardening of our Microsoft ecosystem (Microsoft 365, Entra ID, Azure, Defender Suite, Intune).\n• Install, configure, and manage a diverse range of security tools, including selected open-source platforms (SIEMs, log management, vulnerability scanners...).\n• Execute remediation plans for identified vulnerabilities, including patch management and system reconfiguration.\n4. Supervision & Collaboration:\n• Provide technical supervision and guidance to engineering and IT team members on the correct implementation of security controls and best practices.\n• Act as the primary technical point of contact for security incidents, coordinating the response between the technology team and management.\n• Work closely with the Head of Technology to develop, document, and maintain security policies, standards, and procedures.\n• Liaise with the engineering team to ensure security is a core component of all new product development and system rollouts.",
+  "yeu_cau": "Required Qualifications & Skills\nExperience: 5+ years of proven experience in a hands-on technical security role such as Security Administrator, Senior Systems Engineer, Security Specialist.\nMicrosoft Expertise: Expert-level knowledge of the Microsoft security ecosystem, including:\nMicrosoft 365 & Entra ID (Azure AD) administration and security.\nDefender Suite (for Endpoint, for Cloud, for 365).\nOpen-Source Security Knowledge:\nDemonstrable experience with and a strong understanding of open-source security solution. \nThe ability to propose, implement, and manage these tools where they are the best fit is essential.\nRelevant experience in toolsets such as: Log Management/SIEM, Vulnerability Management, or Network/Endpoint Security.\nApplication Security: Strong understanding of application security principles (OWASP Top 10) and experience securing proprietary applications. Must be able to analyze applications for security flaws and recommend configuration-based solutions.\nNetwork Security: Good understanding of network security fundamentals (TCP/IP, DNS, DHCP, VPNs) and network protocols.\nTechnical Skills:\nProven experience in security analysis, solution design, and hands-on system configuration across diverse (proprietary and open-source) environments.\nSoft Skills:\nStrong analytical and problem-solving skills with meticulous attention to detail.\nExcellent communication skills, with the ability to explain complex security concepts to technical and non-technical stakeholders.\nDemonstrated ability to manage multiple priorities, work independently, and collaborate effectively with a team.\nPreferred Qualifications\nRelevant professional certifications (e.g., Microsoft SC-200/SC-300, CISSP, CompTIA Security+).\nScripting experience (PowerShell, Python, or Bash) for security automation.\nExperience with cloud security in Azure.\nFamiliarity with compliance frameworks such as ISO 27001, SOC 2, or NIST.",
+  "quyen_loi": "Opportunity for regional scale (South East Asia)\nEnrich your skills and develop your potential\nEnjoy motivating working conditions\n\nAllowances\nWork from home 4 days/month\nFull salary insurance\nPremium health insurance\nFlexible check-in/check-out\nTet, performance bonus\nUp to 19 days of leaves\nEnjoy free coffee and tea\nLaptop provided",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0ODcxLCJwdXIiOiJibG9iX2lkIn19--5235b64078793b6c90fb00b7cf61f8b268ad2965/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/onpoint-logo.png",
+  "company_url": "/companies/onpoint",
+  "company_mo_ta": "E-commerce solution partner, help brands & retailers become more successful in Vietnam & SEA region",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

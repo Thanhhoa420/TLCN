@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/software-developer-pl-sql-java-react-hansen-technologies-2555",
+  "tieu_de": "Software Developer PL/SQL, Java, React",
+  "ten_cong_ty": "Hansen Technologies",
+  "ngay_dang_raw": "2026-08-29",
+  "han_ung_tuyen_raw": "2026-10-03",
+  "ky_nang": [
+    "PL/SQL",
+    ".NET",
+    "Hibernate",
+    "Oracle",
+    "Java",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "100 Xuan Thuy, An Khanh Ward",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Who Are We\nHansen Technologies is a leading global provider of software and services that enable organisations to transform customer experiences and streamline critical business processes. With a rich history of innovation and a footprint that spans over 80 countries, Hansen empowers utilities, energy, and communications companies to thrive in an ever-evolving digital landscape. Our commitment to excellence, customer focus, and collaborative culture makes Hansen a place where passionate professionals can make a meaningful impact, drive real change, and help shape the future of industries worldwide. \n \nWe are proud to be an equal opportunities employer. Hansen prides itself on celebrating diversity and is committed to creating an inclusive environment for all employees, even extending this to how we work with our customers, partners, and suppliers. We welcome applications from all qualified candidates, regardless of age, disability, gender identity or expression, marital status, race, ethnicity, religion or belief, sexual orientation, or any other protected characteristic. If you require any adjustments or accommodation during the recruitment process, please let us know.\n \n \nWhy This Role Matters \n \nBuild. Integrate. Modernise. Deliver.\n \nAt Hansen, we're helping communications providers deliver seamless experiences to millions of customers. As a Software Developer within our CCB-HU team, you'll play a key role in developing and modernising enterprise-scale solutions that support billing, subscription management, order fulfilment, and customer account services.\n \nThis is an exciting opportunity for developers who enjoy working across multiple technologies, solving real business challenges, and contributing to the evolution of large-scale enterprise platforms.\n \n \nWhat You’ll Do \nDevelop and deliver full-stack features across backend and frontend applications as part of an Agile Scrum team. \nDesign, build, and integrate RESTful APIs supporting customer management, subscriptions, orders, payments, and billing services. \nDevelop and maintain Oracle database components, including PL/SQL packages, stored procedures, triggers, and views. \nParticipate in software design, coding, testing, deployment, and ongoing application support. \nCreate and maintain technical documentation, architecture diagrams, and solution designs. \nApply secure coding standards and support compliance with information security best practices throughout the SDLC. \nContribute to platform modernisation, cloud migration initiatives, and continuous improvement activities. \nTake ownership of technical issues and proactively deliver solutions across the full technology stack.",
+  "yeu_cau": "What You Bring\n3+ years of software development experience in enterprise application environments. \nStrong backend development skills using Java/Jakarta EE. \nExperience building RESTful APIs using JAX-RS, Jackson, and OpenAPI (Swagger). \nSolid understanding of Hibernate ORM, JPA, and relational database design principles. \nStrong Oracle SQL and PL/SQL experience, including stored procedures, packages, triggers, and views. \nExperience with Git-based source control and collaborative development practices. \nUnderstanding of unit and integration testing frameworks such as JUnit, Mockito, and Rest-Assured. \nWorking knowledge of Docker, Docker Compose, Maven, or Gradle. \nExposure to React and TypeScript, or a genuine interest in developing modern frontend applications. \nExposure to .NET/C# development and systems integration, or willingness to develop these skills.\n \nNice to have\nExperience with Quarkus or Jakarta EE application servers such as Payara.\nKnowledge of AWS cloud services including ECS, EC2, ECR, S3, CloudWatch, and Secrets Manager. \nExperience building and maintaining CI/CD pipelines using Jenkins. \nFamiliarity with OAuth 2.0, JWT authentication, and secure API design. \nExperience with React ecosystems including Material UI, Vite, and TypeScript tooling. \nExposure to observability and monitoring platforms such as Dynatrace. \nExperience with automation testing tools such as Robot Framework or Playwright.\nTelecommunications domain experience, particularly within billing or subscription management platforms. \nPassion for continuous improvement, learning new technologies, and working in a collaborative global environment.",
+  "quyen_loi": "Global Company- Develop Your Career & English\nCompetitive Salary, and company profit share\nOnsite opportunities\n\nCompetitive Market Rate Salary - full salary (including SI contribution) during the probation period and 13th-month salary\nTwice yearly salary review\nFull participation in the annual Hansen Profit Share Program\nGreat Leave Options – including 12 days annual leave during Year 1, increasing to 15 days annual leave and 12 days paid sick leave per year).\nPremium healthcare for employee and dependents (spouse and {all} children and support for parents). Also, free comprehensive annual check-up for employees.\nHigh-speed Internet credit: VND 5,5million/year\nWellness benefit: VND 2million annually for fitness package/devices\nFree lunch, snacks, and drink in our new modern offices, which have a cool open atmosphere with an outdoor cafe, bar, and recreation area in District 2 – including free scooter parking\nContinuous Learning and Development, including personalised Udemy Business – online learning platform.\nReward and Recognition - Company sponsored trips and events, tenure milestones and global recognition program.\nNew, modern developer laptop, 2 large monitors, and headset.\nAn international work environment, highly skilled colleagues to learn from both locally and globally where you can develop your IT career and English skills.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMwODI3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--6524d29f422b056f59172a3b3114e454ae145cde/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image_2023_02_16T04_32_21_317Z.png",
+  "company_url": "/companies/hansen-technologies",
+  "company_mo_ta": "Hansen Technologies Limited",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

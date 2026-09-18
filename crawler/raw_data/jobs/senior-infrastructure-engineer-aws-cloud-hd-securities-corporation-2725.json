@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-infrastructure-engineer-aws-cloud-hd-securities-corporation-2725",
+  "tieu_de": "Senior Infrastructure Engineer AWS  Cloud",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Cloud",
+    "Networking",
+    "CI/CD",
+    "CloudFormation",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "900 - 1,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vị trí\nVị trí chịu trách nhiệm xây dựng, vận hành và tối ưu toàn bộ hạ tầng công nghệ trên nền tảng AWS Cloud và on-premises — đảm bảo các hệ thống giao dịch chứng khoán, ứng dụng khách hàng và hệ thống nội bộ luôn hoạt động ổn định, bảo mật và có khả năng mở rộng\n \nMô tả công việc\n1. Thiết kế và vận hành hạ tầng Cloud (AWS)\nThiết kế, triển khai và vận hành hạ tầng AWS end-to-end: networking (VPC, subnet, route table, NAT/Internet Gateway, Security Group), compute (EC2, ECS, EKS), storage (S3, EBS, EFS) và managed services. \nCấu hình và vận hành kết nối bảo mật giữa các môi trường và đối tác qua VPC Peering, Transit Gateway, VPN Site-to-Site và AWS PrivateLink. \nQuản lý DNS với Route 53, cân bằng tải với ALB/NLB, bảo vệ edge với CloudFront và AWS WAF; đảm bảo phân vùng mạng và kiểm soát traffic theo yêu cầu bảo mật tài chính. \nVận hành workload container trên ECS hoặc EKS: thiết lập cluster, cấu hình auto scaling, quản lý node và tích hợp deployment pipeline. \nĐánh giá và áp dụng serverless (Lambda, API Gateway) cho các tác vụ phù hợp nhằm tối ưu chi phí và vận hành. \n2. Hạ tầng on-premises và hybrid\nQuản trị hệ thống máy chủ vật lý và ảo hóa (VMware/Hyper-V); đảm bảo tính sẵn sàng và hiệu năng của hạ tầng on-premises phục vụ các hệ thống lõi. \nVận hành hệ thống mạng nội bộ: firewall, router, switch, load balancer, VPN và các kết nối liên mạng; phối hợp với đội network trong cấu hình và xử lý sự cố. \nQuản lý và tối ưu hạ tầng lưu trữ (SAN/NAS), backup và disaster recovery; đảm bảo RPO/RTO phù hợp với yêu cầu của hệ thống tài chính. \nXây dựng và duy trì kiến trúc hybrid cloud: kết nối liền mạch giữa môi trường on-premises và AWS, đảm bảo tính nhất quán về bảo mật và vận hành. \n3. Infrastructure as Code và tự động hóa\nĐịnh nghĩa và quản lý toàn bộ hạ tầng bằng IaC (Terraform, AWS CloudFormation hoặc CDK); kiểm soát phiên bản và thực hiện peer review trước khi áp dụng thay đổi. \nXây dựng và duy trì CI/CD pipeline cho việc triển khai hạ tầng và ứng dụng; đảm bảo quy trình deploy an toàn, có thể lặp lại và rollback khi cần. \nTự động hóa các tác vụ vận hành định kỳ: provisioning, patching, scaling, configuration management; giảm thiểu thao tác thủ công và rủi ro lỗi người dùng. \nDuy trì các module, template và chuẩn hạ tầng tái sử dụng; đảm bảo tính nhất quán giữa các môi trường DEV, SIT, UAT và Production. \n4. Bảo mật hạ tầng và tuân thủ\nQuản lý identity và access với IAM: thiết kế role, policy, least privilege và federation; phối hợp với đội bảo mật trong kiểm soát quyền truy cập. \nTriển khai mã hóa dữ liệu at-rest và in-transit với KMS, quản lý certificate và xử lý secrets an toàn với Secrets Manager hoặc Parameter Store. \nVận hành công cụ bảo mật và governance: GuardDuty, Security Hub, AWS Config, CloudTrail, Inspector; xử lý các phát hiện bảo mật trong thời hạn quy định. \nHỗ trợ kiểm toán, compliance và các yêu cầu quản lý nhà nước liên quan đến hạ tầng công nghệ của công ty chứng khoán; cung cấp bằng chứng kiểm soát và tài liệu kỹ thuật khi cần. \n5. Giám sát, quan sát hệ thống và xử lý sự cố\nXây dựng hệ thống monitoring, logging, tracing, dashboard và alerting với CloudWatch kết hợp Prometheus, Grafana hoặc ELK Stack. \nĐịnh nghĩa và theo dõi SLO/SLA cho các hệ thống quan trọng; đảm bảo hạ tầng đáp ứng cam kết về availability và performance. \nTham gia on-call rotation, xử lý incident production, phân tích root cause và triển khai biện pháp ngăn lỗi tái diễn; cập nhật runbook và post-incident report. \nThực hiện kiểm tra định kỳ disaster recovery và failover; đảm bảo kế hoạch phục hồi hoạt động đúng theo thiết kế.",
+  "yeu_cau": "Kinh nghiệm và trình độ\nTốt nghiệp Đại học chuyên ngành Công nghệ thông tin, Khoa học máy tính, Mạng máy tính hoặc các ngành liên quan.\nCó từ 3–5 năm kinh nghiệm thực tế vận hành hạ tầng cloud, trong đó có kinh nghiệm AWS rõ ràng và có thể chứng minh. \nKỹ năng kỹ thuật bắt buộc\nThành thạo AWS networking: VPC design, subnet, security group, routing, DNS, load balancing và edge protection. \nCó kinh nghiệm thực tế với EC2, ECS/EKS, bao gồm provisioning, patching, scaling và quản lý vòng đời. \nThành thạo Infrastructure as Code với Terraform hoặc CloudFormation; có kinh nghiệm quản lý state, module và CI/CD pipeline cho hạ tầng. \nCó kiến thức vững về cloud security: IAM, KMS, Secrets Manager, CloudTrail và các công cụ governance. \nThành thạo Linux administration và ít nhất một ngôn ngữ scripting: Bash, Python hoặc tương đương. \nCó kinh nghiệm với monitoring stack: CloudWatch, Prometheus, Grafana hoặc ELK; biết cấu hình alert và dashboard. \nKỹ năng ưu tiên\nCó chứng chỉ AWS: Solutions Architect Associate/Professional, SysOps Administrator hoặc DevOps Engineer Professional. \nCó kinh nghiệm với Kubernetes chuyên sâu: service mesh, Helm, network policy và advanced scheduling. \nCó kinh nghiệm thiết kế kiến trúc multi-region hoặc disaster recovery cho hệ thống high availability. \nCó kiến thức về PCI DSS, ISO 27001 hoặc các chuẩn tuân thủ bảo mật trong lĩnh vực tài chính. \nCó kinh nghiệm với hybrid cloud (kết hợp on-premises và AWS) và các công cụ migration.",
+  "quyen_loi": "Quyền lợi\nLộ trình phát triển rõ ràng: Infrastructure Engineer → Senior Infrastructure Engineer → Cloud Architect → Head of Infrastructure.\nThu nhập cạnh tranh theo năng lực, xét tăng lương định kỳ hàng năm.\nTham gia BHXH, BHYT, BHTN đầy đủ; bảo hiểm sức khỏe và tai nạn 24/24.\nHỗ trợ thi chứng chỉ AWS và các chứng chỉ kỹ thuật liên quan.\nMôi trường làm việc chuyên nghiệp, tiếp cận hạ tầng quy mô lớn trong lĩnh vực tài chính – chứng khoán.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

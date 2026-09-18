@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/hardware-engineer-rf-design-test-field-application-hella-vietnam-2716",
+  "tieu_de": "Hardware Engineer RF Design/Test  Field Application",
+  "ten_cong_ty": "Hella Vietnam",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Embedded",
+    "English",
+    "Hardware Design"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "No. 09 Ton Duc Thang",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. RF Hardware Design & Development\n• Design and develop RF-based automotive electronics including:\n Key fobs\n NFC modules\n Smart access control units\n Multi-functional body control units\n• Support system architecture definition and translate system requirements into HW design.\n• Work with technologies such as CAN, BLE, UWB, LF/RF communication in car access systems.\n• Perform circuit design, simulation, and schematic/layout reviews using tools (e.g. PSpice, CST, Empire).\n \n2. HW Validation & Testing (Focus for Vietnam Team)\n• Build up prototypes and samples; perform hardware bring-up.\n• Conduct:\no RF validation & debugging\no Embedded SW validation (interface with HW)\no Electrical and functional testing\n• Develop and operate test setups, including:\no RF measurement equipment\no Automated/robotic test systems\no CAN-based interconnected control units\n• Perform measurement, debugging, and root cause analysis on failures.\n \n3. Field Application & Customer Support\n• Execute vehicle-level testing and validation at customer sites.\n• Analyse field data and provide technical feedback to development teams.\n• Support front-end customer activities, including:\no Demo setups\no Application validation\no Technical presentations\n• Act as HW interface to customers for issue resolution and technical clarification.\n \n4. Industrialization & Project Contribution\n• Support the full product lifecycle:\no Concept & architecture\no Development & validation\no Industrialization & SOP\n• Collaborate with global teams (Germany, other regions) to ensure product readiness for mass production.\n• Contribute to acquisition activities as RF/HW specialist.\n \n5. Cross-functional Collaboration\n• Work closely with:\no Hardware (HW) teams\no System engineering (SYS)\no Software development (SW / Embedded)\n• Operate in an international, intercultural environment with strong teamwork culture.",
+  "yeu_cau": "Education & Experience\n• Master’s or Bachelor’s degree in:\no Electrical Engineering\no Electronics / Telecommunications\no Information Technology\n• Experience in automotive hardware development or RF systems is highly preferred.\n \nTechnical Skills\n• Strong knowledge of:\nRF design and measurement techniques\nAutomotive communication technologies (CAN, BLE, UWB, LF)\nRadar / RF systems (advantage)\n• Hands-on experience with:\nRF lab equipment (spectrum analyzer, network analyzer, etc.)\nTest system development and automation\n• Familiarity with:\nSimulation tools (PSpice, CST, Empire, etc.)\nEmbedded systems and HW-SW interaction\n• Proficient in MS Office tools\nSoft Skills\n• Strong analytical and problem-solving mindset\n• Ability to work independently and within global teams\n• Good communication and presentation skills\n• Customer-oriented thinking\n \nLanguage & Mobility\n• Fluent in English (mandatory)\n• Japanese is a plus\n• Willingness to travel:\no Customer sites\no Global HELLA locations\no Supplier visits",
+  "quyen_loi": "Friendly working environment,\nCompetitive Salary\nTraining abroad opportunities\n\nBesides competitive salary, we also offer other compelling benefits to our employees.\n \nOur building is located in the center of Ho Chi Minh city, close to the airport and within walking distance to the central downtown.\nThe office is modern and bright, where our employees are working in an open office environment, with spacious and comfortable working stations. They are provided with novel appliances to fulfill their tasks at their best convenience. We have meeting rooms with modern conference call system which can be used to communicate with other HELLA locations. Working here, you also have a chance to learn from our specialists from all over the world, to work with international teams and to travel to Asia and Europe.\nOur company has two fully equipped pantries for our employees with modern facilities and are well taken care of. To protect our employees, in addition to public health, our employees are granted private health care with favourable conditions for them and two other dependants.\nFurthermore, we take our employee's happiness as one of our most important concerns. We hold an annual outing trip to help create a friendly and cooperative relationship in the company. We also offer other outdoor activities such as providing tickets to participate in public events (Color me run, Oktoberfest, etc.), and providing a staff recreation allowance for department team building activities, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcyMjE5MywicHVyIjoiYmxvYl9pZCJ9fQ==--5f09610180aebb260c0fc5aabc0580ba1dc2c69c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Forvia_Hella_Logotype_Positif_RGB.jpg",
+  "company_url": "/companies/hella-vietnam",
+  "company_mo_ta": "One of the world‘s leading suppliers to the automotive sector",
+  "job_expertise": [
+    "Hardware-Software Integration Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

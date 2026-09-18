@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/database-administrator-developer-dba-ngan-hang-thuong-mai-tnhh-mtv-ky-nguyen-thinh-vuong-gpbank-3627",
+  "tieu_de": "Database Administrator Developer DBA",
+  "ten_cong_ty": "NGÂN HÀNG THƯƠNG MẠI TNHH MTV KỶ NGUYÊN THỊNH VƯỢNG (GPBANK)",
+  "ngay_dang_raw": "2026-09-05",
+  "han_ung_tuyen_raw": "2026-10-10",
+  "ky_nang": [
+    "Cloud",
+    "Azure",
+    "ETL",
+    "Data Warehousing",
+    "AI",
+    "Data modeling"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "18 Phạm Hùng",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,000 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Tư vấn, đề xuất và triển khai mô hình quản trị và vận hành cơ sở dữ liệu tuân thủ tiêu chuẩn của tổ chức và quy định của Ngân hàng Nhà nước Việt Nam (SBV).\nGiám sát hiệu năng, tính khả dụng và mức độ sử dụng dung lượng của cơ sở dữ liệu; tối ưu hóa truy vấn và tài nguyên hệ thống.\nThiết lập và vận hành cơ chế sao lưu (backup), khôi phục (restore) và khắc phục thảm họa (disaster recovery - DR) nhằm đảm bảo an toàn dữ liệu và khả năng khôi phục kịp thời.\nQuản trị phân quyền truy cập, mã hóa dữ liệu và triển khai các biện pháp bảo mật cơ sở dữ liệu tuân thủ chính sách nội bộ và tiêu chuẩn quy định (như GDPR, ISO 27001).\nPhối hợp với các đội phát triển, tích hợp và phân tích dữ liệu để tối ưu hóa cấu trúc và hiệu năng cơ sở dữ liệu.\nVận hành và duy trì cơ chế tính sẵn sàng cao (high-availability) và nhân bản dữ liệu (replication), bao gồm Clustering, AlwaysOn, Data Guard, Log Shipping và các cơ chế khác.\nXây dựng và duy trì tài liệu kỹ thuật, bao gồm sơ đồ kiến trúc cơ sở dữ liệu, hướng dẫn khôi phục, quy trình bảo trì và Quy trình vận hành chuẩn (SOP).\nTham gia các dự án triển khai hạ tầng, chuyển đổi dữ liệu (data migration) và di chuyển lên nền tảng đám mây (cloud migration) khi có yêu cầu.",
+  "yeu_cau": "Tốt nghiệp Cử nhân hoặc Thạc sĩ trở lên chuyên ngành: Công nghệ thông tin, Khoa học máy tính, Khoa học dữ liệu, Toán – Tin, Hệ thống thông tin, Kinh tế lượng/Thống kê, Tài chính/Ngân hàng hoặc các chuyên ngành liên quan.\nCó từ 2–5 năm kinh nghiệm trong các vai trò như: DBA, DBA Developer, Data Engine  hoặc tương đương.\nHiểu biết cơ bản về các thành phần trong hệ sinh thái dữ liệu, công nghệ: Database, DevOps, Developer, hoặc tối ưu CSDL với workload lớn trong mảng Banking, FinTech.\nƯu tiên ứng viên có kinh nghiệm làm việc với các hệ thống CSDL lớn  trong lĩnh vực ngân hàng.\nƯu tiên ứng viên có kinh nghiệm làm việc với hệ quản trị CSDL (SQL Server, Oracle, PostgreSQL) hoặc các hệ thống CoreBanking (T24, FLEXCUBE…).",
+  "quyen_loi": "Gói Thu nhập 15-16 tháng/năm  & các khoản thưởng khác theo hiệu quả công việc.\nPhụ cấp ăn ca, du lịch, hiếu hỉ,….\nBảo hiểm sức khỏe GPBankCare GOLD cho CBNV và gia đình.\nHỗ trợ đào tạo chuyên môn và các chứng chỉ quốc tế.\nCơ hội tham gia các dự án Full Cloud Services, New Core Banking Transformation, Data & Digital Banking quy mô lớn.\nLộ trình phát triển nghề nghiệp rõ ràng theo hướng Leader/Expert.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcyNzIyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--5f82d19802042c8c51ce5cfb8c349543d0ca96d2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Standard%20(1).png",
+  "company_url": "/companies/ngan-hang-thuong-mai-tnhh-mtv-ky-nguyen-thinh-vuong-gpbank",
+  "company_mo_ta": "Ngân hàng Thương mại Trách nhiệm Hữu hạn Một thành viên Kỷ Nguyên Thịnh Vượng",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

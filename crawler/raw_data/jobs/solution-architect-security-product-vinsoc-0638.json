@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-security-product-vinsoc-0638",
+  "tieu_de": "Solution Architect, Security Product",
+  "ten_cong_ty": "VinSOC",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    "Software Architecture",
+    "LLM",
+    "Data Warehousing",
+    "AI",
+    "DevSecOps",
+    "Security"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Technopark Tower",
+  "quan_huyen": "Quận Long Biên",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "6,000 - 9,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Key Responsibilities\nDesign the overall architecture for the company's AI Security platforms and software products.\nDecompose complex systems into domains, modules, services, APIs, and data flows to enable scalability and independent team ownership\nDesign integration architectures with internal systems and third-party platforms\nEvaluate and recommend suitable architectural patterns, technologies, and technical solutions aligned with product and business requirements\nEstablish architecture standards and best practices covering system design, APIs, data models, security, and operations\nReview and approve technical designs to ensure architectural consistency, minimize technical debt, and support future scalability\nCollaborate closely with Product, Engineering, AI, Data, Security, and other stakeholders in cybersecurity to translate business requirements into scalable technical solutions\nProvide technical leadership and guidance to engineering teams throughout product development and operations\nDrive architectural governance and continuously improve platform reliability, maintainability, and operational efficiency.",
+  "yeu_cau": "Requirements\nBachelor’s degree or higher in Computer Science, Information Technology, or a related field.\n10+ years of software engineering experience, including proven experience as a Software Architect, Solution Architect, or equivalent role.\nStrong experience designing and building large-scale distributed systems with demanding requirements for performance, scalability, and availability.\nDeep understanding of microservices architecture, API Gateway patterns, event-driven architecture, and system integration approaches.\nSolid experience with modern software development practices and technologies including Git, Docker, and CI/CD pipelines.\nHands-on experience with Kubernetes and cloud-native platforms is highly preferred.\nExperience with logging, monitoring, observability, stream processing, or event processing systems.\nStrong understanding of designing systems for performance, security, scalability, reliability, and operational excellence.\nStrong systems thinking, high-quality engineering standards, and excellent technical communication skills.\nPreferred Qualifications\nExperience building or architecting AI Platforms, Data Platforms, or Security Platforms.\nExperience in cybersecurity domains such as SIEM, SOAR, SOC, XDR, Threat Detection, or Security Analytics.\nExperience building large-scale log processing, data processing, or alert management systems.\nFamiliarity with Threat Intelligence, Security Operations, and cybersecurity standards or frameworks.\nExperience with AI-native architectures, LLM-based systems, or AI agents is a plus.\nWhy Join Us?\nOpportunity to build next-generation AI Security platforms at enterprise scale and solve highly complex technical challenges.\nShape the architecture and technology stack of strategic products from the ground up.\nWork alongside leading experts in AI, Cybersecurity, Data, and Platform Engineering.\nContribute to securing one of Vietnam's largest digital ecosystems through cutting-edge AI-driven security technologies.",
+  "quyen_loi": "Competitive Compensation\nCutting-Edge Technology, AI Security\nGlobal Environment\n\nWork on cutting-edge platforms at the intersection of Cloud, AI, and Cybersecurity.\nLead impactful initiatives with high ownership and real business impact.\nOpportunity to build and scale modern DevSecOps/MLOps platforms from the ground up.\nDynamic, fast-growing environment with top-tier engineering talent.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1Njk1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11d3390f3f4043281f72bd582f6687976328f232/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/ta%CC%89i%20xuo%CC%82%CC%81ng%20(5).jpeg",
+  "company_url": "/companies/vinsoc",
+  "company_mo_ta": "VinSOC",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Cyber Security"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

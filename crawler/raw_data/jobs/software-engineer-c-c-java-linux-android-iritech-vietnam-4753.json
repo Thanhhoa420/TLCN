@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/software-engineer-c-c-java-linux-android-iritech-vietnam-4753",
+  "tieu_de": "Software Engineer  C/C++/Java, Linux/ Android",
+  "ten_cong_ty": "IriTech Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "C++",
+    "Android",
+    "Linux",
+    "Java",
+    "Git",
+    "C language"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 8, toà nhà BCONS TOWER, số 176/1-176/3 Nguyễn Văn Thương",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "IriTech Incorporation is the global leader in iris recognition technology, delivering advanced biometric solutions including high-performance iris cameras, portable authentication devices, OEM modules, and iris recognition software for governments, enterprises, and emerging applications in mobile, automotive, AR/VR, and more.\nTo support our innovative software development and integration of iris biometrics into diverse platforms, we are seeking a talented Software Engineer to join our engineering team.\nIn this role, you will design, develop, and optimize software for IriTech's iris recognition solutions, ensuring secure, reliable, and high-performance operation across Windows, Linux, and Android environments.\nKey Responsibilities\nDevelop and maintain software applications and SDKs for iris biometric devices, including portable scanners, enrollment cameras, and OEM modules.\nIntegrate software solutions with underlying firmware and hardware platforms running on Windows, Linux, and Android.\nDesign and implement robust application programming interfaces (APIs) for biometric authentication and data processing.\nConduct debugging, testing, and performance tuning on target software platforms.\nResearch, evaluate, and implement new software technologies to enhance application performance and security.\nCollaborate with hardware, firmware, and product teams to deliver software for government projects (e.g., national ID programs) and commercial biometric solutions.\nDocument software architecture, implementation details, and contribute to internal knowledge sharing.",
+  "yeu_cau": "Bachelor's degree or higher in Computer Science, Computer Engineering, or a related field from a reputable university.\n3+ years of professional experience in software development (fresh graduates with strong relevant projects and skills will be considered).\nProficiency in C/C++ programming, alongside other relevant languages like Java or C#.\nStrong understanding of object-oriented programming, data structures, and software architecture.\nExperience developing applications and system services for Windows, Linux, or Android.\nExperience with debugging tools and version control (Git).\nExcellent problem-solving skills, attention to detail, and ability to work with technical documentation.\nGood English communication skills (written and spoken).\nTeam-oriented mindset: diligent, reliable, dynamic, and collaborative.",
+  "quyen_loi": "Attractive and competitive salary\nOpportunity for overseas working/training\nFriendly, young & dynamic working environment\n\nHighly competitive salary package (up to industry-leading levels based on experience).\nComprehensive benefits: Extra health care insurance, annual health check-up, 13th-month salary, lunch allowances, 15 days of annual leave, annual company trip, frequent team-building activities.\nOpportunities for international onsite work and travel\nFrequent performance reviews with clear promotion paths.\nFree food and drinks available at our modern cafeteria.\nDynamic, international, and friendly working environment in a fast-growing global leader in biometrics.\nFlexible working hours (Monday to Friday).\nDaily challenges that push your technical limits in cutting-edge biometric technology.\nExcellent career development opportunities in software engineering",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2ODY3LCJwdXIiOiJibG9iX2lkIn19--d7ee35cca29b4a2a48c8fce0c03e138312b89176/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/iritech-vietnam-logo.png",
+  "company_url": "/companies/iritech-vietnam",
+  "company_mo_ta": "IriTech, Inc. is one of world-leading Biometrics Technology providers",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

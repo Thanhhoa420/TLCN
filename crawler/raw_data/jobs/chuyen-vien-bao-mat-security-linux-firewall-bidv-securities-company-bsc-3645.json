@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-vien-bao-mat-security-linux-firewall-bidv-securities-company-bsc-3645",
+  "tieu_de": "Chuyen vien Bao mat Security/Linux/Firewall",
+  "ten_cong_ty": "BIDV Securities Company (BSC)",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "Security",
+    "SIEM",
+    "IDS/IPS",
+    "Firewall",
+    "Linux"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 8, tầng 9 LPB Tower số 210 Trần Quang Khải",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Quản lý & Vận hành hệ thống bảo mật:\n- Trực tiếp cấu hình, quản trị và tối ưu hóa hiệu năng các giải pháp/thiết bị bảo mật cốt lõi: Tường lửa (Firewall), Hệ thống ngăn ngừa xâm nhập (IPS/IDS), Tường lửa ứng dụng web (WAF), Hệ thống giám sát an ninh tập trung (SOC/SIEM), Bảo mật đầu cuối (Endpoint Security), Hệ thống quản lý tài khoản đặc quyền (PAM), Hệ thống Internet Proxy...\n- Quản lý, phân quyền và giám sát quyền truy cập hệ thống hạ tầng theo chính sách đặc quyền tối thiểu (Least Privilege).\n- Cập nhật định kỳ và triển khai các bản vá lỗ hổng bảo mật (patching) cho hệ thống.\n- Đề xuất giải pháp mở rộng, cải tiến hệ thống.\n2. Giám sát & Ứng cứu sự cố an ninh mạng:\n- Theo dõi và phân tích các cảnh báo an ninh từ hệ thống giám sát tập trung (SOC/SIEM) nhằm kịp thời phát hiện sớm các hành vi bất thường, các cuộc tấn công mạng hoặc mã độc xâm nhập.\n- Chủ trì kịch bản và phối hợp với các bộ phận liên quan để ứng cứu, xử lý các sự cố an toàn thông tin (tấn công từ chối dịch vụ DDoS, mã hóa dữ liệu Ransomware, rò rỉ dữ liệu...).\n- Thực hiện điều tra kỹ thuật (Forensics) sau sự cố, xác định nguyên nhân gốc rễ và lập báo cáo khắc phục, ngăn ngừa tái diễn.\n3. Đánh giá lỗ hổng & Kiểm tra an ninh (Security Assessment):\n- Thực hiện rà quét lỗ hổng định kỳ (Vulnerability Assessment) cho toàn bộ hệ thống mạng, hệ điều hành máy chủ, cơ sở dữ liệu và hệ thống website/ứng dụng giao dịch của khách hàng.\n- Phối hợp với các đối tác độc lập bên ngoài để thực hiện đánh giá, kiểm thử xâm nhập (Penetration Testing) định kỳ theo yêu cầu tuân thủ của cơ quan quản lý.\n- Đánh giá rủi ro an ninh thông tin khi triển khai các tính năng phần mềm, dịch vụ CNTT mới trước khi chính thức vận hành (Golive).\n4. Tuân thủ quy định & Xây dựng chính sách:\n- Tham gia nghiên cứu, xây dựng và cập nhật các quy trình, quy định, hướng dẫn về an toàn bảo mật thông tin nội bộ của Công ty.\n- Đảm bảo toàn bộ hệ thống CNTT tuân thủ các tiêu chuẩn bảo mật của ngành tài chính - chứng khoán và hướng dẫn từ UBCKNN, các Sở Giao dịch Chứng khoán và VSDC.",
+  "yeu_cau": "1. Trình độ học vấn:\n- Tốt nghiệp Đại học trở lên chuyên ngành An toàn thông tin, Công nghệ thông tin, Điện tử viễn thông hoặc các ngành tương đương.\n2. Kinh nghiệm:\n- Tối thiểu 02 năm kinh nghiệm làm việc thực tế tại vị trí An ninh bảo mật hệ thống.\n- Ưu tiên ứng viên:\n        + Đã từng làm việc tại các Công ty Chứng khoán, Ngân hàng, Tổ chức Tài chính hoặc các đơn vị quản lý hạ tầng công nghệ trọng yếu;\n        + Hoặc có kinh nghiệm thực hiện kiểm thử xâm nhập thực tế.\n3. Kiến thức & Kỹ năng kỹ thuật:\n- Nắm vững kiến thức nền tảng về kiến trúc mạng (TCP/IP), mô hình OSI, các hệ điều hành hệ thống (Windows Server, Linux) và các giao thức mã hóa/bảo mật.\n- Có kỹ năng cấu hình và quản trị thiết bị bảo mật của các hãng lớn: CheckPoint, Trellix, Citrix/F5, Cisco...\n- Có kiến thức tốt về các loại lỗ hổng bảo mật phổ biến (OWASP TOP 10) và các phương thức tấn công APT, Malware hiện đại.\n4. Chứng chỉ chuyên môn:\n- Ưu tiên ứng viên có các chứng chỉ quốc tế uy tín về bảo mật như: CompTIA Security+, CEH, CCNA/CCNP Security, OSCP, ...\n5. Kỹ năng mềm:\n- Khả năng chịu áp lực công việc tốt; tư duy logic, phân tích và giải quyết vấn đề nhạy bén; đọc hiểu tốt các tài liệu kỹ thuật bằng Tiếng Anh.",
+  "quyen_loi": "Chế độ thu nhập tương xứng với năng lực\nĐược thưởng theo hiệu quả kinh doanh của công ty\nChế độ du lịch hàng năm\n\n- Mức thu nhập cạnh tranh dựa trên năng lực, kinh nghiệm và hiệu suất công việc.\n- Được thưởng theo hiệu quả kinh doanh của Công ty, thưởng trong các dịp lễ 30/04, 2/9, sinh nhật Công ty, Tết,…\n- Được hưởng các chế độ BHXH, BHYT, Bảo hiểm sức khỏe, bảo hiểm nhân thọ, khám bệnh định kỳ cho cán bộ…\n- Chế độ du lịch hàng năm, gala dinner,...,\n- Chế độ hỗ trợ chi phí các chương trình đào tạo cho cán bộ, nhân viên.\n- Có cơ hội làm việc trong môi trường chuyên nghiệp, tạo cơ hội thăng tiến trong công việc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyODE4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--fb021f190b5810ba9553e80b7880da2eb339c0c8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/bsc.png",
+  "company_url": "/companies/bidv-securities-company-bsc",
+  "company_mo_ta": "Công ty Cổ phần Chứng khoán BIDV (BSC) là Công ty chứng khoán đầu tiên trong ngành ngân hàng",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

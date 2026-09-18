@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/data-governance-manager-consumer-finance-upto-4000-lotte-finance-vietnam-1711",
+  "tieu_de": "Data Governance Manager Consumer Finance - Upto 4000",
+  "ten_cong_ty": "LOTTE FINANCE VIETNAM",
+  "ngay_dang_raw": "2026-08-17",
+  "han_ung_tuyen_raw": "2026-09-21",
+  "ky_nang": [
+    "Data-driven",
+    "Data Privacy / Compliance",
+    "Data Quality Tools",
+    "Team Management",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 12A, Tháp Tây, tòa nhà LOTTE Center Hà Nội, 54 Liễu Giai",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,800 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Governance Framework & Policy\n• Design, implement, and maintain the enterprise-wide Data Governance Framework, aligning with corporate strategy and regulatory requirements.\n• Define and enforce data policies, standards, and procedures for data quality, data lifecycle management, metadata management, and data access.\n• Establish a data ownership and stewardship model, ensuring accountability for data assets across business units.\n2. Data Quality & Compliance\n• Develop and monitor data quality metrics and KPIs, identify data quality issues, and coordinate remediation actions.\n• Ensure compliance with data-related regulations (e.g., GDPR, local data privacy laws, SBV/State Bank of Vietnam requirements for financial institutions).\n• Partner with IT, Risk, and Compliance teams to manage data security, privacy, and classification standards.\n3. Data Stewardship & Collaboration\n• Lead and coordinate data steward and data owner communities across the organization.\n• Provide training, awareness, and communication programs to promote a strong data culture.\n• Collaborate with business and technology teams to ensure alignment between data governance, architecture, and data analytics initiatives.\n4. Metadata & Master Data Management\n• Support implementation and adoption of metadata management tools, data catalogues, and master data management (MDM) systems.\n• Ensure consistent business glossary definitions and alignment across data domains.\n5. Reporting & Continuous Improvement\n• Regularly report data governance KPIs and progress to senior management and data governance committees.\n• Continuously assess and improve data governance maturity, practices, and tools.",
+  "yeu_cau": "Bachelor’s degree or higher in Information Management, Computer Science, Business, or related field.\n5+ years of experience in data management, governance, or data quality roles; at least 2–3 years in a managerial or leadership capacity.\nProven experience implementing enterprise data governance frameworks and tools (e.g., Collibra, Informatica Axon, Alation, IBM IGC).\nFamiliarity with data management best practices (DAMA-DMBOK) and regulatory requirements for data handling.\nStrong knowledge of data architecture, metadata, master data, and data quality management concepts.\nExcellent stakeholder management, communication, and facilitation skills.\nGood command of English is an advantage",
+  "quyen_loi": "Competitive income\n13th-month salary + performance-based bonus\n16 days of annual leave\nSocial insurance covered on 80% of total income\nBonuses for public holidays, company anniversary, and seniority\n24/7 health care insurance (including coverage for family members)\nAnd many other exclusive benefits only at Lotte Finance",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2ODYxLCJwdXIiOiJibG9iX2lkIn19--d6244aa989676855f99bf2c37fe824f77d42e8b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/lotte-finance-vietnam-logo.jpg",
+  "company_url": "/companies/lotte-finance-vietnam",
+  "company_mo_ta": "LOTTE FINANCE VIETNAM",
+  "job_expertise": [
+    "Data Governance Specialist"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

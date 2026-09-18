@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/net-developers-english-mortgage-systems-topicus-vietnam-4929",
+  "tieu_de": ".NET Developers English, Mortgage Systems",
+  "ten_cong_ty": "Topicus Vietnam",
+  "ngay_dang_raw": "2026-09-14",
+  "han_ung_tuyen_raw": "2026-10-19",
+  "ky_nang": [
+    ".NET",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "106 Nguyen Van Troi Street",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us\nAt Topicus, we believe IT should serve society. From healthcare and education to finance, our solutions empower millions of people every day by turning complex challenges into user-friendly platforms. We don't just build software; we increase self-reliance and reduce vulnerability for citizens worldwide.\n \nWith a team of over 1,800+ \"Topicans\" across Southeast Asia (Vietnam & Thailand) and Europe (the Netherlands, Romania, Portugal, and Iceland), we are constantly expanding our horizons. Our ambition reaches far beyond Europe, driven by a shared mission to make a meaningful difference.\n \nAbout the Role\nWe are seeking .NET Developers with a minimum of 3 years of professional experience in .NET development. Successful candidates will join our international team and contribute to the development of our Akkuro Mortgage platform (). This role involves close collaboration with team members in both Vietnam and the Netherlands, providing a dynamic and culturally diverse work environment.\n \nKey Responsibilities\nDesign, develop, and maintain .NET applications with a focus on technical excellence.\nCollaborate effectively with international team members to deliver high-quality software solutions.\nParticipate in code reviews to ensure adherence to coding standards and best practices.\nTroubleshoot and resolve technical issues to ensure smooth project execution.\nCreate and maintain clear and comprehensive technical documentation.\nSupport team members through coaching and leadership, ensuring a high-performing and motivated team.\nFrameworks and Tools Used\n.NET Framework, .NET 8\nEntity Framework\nWeb API\nDependency Injection (Autofac)\nNServiceBus\nNHibernate\nAzure Pipelines\nHelm Charts",
+  "yeu_cau": "Bachelor's degree in Computer Science, Information Technology, or a related field.\nStrong English communication skills, both written and verbal.\nMinimum of 3 years of experience in .NET development.\nProficiency in C# and the .NET framework.\nExperience with SQL databases.​\nStrong understanding of object-oriented programming principles.\nExcellent problem-solving skills and attention to detail.\nEffective communication and teamwork abilities.\nExperience leading a team.\nExperience with Azure DevOps and Azure Pipelines is a plus.\nExperience working in an international team is a plus.",
+  "quyen_loi": "Dynamic and international working environment\nHybrid working model and good work-life balance\nAttractive salary and benefits\n\nAttractive salary (annual salary review).\nFixed 13th-month salary and performance bonus.\nFull salary during probation and full coverage of social insurance.\nHybrid working model and good work-life balance.\nPremium healthcare (with annual health check-up).\n16 days of annual leave per year.\n5 paid sick leave days.\nDynamic and international English-speaking working environment.\nRegular gatherings (happy hour, bimonthly dinner, social events, etc.).\nAnnual company trip.\nFully stocked pantry with coffee and snacks.\nBudget for team activities.\nSupportive and diverse work environment that promotes continuous learning.\nOpportunity for traveling and training in the Netherlands.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NzkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--b1d337b730591713c64df8f1d446355a1997efa4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/dsdsddd.jpg",
+  "company_url": "/companies/topicus-vietnam",
+  "company_mo_ta": "Topicus Vietnam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

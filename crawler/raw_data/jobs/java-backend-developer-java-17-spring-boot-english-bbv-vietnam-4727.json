@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/java-backend-developer-java-17-spring-boot-english-bbv-vietnam-4727",
+  "tieu_de": "Java Backend Developer Java 17+, Spring Boot, English",
+  "ten_cong_ty": "bbv Vietnam",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "Java",
+    "Spring Boot",
+    "Kafka",
+    "SQL",
+    "Agile",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Anna Building, QTSC",
+  "quan_huyen": "Quận 12",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "WHAT YOU WILL LOVE DOING\nYou will work on enterprise-grade platforms across industries such as Real Estate, Facility Management, Healthcare, MedTech, and Insurance.\nDesign, develop, and maintain scalable enterprise applications using Java and Spring Boot.\nBuild and integrate RESTful APIs and event-driven services with Kafka.\nContribute to software architecture and technical design discussions.\nApply Clean Code, SOLID principles, and Java Design Patterns in daily development.\nParticipate in code reviews, pair programming, and Agile ceremonies.\nImplement and maintain CI/CD pipelines and containerized deployments.\nCollaborate with cross-functional teams in a Scrum/SAFe environment.\nTroubleshoot and resolve complex production issues as part of 3rd level support.\nSupport automated testing practices including TDD and integration testing.",
+  "yeu_cau": "Must have:\n5+ years of experience in Java software development.\n3+ years of experience with Java Spring Boot, REST APIs, JPA/Hibernate, and SQL databases.\nExperience with Angular, TypeScript, and modern web application development.\nHands-on experience with Kafka, Liquibase, Docker, Kubernetes, and CI/CD pipelines.\nExperience with Git, Maven, Jenkins, Azure DevOps, and SonarQube.\nFamiliarity with automated testing frameworks such as JUnit, Mockito, Playwright, or WireMock.\nSolid understanding of Clean Code, SOLID principles, Design Patterns.\nFamiliarity with Agile methodologies such as Scrum, Kanban, or SAFe.\nGood communication skills and collaborative mindset.\nNice to have:\nExperience with DDD, Hexagonal Architecture, Multi-Tenancy Architecture, or ARC42.\nExperience with Azure DevOps, Azure SQL, Kafka, Liquibase, or Playwright.\nFamiliarity with TDD, Pair Programming, and enterprise software architecture.\nExperience with AI-assisted development tools such as Claude Code.",
+  "quyen_loi": "Full insurance coverage based on NET salary.\n13th-month salary (paid semi-annually).\n50% annual loyalty bonus (from the 2nd year).\n\nCompetitive salary with full insurance coverage (medical, social, unemployment) based on net salary.\n13th-month salary (paid semi-annually, with partial payment made mid-year rather than waiting until year-end).\nPerformance review twice a year with bonus opportunities.\nAnnual loyalty bonus (50% of monthly net salary from the 2nd year).\nPremium health insurance and annual health check-up.\n14 days of leave, plus additional leave based on tenure.\nDaily perks: lunch allowance, free snacks/coffee, and sports activities.\nLearning & development support: training programs and certification sponsorship.\nEnglish-speaking environment with tuition support.\nTeam activities and events: company trips, team building, and holiday celebrations.\nOpportunity to work with international teams and join internal tech communities.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgzMDkxMywicHVyIjoiYmxvYl9pZCJ9fQ==--56af839d391d055bfe2bde8c7073a3e55e3e4d9d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/images.png",
+  "company_url": "/companies/bbv-vietnam",
+  "company_mo_ta": "bbv Vietnam stands for top quality in consulting, first class software engineering",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

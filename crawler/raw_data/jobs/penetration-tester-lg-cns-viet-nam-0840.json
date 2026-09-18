@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/penetration-tester-lg-cns-viet-nam-0840",
+  "tieu_de": "Penetration Tester ",
+  "ten_cong_ty": "LG CNS Việt Nam",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Penetration Testing",
+    "Pentest",
+    "Golang",
+    "iOS",
+    "Android",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 15, tòa Keangnam Landmark 72, Mễ Trì",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Perform Web Application and API penetration testing based on OWASP Top 10 and industry best practices. \nAnalyze and validate True/False Positive results from SAST, DAST, and SCA security tools. \nDevelop Proof‑of‑Concept (PoC) exploits for identified vulnerabilities, including CVE-level issues. \nConduct Mobile Application Security Testing for Android and iOS platforms. \nPerform manual penetration testing on web-based enterprise systems and prepare detailed security reports. \nProvide guidance on Secure Coding Practices to development teams. \nResearch new vulnerabilities (including potential 0‑days) and support CVE registration when applicable. \nCollaborate closely with Backend, DevOps, Cloud, and QA teams to ensure remediation and secure system architectures. \nUtilize scripting skills (Python, Go, Bash, etc.) to automate testing tasks and improve security workflows. \nParticipate in security architecture reviews and risk assessments. \nPerform penetration testing and security assessments on Cloud Services (AWS, GCP).",
+  "yeu_cau": "[Required] \nBachelor’s degree in Computer Science, Information Security, Software Engineering, or related field. \nHands-on experience in Application Security or Penetration Testing. \nStrong understanding of OWASP Top 10 and secure application development principles. \nExperience working with SAST, DAST, and SCA tools and validating their findings. \nAbility to develop PoCs and exploit known vulnerabilities (CVE-level experience preferred). \nBasic knowledge of security technologies such as Firewall, VPN, IPS/IDS, EDR. \nUnderstanding of IT infrastructure fundamentals (Network, WAS, DB, OS, etc.). \nProficiency in scripting languages such as Python, Go, or Bash. \nExperience with Mobile Application penetration testing (Android/iOS). \nCertifications such as OSCP, CEH (strongly preferred). \nSolid analytical, documentation, and communication skills. \nEnglish communication skills sufficient for team collaboration.                                                                                           [Preferred] \nAward history or strong performance in major CTF competitions. \nExperience discovering and registering 0‑day vulnerabilities (CVE assignment). \nHands-on experience with Cloud environments such as AWS or GCP. \nFamiliarity with DevSecOps, CI/CD security, or security automation. \nExperience with threat modeling or security design review.",
+  "quyen_loi": "Salary and bonus based on ability\nYoung and fun working environment\nOpportunities to study and work abroad.\n\n- Best remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.\n- High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.\n- Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.\n- Best working time: Work 8 hours/day (8:00 ~ 17:00), from Monday to Friday. No pressure to work overtime/weekends!\n- Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style!\n- Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.\n- Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!\n- Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MTIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--79414bdba1830df263fbf0fe3fbf7127abc83386/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Annotation%202025-02-14%20172858.jpg",
+  "company_url": "/companies/lg-cns-viet-nam",
+  "company_mo_ta": "TOP 1 IT COMPANY IN KOREA",
+  "job_expertise": [
+    "Security Tester / Penetration Tester"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

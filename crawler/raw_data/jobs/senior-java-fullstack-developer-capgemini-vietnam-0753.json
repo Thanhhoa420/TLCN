@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-java-fullstack-developer-capgemini-vietnam-0753",
+  "tieu_de": "Senior Java Fullstack Developer",
+  "ten_cong_ty": "Capgemini Vietnam",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Java",
+    "Spring Boot",
+    "Cloud",
+    "Spring",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "106 Nguyen Van Troi",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Analyse business requirements and architecture, design, develop/write code, unit test, implement features that\n \nIdentify opportunities to improve engineering and Squad’s delivery process. \n \nParticipate in and provide quality assurance activities, including code reviews, white-box unit testing, test coverage for own work, and test framework maintenance. Debugging and fixing code defects.\n \nTake ownership and accountability for production services, including fix on fail, problem investigation, root cause determination and resolution. \n \nParticipate in delivery of production change and releases, understanding change content, executing change control procedures, appropriate technical and business verifications, and communications. \n \nImplement monitoring and alerts. \n \nProduction Support and rostering as a primary support for critical applications.\n \nMaintain Risk Hygiene including vulnerabilities remediation, DB backups, restoration",
+  "yeu_cau": "Writing well designed, clean, readable and testable code using Java. Understands design patterns andnewmicroservices frameworks . \n \nRedesign legacy data flowswithmodern event publishing and streamprocessing patterns \n \nExperience withmicroservices, RESTAPIs, andSpring Boot framework \n \nUnderstanding ofpartitioning .message sequencing anderror handling \n \nAbility toperformdata-related benchmarking, performance analysis, and tuning \n \nDatabases Knowledge such asMySQL, PgSQL . Relational DB concepts/ tools/ code connections \n \nReact, Apollo client, AWS Experience\n \nRequirement:\n \nExperience with Java React, Springboot , microservices, SQL Database, CI/CD, Cloud (AWS), React , JavaScript, Github, Jenkins, Harness. \n \nOther capabilities Effective written & verbal communication skills.\n \nWork with stakeholders in Agile environment. \n \nExperience: 7-10 years experience as a Java full stack / AWS\n \nBanking and/or Finance industry exposure Qualification Requirements\n \nDegree in Computer Science/IT or equivalent",
+  "quyen_loi": "Benefit\nCompetitive salary, health insurance covered for employee and dependents.\nWorking on international projects. Professional and dynamic working environment\nAchieving valuable experience with variety projects, new technologies and hundreds of talents\nReceiving training opportunities including many technical seminars and soft skill training courses\nGood opportunity for promotion through regular performance review system.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzcwLCJwdXIiOiJibG9iX2lkIn19--b64c7e7749d6343faa318ff956e5f43d4db1d72f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/capgemini-vietnam-logo.jpg",
+  "company_url": "/companies/capgemini-vietnam",
+  "company_mo_ta": "One of the world leading company in IT services",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

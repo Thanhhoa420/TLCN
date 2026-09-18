@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-security-software-engineer-digital-banking-money-forward-vietnam-co-ltd-1922",
+  "tieu_de": "Principal Security Software Engineer Digital Banking",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Kotlin",
+    "English",
+    "OWASP",
+    "PostgreSql",
+    "Redis",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role\nWe're building the Authentication & Authorization platform for a new FSA-regulated digital bank in Japan. The platform powers OAuth 2.0/OIDC-based login, token lifecycle, and identity management across four banking channels — officer dashboards, customer-facing apps, BaaS APIs, and third-party service provider integrations.\nThe team is located in Vietnam HCM city with high ownership. You'll own entire auth flows end-to-end — not just write tickets.\n \nWhat You'll Build\nToken lifecycle — DPoP-bound access tokens, token exchange (RFC 8693), silent refresh, session management\nPasskey/FIDO2 — WebAuthn registration & login flows, step-up authentication for sensitive operations\nmTLS integrations — certificate-based service-to-service auth with external financial platforms\nShared security library — Spring Boot starter providing standardized auth filters across all backend services\nIntegration testing — Karate-based test suites covering all auth flows at scale\nMonitoring — Auth event observability, anomaly detection, audit trail completeness",
+  "yeu_cau": "Must-Have\nBackend\nOver 10 years in server-side engineering, including 5 to 7 years specializing in Kotlin or Java with Spring Boot development.\nRedis — session management, distributed locking, caching\nPostgreSQL — schema design, migrations\nREST API design and HTTP security headers\nEnglish proficiency (reading, writing, and verbal) — the primary working language across the team and organization for daily communication, code reviews, and technical documentation.\nSecurity & Auth\nStrong Spring Security expertise — filter chains, OAuth2 Resource Server\nWorking knowledge of OAuth 2.0 / OIDC — authorization code, client credentials, token exchange, introspection\nUnderstanding at least one: DPoP (RFC 9449), mTLS (RFC 8705), PKCE, FIDO2/WebAuthn\nFamiliarity with JWT structure — claims, JWKS, key rotation\nStrong knowledge of authentication, authorization, session management, and secure web application development.\nStrong understanding of the OWASP Top 10 — common web vulnerabilities, mitigation, and secure coding practices\nInfrastructure\nAWS — ECS/Fargate, Secrets Manager, VPC basics\nTerraform or similar IaC\nAPI integration testing (Karate preferred)\nNice-to-Have\nExperience with Authlete\nFAPI 2.0 Security Profile or financial-grade API standards\nMicrosoft Entra ID — SAML/OIDC federation, FIDO2 key enforcement\nCloudflare/ Akamia — mTLS termination, WAF, client certificate forwarding\nWebAuthn/FIDO2 ceremonies — attestation, assertion, discoverable credentials\nFintech/banking background — FSA regulations, maker-checker patterns, audit logging\nJapanese language ability (reading/basic communication) — a plus for requirement docs\nWhy This Role\n🏦 Real regulated bank — not a fintech startup, not a toy project. FSA-supervised, launching in Japan.\n🔐 Cutting-edge security standards — FAPI 2.0, DPoP, WebAuthn/FIDO2. Few teams globally work at this intersection.\n🚀 High ownership — small team, big scope. You'll own entire authentication channels, not just implement tickets.\n🌏 Global collaboration — work with engineers across Japan, Vietnam, and India on a greenfield digital banking platform.",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

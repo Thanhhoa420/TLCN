@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-ai-strategy-lead-cong-ty-co-phan-chung-khoan-xuan-thien-0858",
+  "tieu_de": "Solution Architect  AI Strategy Lead",
+  "ten_cong_ty": "Công ty Cổ phần Chứng khoán Xuân Thiện",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Solution Architecture",
+    "AI",
+    "Cloud",
+    "Microservices",
+    "TOGAF",
+    "Enterprise Architecture"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 6, Số 2 Đặng Thai Mai, P. Tây Hồ, Hà Nội",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,000 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. VỀ VỊ TRÍ NÀY:\nĐóng vai trò then chốt trong việc xây dựng, duy trì và phát triển Kiến trúc doanh nghiệp (Enterprise Architecture) của XTSC theo quy hoạch tổng thể, với tầm nhìn chiến lược từ 3 – 5 năm. Vị trí này sẽ trực tiếp tư vấn kiến trúc cho các dự án trọng điểm (Core chứng khoán, hạ tầng Cloud), đồng thời hoạch định chiến lược ứng dụng AI & Dữ liệu (AI & Data Strategy). Qua đó, đảm bảo tính nhất quán, khả năng mở rộng, tính bảo mật cao cho toàn bộ hệ thống CNTT và thúc đẩy lợi thế cạnh tranh số của Công ty.\n2. CÔNG VIỆC CHÍNH\n2.1. Thiết kế & Quản trị Kiến trúc Doanh nghiệp (Enterprise Architecture)\nXây dựng, cập nhật và duy trì 6 mảng kiến trúc cốt lõi: BCM, Platform Architecture, Application Landscape, Microservices/DDD, Integration, Data Architecture.\nHoạch định lộ trình kiến trúc (Roadmap) bám sát quy hoạch tổng thể hệ thống công ty chứng khoán, định hướng 3–5 năm.\nĐịnh nghĩa tiêu chuẩn kiến trúc, nguyên tắc thiết kế (design principles) và chuẩn tích hợp (API, event-driven...) áp dụng thống nhất trên toàn Công ty.\n2.2. Hoạch định chiến lược AI & Dữ liệu (AI & Data Strategy)\nNghiên cứu, đánh giá các xu hướng ứng dụng AI/ML trong ngành tài chính – chứng khoán (robo-advisory, AI trading, fraud detection, chatbot...).\nXây dựng chiến lược và lộ trình triển khai AI & Dữ liệu gắn liền với kiến trúc dữ liệu doanh nghiệp và quy hoạch 7 Platform của Công ty.\nĐịnh hướng xây dựng Nền tảng dữ liệu (Data Platform) hiện đại, quản trị dữ liệu (Data Governance) và tuân thủ các quy định bảo mật.\nTham mưu cho Ban lãnh đạo các sáng kiến ứng dụng AI/Automation nhằm tối ưu hóa vận hành, hướng tới mô hình STP (Straight-Through Processing) toàn diện.\n2.3. Tư vấn & Thẩm định kiến trúc dự án\nTư vấn giải pháp công nghệ cho các dự án chiến lược: hệ thống Core chứng khoán, chuyển đổi hạ tầng Cloud (trong nước/quốc tế).\nThẩm định (review) thiết kế kỹ thuật từ các nhóm phát triển/đối tác, đảm bảo tuân thủ kiến trúc tổng thể.\nĐánh giá phương án công nghệ, phân tích trade-off (Build vs. Buy, On-premise vs. Cloud, Đồng bộ vs. Bất đồng bộ...).\n2.4. Quản trị Rủi ro & Cải tiến Công nghệ\nXây dựng Technology Radar, tiên phong áp dụng công nghệ mới phù hợp với đặc thù ngành.\nĐánh giá rủi ro kiến trúc, quản lý nợ công nghệ (Technical Debt), đề xuất phương án tái cấu trúc hệ thống khi cần thiết.\nĐảm bảo kiến trúc tuân thủ các tiêu chuẩn, quy định ngặt nghèo của ngành chứng khoán.\n2.5. Tài liệu hóa & Truyền thông\nSoạn thảo tài liệu kiến trúc, ADR (Architecture Decision Record) cho các quyết định công nghệ quan trọng.\nĐào tạo, truyền cảm hứng và phổ biến chuẩn kiến trúc cho đội ngũ phát triển (Dev) và vận hành (Ops).\nBáo cáo, tham mưu đắc lực cho Trưởng phòng CNTT về định hướng công nghệ và lộ trình đầu tư hạ tầng.",
+  "yeu_cau": "Yêu cầu bắt buộc (Must-have):\nHọc vấn: Tốt nghiệp Đại học trở lên chuyên ngành CNTT, Khoa học Máy tính hoặc các ngành liên quan.\nKinh nghiệm: Tối thiểu 7–10 năm làm việc trong lĩnh vực CNTT, trong đó có ít nhất 3 năm đảm nhiệm vai trò Kiến trúc sư giải pháp (Solution Architect) hoặc Kiến trúc sư doanh nghiệp (Enterprise Architect).\nKiến thức nền tảng: Nắm vững các framework kiến trúc (TOGAF/Zachman), kiến trúc Microservices/DDD, kiến trúc tích hợp và Data Architecture.\nHạ tầng: Am hiểu sâu sắc về hạ tầng Cloud (Public/Private/Hybrid) và các mô hình triển khai thực tế.\nTư duy Data/AI: Có tư duy chiến lược và khả năng hoạch định lộ trình AI & Dữ liệu; am hiểu về Nền tảng dữ liệu hiện đại (Data Platform).\nKỹ năng mềm & Tư duy:\nTư duy hệ thống (Systems thinking), kỹ năng phân tích trade-off và ra quyết định dựa trên dữ liệu.\nKỹ năng giao tiếp, thuyết trình xuất sắc; khả năng phản biện, tư vấn và làm việc trực tiếp với cấp quản lý/Ban điều hành (C-level).\nViết tài liệu kiến trúc (ADR) rõ ràng, mạch lạc; Tiếng Anh đọc hiểu tài liệu kỹ thuật tốt.\nChủ động, khách quan, có khả năng dung hòa quan điểm giữa các nhóm kỹ thuật.\n💡 Điểm cộng ưu tiên (Nice-to-have):\nTừng trực tiếp tham gia các dự án chuyển đổi/thay thế hệ thống Core Tài chính, Ngân hàng hoặc Chứng khoán.\nHiểu biết sâu về nghiệp vụ và hạ tầng kết nối đặc thù của ngành chứng khoán (KRX/FIX 4.4, VSDC/VSD).\nSở hữu các chứng chỉ quốc tế uy tín: TOGAF, AWS/Azure/GCP Solutions Architect.\nCó kinh nghiệm thực chiến trong việc đưa các mô hình AI/Machine Learning vào vận hành thực tế (production).",
+  "quyen_loi": "Thu nhập: Mức lương rất cạnh tranh, thỏa thuận trực tiếp dựa trên năng lực và kinh nghiệm. Thưởng Lễ, Tết, thưởng hiệu quả công việc theo kết quả kinh doanh của Công ty.\nTrao quyền & Ảnh hưởng: Môi trường làm việc đề cao sự chủ động, trao đổi thẳng thắn. Được trao quyền ra quyết định về công nghệ và tạo ra những thay đổi thực tế mang tầm chiến lược.\nPhúc lợi: Hưởng đầy đủ các chế độ BHXH, BHYT, BHTN theo luật định; 12 ngày phép năm (+2 ngày phép thử việc khi lên chính thức); các khoản phụ cấp theo tính chất công việc.\nVăn hóa & Đời sống: Tham gia Teambuilding, du lịch nghỉ mát thường niên và các hoạt động văn hóa nội bộ phong phú của công ty.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxNzAyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--feff4e0408f263ea2686f15f0f487db5741f2eab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20XTSC.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-xuan-thien",
+  "company_mo_ta": "Xuan Thien Securities",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/database-expert-oracle-mongodb-sql-elca-1708",
+  "tieu_de": "Database Expert Oracle, MongoDB, SQL",
+  "ten_cong_ty": "ELCA",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "MongoDB",
+    "AWS",
+    "Cloud",
+    "PostgreSql",
+    "MySQL",
+    "Oracle"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The CII Tower, 152 Dien Bien Phu Street",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Manage DB health and services to ensure the highest standards of availability, resilience, integrity, security, tuning, and performance, backups and recovery plans.\nParticipate in transformation and architecture projects, related to AWS, OCI Cloud\nExecute disaster recovery plans and procedures to ensure database availability during system outages or dysfunction.\nSupport development teams on database aspects.\nJoin operations sessions with customers for live monitoring, troubleshooting, fine-tuning production database\nMonitor and resolve issues of both Production and Integration environments",
+  "yeu_cau": "At least 10 years experience in DB Administration (Oracle, MongoDB), performance tuning, and backup/recovery strategies.\nStrong knowledge of PL/SQL, SQL performance optimization, and Oracle database security best practices.\nBachelor’s Degree in Computer Science, Telco, or related fields.\nStrong experience on MongoDB, Oracle, MySQL, Postgres, DB cloud platform (OCI, AWS).\nStrong experience on database optimization: PL/SQL, tuning, ETL, Data Warehousing.\nDB experience and hands on on Oracle Database, DR, DB peft optimization, backup, DB admin,…\nExcellent communication skills.\nExcellent self-learning skills, be able to self-research & propose solutions to database problems.\nAccurate, Organized, Detail oriented, Proactive, Caring, and Curious.\nFlexible shift working in big events or per requirement.\n \nNice to have\nStrong with Oracle Cloud Infrastructure (OCI) and database as a service (DBaaS).\nExperience on IaC - Terraform, Ansible.\nWillingness to work on Shifts schedule.",
+  "quyen_loi": "Attractive remuneration package with 18 days off\nSmart people, interesting project & swiss quality\nTravel opportunities to Switzerland\n\nProfessional European-based company\nAttractive salary\nPerformance bonus of up to 4 months’ salary\nOpportunities for travel to Europe\nHybrid home/office working model\nFlexible working time\nStructured training & development roadmap\nGood work-life balance\nPremium healthcare insurance\nLoyalty programs\nWell-being activities\nAnnual company trips and team-building events",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzQ0LCJwdXIiOiJibG9iX2lkIn19--1700f975e7079f4c6a9bbedd9f6386912276001e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/elca-logo.jpg",
+  "company_url": "/companies/elca",
+  "company_mo_ta": "ELCA Vietnam – A Trusted IT Partner with Swiss Excellence",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

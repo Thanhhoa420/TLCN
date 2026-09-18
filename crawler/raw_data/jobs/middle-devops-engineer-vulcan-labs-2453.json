@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-devops-engineer-vulcan-labs-2453",
+  "tieu_de": "Middle DevOps Engineer ",
+  "ten_cong_ty": "Vulcan Labs",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "GCP",
+    "Azure",
+    "AWS",
+    "Google Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Vulcan Labs, 11-13-15, Street No. 7, An Khanh Ward, Ho Chi Minh City",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Never settle, think bigger. Founded in 2017, Vulcan Labs is a technology company based in Ho Chi Minh City, Vietnam, specializing in the development of cutting-edge mobile applications that enhance productivity, education, and lifestyle. With over 30 published apps, several hundred thousand daily active users, and more than 25 million downloads, we are committed to building impactful digital products at scale. Our portfolio includes flagship products such as intelligent chatbots, math-solving tools, AI-driven interior design platforms, and resume builders—used by millions globally. At Vulcan Labs, we embrace a culture of integrity, ownership, collaboration, innovation, and growth mindset. We welcome individuals from all backgrounds to join our team and tackle meaningful challenges in an ever-evolving industry\n \nRESPONSIBILITY:\nWe are looking for a Middle DevOps Engineer with strong expertise in Google Cloud Platform (GCP) to join our technology team.\nDesign, build, automate, and maintain scalable cloud infrastructure for development and production environments using GCP best practices.\nDevelop and operate CI/CD pipelines to enable reliable and efficient software delivery.\nSupport developers in maintaining and troubleshooting development environments, with a focus on mobile app-related systems.\nCollaborate with operations and development teams to deploy and manage software products.\nContinuously enhance CI/CD workflows and adopt modern DevOps tools and methodologies.\nMonitor, troubleshoot, and improve system performance, availability, and security.\nManage domain configurations, DNS records, and SSL certificate provisioning.\nLead initiatives to optimize cloud infrastructure costs and improve resource efficiency.",
+  "yeu_cau": "2. REQUIREMENT:\nOver 3 years of experience in DevOps, Site Reliability Engineering (SRE), and Cloud Infrastructure roles.\nExtensive hands-on expertise with Google Cloud Platform (GCP); familiarity with Azure and AWS is a strong advantage.\nProficient in Infrastructure as Code (IaC) tools, including Terraform and Helm.\nSkilled in building and maintaining cloud-native architectures integrating mobile apps with Firebase, Cloud Functions, Cloud Storage, and Identity Platform.\nExperienced with containerization and orchestration using Docker and Kubernetes.\nProficient in using HashiCorp Vault, Kafka, and Redis for secure secret management and real-time data streaming.\nStrong scripting abilities in Python, Bash, and Go.\nPractical knowledge of both SQL and NoSQL databases such as MySQL, PostgreSQL, and MongoDB.\nExperienced with CI/CD pipelines using tools like Concourse CI, Jenkins, and GitHub Actions\nFamiliar with observability stacks including ELK and Coralogix for monitoring and alerting.\nUnderstanding of mobile development ecosystems (iOS, Android) and backend integration.\nStrong focus on cloud cost management and resource optimization.\nExcellent problem-solving, collaboration, and communication skills, enabling close coordination with development teams and stakeholders.Nice to Have:\nGCP certifications (e.g., Professional Cloud DevOps Engineer, Cloud Architect).\nKnowledge of security best practices in DevOps and cloud deployments.\nExperience working in Agile/Scrum environments.",
+  "quyen_loi": "KPI bonus\nPremium health insurance\nNew office\n\nGrow Yourself: Work with young, talented teammates on global apps across a diverse portfolio and varying app sizes (Mainly in AI domain).\nAttractive Package: 13th-month salary, performance bonus.\nHealthy Culture: 12 days of annual leave and 5 days of sick leave, health-care insurance, annual health check, and a dedicated team-bonding budget.\nWell-equipped Facility: MacBook provided, with an additional monitor available if needed.\nDiverse Activities: Complimentary coffee, tea, and snacks; company trips; and quarterly happy-hour events.\nInnovative Environment: Flexible working hours, one remote day per month, seminars and internal sharing sessions, and a culture with no barriers to ideas.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE5MTkxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3b787097d52ea8cccd66c3ecbbbb2cf7a6f42f40/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_Transparent_HiRes_1.png",
+  "company_url": "/companies/vulcan-labs",
+  "company_mo_ta": "Vulcan Labs",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

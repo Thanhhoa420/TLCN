@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devsecops-middle-senior-savis-vietnam-2928",
+  "tieu_de": "DevsecOps Middle, Senior",
+  "ten_cong_ty": "SAVIS Vietnam",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "DevSecOps",
+    "AWS",
+    "GitHub Actions",
+    "GitLab CI",
+    "CI/CD",
+    "Team Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9th floor, Viet A Tower, 9 Duy Tan.",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Lead the DevSecOps function, managing a team of DevSecOps and Site Reliability Engineers.\nArchitect and implement CI/CD pipelines optimized for secure, compliant delivery.\nOwn Infrastructure as Code (IaC) standards across Terraform, Ansible, or similar tools.\nManage cloud environments (AWS/Azure/GCP) with BFSI-grade reliability and controls.\nContainerize applications and manage orchestration via Kubernetes (EKS, AKS, GKE).\nDefine and enforce access control, secrets management, and environment isolation.\nEnsure compliance with regulatory frameworks (e.g., PCI-DSS, ISO 27001, RBI Guidelines).\nLead efforts in observability, monitoring, and incident response (Grafana, ELK, Prometheus).\nCollaborate with InfoSec and risk teams to integrate DevSecOps in the SDLC.\nPerform capacity planning and cost optimization for cloud infrastructure.\nDrive adoption of GitOps and policy-as-code tools (e.g., ArgoCD, OPA, HashiCorp Sentinel).\nBuild runbooks and disaster recovery strategies for critical BFSI workloads.",
+  "yeu_cau": "Bachelor’s degree in Computer Science, Engineering, or equivalent.\n3+ years in DevSecOps/Infrastructure roles\nStrong knowledge of CI/CD tooling (Jenkins, GitLab CI, GitHub Actions).\nProficiency with Terraform, Ansible, Helm, Kubernetes.\nCloud certifications in AWS, Azure, or GCP preferred.\nBFSI or regulated-industry experience is highly preferred.\nExperience with secrets management tools (Vault, AWS Secrets Manager).\nFamiliarity with secure SDLC, static/dynamic analysis, SAST/DAST tools.\nExcellent written and verbal communication skills; able to interact with technical and business stakeholders.\nNice to have\nKnowledge of service mesh technologies (Istio, Linkerd).\nExperience in implementing observability as code.\nWorking knowledge of zero-trust network models.\nExperience with Kafka, Redis, or other high-performance back-end tech.\nStrong documentation and reporting background.",
+  "quyen_loi": "Môi trường trẻ, năng động, nhiều hoạt động hấp dẫn\nCơ hội làm việc với chuyên gia giàu kinh nghiệm\nThu nhập hấp dẫn dựa trên năng lực\n\nHighly competitive salary commensurate with your skills and experience;\nAnnual performance reviews and salary adjustments, year-end business bonuses, project bonuses, performance bonuses, and bonuses on public holidays and special occasions throughout the year;\nGreat opportunities for personal growth, ownership of your work, and career advancement;\nOpportunities to work with leading technology experts and major global technology companies;\nAccess to and administration rights for powerful AI tools;\nA young, dynamic, and supportive working environment that encourages employees to express themselves and offers a healthy workplace with a wide range of engaging activities;\nMonthly birthday celebrations and gifts for employees, along with an annual health check-up;\nSocial insurance, health insurance, and unemployment insurance in accordance with applicable government regulations;\nAnnual team-building activities, company anniversary Olympics, Year-End Party, Vietnamese Women's Day (October 20), and various other unique cultural activities;\nA spacious pantry area for relaxation, snacks, lunch, and internal activities;\nAnd many other exciting career opportunities waiting for you!",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NzA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--80a849b72e71d362d3abab5a6f7243ea59793971/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20tuy%E1%BB%83n%20d%E1%BB%A5ng.jpg",
+  "company_url": "/companies/savis-vietnam",
+  "company_mo_ta": "Công ty Cổ phần Công nghệ SAVIS được công nhận nằm trong top 50 công ty công nghệ hàng đầu Việt Nam",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

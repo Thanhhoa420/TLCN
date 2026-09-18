@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-vien-quan-tri-he-thong-up-to-30m-sunteco-3615",
+  "tieu_de": "Chuyen vien Quan tri He thong- Up to 30M",
+  "ten_cong_ty": "Sunteco",
+  "ngay_dang_raw": "2026-08-11",
+  "han_ung_tuyen_raw": "2026-09-15",
+  "ky_nang": [
+    "Linux",
+    "System Admin",
+    "VMware",
+    "Docker",
+    "Cloud",
+    "Networking"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3 & 6 Lotus Building, Số 2 Duy Tân, Phường Dịch Vọng Hậu",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Up to 30M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Nghiên cứu và tối ưu các hệ thống Linux/Windows Server.\nTham gia triển khai, vận hành các nền tảng Cloud, Virtualization, Container, Storage.\nGiám sát hệ thống, phân tích log, troubleshooting và xử lý sự cố.\nTham gia thiết kế, đánh giá capacity, performance, HA/DR và phương án mở rộng hệ thống.\nXây dựng và chuẩn hóa quy trình vận hành, SOP, Runbook, Checklist.\nTham gia xây dựng/cải tiến các quy trình Incident, Change, Problem, Backup/Restore, Monitoring & Alert.\nThực hiện RCA, đề xuất và các phương án phòng ngừa sự cố lặp lại.\nNghiên cứu, POC và đề xuất công nghệ/giải pháp mới phục vụ tối ưu hệ thống.\nTham gia tự động hóa các hoạt động quản trị và vận hành.",
+  "yeu_cau": "Junior\nCó kiến thức cơ bản về Linux, Network, Server, Storage.\nCó hiểu biết về Cloud/Virtualization/Container.\nBiết Docker, VMware, OpenStack, Kubernetes, S3 hoặc Monitoring là lợi thế.\nCó khả năng troubleshooting và đọc hiểu tài liệu kỹ thuật.\nCó khả năng viết tài liệu, quy trình kỹ thuật.\nChủ động học hỏi, có tư duy logic và yêu thích nghiên cứu hệ thống.\nMiddle\nCó khoảng 2–4 năm kinh nghiệm System/Cloud/Infrastructure hoặc tương đương.\nThành thạo Linux và có kinh nghiệm troubleshooting hệ thống.\nCó kinh nghiệm với một hoặc nhiều nền tảng: OpenStack, VMware, Kubernetes, Docker, Object Storage/S3.\nCó kinh nghiệm Monitoring/Logging như Prometheus, Grafana, ELK/OpenSearch là lợi thế.\nCó khả năng xây dựng SOP, Runbook, quy trình vận hành và RCA/CAPA.\nBiết Bash/Python, Ansible/Terraform hoặc Automation là lợi thế.\nCó khả năng phân tích, đề xuất phương án tối ưu và cải tiến hệ thống.\nƯu tiên\nCó kinh nghiệm trong môi trường Cloud Service Provider/Data Center.\nCó kiến thức về ITIL/ITSM, Incident/Change/Problem Management.\nCó kinh nghiệm Storage, S3, HA/DR, Automation.",
+  "quyen_loi": "High Salary and Stock Option\nTravel domestically and internationally\nGain high-scale system solutions & experience\n\nQuyền lợi \nTham gia đầy đủ Bảo hiểm theo quy định, Bảo hiểm sức khỏe BIC dành cho nhân sự chính thức \nTeambuilding gắn kết, du lịch hàng năm.\nChính sách thưởng dành cho cán bộ chủ chốt theo hiệu quả hoạt động và mức độ đóng góp \nCơ hội tham gia chương trình ESOP dành cho nhân sự có đóng góp nổi bật…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDIxNDIzMywicHVyIjoiYmxvYl9pZCJ9fQ==--a96cad8749bd0c43b0ca93c40e56129f801d0a4d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Asset_78.jpg",
+  "company_url": "/companies/sunteco",
+  "company_mo_ta": "Beyond the clouds",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

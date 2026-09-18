@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/snr-lead-data-engineer-pyspark-snowflake-bonus-epam-vietnam-1323",
+  "tieu_de": "Snr/Lead Data Engineer Pyspark, Snowflake - BONUS",
+  "ten_cong_ty": "EPAM Vietnam",
+  "ngay_dang_raw": "2026-08-20",
+  "han_ung_tuyen_raw": "2026-09-24",
+  "ky_nang": [
+    "Data Engineer",
+    "Databricks",
+    "Microsoft Azure SQL Database",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Hybrid, Floor 13, MB Sunny Tower, 259 Tran Hung Dao",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "EPAM Vietnam is seeking an experienced Senior Data Software Engineer to play a key role in evolving our data platform. In this position, you will not only design and build high‑quality platform components in Python, but also take ownership of daily operations while troubleshooting complex data challenges. To succeed in this role, you will bring deep expertise in Azure, Databricks and DataOps, including hands‑on experience with Terraform and CI/CD, enabling you to deliver reliable, scalable and future‑ready data solutions.\nApply today and be eligible for a one-month sign-on bonus.*\n*Terms & Conditions apply.\n \nDesign, build and optimize ETL/data pipelines for large-scale data operations\nDevelop and maintain platform components using Python and PySpark\nManage and enhance Data pipelines on Azure Databricks, Azure Data Factory and Azure Synapse Analytics\nOversee data platform operations, troubleshooting and performance tuning\nImplement DataOps practices, including CI/CD and Terraform automation\nValidate and compare large data volumes to ensure data quality and accuracy\nCollaborate with cross-functional teams to deliver robust, scalable data solutions",
+  "yeu_cau": "Strong hands-on experience in Data Engineering, ETL and data integration\nProven experience with Azure Data Factory and Databricks\nStrong Python, PySpark, and SQL skills, with experience in Python OOP and ORMs\nDeep understanding of Databricks features (e.g., Unity Catalog) and system integrations\nExperience with DataOps, CI/CD pipelines and Terraform on Azure\nExcellent troubleshooting, problem-solving and communication skills\nAbility to work independently, manage multiple tasks and deliver under tight deadlines",
+  "quyen_loi": "Flexible hybrid working model\nLead innovative projects with global brands\nEmpower your personal and professional growth\n\nBy choosing EPAM Vietnam, you're getting a job at a Vietnam Best Workplace™ certified company (2022-23 and 2023-24)\nYou'll work with the latest and most advanced technologies on exciting global projects with a supportive multicultural team where your voice matters\nWe prioritize a healthy work-life balance with a flexible hybrid working model and generous annual leave of up to 19 days.\nWe offer a transparent career path and an individual roadmap to engineer your future and accelerate your journey\nOur commitment is to the well-being of our employees and their families by offering premium healthcare insurance for employees and 2 dependents, annual health checkup and 10 days of paid sick leave\nAt EPAM, you can find vast opportunities for self-development: access to over 25,000 online courses and libraries from industry leaders, English classes, mentoring programs, partial grants of certification, and experience exchange with colleagues around the world. You will learn, contribute, and grow with us.",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc3ODYwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--638ad354c242acc8ce90fc202796641d8556c249/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/EPAM_Vietnam_Photo_Square_400x400.png",
+  "company_url": "/companies/epam-vietnam",
+  "company_mo_ta": "EPAM Systems, Inc. is a leading digital transformation services and product engineering company.",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-engineer-ai-saas-cong-ty-co-phan-sofin-group-4119",
+  "tieu_de": "QA Engineer AI  SAAS",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN SOFIN GROUP",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "QA QC",
+    "Tester",
+    "Automation Test",
+    "Postman",
+    "API",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "42 Nguyễn Phước Lan, Hoà Xuân",
+  "quan_huyen": null,
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu công việc (Job Objective)\nChịu trách nhiệm kiểm thử toàn diện hệ sinh thái sản phẩm (AI Generative, E-learning, Enterprise Automation). Đảm bảo chất lượng đầu ra đa phương tiện (Media Quality), độ ổn định của luồng tự động hóa doanh nghiệp và tuân thủ các tiêu chuẩn bảo mật/thanh toán quốc tế để sẵn sàng mở rộng quy mô toàn cầu.\nTrách nhiệm chính (Key Responsibilities)\nKiểm thử AI Media (Image, Video, Voice):\nĐánh giá chất lượng đầu ra AI (độ phân giải, độ trễ voice, độ tự nhiên giọng nói, artefact trong video/ảnh, độ chính xác lipsync).\nKiểm thử hiệu năng và chi phí xử lý (Cost & Latency Optimization) khi gọi các API AI lớn.\nThực hiện kiểm thử an toàn nội dung (NSFW, bản quyền hình ảnh/âm thanh, tuân thủ chính sách AI toàn cầu).\nKiểm thử Tự động hóa Doanh nghiệp (Enterprise Automation):\nKiểm thử tích hợp API, Webhook, Retry Mechanism khi kết nối với các công cụ B2B bên thứ 3 (CRM, ERP, Zapier, Slack, Google Workspace...).\nĐảm bảo tính toàn vẹn dữ liệu (Zero Data Loss) và khả năng phục hồi hệ thống khi gặp sự cố gián đoạn kết nối.\nKiểm thử phân quyền nâng cao (RBAC), tính riêng tư dữ liệu đa doanh nghiệp (Multi-tenancy Isolation).\nKiểm thử Hệ thống E-Learning & Thương mại hóa Global:\nKiểm thử hạ tầng truyền phát Video/Audio toàn cầu (Streaming Quality, CDN, độ trễ phát bài giảng).\nKiểm thử cổng thanh toán quốc tế (Stripe, PayPal, Recurring Billing, xử lý đa tiền tệ và thuế VAS/VAT tự động).\nKiểm thử bản địa hóa (Localization/I18n) cho giao diện, phụ đề và giọng đọc đa ngôn ngữ.",
+  "yeu_cau": "Kinh nghiệm: Ít nhất 2 năm QA/QC, ưu tiên từng làm việc với sản phẩm AI, Machine Learning, Automation hoặc SaaS.\nNgoại ngữ: Tiếng Anh thành thạo là điều kiện bắt buộc (để kiểm tra sản phẩm, giao diện, giọng điệu AI và đọc tài liệu kỹ thuật).\nKỹ năng kiểm thử Media: Có kiến thức về Media Codec, Audio Latency, Prompt Edge-cases; sử dụng các metric đánh giá AI (WER, SSIM/PSNR).\nKỹ năng Tự động hóa & API: Thành thạo API Testing (Postman, REST/GraphQL), Automation Test (Cypress/Playwright), Performance Test (JMeter/K6).\nBảo mật (Security & Compliance): Nắm vững kiến thức bảo mật (OWASP Top 10), tiêu chuẩn dữ liệu quốc tế như GDPR (Châu Âu) hoặc SOC2 (Mỹ).\nTư duy Cost-Awareness: Có khả năng tạo mock/stub data để test logic, tránh lãng phí chi phí gọi API AI thật.\nTuân thủ quốc tế (Compliance): Để \"go global\", ứng viên cần hiểu các luật bảo mật và quy định thanh toán quốc tế (Stripe/PayPal).\nTư duy edge-case: Có thể đưa ra các kịch bản người dùng khó lường nhất để đảm bảo mô hình AI không \"vỡ\" khi thương mại hóa thực tế.",
+  "quyen_loi": "Lương cứng thỏa thuận theo năng lực.\nĐược xem xét điều chỉnh thu nhập theo năng lực và hiệu quả công việc.\nĐược hưởng các chế độ phúc lợi theo chính sách của công ty.\nĐược đào tạo chuyên sâu.\nCó cơ hội ứng dụng AI vào quy trình công việc.\nĐược tham gia các chiến dịch thực tế, phát triển tư duy đa nền tảng",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk1OTgwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--9bbab87e7e5e124dcba799a6230cd274278669af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/sofin.png",
+  "company_url": "/companies/cong-ty-co-phan-sofin-group",
+  "company_mo_ta": "CÔNG TY CỔ PHẦN SOFIN GROUP",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

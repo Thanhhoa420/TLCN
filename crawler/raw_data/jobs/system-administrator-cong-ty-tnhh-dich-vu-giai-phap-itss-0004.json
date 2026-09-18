@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/system-administrator-cong-ty-tnhh-dich-vu-giai-phap-itss-0004",
+  "tieu_de": "System Administrator",
+  "ten_cong_ty": "CÔNG TY TNHH DỊCH VỤ GIẢI PHÁP ITSS",
+  "ngay_dang_raw": "2026-08-29",
+  "han_ung_tuyen_raw": "2026-10-03",
+  "ky_nang": [
+    "System Admin",
+    "DNS Security",
+    "Firebase",
+    "Networking",
+    "Hyper-V",
+    "VMware"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 4 D28 Lê Văn Tám - Hà Đông - Hà Nôi",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Quản trị, vận hành và tối ưu hạ tầng CNTT của nhiều khách hàng theo SLA; đảm bảo hệ thống hoạt động ổn định, an toàn và sẵn sàng.\nQuản trị máy chủ\nCài đặt, cấu hình Windows Server/Linux Server.\nQuản trị AD, GPO, DNS, DHCP, File/Print Server.\nQuản trị IIS, RDS, Exchange/Microsoft 365.\nQuản trị VMware, Hyper-V, Proxmox, Sangfor.\nTheo dõi hiệu năng, Event Log, Storage, RAID, SSL.\nMicrosoft 365\nExchange Online, Teams, SharePoint, OneDrive.\nEntra ID, Intune, MFA, Conditional Access, Security & Compliance.\nNetwork\nFirewall, Switch, VLAN, VPN, Routing, Wireless.\nLàm việc với Fortinet, Sophos, Cisco, Aruba, UniFi, HPE, Grandstream.\nBackup & NAS\nTriển khai và kiểm tra Backup/Restore.\nQuản trị Synology/QNAP, Snapshot, Replication, iSCSI, SMB/NFS.\nSecurity\nEDR/Antivirus, DLP, Patch Management, Hardening, Vulnerability Assessment.\nMonitoring\nGiám sát bằng LibreNMS, Zabbix, PRTG, Wazuh, Grafana.\nTheo dõi CPU, RAM, Disk, VM, Backup, SSL, UPS.\nXử lý sự cố\nKhắc phục lỗi Server, AD, Mail, VPN, NAS, Firewall, Backup.\nPhân tích nguyên nhân và đề xuất phòng ngừa.\nHỗ trợ khách hàng\nHỗ trợ Remote/Onsite theo SLA.\nTư vấn, bảo trì định kỳ, lập báo cáo và hướng dẫn người dùng.\nTriển khai dự án\nAD, Microsoft 365, Firewall, NAS, Backup, Virtualization, Cloud.\nTài liệu & Báo cáo\nCập nhật HLD/LLD, SOP, Runbook, Asset, Password, Network Diagram.\nBáo cáo tuần/tháng, Health Check, SLA.\nTrách nhiệm\nĐảm bảo SLA và chất lượng dịch vụ.\nĐảm bảo tính sẵn sàng, bảo mật hệ thống.\nTuân thủ ITIL, ISO và quy trình nội bộ.\nBảo mật thông tin khách hàng.\nTham gia trực On-call theo phân công.",
+  "yeu_cau": "Tốt nghiệp CNTT hoặc tương đương.\n2–3 năm kinh nghiệm System Administrator.\nKinh nghiệm Windows Server, AD, DNS, DHCP.\nKinh nghiệm VMware/Hyper-V.\nKiến thức Networking, Firewall, Backup.\nKhả năng xử lý sự cố độc lập.\nƯu tiên\nMicrosoft, VMware VCP, Fortinet FCP/NSE, Cisco CCNA, ITIL Foundation, Veeam VMCE, Synology Certification.\nKỹ năng\nGiao tiếp khách hàng.\nQuản lý thời gian.\nLàm việc nhóm.\nPhân tích và xử lý sự cố.\nViết tài liệu kỹ thuật.\nThuyết trình giải pháp.",
+  "quyen_loi": "Lương từ 15M – 20M\nXét tăng lương theo năng lực và kết quả công việc.\nTham gia đầy đủ BHXH, BHYT, BHTN theo quy định.\nBảo hiểm sức khỏe PVI sau khi trở thành nhân viên chính thức (theo chính sách Công ty).\nĐược đào tạo chuyên môn, kỹ năng quản lý và các chứng chỉ CNTT.\nMôi trường làm việc trẻ, chuyên nghiệp và nhiều cơ hội học hỏi.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAyNDYzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--8fa0d426194600c57078e6436a67ca3e27640e99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-08-28%20at%2015.48.56.png",
+  "company_url": "/companies/cong-ty-tnhh-dich-vu-giai-phap-itss",
+  "company_mo_ta": "Sự hài lòng của quý khách là tài sản của chúng tôi",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

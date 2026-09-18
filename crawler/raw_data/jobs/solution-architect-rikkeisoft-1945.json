@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-rikkeisoft-1945",
+  "tieu_de": "Solution Architect",
+  "ten_cong_ty": "RIKKEISOFT",
+  "ngay_dang_raw": "2026-08-24",
+  "han_ung_tuyen_raw": "2026-09-28",
+  "ky_nang": [
+    "Solution Architecture",
+    "AI",
+    ".NET",
+    "Java",
+    "C#"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 7 Tôn Thất Thuyết",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng giải pháp kỹ thuật:\nKhảo sát hiện trạng hệ thống, phân tích yêu cầu nghiệp vụ và đề xuất kiến trúc kỹ thuật phù hợp.\nThiết kế kiến trúc hệ thống, đảm bảo giải pháp đáp ứng đúng bài toán nghiệp vụ và mục tiêu kinh doanh của khách hàng.\nThiết kế kiến trúc microservices, API cho Web/Mobile, đảm bảo bảo mật, hiệu năng và khả năng mở rộng.\nChốt thống nhất với khách hàng và đội BA về giải pháp kỹ thuật, đảm bảo tính nhất quán giữa yêu cầu nghiệp vụ và thiết kế hệ thống.\nHướng dẫn, review, giải đáp, trao đổi các thắc mắc về mặt kỹ thuật với đội dự án và khách hàng.\nQuản lý dự án:\nCập nhật tài liệu kỹ thuật liên quan theo quy trình dự án.\nĐánh giá tác động kỹ thuật của các yêu cầu thay đổi, phối hợp với BA để quản lý theo đúng quy trình.\nHỗ trợ AM, PM nghiệm thu sản phẩm/hệ thống với khách hàng ở góc độ kỹ thuật; tính toán effort, chi phí cho các hạng mục kỹ thuật.\nThiết kế và triển khai CI/CD Pipeline (Jenkins, GitLab CI/CD); làm việc với Containerization (Docker, VMWare) và Orchestrator (Kubernetes Engine, Docker Swarm).\nTư vấn, thiết kế và triển khai giải pháp trên Public Cloud (AWS, GCP, Azure); đánh giá và thực hiện chuyển đổi hệ thống database & application từ On-Premises lên Cloud.",
+  "yeu_cau": "Bằng cấp: Tốt nghiệp Đại học/ CĐ chuyên ngành CNTT, Điện tử Viễn thông, Khoa học Máy tính, Toán Tin Ứng dụng, Kinh tế hoặc tương đương.\nCó từ 7-10 năm kinh nghiệm trong lĩnh vực phát triển phần mềm, ưu tiên đã tham gia các dự án nhà nước, quản lý công\nVững ít nhất 1 ngôn ngữ lập trình phổ biến: Java, C# .NET, v.v. (Ưu tiên Java)\nAm hiểu Redis kafka, Elastic search, microservice, có kn xử lý hiệu năng\nCó PA sizing hệ thống lên 300k CCU (không phải bằng cách auto Scale hệ thống): phân rã microservices, chiến lược caching, xử lý bất đồng bộ, xử lý bottleneck database\nDefine được Kiến trúc, Mô hình triển khai theo yêu cầu của bài toán\nQuản lý đc rủi ro, đánh giá và giảm thiểu được tech debt\nNắm được C4 modal trong viết tài liệu: level 1, 2, (có thể cả 3) là của SA phụ trách, thiết kế và tối ưu đc DB\n*Ưu tiên:\nCó khả năng sử dụng các công cụ AI: Claude/Cursor/Copilot.\nCó kinh nghiệm làm việc với doanh nghiệp nhà nước, hệ thống công",
+  "quyen_loi": "Môi trường làm việc đa quốc gia\nCơ hội thăng tiến, phát triển bản thân\nTrải nghiệm làm việc tại Nhật Bản/ Âu Mỹ\n\nMức lương cạnh tranh theo năng lực\nLƯƠNG xét TĂNG định kỳ\nTHƯỞNG: thưởng Tết, thưởng dự án, thưởng ngày lễ, thưởng giới thiệu nhân sự… \nTham gia các hoạt động học tập, đào tạo trong và ngoài công ty, tích điểm học tập, phát triển G-Point trên hệ thống Quản lý của công ty. \nNghỉ thứ 7, chủ nhật + 12 ngày phép/năm  \nCâu lạc bộ và nhiều hoạt động văn hóa - thể thao - nghệ thuật được công ty tài trợ hoặc hỗ trợ (Ví dụ: Bóng đá, bóng bàn, cầu lông, bơi lội, âm nhạc, tiếng anh, game...) \nĐảm bảo sức khỏe: Khám sức khỏe định kỳ, hỗ trợ mua bảo hiểm sức khỏe chất lượng cao… \nTham gia Chương trình bảo hiểm sức khỏe Rikkei Care. \nThoải mái tinh thần: Phát nhạc theo yêu cầu mỗi ngày, hoa quả tươi, các hoạt động teambuilding gắn kết... Đi chơi gần xa khắp nơi. \nCơ hội làm việc tại nước ngoài và du lịch khắp nơi. \nHọc hỏi kinh nghiệm từ những nhân vật trẻ nổi tiếng và có nhiều ảnh hưởng (Top 30 Under 30 fo Forbes bình chọn)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzU4LCJwdXIiOiJibG9iX2lkIn19--05f8c0cc24bc81f20a7d330c7f6b7b40f4f5d04f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/rikkeisoft-logo.png",
+  "company_url": "/companies/rikkeisoft",
+  "company_mo_ta": "Top 30 Công ty IT hàng đầu tại Việt Nam về sản xuất phần mềm",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

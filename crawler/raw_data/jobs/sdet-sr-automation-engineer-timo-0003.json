@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/sdet-sr-automation-engineer-timo-0003",
+  "tieu_de": "SDET, Sr Automation Engineer",
+  "ten_cong_ty": "Timo",
+  "ngay_dang_raw": "2026-09-04",
+  "han_ung_tuyen_raw": "2026-10-09",
+  "ky_nang": [
+    "Python",
+    "GitLab CI",
+    "Jenkins",
+    "Robot Framework",
+    "Selenium",
+    "Appium"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "412 Nguyen Thi Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Description\nAbout Timo\nLaunched in 2015, Timo pioneered digital banking in Vietnam with a mission to make banking faster, simpler, and more accessible.\n \nToday, as part of one of Southeast Asia’s leading digital financial services platforms, Timo is building secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n \nWe are looking for curious minds and driven talents from fintech, digital banking, and technology companies who are excited to move fast, build meaningful products, and help shape the future of banking in Vietnam.\n \nAbout the Role\nWe are looking for a Senior Software Engineer in Test (SDET) to help shape and drive Timo's test automation strategy across mobile, backend, and integration layers.\n \nYou will own the design, build, and continuous improvement of our automation frameworks — partnering closely with Engineering, QA, and DevOps to raise the bar on release confidence, system reliability, and overall product quality. Beyond writing tests, you will define how Timo tests at scale and mentor others to do the same.\n \nYou will report to QA Lead.\n \nWhat You Will Do\nDefine and own Timo's test automation strategy across mobile apps, backend services, and integrations\nDesign and build scalable, reusable automation frameworks across UI, API, integration, and data layers\nIdentify high-risk areas and critical user journeys, and ensure they have proper automated coverage\nIntegrate automated tests into CI/CD pipelines (Jenkins, GitLab CI) to enable continuous testing\nAnalyze test results and drive quality improvements, close coverage gaps proactively\nCollaborate with Engineering, QA, and DevOps to improve system reliability and release confidence\nMentor team members through code reviews, pairing, and knowledge sharing\nContinuously improve testing processes, frameworks, and tooling",
+  "yeu_cau": "Your Skills and Experience\nWhat We Are Looking For\nExperience\n5+ years in test automation, with strong hands-on experience designing automation solutions\nProven experience testing across multiple layers: UI, API, and system integration\nComfortable working in agile, cross-functional product teams\nSkills & Expertise\nStrong programming skills\nHands-on with automation tools/frameworks: Selenium, Appium, Playwright, Robot Framework, or equivalent\nSolid understanding of test automation strategy: test pyramid, risk-based testing, and the boundaries between unit, API, and E2E testing\nExperience integrating tests into CI/CD pipelines: Jenkins, GitLab CI, or similar\nExperience with version control (Git) and modern development workflows\nStrong debugging, analytical, and problem-solving skills\nProfessional working English: daily collaboration with Timo leadership and Kredivo's regional teams",
+  "quyen_loi": "Big chance to build Fintech system, large data\nInternational & English environment\nApply new Tech-Stack, Technology and more\n\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law\nWhy You'll Love Working Here\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI4NzkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c42f54d9d26674f8a00e350a54f4cd5dc0e0cb94/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/timo",
+  "company_mo_ta": "Timo Vietnam",
+  "job_expertise": [
+    "Software Engineer in Test (SDET)"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/cloud-operations-engineer-cong-ty-tnhh-nextedge-5535",
+  "tieu_de": "Cloud Operations Engineer",
+  "ten_cong_ty": "CÔNG TY TNHH NEXTEDGE",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Cloud",
+    "CI/CD",
+    "DevOps",
+    "AWS",
+    "Terraform",
+    "Cloud Security"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Floor 16th, Unit B1-B3-B4, International Plaza Tower, No. 343, Pham Ngu Lao Street",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Overview\nWe are looking for a Senior Cloud Operations Engineer (CloudOps) with strong expertise in AWS cloud operations, cloud security, and infrastructure automation. This role is critical in ensuring our cloud platforms are secure, scalable, cost-efficient, and highly available. You will take ownership of cloud optimization, security posture management, and automation using Infrastructure as Code and scripting.\n \n**Key Responsibilities\nCloud Operations & Reliability\nOperate and maintain cloud infrastructure on AWS, ensuring high availability, performance, and scalability\nMonitor, troubleshoot, and resolve complex cloud infrastructure issues across multiple environments\nImplement best practices for cloud operations, resilience, and disaster recovery\nCollaborate with application teams to improve operational excellence for serverless workloads\nCloud Security\nDesign, implement, and maintain secure cloud architectures following security best practices\nIdentify, analyze, and remediate security issues and vulnerability findings from security tools and audits\nWork closely with security teams to improve cloud security posture and compliance\nImplement IAM policies, network security controls, encryption, and logging/monitoring Infrastructure as Code & Automation\nDesign and manage infrastructure using Terraform and IaC best practices\nBuild and maintain automation scripts and tools using Python (or similar scripting languages)\nAutomate cloud operations, security controls, monitoring, and remediation workflows\nCloud Optimization\nDrive cloud cost optimization initiatives (FinOps mindset)\nOptimize performance, scalability, and resource utilization across AWS services\nProvide recommendations and implement improvements to reduce waste and improve efficiency",
+  "yeu_cau": "5+ years of experience in Cloud Operations Engineer (CloudOps) position\nStrong hands-on experience with AWS services, including:\n+ EC2, VPC, IAM, RDS, S3, CloudWatch, CloudTrail, AppSync, API Gateway\n+ Serverless services such as AWS Lambda\nSolid understanding of networking concepts (VPC design, routing, security groups, NACLs, VPNs)\nProven experience in cloud security, vulnerability management, and incident remediation\nHands-on experience with Terraform for Infrastructure as Code (IaC)\nStrong automation skills using Python (or equivalent scripting language)\nExperience implementing monitoring, logging, and alerting solutions\nAbility to troubleshoot complex cloud and security issues under pressure\nNice to have\nExperience with cloud security tools (e.g., GuardDuty, Wiz, etc)\nKnowledge of DevOps and CI/CD pipelines\nFamiliarity with container platforms (EKS, ECS, Docker)\nAWS certifications (e.g., Solutions Architect, Security Specialty)\nSoft skills\nStrong problem-solving and analytical skills\nAbility to work independently and take ownership of cloud environments\nClear communication skills and ability to collaborate across teams\nSecurity-first mindset with a passion for automation and continuous improvement",
+  "quyen_loi": "Various awesome domains & technologies\nAttractive base salary & company bonus\nSingapore work environment\n\nAttractive salary commensurate with your expected salary and working experience\nHave the opportunity to go on a work trip to Singapore\nFull pay during the probation period\nTotal contribution to social insurance is based on the Gross salary\n13th-month salary\n14 days of annual leave\nCompany bonus\nAnnual health check-ups\nPremium health insurance (PTI)\nEmployee gifts for special occasions such as birthdays, and celebrations\nCompany trips per year\nQuarterly team outing budget\nMonthly parties",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0MDMwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e00b06a95a5591b12a4fd05bbd938b671c764a23/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/%5BBE%5DLogo%20-%20Huu%20Dat%20Cao.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nextedge",
+  "company_mo_ta": "NEXTEDGE CO., LTD",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Transportation, Logistics and Warehouse",
+    "Cyber Security",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

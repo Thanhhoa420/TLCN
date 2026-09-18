@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-cloud-engineer-private-cloud-openstack-cong-ty-co-phan-thanh-toan-so-mobifone-4825",
+  "tieu_de": "Senior Cloud Engineer Private Cloud  OpenStack",
+  "ten_cong_ty": "Công ty Cổ phần Thanh toán số MobiFone",
+  "ngay_dang_raw": "2026-08-28",
+  "han_ung_tuyen_raw": "2026-10-02",
+  "ky_nang": [
+    "Cloud",
+    "Networking",
+    "Linux",
+    "OpenStack",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 30 - Tòa tháp C5 D’Capital, 119 Trần Duy Hưng, Phường Yên Hoà, Thành phố Hà Nội, Việt Nam",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a Senior Cloud Engineer to operate and optimize our High-Availability Hybrid Cloud Infrastructure, with a primary focus on Private Cloud (OpenStack) supporting mission-critical Digital Financial Products & Infrastructure.\nThe role requires strong hands-on experience in production OpenStack environments, with solid capabilities in Linux, networking, automation, and infrastructure troubleshooting\nKey Responsibilities\n1. Private Cloud – OpenStack (Primary Focus)\nOperate, maintain, troubleshoot, and upgrade production OpenStack Private Cloud environments.\nDeploy and manage OpenStack using Kolla-Ansible, TripleO, Genestack, or equivalent.\nOperate core OpenStack services including Nova, Neutron, Keystone, Glance, and Horizon.\nMaintain HA, performance, capacity, and reliability of the Private Cloud platform.\nPerform infrastructure troubleshooting, performance tuning, capacity planning, upgrades, and lifecycle management.\nHandle production incidents, perform RCA, and continuously improve operational stability.\n2. Public Cloud – AWS & GCP\nOperate and support infrastructure on AWS and/or GCP.\nSupport connectivity between Private Cloud and Public Cloud environments.\nMonitor resource utilization, availability, performance, and infrastructure cost.\n3. Kubernetes & Automation\nOperate and support production Kubernetes environments.\nUse Terraform and Ansible to automate infrastructure provisioning and operational tasks.\nSupport CI/CD platforms such as GitLab CI, Jenkins, or GitHub Actions.\n4. Monitoring, Security & Operations\nOperate infrastructure monitoring and logging platforms such as Prometheus, Grafana, Zabbix, and ELK/Elastic Stack.\nFollow established security policies and compliance standards, including applicable PCI-DSS, ISO 27001, SOC 2, and Zero Trust requirements.\nParticipate in on-call, incident management, and ensure defined SLA/SLO targets.",
+  "yeu_cau": "4+ years of experience in Cloud/Infrastructure/DevOps Engineering.\nStrong hands-on experience operating OpenStack in production.\nExperience with Kolla-Ansible, TripleO, Genestack, or equivalent.\nStrong Linux administration and troubleshooting skills.\nGood understanding of networking, virtualization, HA, and infrastructure operations.\nStrong experience with Terraform and/or Ansible.\nGood production troubleshooting and incident management skills.\nPreferred\nExperience with AWS and/or GCP.\nProduction experience with Kubernetes.\nExperience in FinTech, Banking, Payment, or other mission-critical environments.\nExperience with hybrid cloud connectivity and large-scale infrastructure operations.\nRelevant AWS/GCP/Kubernetes certifications are a plus.",
+  "quyen_loi": "Salary & Allowances:\n13th-month salary and quarterly performance-based KPI bonuses\nSpecial occasion bonuses: 3,500,000 – 5,000,000 VND/year\nAnnual leave: Up to 15 days per year (depending on level)\nHealth & Wellness: Social insurance, private health insurance coverage, and annual medical check-ups at Vinmec\nEquipment: Laptop, external monitor, and all necessary work tools, software, and accounts\nCareer Growth:\nAnnual performance & salary reviews with diverse promotion tracks: Management or Expert pathways, alongside functional cross-rotation opportunities\nFree access to learning platforms (Udemy, Coursera, O'Reilly), internal workshops, certification sponsorship, and exclusive C-level mentorship\nTeam and organizational-level recognition and award programs\nWork Environment:\nOpen, collaborative workspace designed to support both deep focus and teamwork\nYoung, dynamic, and supportive work culture\nRelaxation amenities: Gaming zone, table tennis, yoga space, gym, and shower facilities\nAnnual team-building trips and engaging internal bonding events",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQ1MTM4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3949eed3261251b80971e00ce1935dac2c392fb8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z6865355798986_a06ac35089a943e03ac47319554e367c.jpg",
+  "company_url": "/companies/cong-ty-co-phan-thanh-toan-so-mobifone",
+  "company_mo_ta": "Công ty Cổ phần Thanh toán số MobiFone",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

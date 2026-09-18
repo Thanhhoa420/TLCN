@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/unity-developer-vpdd-feeldx-pty-ltd-tai-tp-hcm-4746",
+  "tieu_de": "Remote Unity Developer WebGL / C# / JavaScript",
+  "ten_cong_ty": "VPDD FEELDX PTY LTD tại TP.HCM",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Unity",
+    "API",
+    "Fullstack",
+    "JavaScript",
+    "UI-UX",
+    "C#"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Tầng G, 63A Nam Kỳ Khởi Nghĩa, Phường Bến Thành",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Unity Developer (WebGL)\nPosition: Unity Developer (WebGL)\nResponsibilities\nDevelop and maintain a Unity WebGL application for desktop and mobile browsers.\nBuild interactive 3D features such as:\nCamera navigation\nObject selection and highlighting\nMeasurement tools\nSection view / clipping\nTimeline playback\nAnnotation and markup\nMaterial and object visibility control\nOptimize WebGL performance, loading time, and memory usage.\nImplement Addressables or asset streaming solutions for large 3D projects.\nIntegrate REST APIs with backend services.\nWork with cloud storage (AWS S3 or similar) for asset delivery.\nCollaborate with UI/UX designers and backend developers.\nDebug and resolve browser-specific issues across Chrome, Edge, Safari, and mobile devices.\nMaintain clean, reusable, and scalable code.",
+  "yeu_cau": "Required Skills\n2+ years of Unity development experience.\nStrong knowledge of C#.\nExperience building and deploying Unity WebGL applications.\nUnderstanding of Unity rendering pipeline and performance optimization.\nExperience with:\nAddressables\nAsset Bundles\nUI Toolkit or Unity UI\nPhysics and raycasting\nAnimation and Timeline\nFamiliar with REST APIs and JSON.\nKnowledge of Git version control.\nAbility to profile and optimize CPU, GPU, and memory usage.\nNice to Have\nExperience with Three.js or other WebGL-based JavaScript 3D frameworks.\nKnowledge of JavaScript, HTML, and CSS for WebGL integration.\nExperience with Unity WebGL plugins (.jslib) and browser APIs.\nExperience working with BIM, IFC, Revit, or Navisworks models.\nFamiliarity with AWS services (S3, CloudFront, EC2).\nExperience optimizing large-scale 3D scenes for web browsers.\nKnowledge of glTF/GLB formats and 3D asset pipelines.\nExperience building construction, digital twin, or engineering visualization applications.\nFamiliarity with collaborative or multi-user web applications.\nPreferred Qualifications\nBachelor's degree in Computer Science, Software Engineering, or a related field.\nStrong problem-solving and debugging skills.\nGood communication and teamwork abilities.",
+  "quyen_loi": "Competitive Salary: We offer an attractive salary, commensurate with your skills and experience.\nRemote Work Flexibility: Enjoy the freedom to work from anywhere, helping you achieve a perfect work-life balance.\nWorking hours: 5:30AM to 3:30PM\nHealth Insurance.\nComputer is provided.\n13th-salary Bonus for all staff.\n12 days annual leaves, + 5 days New Year every year.\nCompany trip.\nEnglish speaking environment.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjM4NzA2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ef7cd596d1f6eae1778241802aa2a00f8424375/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20for%204D%20-%20Phuong%20Nguyen.png",
+  "company_url": "/companies/vpdd-feeldx-pty-ltd-tai-tp-hcm",
+  "company_mo_ta": "VPDD FEELDX PTY LTD tại TP.HCM",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

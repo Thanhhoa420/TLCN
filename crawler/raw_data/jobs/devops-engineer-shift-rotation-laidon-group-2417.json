@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-shift-rotation-laidon-group-2417",
+  "tieu_de": "DevOps Engineer Shift-rotation",
+  "ten_cong_ty": "Laidon Group",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    "DevOps",
+    "Cloud",
+    "Linux",
+    "Docker",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "199 Dong Da",
+  "quan_huyen": "Quận Hải Châu",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a DevOps Engineer to join our growing team. You will be responsible for designing, implementing, and maintaining robust DevOps pipelines and infrastructure to support the development and deployment of our software products. You will work closely with developers, QA, and IT operations to streamline CI/CD workflows, ensure system reliability, and automate manual processes. Please note that this role involves working on a shift-rotation schedule to ensure continuous support for our systems and clients.\n \nResponsibilities:\nDesign, build, and maintain CI/CD pipelines to support continuous integration, delivery, and deployment\nDevelop and maintain infrastructure automation tools using technologies like Terraform, Ansible, or Bash/Python scripting\nManage and monitor Linux-based environments (Ubuntu, CentOS) across development, staging, and production\nInvestigate and resolve build, deployment, and infrastructure issues\nImplement system monitoring and alerting tools to ensure high availability and performance\nWork with development teams to improve software quality, release cycles, and scalability\nImprove and standardize configuration management and security hardening processes\nCollaborate with SAP consultants and developers to support deployment of SAP BTP-based services\nParticipate in shift-rotation schedules to provide continuous operational support and maintain system reliability across different time zones",
+  "yeu_cau": "Qualifications:\nProficiency in English (written and verbal) is strictly required for effective daily communication with international teams and clients\n2+ years of experience in a DevOps, Site Reliability, or Systems Engineering role\nProficient with CI/CD tools (GitLab CI/CD, Jenkins, GitHub Actions, or similar)\nStrong scripting skills (Bash, Python, or similar)\nExperience with Docker and container orchestration (Kubernetes or Rancher)\nExperience with cloud platforms (AWS, Azure, or GCP); familiarity with SAP BTP is a plus\nSolid understanding of Linux, Windows system administration\nFamiliarity with infrastructure as code and management tools (Terraform, Ansible)\nStrong problem-solving, communication, and collaboration skills\nBachelor's degree in Information Technology, Computer Science, or a related field (or equivalent experience)\nNice to Have:\nExposure to SAP technologies or integration with SAP BTP\nBasic networking and firewall knowledge\nFamiliarity with code quality and security tools such as SonarQube, Dependency-Track, Nexus, or n8n",
+  "quyen_loi": "15 days of annual leaves\nCompetitive salary (+13-month salary include) \nHealth insurance, social insurance according to the government regulations \nBao Viet Healthcare Insurance \nHave a chance to work in an international, friendly, open environment \nAnnual Travel opportunity",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NDgzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--343e75fc1f3a6382af6604507953520c5cb9fb66/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/unnamed.jpg",
+  "company_url": "/companies/laidon-group",
+  "company_mo_ta": "Laidon Group",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

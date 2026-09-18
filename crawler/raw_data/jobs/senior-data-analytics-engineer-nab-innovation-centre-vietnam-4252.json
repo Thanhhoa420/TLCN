@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-analytics-engineer-nab-innovation-centre-vietnam-4252",
+  "tieu_de": "Senior Data Analytics Engineer",
+  "ten_cong_ty": "NAB Innovation Centre Vietnam",
+  "ngay_dang_raw": "2026-08-18",
+  "han_ung_tuyen_raw": "2026-09-22",
+  "ky_nang": [
+    "SQL",
+    "Power BI",
+    "Tableau",
+    "ELT",
+    "Data Analysis",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark, 15 Tran Bach Dang, An Khanh Ward",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Consulting services to support the DOMO (BI tool) implementation in NAB Marketing.\nImplement strategies to progressively reduce functional and non-functional defects within the production environments through us e of production monitoring tools.\nManage direct reports to deliver on the below, based on product owner requirements and specifications.\nCreate and PROD new ETL functions.\nUplift the existing ETL functions to improve the data pipeline and automation process, to reduce turnaround time to create/ma intain datasets.\nPerform BAU, defects and hygiene tasks in the DOMO platform ( e.g: Data input monitoring and maintenance, data connector defects, content audits, user access audits).\nCreate and maintain new dashboards & visualisations.\nFulfil other tasks as assigned by your People Leader and/or authorized representative of NAB Vietnam from time to time.",
+  "yeu_cau": "5+ years of experience with DOMO or equivalent BI platforms (Tableau, Power BI, Looker,...).\n5+ years of Data Engineering experience in complex enterprise data environments.\nAdvanced SQL proficiency, including complex joins, CTEs, window functions, aggregations, and query optimisation.\nGood at Python, R, or similar programming languages.\nStrong data analytics and business analysis skills, with a proven ability to generate actionable insights from data.\nExperienced in data modelling, data pipelines, ETL/ELT processes, and data transformation.\nGood understanding of marketing analytics and campaign performance reporting.\nExtensive experience working in Agile environments.\nExcellent stakeholder engagement, communication, and presentation skills.\nStrong written and verbal English proficiency.\nNice to Have\nStrong ability to build rapport with team and business colleagues.\nAbility to lead and mentor junior members in the team.\nCloud data platform (DOMO).\nKnowledge of marketing data privacy and governance.",
+  "quyen_loi": "Very competitive remuneration package\nBuild products for millions of users in Australia\nHybrid and flexible working environment\n\nTHE BENEFITS AND PERKS\n1. Generous compensation and benefit package\nAttractive salary and benefits\n20-day annual leave and 7-day sick leave, etc.\n13th month salary and Annual Performance Bonus\nPremium healthcare for yourself and family members\nMonthly allowance for team activities\nPremium welcome kit and frequent appreciation gifts \nExtra benefits for long-term employees\n2. Exciting career and development opportunities \nLarge scale products with modern technologies in banking domain\nClear roadmap for career advancement in both technical and leadership pathways\nWell-structured  learning and development programs (technical and soft skills) \nSponsored certificates in both IT and banking/finance\nPremium account on Udemy \nEnglish learning with native teachers\nOpportunity for traveling & training in Australia\n3. Professional and engaging working environment\nHybrid working model and good work-life balance \nWell-equipped & modern Agile office with fully stocked pantry\nSpecial programs to improve your physical and mental health\nAnnual company trip and events \nA solid talented team behind you – great people who love what they do\nIf this excites you, let's have a chat over a cup of coffee!",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk4MDUwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--2f97d92760c911bcb6d9f9dd495f28b67fc499c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/NAB_Logo_RGB_1x1.png",
+  "company_url": "/companies/nab-innovation-centre-vietnam",
+  "company_mo_ta": "The NAB Innovation Centre Vietnam is owned by NAB - Australia’s largest business bank.",
+  "job_expertise": [
+    "Analytics Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-ai-native-full-stack-software-engineer-koidra-tech-4010",
+  "tieu_de": "Principal AI-native Full-stack Software Engineer",
+  "ten_cong_ty": "Koidra Tech",
+  "ngay_dang_raw": "2026-09-13",
+  "han_ung_tuyen_raw": "2026-10-18",
+  "ky_nang": [
+    "Fullstack",
+    "Product Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 3, số 8-10 Tạ Hiện",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "3,000 - 5,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "🚀 The Mission\nKoidra isn't just building software; we are building the brain for industrial automation. We are looking for a Principal AI-Native Software Engineer to build software together with the CEO. You will orchestrate the AI agents that write the code in conjunction with your hand-crafted code. Your work will enable our team to remain lean, hyper-efficient, and focused on our core DNA: Autonomous Physical Agents.\n 🛠️ What You Will Do\nOrchestrate AI agents: You will guide and architect senior-level AI agents (via Claude Code++) that generate safe, bug-free, and high-performance code at scale.\nMaster the Deep Stack: You will own the architecture of our end-to-end stack.\nPush the State of the Art: You will constantly keep Koidra’s engineering velocity 10x higher than industry standards.\nForce-Multiply the Team: You will enable our domain experts (physicists, agronomists, control engineers) to ship production-grade software by giving them AI-powered tools that translate their math into robust code.",
+  "yeu_cau": "AI-native Software Engineering: You have 5+ years of deep software engineering experience, but you have spent the last year obsessed with Agentic AI for coding. You know the difference between a “lazy prompt” and a “robust system spec” that produces solid code.\nParanoid about Safety: You understand that “hallucination” in a chatbot is annoying, but hallucination in an industrial control system is catastrophic. You know how to build verification loops, property-based tests, and static analysis gates that catch AI errors before they merge.\nPolyglot Master: You are comfortable auditing code in Python, Rust, and TypeScript. You don't need to write every line, but you must be able to judge the quality of the AI’s output in any of these languages.\nSystems Thinker: You care about the “why” and the “how”. You can explain the whys and whys not of the engineering decisions, whether made by yourself or your AI agents, to both the CEO and other engineers.",
+  "quyen_loi": "Work on game-changing solutions\nwith world-class experts\nwe train and empower you to be at your very best\n\nDeep Tech: Work alongside PhDs in AI and Physics. This is not an e-commerce shop.\nReal Impact: Your code helps grow food more efficiently and reduce industrial carbon footprints.\nThe Lean Philosophy: We believe a team of 5 AI-augmented high-caliber engineers can out-ship a team of 100 traditional developers. You will prove this thesis.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMwMDgyMywicHVyIjoiYmxvYl9pZCJ9fQ==--c80e8332d3abf3aec28996ec82acca0afcc6357d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Mini_Fill_1.png",
+  "company_url": "/companies/koidra-tech",
+  "company_mo_ta": "Koidra Tech",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

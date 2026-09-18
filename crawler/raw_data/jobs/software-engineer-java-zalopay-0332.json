@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/software-engineer-java-zalopay-0332",
+  "tieu_de": "Software Engineer Java",
+  "ten_cong_ty": "Zalopay",
+  "ngay_dang_raw": "2026-09-08",
+  "han_ung_tuyen_raw": "2026-10-13",
+  "ky_nang": [
+    "Design Systems",
+    "MySQL",
+    "Algorithms",
+    "System Architecture",
+    "Kafka",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Z06 Đường số 13, Phường Tân Thuận Đông",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Bank Solutions is the technical foundation of Zalopay’s integration with banks and financial institutions, enabling high-performance services such as account linking, deposits, withdrawals, transfers, and more. Our systems handle millions of real-time financial transactions daily with extreme reliability, security, and scalability.\n \nWe're looking for a highly skilled and driven Software Engineer who shares our passion for innovation in the fintech space. You'll be instrumental in designing, developing, and optimizing both the frontend user interfaces and the high-traffic backend systems.\n \nWhat You'll Do:\nEnd-to-End Development: Design and develop robust, scalable backend services (primarily Java/Golang) that power our financial products, and build intuitive frontend applications to deliver seamless user experiences.\nQuality Assurance: Ensure high code quality through comprehensive unit testing, thorough execution for both frontend and backend components.\nProblem Solver: Troubleshoot and resolve complex technical issues and errors promptly across the entire application stack, ensuring continuous and efficient operation.\nDocumentation Guru: Contribute to and maintain up-to-date system documentation, sharing your knowledge effectively with the team.",
+  "yeu_cau": "Requirements:\nAt least 2+ years of hands-on experience as a full-stack Software Engineer in a complex, enterprise-level development environment.\nStrong proficiency in Java 8+ and modern Java frameworks like Spring Boot 2+ for backend development.\nProven experience in integrating and developing APIs.\nExperience working with both relational (e.g., MySQL, Oracle) and non-relational data stores (e.g. Redis).\nFamiliarity with distributed, event-driven systems, including messaging protocols and middleware like RabbitMQ and Apache Kafka\nA deep understanding of OOP principles and key design patterns.\nStrong understanding of Docker, Kubernetes, networking, and experience with CI/CD\nUnderstanding of AI fundamentals and experience leveraging AI-assisted tools to improve development productivity and workflow efficiency.\n \nBonus Points For:\nHands-on experience with Golang.\nExperience in frontend development using ReactJS.\nFamiliarity with Agile methodologies (Scrum, Kanban).\nExperience or knowledge of e-wallet, e-payment, e-banking, or the broader finance industry is a significant advantage\nIf you're ready to make a tangible impact on the fintech landscape in Vietnam, grow your IT expertise, and thrive in a dynamic environment, apply now!",
+  "quyen_loi": ".",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkxMDA3NywicHVyIjoiYmxvYl9pZCJ9fQ==--e62f66d120122555990710e33f0fcb8d351f6387/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/zalopay.png",
+  "company_url": "/companies/zalopay",
+  "company_mo_ta": "Zalopay",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

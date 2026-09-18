@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-flutter-developer-mobile-app-nam-viet-jsc-0444",
+  "tieu_de": "Middle Flutter Developer  Mobile App",
+  "ten_cong_ty": "Nam Viet JSC",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "Flutter",
+    "Android",
+    "iOS",
+    "Dart"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 2, 262 Nguyễn Huy Tưởng",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "700 - 1,200 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mô tả công việc: Lập trình viên Flutter – Phát triển ứng dụng Mobile quản lý trường đại học\n1. Tham gia phân tích, thiết kế và phát triển ứng dụng Mobile phục vụ hệ thống quản lý đào tạo và quản lý trường đại học trên nền tảng Android và iOS.\n2. Phát triển các chức năng nghiệp vụ như: quản lý sinh viên, đào tạo, thời khóa biểu, điểm, học phí, thông báo và các dịch vụ dành cho sinh viên, giảng viên, cán bộ quản lý, ....\n3. Xây dựng giao diện Mobile hiện đại, responsive, tối ưu trải nghiệm người dùng.\n4. Tích hợp ứng dụng với hệ thống Backend thông qua RESTful API.\n5. Phối hợp với đội ngũ Backend, Database, QA và nghiệp vụ để triển khai, kiểm thử và hoàn thiện sản phẩm.\n6. Thực hiện đóng gói, phát hành và cập nhật ứng dụng trên Google Play Store và Apple App Store",
+  "yeu_cau": "Yêu cầu bắt buộc về kỹ thuật\n+A. Flutter & Dart\nỨng viên cần:\n- Thành thạo ngôn ngữ Dart\n- Có kinh nghiệm phát triển ứng dụng bằng Flutter\n- Hiểu và sử dụng tốt: Widget, StatelessWidget, StatefulWidget, Widget Lifecycle, BuildContext, Future, async/await, Stream, Null Safety, Extension, Exception Handling.\n- Có khả năng xây dựng UI responsive cho nhiều kích thước màn hình\n- Thành thạo Form, Validation, Navigation, Animation cơ bản và Theme.\n+B. Quản lý trạng thái\n- Có kinh nghiệm thực tế với ít nhất một giải pháp: **Bloc/Cubit, Provider, Riverpod hoặc GetX \nREST API & Backend Integration**\n- Thành thạo RESTful API, HTTP/HTTPS và JSON serialization/deserialization.\n-  Xử lý tốt request bất đồng bộ, timeout, exception và lỗi API.\n- Có kinh nghiệm với **Dio hoặc http**, Interceptor, Authentication.\n- Hiểu và triển khai **Bearer Token, Access Token/Refresh Token**.\n- Có kinh nghiệm upload/download file và xử lý dữ liệu từ API.\nC. Đóng gói & phát hành ứng dụng\n- Có kinh nghiệm build, ký ứng dụng và phát hành thực tế lên Google Play Store và Apple App Store.\n- Biết quản lý version, signing/certificate, release và cập nhật ứng dụng.\n+D. Có kinh nghiệm upcode lên Apple store và CH Play\n* Ưu tiên: \n- Đã từng phát triển ứng dụng trong lĩnh vực giáo dục, quản lý đào tạo hoặc quản lý trường đại học.\n- Có kinh nghiệm làm việc với hệ thống Backend .NET/Web API và SQL Server là lợi thế.\n- Có tư duy về kiến trúc phần mềm, khả năng tối ưu hiệu năng và bảo mật ứng dụng Mobile.\n- Có tinh thần trách nhiệm, chủ động học hỏi và phối hợp tốt với đội ngũ phát triển.\n2. Yêu cầu ứng viên\n• Tốt nghiệp Đại học chuyên ngành: CNTT, Khoa học máy tính, Hệ thống thông tin hoặc tương đương.\n• Làm việc kỷ luật, đúng quy trình, có trách nhiệm với sản phẩm phần mềm, chủ động nghiên cứu công nghệ mới.\n• Tinh thần bảo mật dữ liệu và tuân thủ quy định hệ thống.",
+  "quyen_loi": "Thưởng theo dự án\nTham gia chương trình đào tạo nâng cao chuyên môn\nTham gia du lịch, các hoạt động thể thao\n\nThu nhập: từ 15.000.000 đến 30.000.000\nThưởng theo % của từng dự án khi tham gia phát triển sản phẩm. (thưởng theo quý)\nCơ hội nghiên cứu phát triển các sản phẩm mang tính ứng dụng thực tế.\nCơ hội làm việc trên các nền tảng công nghệ mới để hiện thực nhanh các yêu cầu về nghiệp vụ.\nLương cạnh tranh và được xem xét đánh giá tăng lương theo năng lực cá nhân đóng góp cho từng dự án theo Quý.\nTăng thu nhập khi đăng ký làm thêm các công việc ngoài giờ hành chính\nLương tháng 13\nĐịa điểm làm việc: 262 Nguyễn Huy Tưởng, Thanh Xuân, HN\nThời gian làm việc:\nThứ 2 - Thứ 6 (từ 08:00 đến 17:30)\nThứ 7 (từ 08:00 đến 12:00)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDc0MTQ4NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d6980ec32012341e678d75ee28568c9b0b739e61/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOGONV.png",
+  "company_url": "/companies/nam-viet-jsc",
+  "company_mo_ta": "Công ty phát triển lấy chất lượng SP, DV phần mềm lĩnh vực Giáo dục, Y tế làm thước đo giá trị.",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Education and Training"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

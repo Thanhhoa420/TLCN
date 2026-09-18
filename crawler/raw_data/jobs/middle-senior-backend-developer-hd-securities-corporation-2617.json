@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-backend-developer-hd-securities-corporation-2617",
+  "tieu_de": "Middle/Senior Backend Developer",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-03",
+  "han_ung_tuyen_raw": "2026-10-08",
+  "ky_nang": [
+    "Kafka",
+    "Agile",
+    "API",
+    "Spring Boot",
+    "Redis"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "I. TỔNG QUAN VỊ TRÍ\nPhát triển và vận hành các dịch vụ backend phục vụ hệ thống giao dịch, ứng dụng khách hàng, hệ thống quản lý nội bộ và kết nối đối tác. Đảm bảo xử lý nghiệp vụ, dữ liệu và giao dịch chính xác, ổn định, an toàn trên môi trường vận hành thực tế.\n \nII. TRÁCH NHIỆM CHÍNH\n1. Phát triển Backend Services\nXây dựng, bảo trì và tối ưu backend services/API phục vụ các luồng nghiệp vụ như tài khoản, đặt lệnh, tài sản, danh mục, dữ liệu thị trường, thông báo và vận hành nội bộ.\nPhân tích yêu cầu, thiết kế API contract, database schema và luồng xử lý; trao đổi với BA/Frontend để làm rõ business rule trước khi triển khai.\nTích hợp với core systems, hệ thống nội bộ và đối tác qua REST API, message queue, file interface hoặc các cơ chế tích hợp khác; đảm bảo xử lý đúng, có idempotency và khả năng trace.\n2. Chất lượng mã nguồn, hiệu năng và dữ liệu\nTối ưu API, business logic và database query; xử lý các vấn đề về concurrency, transaction, caching và performance trên các luồng có tải cao.\nViết unit test, tham gia code review, xử lý bug và kiểm tra regression trước khi release; tuân thủ coding convention, Git workflow và quy trình release.\nTheo dõi application log, truy vết request/giao dịch, kiểm tra dữ liệu và xử lý các vấn đề về đồng bộ, sai lệch hoặc lỗi tích hợp giữa các hệ thống.\n3. Release và hỗ trợ Production\nPhối hợp với QA/QC, Frontend và DevOps trong kiểm thử tích hợp, chuẩn bị release package, triển khai và xác nhận kết quả trên UAT/Production.\nTham gia xử lý incident production: phân tích log, xác định root cause, hotfix khi cần thiết và triển khai biện pháp ngăn lỗi tái diễn.\nÁp dụng các yêu cầu về application security như authentication, authorization, input validation, bảo vệ dữ liệu nhạy cảm, audit log và kiểm soát thay đổi.",
+  "yeu_cau": "III. YÊU CẦU ỨNG VIÊN\nKinh nghiệm\nTốt nghiệp Đại học chuyên ngành Công nghệ Thông tin, Khoa học Máy tính, Kỹ thuật Phần mềm hoặc lĩnh vực liên quan.\nCó từ 3–5 năm kinh nghiệm phát triển Backend, ưu tiên ứng viên đã tham gia phát triển hoặc vận hành hệ thống tài chính, ngân hàng, chứng khoán, fintech hoặc thanh toán.\nCó kinh nghiệm làm việc với hệ thống có dữ liệu/giao dịch lớn, yêu cầu cao về tính chính xác, bảo mật và tính sẵn sàng.\nKiến thức và kỹ năng chuyên môn\nThành thạo ít nhất một nền tảng backend: Java/Spring Boot, .NET/C#, Node.js, Python hoặc Golang.\nCó kinh nghiệm thiết kế RESTful API, xử lý xác thực và phân quyền, logging, xử lý lỗi, cache và tích hợp hệ thống.\nCó kinh nghiệm làm việc với cơ sở dữ liệu quan hệ, ưu tiên Oracle, SQL Server hoặc PostgreSQL; biết Redis, Kafka, RabbitMQ hoặc các công cụ tương đương là lợi thế.\nIV. QUYỀN LỢI\nLộ trình thăng tiến rõ ràng: Backend Engineer → Senior Backend Engineer → Tech Lead\nLương cạnh tranh, thương lượng theo năng lực thực tế; review lương 1 lần/năm và thưởng hiệu suất theo kết quả dự án. \nBảo hiểm đầy đủ theo quy định; bảo hiểm sức khỏe bổ sung; khám sức khỏe định kỳ hàng năm.",
+  "quyen_loi": "- Competitive salary package (Base salary and performance bonuses).\n- Comprehensive health and accident insurance.\n- Provision of work equipment (Laptop, mouse, monitor, etc.).\n- A creative and modern working environment.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

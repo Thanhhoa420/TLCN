@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-lead-java-banking-gft-technologies-vietnam-0004",
+  "tieu_de": "Technical Lead Java, Banking",
+  "ten_cong_ty": "GFT Technologies Vietnam",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    "Java",
+    "English",
+    "Spring Boot",
+    "AWS",
+    "Microservices",
+    "Kafka"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "29A Nguyen Dinh Chieu",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Summary \nWe are looking for a seasoned engineering leader to support the modernization of a large-scale enterprise platform within a regulated financial services environment. The role will initially focus on engineering hygiene improvements, helping reduce technical complexity, improve maintainability, and establish stronger engineering practices. Beyond the initial stabilization and clean-up phase, the individual will play a key role in shaping the target architecture and guiding a phased modernization journey. This position requires a strong combination of technical leadership, architectural thinking, stakeholder management, and hands-on engineering experience \n \nKey Responsibilities \nEngineering Excellence & Platform Improvement \nLead engineering hygiene and code quality improvement initiatives \nAssess and reduce technical debt across the application landscape \nDefine and implement improvements to:  \nEngineering standards and practices \nBranching and version control strategy \nRelease management processes \nDevelopment lifecycle governance \nQuality assurance and testing practices \nIdentify and prioritize quick wins that deliver immediate business and engineering value \nModernization Strategy & Architecture \nContribute to the definition of target architecture and modernization roadmap \nAssess application landscape, dependencies, integrations, and business-critical workflows \nRecommend modernization approaches and implementation sequencing \nBalance technical improvements with business priorities and operational constraints \nSupport phased transformation planning and execution \nStakeholder Engagement & Advisory \nAct as a trusted advisor to both technology and business stakeholders \nFacilitate architecture reviews and decision-making sessions \nCommunicate technical findings in clear business language \nChallenge assumptions and provide pragmatic recommendations \nBuild alignment across engineering, architecture, product, and business teams \nTechnical Leadership \nProvide technical direction and governance to delivery teams \nMentor engineers and promote engineering best practices \nDrive consistency, maintainability, and long-term sustainability \nEnsure recommendations are actionable and aligned with strategic objectives",
+  "yeu_cau": "Required Experience \n10+ years of software engineering experience \nProven track record leading modernization or transformation initiatives for large enterprise applications \nStrong software architecture and solution design expertise \nExperience improving engineering practices within complex environments \nDemonstrated success reducing technical debt and improving platform maintainability \nExperience working within banking, financial services, fintech, insurance, or other regulated industries \nTechnical Expertise \nThe ideal candidate should have strong experience across multiple areas of the modern enterprise application landscape: \nDeep expertise in Java-based enterprise applications and distributed systems \nStrong understanding of modern application architectures and integration patterns \nExperience modernizing legacy platforms and reducing technical debt \nStrong database and data modelling knowledge, ideally within Oracle environments \nExperience with messaging and event-driven architectures \nFamiliarity with modern frontend frameworks and API-driven architectures \nGood understanding of application security, authentication and identity management \nHands-on experience with Kubernetes, containerized platforms and cloud-native practices \nExperience defining engineering standards, release strategies and development governance \nFamiliarity with AI-assisted software engineering tools and modern developer productivity practices is a strong advantage \nStakeholder & Leadership Skills \nThe successful candidate must be comfortable operating at both strategic and delivery levels. Key capabilities include: \nStrong executive and stakeholder communication skills \nAbility to influence technical and business decisions \nAbility to translate technical complexity into business impact \nStrong consulting mindset and problem-solving skills \nAbility to drive consensus across multiple stakeholder groups",
+  "quyen_loi": "We build a professional & fun working environment.\nWe focus on your growth, yes the long-term growth.\nWe develop the future-ready digital bank platform.\n\nHR benefits\nCompetitive salary\nSalary band per level are reviewed once per year\n13th month salary pro rata depending on the employee’s length of service (within a calender year), paid with the December salary\nMonthly lunch allowance: 700,000 VND/employee\nParking: GFT covers the monthly parking fee for employee motorbikes\nPerformance evaluation is once per year, for 2 purposes:\n   > Performance bonus   > Salary increments\nHealth care\nPrivate health insurance: including accident, outpatient, in-patient, maternity, and dental for all permanent employees who pass 2-month probation.\nOptical: expense claim for eyewear\nAnnual health check-ups.\nVacation\nMaximum 18-day vacation leave/year (with the ability to carry over 05 days till 31st March of the following year)\nAdding one more annual leave day for each two-year anniversary.\nHealthy lifestyle\nSports and hobby clubs: company has an annual fund for fitness activities, which is allocated per month as team’s vote.\nRange of healthy snacks, tea, coffee, milk and beer on tap\nSocial\nCompany townhall: each 6 weeks\nCSR activities: as per company’s CSR guideline\nOnsite tour/training courses at other GFT offices and client’s destination overseas (where applicable).",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY2NDkwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--ddbe61279547bfa37eb6c2f8aa6ec51c62d37409/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/GFT%20avatar.jpg",
+  "company_url": "/companies/gft-technologies-vietnam",
+  "company_mo_ta": "Building technology to revolutionise the Digital Banking with Cloud engineering.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

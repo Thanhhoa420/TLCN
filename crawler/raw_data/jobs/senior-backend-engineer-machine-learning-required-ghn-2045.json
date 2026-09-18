@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-machine-learning-required-ghn-2045",
+  "tieu_de": "Senior Backend Engineer Machine Learning required ",
+  "ten_cong_ty": "GHN",
+  "ngay_dang_raw": "2026-08-13",
+  "han_ung_tuyen_raw": "2026-09-17",
+  "ky_nang": [
+    "Machine Learning",
+    "System Architecture"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3rd Floor, Rivera Park Building, 7/28 Thanh Thai",
+  "quan_huyen": "Quận 10",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it ",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Giao Hang Nhanh (GHN)\nGiao Hang Nhanh (GHN) is one of Vietnam’s leading logistics companies, proudly delivering exceptional services with the commitment: “Smarter, Faster, More Cost-Effective.” GHN empowers millions of businesses to optimize their operations while creating thousands of jobs for the Vietnamese workforce.\n \nFounded with the mission to revolutionize the logistics industry and guided by a technology-driven vision, GHN continuously integrates advanced technological solutions into every delivery. This enables streamlined operations, enhanced delivery performance, and a fast, safe, and efficient customer experience - serving a wide range of clients including E-commerce platforms, retailers, and individual consumers.\n \nWith a nationwide network spanning all 34 provinces and cities, a forward-thinking innovation strategy, and robust logistics infrastructure, GHN continues to affirm its position as a pioneer in Vietnam’s rapidly growing E-commerce and logistics sector.\n Job DescriptionKey Responsibilities\nDevelop and implement social product features, including but not limited to profiles, feeds, comments, chats, notifications, and marketplaces.\nDesign and build open API functionalities for core social products.\nOptimize system performance, troubleshoot online incidents, and refactor existing systems for better efficiency.\nWrite clean, high-quality, and maintainable code in adherence to engineering best practices.\nCollaborate in an Agile environment, working closely with cross-functional stakeholders to deliver impactful solutions.",
+  "yeu_cau": "Experience: 7–8+ years with full lifecycle of project development \nTechnical Expertise:\nStrong background in software design, architecture, and integration.\nDeep understanding of event-driven architectures, parallel programming, multi-threading, enterprise integration patterns, sockets, web services, and RESTful APIs.\nFamiliar with Microservices, event-driven architecture\nDatabase Knowledge: Proficient in distributed databases and NoSQL DB systems.\nPerformance Tuning: Experience with distributed caching tools such as Redis.\nCommunication: Strong interpersonal and cross-team communication skills.\nDomain Knowledge: Familiarity with payment, finance, or accounting products is an advantage.\nPreferred Qualifications:\nProficiency in developing React-based user interfaces.\nFamiliarity with big data technologies such as Apache Kafka and OLAP.\nExperience with Kubernetes (K8s) or cloud services like GCP and AWS is a significant plus.\nDeep understanding of machine learning algorithms, model training, and evaluation techniques.\nProficiency in Python and popular ML libraries (e.g., PyTorch, TensorFlow, Scikit-learn) for model development and prototyping.\nStrong experience with MLOps practices and tools (e.g., MLflow, Kubeflow) for automating the model development and deployment pipeline.\nProven experience with Large Language Models (LLMs), Natural Language Processing (NLP), or Computer Vision applications.",
+  "quyen_loi": "User-first mindset, solving real needs with impact\nData-driven culture, decisions backed by insights\nSafe space to innovate, fail fast and grow faster\n\nCompetitive compensation package including salary and performance-based bonuses.\nFull statutory insurance (Social, Health, and Unemployment Insurance).\nPrivate healthcare insurance.\nAnnual health check.\nAnnual salary review based on performance and contribution.\nCompany team-building activities and annual trips.\nContinuous learning opportunities through internal and external training programs with clear career development pathways.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3NjAzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d7406733573ebd43cd5ab9a3c48f62705a28f627/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/%E1%BA%A2nh%20Linkedin.jpg",
+  "company_url": "/companies/ghn",
+  "company_mo_ta": "Giaohangnhanh (GHN) is a leading technology-driven logistics company in Vietnam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Transportation, Logistics and Warehouse"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/expert-senior-ios-software-engineer-techcombank-2547",
+  "tieu_de": "Expert Senior, iOS Software Engineer",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-08-27",
+  "han_ung_tuyen_raw": "2026-10-01",
+  "ky_nang": [
+    "iOS",
+    "Mobile Apps",
+    "GraphQL",
+    "MVVM",
+    "SOLID Principles",
+    "Swift"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 6 Quang Trung, phường Trần Hưng Đạo",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\nLead the design, development, and optimization of enterprise-grade iOS applications that integrate seamlessly with Techcombank backend platforms and digital ecosystems. Act as a senior technical contributor, mentor engineers, drive engineering excellence, and ensure delivery of secure, scalable, and high-performance mobile solutions.\nKey Accountabilities\n1. Mobile Solution Architecture & Development\n• Design and develop scalable, secure, and maintainable iOS applications aligned with Techcombank architecture standards.\n• Contribute to low-level solution design and technical implementation of digital banking products.\n• Collaborate closely with Backend Engineers, Solution Architects, Product Owners, and QE teams to deliver end-to-end customer journeys.\n• Drive adoption of modern iOS architecture patterns and engineering standards.\n2. Technical Leadership & Mentorship\n• Provide technical coaching and mentorship to Software Engineers and Senior Software Engineers.\n• Lead technical discussions, design reviews, and architecture reviews.\n• Promote best practices in Swift development, code quality, application performance, and security.\n• Support capability building activities within the engineering organization.\n3. Code Quality, Performance & Security\n• Lead peer code reviews and enforce engineering standards across the team.\n• Optimize application performance, responsiveness, memory management, and battery consumption.\n• Ensure compliance with mobile security standards and secure coding practices.\n• Implement monitoring, logging, crash analytics, and observability mechanisms to improve production stability. Adapted from engineering quality and optimization responsibilities.\n4. Testing, Reliability & Release Management\n• Drive implementation of Unit Testing, UI Testing, Integration Testing, and automation testing.\n• Partner with QE teams to troubleshoot and resolve complex production issues.\n• Improve CI/CD pipelines for mobile application delivery.\n• Support App Store release management and production deployment activities.\n• Ensure high software reliability, release quality, and operational excellence.\n5. Technical Documentation & Engineering Governance\n• Produce and maintain technical documentation, including:\n• Mobile application architecture documents\n• API integration specifications\n• Development standards and coding guidelines\n• Security and performance recommendations\n• Ensure documentation remains updated and aligned with system evolution.",
+  "yeu_cau": "Success Profile\n• Bachelor's or master's degree in computer science, Software Engineering, Information Technology, or related fields\n• 5–7+ years of professional iOS development experience\n• Mobile Engineering: Swift, UIKit, SwiftUI, Combine, Async/Await, Dependency Injection, Modular Architecture, RxSwift, ROC codebase development and maintenance\n• Architecture & Design: SOLID, MVVM, VIPER, Clean Architecture, API-first Design, Offline-first Design, CocoaPods, Swift Package Manager (SPM), Modular Package Architecture\n• Integration & Backend Collaboration: REST API, GraphQL, OAuth2, OIDC, JWT Authentication, API Security\nIdeal Candidate Profile\n• Strong hands-on iOS engineer with deep understanding of mobile architecture and software craftsmanship\n• Able to influence technical direction without direct people management responsibility\n• Passionate about engineering excellence, mentoring, and continuous improvement\n• Comfortable operating within large-scale enterprise and banking technology ecosystems\n• Strong collaboration mindset with Backend, Platform, Security, Architecture, and Product teams",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\nWHY BECOME IT/DATA EXPERTS AT TECHCOMBANK?\nInvesting over 500 million USD to develop large-scale IT projects, Techcombank is one of the leading bank in Technology trends in Vietnam\nYou will grow with Techcombank by having the opportunity to learn from top experts from across the world\nTechcombank provides a rewarding remuneration structure that commensurate with your achievement and contribution\nTechcombank is the Top 2 Best place to work in the banking industry where you can experience various exciting activities throughout the year: Company anniversary, Team building, Active Saturday , Year End Party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-software-engineer-fullstack-golang-javascript-flodesk-1201",
+  "tieu_de": "Senior Software Engineer Fullstack, Golang/JavaScript",
+  "ten_cong_ty": "Flodesk",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "English",
+    "Golang",
+    "UI-UX",
+    "AWS",
+    "Product Management",
+    "JavaScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Indochina Riverside, 74 Bach Dang",
+  "quan_huyen": "Quận Hải Châu",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "2,000 - 4,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Opportunity\nWe're looking for a Senior Software Engineer who can move fluidly across the stack — frontend and backend — and who uses AI-native tools (Claude Code, Cursor, Codex, and similar) as part of how they build, not as an afterthought.\nYou don't need prior end-to-end full-stack experience to apply. If your background is primarily frontend or primarily backend but you're genuinely interested in growing into a fullstack role, we want to hear from you. What matters more than your past title is your mindset and your ability to learn fast, especially with AI as a force multiplier.\nYou will not just \"convert Figma to code\" or \"code tickets.\" Your core challenges will include:\nCraft delightful, intuitive interfaces that anticipate user needs across our product suite — email, forms, checkout, and workflow automation, and many more in the future.\nBuild and operate high-scale backend systems handling billions of annual events, solving real challenges in speed, data processing, and stability.\nBuild AI-powered features — smarter writing assistance, auto-generated designs, intelligent workflows, and new AI products built from the ground up.\nDesign strong APIs and integrations with partners like Shopify, Zapier, and WooCommerce.\nOwn your work end-to-end — from understanding why a request exists, to deciding what should be built, to shipping how it's built in production.\nWork directly with Product Managers and Designers to decide how features should work — not just how they're implemented.",
+  "yeu_cau": "What You Need to Be Successful\nWe hire for mindset first, technology second.1. Engineering Skills\nWhichever side of the stack you're strongest in today, we expect depth there and genuine curiosity about the other side:\nFrontend\nDeep skills in TypeScript and React (Hooks, Context); you understand how React works under the hood (re-rendering, virtual DOM).\nComfortable with modern build tools (Vite, Turbo) and monorepos.\nStrong foundation in performance optimization and code-splitting.\nBackend\nStrong computer science foundation and problem-solving skills.\nExperience with SOA architecture (Golang/Node.js preferred), MongoDB/PostgreSQL, and AWS services.\nComfortable designing systems that stay fast even as traffic scales 10x.\nAI-Augmented Development\nYou use AI tools (Claude Code, Cursor, Codex, etc.) as a genuine engineering practice — not just autocomplete. You know what to delegate to AI and what requires your own judgment, and you remain fully responsible for the code you ship.2. Builder Mindset & Product Thinking\nThis is what we screen for most carefully:\nWhy & What before How. When you receive a request, your first instinct is to ask why it needs to exist and what problem it actually solves — not to jump straight into implementation.\nYou build for the user, not just the ticket. Whether it's an external customer or an internal ops teammate, you think about whether what you're building actually helps them, and you're not satisfied shipping something no one asked for or no one uses.\nYou see the big picture. You think about downstream impact, maintainability, and business consequences — not just your feature or module in isolation.\nYou've built things because you saw they were needed — not only because you were assigned to. Personal projects, internal tools, or improvements you drove yourself are all strong signals here.3. Ownership & Collaboration\nHigh responsibility. You work independently. You don't wait for detailed instructions — you talk to the PM, understand the requirement, and deliver the solution.\nShips to production. You take things all the way, not just to prototype or demo stage.\nClear async communication. You can explain technical problems to non-technical stakeholders clearly and respectfully, and you document assumptions rather than blocking on answers.\nTeamwork. You believe in code reviews and knowledge sharing, and you help the team get better every day.Nice to Have\nExperience shipping AI or conversational UI features that improved real user outcomes.\nExperience with SaaS-specific problems (fair usage, noisy neighbor), large-scale databases (sharding, partitioning, no-downtime migration), Martech, or Fintech domains.\nExperience building internal tools for non-technical teams (ops, CS, support).\nExperience leading an engineering team or mentoring other engineers.",
+  "quyen_loi": "Profitable startup from Year 1!\nHigh pay, MacBook Pro, $1000 annual development\nWork with top talent on product changing industry\n\nWe are a profitable, fast-growing startup with a product that is transforming the industry!\nDesign-First Culture. We don't treat design as an afterthought — you'll work on a product famous for being beautiful.\nImpact & Scale. Your work directly empowers 600,000+ users, and you'll get to work with billion-scale data — a rare opportunity at most startups.\nCulture. We're a lean, fast-growing team that values Clarity, Craft, Curiosity, and Care.\nPerks: \nWe pay highly competitive salaries + 13th-month bonus.\nStock options for high contributors—we want you to own a part of our success.\nProfessional development package of up to $1,000/year (for courses, books, or conferences).\nModern office with top-notch equipment (MacBook Pro & Mac Studio).\nComprehensive healthcare package (Annual health check, Vaccine, Premium Health Insurance)\nFlexible working hours with a standard 5-day workweek.\nProfessional Equipment: Work efficiently with top-notch equipment, including a MacBook Pro or external screen in our modern office.\nCareer Growth: Unlock opportunities for advanced career development, including overseas opportunities.\nIf you're passionate about making a difference and thriving in a dynamic, collaborative environment, we want to hear from you! Apply now and join us in shaping the future.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTQ0MTI5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d6a8152c86a37661654de323fa568ff2dbac37bc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Property%201=black.png",
+  "company_url": "/companies/flodesk",
+  "company_mo_ta": "Design emails people love to get",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Media, Advertising and Entertainment",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

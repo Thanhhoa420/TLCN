@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/embedded-software-development-engineer-cong-ty-tnhh-hyundai-kefico-viet-nam-4744",
+  "tieu_de": "Embedded Software Development Engineer",
+  "ten_cong_ty": "Công ty TNHH Hyundai Kefico Việt Nam",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "Embedded",
+    "English",
+    "CANalyer",
+    "AUTOSAR",
+    "C language"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Văn phòng C&D, Tầng 12 Tòa nhà Taisei Square Hà Nội, Số 289 Đường Khuất Duy Tiến, Phường Đại Mỗ, Thành phố Hà Nội",
+  "quan_huyen": "Quận khác",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for experienced software developers who are passionate about automotive innovation and eager to sharpen your expertise in a collaborative, forward-thinking environment.\nThe successful candidate will be responsible for the BSW development, maintenance, and SW verification to ensure the functionality and reliability of automotive BSW.\nResponsibility\nConfigure and integrate AUTOSAR BSW modules such as: EcuM, Communication Stack (CanIf, CanTp, PduR, Com…), Memory Stack (NvM, Fee, Ea), Diagnostic Stack (DCM, DEM, FiM), System Services (BswM, WdgM, SchM, E2E, SecOC..).\nDevelop and maintain BSW related to C code and configuration files in compliance with AUTOSAR standards and automotive quality processes (A-SPICE), functional safety (ISO26262), cybersecurity (ISO21434).\nAnalyze system requirements and derive BSW configurations.\nIntegrate MCAL drivers and ensure proper interaction with BSW modules.\nPerform unit testing, integration testing, debugging to find the root cause of issues and provide the resolutions.\nPrepare technical documentation, design documents, and test reports. Manage software development workflows and ensure timely delivery of project milestones, while aligning with best practices in process driven engineering and collaborative development with Korean R&D Headquarter.",
+  "yeu_cau": "1+ years of experience in Embedded Software Development\nProficient in embedded C programming.\nSolid understanding of AUTOSAR Classic Platform architecture.\nExperienced with AUTOSAR BSW configuration and integration.\nExperienced with automotive communication protocols (CAN, LIN, Ethernet).\nFamiliar with microcontrollers such as NXP, Infineon AURIX, or similar.\nExperienced using debugging tools, oscilloscopes, CANoe, CANalyzer, and trace tools.\nUnderstanding of software development lifecycle and version control systems (Git, SVN,..).\nSelf-driven and capable of working independently.\nGood in English communication and teamwork skills, especially in fast-paced environments.",
+  "quyen_loi": "Opportunity to study abroad\nPeriodic bonus (Tet & holidays) and special bonus\nAnnual travel in summer\n\nWorking from Monday to Friday (Saturday & Sunday off)\nOpportunity to study abroad (America, Germany, Korea, Japan, Thailand, Netherlands, Singapore...)\nRegularly trained in the country and at the company to improve skills (English, Korean, soft skills, the most modern and advanced professional techniques in Vietnam...)\nPeriodic bonus (Tet & holidays) and special bonus depending on annual revenue\n12 days of leave/year and 6 days of company leave (full salary),\nAnnually organized movement activities (year-end parties, family days, sports days, sports tournaments, volunteer activities, charity...\nGifts for Tet holidays (Lunar New Year, Mid-Autumn Festival, June 1st, Vietnamese & international women also have gifts for their mother or wife..., personal birthday, company birthday)\nAnnual travel in summer (not including trips organized by the rooms themselves)\nExchange party of blocks/ Office team building\nArtificial football field, table tennis room, GYM, YOGA, AEROBIC gym (with bathroom) free for employees.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxNTQ4LCJwdXIiOiJibG9iX2lkIn19--ec8702dd021e71676ca30f17bde9e7d62fea2376/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/hyundai-kefico-vietnam-logo.jpg",
+  "company_url": "/companies/cong-ty-tnhh-hyundai-kefico-viet-nam",
+  "company_mo_ta": "We are Hyundai Kefico Vietnam",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

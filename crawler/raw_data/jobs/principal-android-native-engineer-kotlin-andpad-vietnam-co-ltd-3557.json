@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-android-native-engineer-kotlin-andpad-vietnam-co-ltd-3557",
+  "tieu_de": "Principal Android Native Engineer Kotlin",
+  "ten_cong_ty": "ANDPAD VietNam Co., Ltd",
+  "ngay_dang_raw": "2026-08-12",
+  "han_ung_tuyen_raw": "2026-09-16",
+  "ky_nang": [
+    "Android",
+    "MVVM",
+    "Clean Architecture",
+    "Kotlin",
+    "AWS",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3rd Floor, Dong Nhan Building, 90 Nguyen Dinh Chieu, Tan Dinh Ward",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ANDPAD Viet Nam is looking for Principal Android Engineer (Kotlin) who can join our team and develop the application in cooperation with the product manager. Working in the form of Squad, a small team can quickly and consistently engage in everything from design to development, testing and operation.\nAlso, there are a lot of opportunities to work with new languages ​​and frameworks other than the main language in an international environment.\n \n■ Job Scope\nDesign and implementation function of the product in charge of using Kotlin and other mobile technologies such as Flutter\nRefactoring of existing applications, enhancements performance, Cost reduction of regression testing by implementing appropriate test code\nHigh-performance design and development of camera module and drawing functions\nAPI design and implementation linked with backend\nRequirements definition and specification formulation in collaboration with product managers, designers and QA\nKeep up to date on the latest industry trends and best practices in mobile technologies and apply them to the product\nEnjoy working on challenging solutions and systems\nNote: The assigned product will be determined based on the candidate's skills and preferences, as well as the internal structure of the company.\n \n■ Development environment\n  Programming: Kotlin, Dart\n  Framework: Kotlin, Flutter\n  Infrastructure: AWS / GCP\n  CI/CD: CircleCI / Bitrise / Fastlane / GitHub Actions\n  Knowledge Tool: Confluence / esa\n  VCS: GitHub\n  Others: Slack / Jira",
+  "yeu_cau": "Must-have:\nEmpathy for Andpad's mission and values\n8+ years of experience in developing native applications for Android Native using Kotlin\nExperience in Clean Architecture design with SOLID principles, Jetpack Compose (as the modern UI toolkit), frameworks, and technologies selection based on application requirements\nExperience as a technical lead throughout the full project development lifecycle\nCreating high quality code for security, performance, scalability, etc.\nExcellent algorithms, analytical, problem-solving skills and improving application performance\nContinuously discover, evaluate, and implement new technologies to maximize development efficiency\nExperience in dealing with scalability in line with service growth\nFamiliar with Restful/ GraphQL API\nExcellent developing functions with writing test code\nHave knowledge of Mobile application security\nConduct regular code reviews and provide feedback to team members adhering to best practices\nParticipate in the planning process for software development projects and ensure meeting quality and deadlines on delivery\nSkills in communicating smoothly with team members and other stakeholders\nGood at English communication\n \nNice to have:\nExperience in building project from scratch\nEnsure high-quality work by monitoring individual and team performance and addressing any issues through appropriate guidance and mentoring\nResponsible for supervising, managing and motivating the mobile development team\nAbility to write project documentation\nExperience in developing hybrid applications for Flutter using Dart\nExperience in developing native applications for iOS Native using Swift\nExperience in automation test",
+  "quyen_loi": "No.1 Construction Tech company in Japan\nHybrid working environment\nAttractive salary and Macbook Pro\n\nCompetitive salary package, including full insurance coverage\nAnnual performance review: twice/ year\nYear-end Bonus\nHybrid working model\n12 days of annual leave and maximum of 6 days for New Year Leave\nPremium Healthcare Insurance Package starting from day one\nAnnual Health Check-up\nExcellent career development opportunities, with exposure to and experience in the latest technologies\nPatents and Inventions bonus\nCompany trip, Year-End Party, Gifts for Tet/ Holidays\nMacBook Pro/ Laptop is provided",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNzE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2442e5b084a5059142397f377f9573e6ac504dd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screen%20Shot%202022-04-05%20at%2012.11.03%20PM%20-%20Thanh%20Nguyen%20(1).png",
+  "company_url": "/companies/andpad-vietnam-co-ltd",
+  "company_mo_ta": "No.1 Construction Tech Company in Japan",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

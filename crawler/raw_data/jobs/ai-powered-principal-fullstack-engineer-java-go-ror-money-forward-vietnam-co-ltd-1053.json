@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-powered-principal-fullstack-engineer-java-go-ror-money-forward-vietnam-co-ltd-1053",
+  "tieu_de": "AI-Powered Principal Fullstack Engineer Java/Go/RoR",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-08-14",
+  "han_ung_tuyen_raw": "2026-09-18",
+  "ky_nang": [
+    "Java",
+    "ReactJS",
+    "Golang",
+    "Ruby on Rails",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "An implementer who takes direction from product and domain experts, uses generative AI (LLMs), no-code/low-code, and hands-on engineering to move from “what to build” to working prototypes and initial implementations in days —not weeks. This role bridges product, UX, and engineering: you shape the “how” at maximum speed, then hand off testable, specified work to the broader engineering organization.\n \nThis role expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts. Responsibilities\nWork from business requirements and constraints set with domain experts; design prompts and AI-assisted workflows and translate needs into clear system and UX specifications.\nRapid prototyping (UI/UX mockups, thin vertical slices, foundational implementations) using AI tools, no-code/low-code, and code where it accelerates outcome.\nRun hypothesis validation cycles on prototypes; deliver high-fidelity handovers (behaviour, data contracts, non-functional notes) to engineering teams.\nDecode legacy specifications and extend existing products using AI-assisted analysis and implementation where appropriate.\nContinuously evolve how the product team builds—tooling, templates, and practices—as models and platforms change.",
+  "yeu_cau": "1. Full-stack engineering depth (required)\nYou are not only a prompt author: you ship full-stack software and can own thin slices end-to-end when the prototype must be real.\nEnd-to-end feature development: backend services and SPAs; comfort moving across the stack for prototypes and v1 implementations.\nBackend: strong hands-on skills in Java or Golang or Ruby on Rails; RESTful APIs; sound approach to microservices and backward compatibility where relevant; performance, concurrency, and clean structure in code.\nFrontend: solid experience with modern frameworks such as React.js, Next.js, Vue.js, Nuxt.js, or Angular.js; strong JavaScript, TypeScript, HTML, and CSS; awareness of testing (e.g. Jest/Mocha) and quality (linting, reviews).\nData: strong SQL skills and query tuning; ACID-aware design for transactional behaviour in prototypes.\nDelivery: CI/CD (e.g. GitHub Actions, CircleCI, or similar), Git workflows, code review habits; AWS and Docker for deployable prototypes; Kubernetes exposure is a plus.\nReliability and security in scope of the prototype: authentication/authorization patterns, JWT/OAuth2 at a level appropriate to demos and handover notes; SLO/SLI thinking and observability hooks where the prototype will graduate.\nLeadership of craft: contribute to architecture for your domain verticals; mentor others; incident mindset (when things break, fix and document).\n 2. Required experience and skills (must have)\nMinimum 8 years of experience in related roles: Fullstack Developer, AI Engineer, Backend Engineer, Architecture\nGenerative AI: Enthusiastic, daily use of generative AI and advanced AI tooling to streamline work and materially accelerate delivery, combined with deep practical understanding of LLMs and proven application in product or internal delivery (not toy prompts only).\nProduct mindset: Proven track record translating high-level product requirements into detailed requirements and comprehensive technical requirements through close partnership with Product Managers and domain stakeholders.\nCommunication: Strong verbal and written English for clarity and alignment in distributed, multinational product engineering teams.\nPrototyping and product iteration using AI tools and no-code/low-code, grounded in user and operational workflow understanding.\nComfort with ambiguity: ship “something that works first,” then refine in tight loops (agile execution).\nTrack record as a central technical contributor on product initiatives that reached users and business outcomes.\nAgile familiarity (Scrum/Kanban); strong problem-solving across technical and product uncertainty.3. Preferred (nice to have)\nMicro-frontends, state machines, advanced Java or Golang or Ruby on Rails concurrency.\nKubernetes, Kafka/RabbitMQ, Prometheus/Grafana/ELK or similar.\nDDD, Clean/Hexagonal architecture; experience in accounting, finance, or other domain-heavy B2B products.\nOpen-source or strong continuous learning profile.",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nFinancial Benefits:\nAttractive Salary Package\nInsurance based on full salary (Social Insurance, Health Insurance, Unemployment Insurance)\nPrivate health insurance and accident insurance for employees. Covering for family member, applied from manager level\nFull salary during probation period\n17 paid leaves per year\nWorking environment:\nVery well-equipped facility: Macbook, Additional monitor\nHybrid working model with 2 working days in office per week\nAnnual Company trip and Quarterly Team building\nWorking in an international environment with nice and supportive colleagues\nWork life balance environment\nSport clubs in the company for engagement activities: billiard club, running club\nCareer Development:\nClear Career path\nExternal & internal training courses\nSoft-skill workshops\nMonthly and biannual Recognition Awards\nPerformance & salary review: twice/year (Jun & Dec)",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

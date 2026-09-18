@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-expert-ai-engineer-ml-llm-agentic-ai-rag-vinsoc-0922",
+  "tieu_de": "Senior/Expert AI Engineer ML, LLM, Agentic AI, RAG",
+  "ten_cong_ty": "VinSOC",
+  "ngay_dang_raw": "2026-08-15",
+  "han_ung_tuyen_raw": "2026-09-19",
+  "ky_nang": [
+    "AI",
+    "PyTorch",
+    "NLP",
+    "LLM",
+    "Python",
+    "Machine Learning"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Technopark Tower",
+  "quan_huyen": "Quận Long Biên",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "2,500 - 4,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design and develop AI applications powered by Large Language Models (LLMs), including chatbots, AI assistants, Copilots, Retrieval-Augmented Generation (RAG), Text-to-Query, and AI Agents for security system.\nDevelop AI models for classification, scoring, data analysis, anomaly detection, and behavioral pattern recognition.\nBuild knowledge management and long-term memory systems for LLMs to enable contextual information storage, retrieval, and reuse.\nOptimize AI systems for accuracy, latency, scalability, and operational cost.",
+  "yeu_cau": "Requirements\nBachelor's degree in Computer Science, Artificial Intelligence, Data Science, or a related field.\nMinimum 7 years of experience in AI, Machine Learning, Natural Language Processing (NLP), Data Science, or related domains.\nProven experience delivering and deploying at least one AI product or production-grade AI system.\nHands-on experience in one or more of the following areas:\nLLMs, Chatbots, AI Copilots, RAG, Text-to-SQL/Text-to-Query, or AI Agents.\nClassification, anomaly detection, time-series analysis, or behavioral analytics.\nSemantic search, knowledge graphs, knowledge management, or LLM memory systems.\nStrong proficiency in Python and AI/ML frameworks such as PyTorch, TensorFlow, Hugging Face, scikit-learn, or equivalent.\nExperience working with vector databases, databases, APIs, and large-scale data processing systems.\nStrong system design skills with the ability to evaluate technical trade-offs and recommend appropriate architectural solutions.\nPriorities\nCybersecurity experience is highly preferred.\nExperience building enterprise AI products or mission-critical AI systems requiring high accuracy, security, and traceability.\nExperience with MLOps, LLMOps, model monitoring, or deploying AI models in on-premises environments.\nExperience developing shared AI platforms or reusable AI capabilities that support multiple products.\nGood English communication skills, with the ability to read technical documentation and collaborate effectively in English.",
+  "quyen_loi": "Competitive Compensation\nCutting-Edge Technology, AI Security\nGlobal Environment\n\nWork on cutting-edge AI Security & Cybersecurity systems at scale.\nWork on cutting-edge technologies, including LLMs, Agentic AI, and advanced Machine Learning.\nEnjoy the opportunity to solve complex security challenges at scale and create industry-leading solutions.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzM1Njk1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--11d3390f3f4043281f72bd582f6687976328f232/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/ta%CC%89i%20xuo%CC%82%CC%81ng%20(5).jpeg",
+  "company_url": "/companies/vinsoc",
+  "company_mo_ta": "VinSOC",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

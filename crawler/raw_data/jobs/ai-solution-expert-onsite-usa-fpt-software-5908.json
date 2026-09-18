@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-solution-expert-onsite-usa-fpt-software-5908",
+  "tieu_de": "AI Solution Expert onsite USA",
+  "ten_cong_ty": "FPT Software",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    "Solution Architecture",
+    "Enterprise Architecture",
+    "LLM",
+    "Cloud-native Architecture",
+    "CI/CD",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "F-Town 3, Lô E3 Võ Chí Công, Khu CNC, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, Việt Nam",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "JOB OVERVIEW \nThe AI Champion is a senior technical role responsible for embedding AI/LLM technologies across the full Software Development Life Cycle (SDLC) to significantly improve engineering quality, delivery speed, and developer productivity. \nThis person acts as the bridge between software engineering teams and AI capabilities, ensuring practical, scalable, and safe adoption of AI tools and workflows. \nIdeal for individuals with Solution Architect or Technical Lead background, who understand SDLC deeply and are passionate about applying AI to real-world development challenges.\nRESPONSIBILITIES\nA. AI Integration Into SDLC \nIdentify opportunities to embed AI into each SDLC stage: requirements, design, coding, code review, testing, deployment, monitoring. \nBuild and maintain AI-powered accelerators (e.g., code agents, test generators, knowledge assistants). \nLead PoCs for new AI/LLM tools and evaluate their impact on productivity and quality. \nStandardize best practices for secure and compliant use of AI in engineering.\nB. Developer Productivity & Quality Enhancement \nIntroduce AI copilots for coding, debugging, documentation, CI/CD, and testing. \nDesign workflows that reduce manual effort: automated test generation, defect prediction, static code analysis enhancement. \nMeasure and benchmark productivity improvements using DORA metrics, cycle time, test coverage, defect leakage, etc.\nC. Engineering Enablement & Governance \nTrain engineering teams on AI usage, patterns, and safe practices. \nDefine guardrails, policies, and evaluation frameworks for AI-based development. \nCollaborate with Platform/DevOps teams to integrate AI into pipelines (CI/CD, quality gates, PR bots). \nEnsure the ethical, secure, and cost-efficient use of AI models.\nD. Collaboration & Stakeholder Management \nWork closely with Product Owners, Engineering Managers, SAs, and DevOps to align AI initiatives with business goals. \nPartner with cloud providers (AWS, Azure, Google, NVIDIA) to leverage their AI offerings.\nParticipate in architecture decisions from an AI-first perspective.",
+  "yeu_cau": "Technical Background \n5+ years as Solution Architect, Technical Lead, or Senior Software Engineer. \nDeep understanding of SDLC, CI/CD, cloud-native architecture, and enterprise software development. \nStrong foundation in software engineering principles, design patterns, and system architecture. AI/ML Skills \nHands-on experience with AI/LLM tools (e.g., GitHub Copilot, Azure OpenAI, HuggingFace, AWS Bedrock, LangChain). \nUnderstanding of context engineering, RAG, model evaluation, and AI safety basics. \nAbility to prototype simple AI features: agents, automations, workflows.\nSoft Skills \nStrong analytical and problem-solving mindset. \nAbility to influence engineers and drive change. \nGood communication and training skills.",
+  "quyen_loi": "Global Exposure\nFast Track Career\nDiversified Jobs & Technologies\n\nCompetitive package as negotiation \nOnsite opportunities to the US \nJoin SWAT team in Vietnam to Lead Critical Enterprise Programs \nInternational exposure and career growth across global locations \nGlobal and inclusive workplace with monthly cross-cultural events \nWork-life balance benefits supporting employee well-being \nPrivate health insurance with optional family coverage \nSummer vacation allowance \nSponsored training courses for personal growth",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyNzYxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--a24fd92bc0f8ec348868b9e8110408860c26ce44/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20FSOFT%20d%E1%BB%8Dc.png",
+  "company_url": "/companies/fpt-software",
+  "company_mo_ta": "The leading provider of software outsourcing services in Vietnam",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-devops-engineer-aws-docker-linux-sora-technologies-2951",
+  "tieu_de": " Middle DevOps Engineer AWS, Docker, Linux",
+  "ten_cong_ty": "Sora Technologies",
+  "ngay_dang_raw": "2026-09-12",
+  "han_ung_tuyen_raw": "2026-10-17",
+  "ky_nang": [
+    "DevOps",
+    "Networking",
+    "Git",
+    "Linux",
+    "Docker",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "G1 Vinhomes Greenbay, Mễ Trì, Nam Từ Liêm",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Upto $1300 gross/tháng",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng và vận hành hạ tầng AWS đa dự án cho các sản phẩm phục vụ khách hàng Nhật Bản. Bạn được làm chủ toàn bộ vòng đời hạ tầng: IaC, CI/CD, security và cost. Không yêu cầu tiếng Nhật.\nMô tả công việc\nThiết kế, xây dựng và vận hành hạ tầng đa dự án trên AWS.\nQuản lý hạ tầng bằng Infrastructure as Code (Terraform): module hoá, quản lý state, security scan.\nXây dựng và duy trì CI/CD (GitHub Actions): deploy staging tự động, deploy production có phê duyệt.\nVận hành đa dạng mô hình compute: ECS Fargate, EC2 + Auto Scaling, Lambda.\nĐảm bảo bảo mật & tuân thủ: IAM least-privilege, Secrets Manager/SSM/KMS, WAF/GuardDuty.\nThiết lập monitoring, logging, alerting và tham gia xử lý sự cố (runbook, postmortem).\nTheo dõi và tối ưu chi phí hạ tầng (FinOps).\nỨng dụng công cụ AI vào vận hành để tăng năng suất; tham gia review và mentor junior khi cần.",
+  "yeu_cau": "Tối thiểu 2 năm kinh nghiệm DevOps / SRE / Infrastructure Engineer.\nThành thạo AWS ở mức production: VPC, IAM, S3, EC2 và ít nhất một mô hình container/serverless (ECS Fargate hoặc Lambda).\nKinh nghiệm thực chiến Terraform và CI/CD với GitHub Actions.\nThành thạo Docker, Linux, Bash, Git; quản trị RDS / PostgreSQL cơ bản.\nNền tảng vững về networking (VPC, subnet, Security Group) và bảo mật AWS cơ bản.\nĐọc hiểu tài liệu kỹ thuật tiếng Anh; đọc hiểu code ứng dụng đủ để tìm config và debug lỗi hạ tầng.\nBiết ứng dụng AI vào công việc để tăng năng suất.\nSẽ là lợi thế (Nice to have)\nBlue-green / in-place deploy (CodeDeploy); Terraform nâng cao (drift detection, checkov/tfsec).\nRDS nâng cao (Multi-AZ, RDS Proxy, PITR); security & compliance (WAF, GuardDuty, SSO/SAML).\nFinOps / cost engineering; Kubernetes; messaging/async (SQS, EventBridge).\nChứng chỉ AWS hoặc kinh nghiệm Azure / GCP.\nPhẩm chất mong muốn\nTư duy \"own what you depend on\", cân nhắc blast radius và độ an toàn khi thay đổi hạ tầng.\nTrách nhiệm cao, chủ động phát hiện và phòng ngừa sự cố; trung thực, minh bạch trong báo cáo.\nCầu tiến, sẵn sàng học công nghệ mới và hỗ trợ đồng đội.",
+  "quyen_loi": "Mức lương cạnh tranh, upto $1300 gross/tháng.\nĐầy đủ chế độ BHXH, BHYT, BHTN theo luật lao động.\nLàm việc với khách hàng Nhật, học hỏi quy trình chuẩn Nhật.\nLộ trình phát triển rõ ràng lên Senior / Platform Lead / Tech Lead.\nTrang thiết bị làm việc đầy đủ, không gian làm việc thoải mái.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3MDI3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--a6f62331980d6f75dac81702a2a322aff48e900c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Sora-logo.png",
+  "company_url": "/companies/sora-technologies",
+  "company_mo_ta": "Sora Technologies",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architecture-manager-cloud-lotte-finance-vietnam-0355",
+  "tieu_de": "Solution Architecture Manager Cloud",
+  "ten_cong_ty": "LOTTE FINANCE VIETNAM",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "Solution Architecture",
+    "Data Analysis",
+    "Azure",
+    "AWS",
+    "DevOps",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 12A, Tháp Tây, tòa nhà LOTTE Center Hà Nội, 54 Liễu Giai",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Lương thỏa thuận",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Team Leadership & Capability Development\n• Build, lead, and develop the Solution Architecture team.\n• Allocate tasks, conduct performance evaluations, and provide coaching and mentoring.\n• Strengthen team capability in architecture design, emerging technologies, and governance practices.\n2. Enterprise Architecture Governance\n• Design, maintain, and continuously improve the Enterprise Architecture Framework.\n• Develop and manage a 3–5 year technology roadmap aligned with business strategy.\n• Govern the architecture of core systems, including Core Banking, Loan Origination/Management, Card Management, and Payment Platforms.\n• Establish architecture standards, design principles, and review mechanisms.\n3. Solution Architecture & Technology Design\n• Lead solution architecture design for key initiatives and transformation projects.\n• Drive adoption of modern architectural approaches (Cloud/Hybrid, Microservices, Containerization, API Gateway, ESB).\n• Design data architecture and ensure alignment with enterprise data strategy.\n• Evaluate and select appropriate technologies and vendors to meet business and technical requirements.\n4. Security, Risk & Compliance\n• Ensure solution designs comply with ISO 27001, PCI DSS, and applicable State Bank of Vietnam regulations.\n• Collaborate with IT Security and Risk teams on security architecture and risk mitigation.\n• Identify and manage architectural risks, including technical debt and system vulnerabilities.\n5. Project Governance & Stakeholder Coordination\n• Review and approve critical architecture decisions across projects.\n• Collaborate with PMO, Business Units, Vendors, and other stakeholders to ensure alignment and timely delivery.\n• Provide architectural guidance throughout the project lifecycle.\n6. Reporting & Strategic Advisory\n• Provide periodic updates and reports to the Head of IT Architecture and senior management.\n• Advise management on technology trends, investment priorities, and long-term architecture strategy.\n7. Other tasks as assigned by the manager.",
+  "yeu_cau": "1. Education\n• Bachelor’s degree or higher in Information Technology, Telecommunications, Information Systems, or related disciplines.\n2. Experience\n• Minimum of 7 years of working experience in banking, consumer finance, fintech, or other financial institutions.\n• Hands-on experience in implementing and/or integrating critical systems such as Core Banking, Loan Origination/Management, Card Management, and Payment Platforms.\n3. Skills & Professional Competencies\n• Strong knowledge and solid experience in modern technologies, including:\n+ Cloud platforms (AWS, Azure, Hybrid)\n+ Microservices and API Management\n+ Containerization/Kubernetes\n+ DevOps and CI/CD\n+ Data Architecture (DWH, Big Data, Analytics)\n+ Security Architecture\n• Proven ability to lead teams, allocate tasks, and develop team capabilities.\n• Experience working with stakeholders and managing vendors.\n• Strong strategic thinking, analytical, and decision-making capabilities.\n• Effective communication, presentation, and negotiation skills in both Vietnamese and English.",
+  "quyen_loi": "Competitive income\n13th-month salary + performance-based bonus\n16 days of annual leave\nSocial insurance covered on 80% of total income\nBonuses for public holidays, company anniversary, and seniority\n24/7 health care insurance (including coverage for family members)\nAnd many other exclusive benefits only at Lotte Finance",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODg2ODYxLCJwdXIiOiJibG9iX2lkIn19--d6244aa989676855f99bf2c37fe824f77d42e8b8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/lotte-finance-vietnam-logo.jpg",
+  "company_url": "/companies/lotte-finance-vietnam",
+  "company_mo_ta": "LOTTE FINANCE VIETNAM",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

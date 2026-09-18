@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-embedded-integration-engineer-ci-ct-dxc-luxoft-vietnam-4457",
+  "tieu_de": "Senior Embedded Integration Engineer CI/CT",
+  "ten_cong_ty": "DXC Luxoft Vietnam",
+  "ngay_dang_raw": "2026-09-09",
+  "han_ung_tuyen_raw": "2026-10-14",
+  "ky_nang": [
+    "CI/CD",
+    "Jenkins",
+    "C++",
+    "Embedded",
+    "Integration test"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Etown 5, 364 Cong Hoa",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Be part of a multinational team of engineers responsible for developing software for automotive Telematics Control Unit products.\nTechnologies used: Embedded C, CAN, OSEK, RTOS, GSM, 3G/4G, AT commands.\n \n• Lead CI operations and manage the software integration testing and integration team for an automotive platform project.\n• Develop software in accordance with ASPICE standards.\n• Verify software requirements at component and bench levels.\n• Apply knowledge of white, grey, and black box testing methodologies.\n• Support functional disciplines in all software-related aspects.\n• Independently design, implement, and test software components as a skilled software engineer.\n• Perform intermediate to advanced software engineering tasks aimed at achieving full technical competence.\n• Configure, implement, and automate Continuous Integration/Delivery pipelines, including test automation frameworks.\n• Continuously enhance the speed, efficiency, scalability, and stability of the continuous integration system and environment.\n• Develop software following standard guidelines and safety requirements.\n• Maintain consistent and reliable attendance.\n• Utilize static code analysis techniques, including familiarity with MISRA standards.",
+  "yeu_cau": "• Knowledge of product development engineering practices in automotive field\n• Involvement in all phases of the Software Development Life Cycle (SDLC)\n• Knowledge of embedded software development in C/C++ for 16 bit and 32 bit micro-controllers including application for micro-controllers such as Freescale, PPC, ARM core, TI DSP, Microchip, Infineon and Renesas\n• Experience in integrating Application Software components and ARXMLs in AUTOSAR based projects using EB Tools (AUTOSAR Builder and Tresos)\n• Knowledge in code optimization for specific targets and compilers\nPractical Knowledge\n• Working knowledge in structured engineering approach\n• Working knowledge in integrating portable, reusable and modular software in automotive environment.\n• Experience in using a disciplined software integration process based on ASPICE process model.\n• Working knowledge of configuration management, project monitoring and control techniques\n• Troubleshooting and debugging skills\n• Knowledge of structured problem solving (8D) methods and/or techniques\n• Knowledge of AUTOSAR Classic\n• Knowledge of analysis and engineering tools such as version control/configuration management, UML tools, static code check tools\n• Working knowledge of CAN/Ethernet/LIN based tools such as CANalyzer, CANoe and CANape\n• Experience in using VectorCast for unit testing\n• Experience in using Cynosure, Jenkins, Gitlab, and Ansible ; Jenkins, Gitlab , Zuul, Git and Gerrit, Victoria, Zuul Web, and\nGrafana, Python/Pytest, YAML, Bash, C/C++ for low-level system development, Vector CAPL, Artifactory, Docker, AWS.\n• Experience in using Lauterbach and/or iSystem debuggers",
+  "quyen_loi": "Leading in Next-Gen Technologies & Solutions\nOpportunities to work in Overseas Assignments\nReward your excellence by our Recognition Programs\n\nWhy We Are Different?\nDXC is where brilliant people embrace change and seize opportunities to advance their career and amplify customer success. \nA Great Place to Work: We provide our associates a range of programs in the workplace to help maintain healthy and work life balance (Sport/Tournaments/Yoga, Music Band, etc.).\nVarious Recreation Activities: We offer our associates a great number of recreation activities through-out the year include sports, yoga practices, internal contest, etc. which greatly promote the unity and team spirit (DXC Amazing Race, DXC Got Talent, etc.)\nExtra Healthcare & Insurance Programs: We wish to bring our associates the best for their health by offering superior benefits that support health and wellness.\nIncentive for Learning Achievement: We encourage our associates to strive for more learning achievements with the attractive incentive programs (Technical/ English Incentive Awards, etc.)\nRecognition Award Programs: We always acknowledge the significant contributions of our associates who constantly deliver greater value to our clients and contribute significantly to the growth of the company by the attractive recognition awards (Quarterly Recognition Awards, Global Recognition Program etc.)\nTechUP Program: A frame work to foster digital technology engagements through 6 key activities that inspire, connect, educate, build, give and inform.\nTraining & Development: Our global environment promotes lifelong learning. We invest in both infrastructure and content to ensure that employees all over the world have access to high-quality learning opportunities through DXC University & extensive Training Workshops which are regularly organized weekly.\nOverseas Transfer Program: A great number of our associates have been selected to work with our clients in the United States, Australia, UK, Dubai, Japan, Singapore, etc. This is really a great opportunity for our associates to fully improve their understanding and outlook of other cultures, global life style, and enabling them to develop a truly global vision and gain a rich perspective of experience life-changing insights.\nCorporate Responsibility: We have demonstrated our full commitment to sharing and building the local community by organizing a wide range of charity activities in Vietnam throughout the year (Charity visits, Fun Run, Blood Donation, Disaster relief efforts, House Donation, etc.)",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwMDYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--ba5de9563d844f908a464a48f691f8f8b8b4abc5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Luxoft%20Purple%20RGB.png",
+  "company_url": "/companies/dxc-luxoft-vietnam",
+  "company_mo_ta": "Join DXC Vietnam to turbocharge your professional development",
+  "job_expertise": [
+    "IoT Application Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

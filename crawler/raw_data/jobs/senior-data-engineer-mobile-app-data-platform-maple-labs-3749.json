@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-engineer-mobile-app-data-platform-maple-labs-3749",
+  "tieu_de": "Senior Data Engineer  Mobile App/ Data Platform",
+  "ten_cong_ty": "MAPLE LABS",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Python",
+    "Docker",
+    "Google Cloud",
+    "Apache Airflow",
+    "Google BigQuery",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Sarica No. 6 D9 Street",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT THE ROLE:\nAs a Senior Data Engineer, you will be a key driver in designing, scaling, and operating the data backbone across our entire Mobile Apps & Games ecosystem. You will be responsible for transforming tens of millions of raw event logs (in-app events, MMP tracking, ad network revenues) into robust Data Warehouse models, high-performance feature pipelines for ML/AI models (LTV forecasting, anomaly detection), and internal self-service analytics platforms for Product & Growth Squads.\n JOB DESCRIPTION:\nBuild and operate end-to-end ELT/ETL data pipelines (batch & near-realtime) to ingest data from MMPs (Adjust, Qonversion), Ad Networks (Google Ads, AdMob, AppLovin, Mintegral, Apple Search Ads,...), and in-app event tracking into the Data Warehouse.\nDesign schema architectures (Star/Snowflake), optimize complex analytical queries, partitioning, clustering, and storage costs on Google BigQuery and modern columnar databases.\nBuild, scale, and maintain workflow orchestrations using Apache Airflow, Celery, Redis, and Docker on Cloud environments (GCP/Compute Engine).\nDevelop custom Model Context Protocol (MCP) servers, agent tools, and data APIs to connect LLMs and AI IDEs directly with data warehouses, documentation vaults, and internal systems.\nConstruct reliable feature stores and datasets for Machine Learning/AI initiatives (LTV forecasting, payback modeling, anomaly detection) and assist in model serving pipelines.\nImplement data observability, automated monitoring, and data quality checks; develop internal data tools and self-service dashboards using Streamlit and Metabase/Looker Studio.\nEstablish engineering best practices, data modeling standards, and comprehensive documentation (Data Dictionaries, Architecture Blueprints).",
+  "yeu_cau": "REQUIREMENTS: \n3+ years of hands-on data engineering experience building and maintaining production data pipelines.\nStrong proficiency in Python for high-performance data processing and advanced SQL (performance tuning, window functions, complex transformations).\nSolid experience with Google BigQuery (or modern columnar stores like ClickHouse, Snowflake, Redshift), including query optimization and cost management.\nPractical experience with Apache Airflow, Celery/Redis, Docker/containerization, CI/CD workflows, and Cloud platforms (GCP preferred).\nAI-First & Vibe Coding Mindset: Daily hands-on experience using AI coding assistants and AI IDEs (Cursor, Claude Code, Antigravity, etc.) to rapidly prototype, build, and ship production-grade code at high velocity.\nHands-on experience or strong interest in building/integrating MCP (Model Context Protocol) servers, custom tools, and AI workflows for data engineering tasks.\nStrong ownership, problem-solving abilities, clear communication, and effective collaboration with Product Owners, Data Analysts, and Leadership.\n \nNice to have:\nDomain knowledge in Mobile Apps, Games, or Digital Advertising / AdTech (MMP attribution, Ad Network APIs, eCPM, ROAS, LTV).\nExperience building internal web tools or BI applications using Streamlit.\nFamiliarity with ML lifecycles, BigQuery ML, or LLM serving infrastructure and token monitoring.\nExperience with workflow automation APIs (Google Apps Script, Slack webhooks, third-party integrations).",
+  "quyen_loi": "Competitive salary\nStartup, young and fun environment\nPremium health care\n\nWhy You'll Love Working Here:\n \nSalary:\n100% salary during probation\n13th-month salary\n Performance bonus\n Salary review at least one time per year based on employee's performance and contribution\nHealth & Insurance:\nSocial Health Unemployment Insurance\nPremium health insurance\nAnnual health check-ups\nAnnual leave: 12-14 days\nWorking environment: \nMacBook Pro is provided.\nFriendly and fun/ Coffee, tea, snack bar everyday/ Company trip, team building, monthly party, etc.\nOuting/team-building activities (company trip , soccer sport, running club,..);\nWork with experienced & strong team;\n Friendly, dynamic & flexible working environments",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY4MzQ5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ed2fc0fb31e5f3c62c0ebfb3010cb888ab59abca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/HR_logo_without_slogan.png",
+  "company_url": "/companies/maple-labs",
+  "company_mo_ta": "_ Enjoying the never-ending pleasure of building the new apps _",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

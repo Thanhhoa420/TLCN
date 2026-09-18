@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-spartan-x-technology-0702",
+  "tieu_de": "DevOps Engineer",
+  "ten_cong_ty": "SPARTAN X TECHNOLOGY",
+  "ngay_dang_raw": "2026-09-07",
+  "han_ung_tuyen_raw": "2026-10-12",
+  "ky_nang": [
+    "DevOps",
+    "AWS",
+    "Docker",
+    "Terraform",
+    "English",
+    "Kubernetes"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "XL Building, 167 Tran Nao Street, An Khanh Ward, (former District 2) ",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Build like a founder. Ship like Spartan.\nOur clients are startups in a race: an MVP in 30 days, real traffic the day after launch. We’re looking for a DevOps Engineer to keep them fast, up, and cheap to run.\nWe don’t act like vendors. We embed. Our teams sit inside startups backed by YC, Pear VC, BlingCap, a16z, and Techstars, working beside founders and engineers from Stanford, MIT, Yale, Google, Amazon, and Uber. Together we ship those MVPs and scale the systems behind them to millions of users and billions of requests.\nThis isn’t a back-office ops seat three layers from the client. You’ll be in the founder’s Slack. Your infrastructure runs their launch. When their product survives its first traffic spike, that’s your work holding it up.\n70% of our portfolio is LLM-powered. That means real GPU workloads, real traffic spikes, and real cloud bills. You’ll design the infrastructure behind it. Cursor, Claude, and Codex are default tools here, and you’ll use them to automate the boring parts. Who Thrives at Spartan\nNot every environment fits everyone, so here’s an honest picture of the teammate we’re looking for.\nYou’ll thrive here if:\nYou do whatever it takes to win. Terraform today, debugging someone’s Node service tomorrow.\nYou own an incident until it’s resolved, whether it started in your area or not.\nYou treat cost like a feature. You can tell a founder why their bill dropped 40%.\nYou automate the boring parts without being asked.\nSome weeks will stretch you. That’s the job. But you’ll never carry it alone. A critical incident or a high-stakes migration? You won’t be the only one on it. We push each other hard because we care how far each of us can go. We win together. We lose together. Nobody gets left behind.\nOne last thing. We’re not filling seats. We’re looking for teammates for the battles ahead. If you read all this and something in you said yes, trust that feeling and apply. We respect people who back themselves. Every Spartan here started with that same yes. What You’ll Do\nDesign and run multi-cluster, multi-cloud Kubernetes environments across AWS EKS, GCP GKE, and Azure AKS: highly available, disaster-resilient, auto-scaling.\nBuild GitOps-driven CI/CD pipelines with ArgoCD or FluxCD.\nTune performance, reliability, and cost. Every dollar saved is margin for the startup we serve.\nRun AI infrastructure: GPU workloads, model serving, vector databases, and the inference bills that come with them.\nAutomate ops with AI: runbooks, incident summaries, IaC generation with Cursor and Claude.\nSecure workloads: RBAC, Network Policies, OPA/Gatekeeper, vulnerability scanning.\nWork with dev teams on containerization and app modernization.\nMentor engineers on Kubernetes and infrastructure practices.\nTurn what you build into reusable accelerators: CI/CD templates, starter kits, monitoring setups that cut project startup time across clients.",
+  "yeu_cau": "Fluent English. You’ll talk directly with US startup founders.\n2-6 years in DevOps, SRE, or cloud infrastructure, with Kubernetes in production.\nStrong Infrastructure as Code: Terraform, Helm, Ansible.\nDeep knowledge of Docker/OCI runtimes, Linux, networking, and troubleshooting.\nHands-on with monitoring stacks: DataDog, Prometheus, Grafana, ELK, Jaeger.\nSolid grasp of Kubernetes internals.\nYou use AI tools like a pro: you review what they write, catch their mistakes, and know when not to use them.\nA builder’s mindset. You don’t just run infra, you solve problems like an owner.Nice to Have\nYou’ve run LLM serving in production: vLLM, GPU scheduling, or managed inference endpoints.\nBackend engineering experience.\nCKA, CKAD, or CKS certifications.\nService mesh: Istio, Linkerd, Consul.\nOpen-source contributions to Kubernetes or CNCF projects.\nCloud cost optimization wins you can put numbers on. Tech We Use\nEvery project brings a different stack, so in a year here you’ll touch more of this list than most engineers do in five. Two rules hold everywhere: everything as code, no click-ops. And what we adopt is decided by our engineers through an internal Tech Radar, not handed down from a slide deck.\nPlatform: Kubernetes (EKS · GKE · AKS) · Docker\nIaC & GitOps: Terraform · Helm · Ansible · ArgoCD · FluxCD\nCI/CD: GitHub Actions · Jenkins\nObservability: OpenTelemetry · Prometheus · Grafana · DataDog · ELK · Jaeger\nAI infra: vLLM · GPU workloads · pgvector · Qdrant\nCloud & edge: AWS · GCP · Azure · Cloudflare\nAI tooling: Cursor · Claude · Codex",
+  "quyen_loi": "Competitive salary packages.\nDynamic and open-sharing working environment.\nHybrid and flexible working mode.\n\nCareer Growth\nWork directly with founders from YC, Stanford, MIT, Yale, Google, Amazon, Uber, and more.\nExposure to AI infrastructure: LLM serving, vector databases, GPU workloads.\nTransparent career path and mentorship from engineers who’ve taken 3 companies to IPO.\nEvery project feels like its own mini-startup. Why Spartan\n50+ MVPs launched, 3 IPOs, $100M+ raised by the startups we build with.\n95% engineer retention. People stay because the work is worth staying for.\nYou build zero to one. Empty cloud account to production infrastructure in weeks. Most engineers get that chance once in a career. Here it’s the job.\nYour work is visible. The infrastructure you build this month carries a founder’s launch next month.\nNo layers, no bureaucracy. You talk to the decision-maker directly, and decisions land in hours, not weeks.\nEvery project is a new cloud, a new stack, a new problem. One year here teaches what three years elsewhere would.\nYou’ll never just take tickets. You’ll own problems, ship fast, and grow with the founders we partner with. Benefits & Perks\n💰 Competitive salary, 100% salary during probation\n🏝 Unlimited PTO + public holidays\n🩺 Premium healthcare insurance + annual health check\n⚽ Sports clubs for every taste: football, badminton, billiards\n🎮 PS5 and Nintendo at the office\n🏠 Hybrid working style, flexible hours\n✈️ Company trip + monthly birthday parties\n💻 MacBook provided\n📜 Social insurance per Labor Law",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2NzU0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--02893b6693595d943c7345a53b0eb1f9d9932909/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/black-square.png",
+  "company_url": "/companies/spartan-x-technology",
+  "company_mo_ta": "FOCUS ON NURTURING ENGINEER'S POWER",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

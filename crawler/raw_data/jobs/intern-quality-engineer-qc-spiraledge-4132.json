@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/intern-quality-engineer-qc-spiraledge-4132",
+  "tieu_de": "Intern - Quality Engineer QC",
+  "ten_cong_ty": "Spiraledge",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "QA QC",
+    "Tester",
+    "Agile"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Khu biệt thự Kim Sơn - 112/18 Nguyễn Văn Hưởng",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking an Quality Engineer who is passionate about delivering high-quality software and leveraging AI to improve testing efficiency, product quality, and team productivity.\nAs part of our AI-first organization, you will work closely with Business Analysts, Product Managers, Developers, Designers, and AI systems to ensure our SaaS platforms, mobile applications, CRM systems, and AI-powered products meet the highest quality standards.\nKey Responsibilities\nQuality Assurance & Testing\n● Review business requirements, user stories, specifications, and acceptance criteria to identify gaps, risks, and edge cases before development begins.\n● Design and execute comprehensive test plans, test cases, test scenarios, and exploratory testing activities.\n● Perform functional, regression, integration, usability, and end-to-end testing for web, mobile, and API-based applications.\n● Validate new features, enhancements, bug fixes, and production releases.\n● Ensure applications perform consistently across browsers, devices, operating systems, and environments.\n● Conduct risk-based testing to maximize quality while maintaining delivery speed.\nMobile Application Testing\n● Test mobile applications on iOS and Android platforms.\n● Verify functionality, performance, usability, accessibility, and overall user experience.\n● Validate synchronization with backend systems, APIs, wearable devices, and third-party integrations.\n● Identify mobile-specific issues related to connectivity, notifications, permissions, and device compatibility.\nAI-Assisted Quality Engineering\n● Utilize AI tools such as ChatGPT, Claude, Cursor, Gemini, or similar technologies to improve testing productivity and coverage.\n● Use AI to generate test cases, test scenarios, edge cases, regression suites, and exploratory testing ideas.\n● Leverage AI to analyze requirements, identify ambiguities, detect missing acceptance criteria, and uncover potential defects early.\n● Partner with development teams to continuously improve software quality using AI-driven approaches.\n● Contribute to building and improving automated quality assurance processes using AI technologies.\nDefect Management\n● Identify, document, prioritize, and track software defects using project management tools.\n● Work closely with developers to reproduce, investigate, and resolve issues efficiently.\n● Verify bug fixes and validate that defects are fully resolved before closure.\n● Communicate quality risks and release readiness clearly to stakeholders.\nRelease Quality & UAT Support\n● Participate in sprint planning, backlog refinement, requirement reviews, and release activities.\n● Support User Acceptance Testing (UAT) activities and validate business workflows.\n● Provide quality assessments and release recommendations.\n● Ensure releases meet defined quality standards before deployment to production.\nContinuous Improvement\n● Help improve testing methodologies, QA standards, test documentation, and quality processes.\n● Identify opportunities for automation and efficiency improvements.\n● Contribute to building a quality-first and AI-first engineering culture.\n● Continuously learn and adopt new testing tools, technologies, and AI capabilities.",
+  "yeu_cau": "Job Requirements\nTechnical Qualifications\n● Have knowledge in Software QA, Quality Engineering, or Mobile Application Testing.\n● Experience testing web and mobile applications on iOS and Android platforms.\n● Strong understanding of software testing methodologies, testing strategies, and defect lifecycle management.\n● Experience creating test plans, test cases, test scenarios, and regression testing suites.\n● Familiarity with Agile/Scrum development methodologies.\n● Experience using Jira, Confluence, or similar collaboration tools.\n● Basic understanding of APIs, integrations, and API testing tools such as Postman.\n● Familiarity with SQL and data validation techniques is a plus.\n● Experience with automation testing tools and frameworks is an advantage.\nAI & Productivity Skills\n● Practical experience using AI tools such as ChatGPT, Claude, Gemini, Cursor, Copilot, or similar technologies.\n● Ability to leverage AI to improve testing efficiency, requirement analysis, documentation, and defect investigation.\n● Strong interest in AI-assisted software development and quality engineering.\nLanguage Skills\n● Strong written and verbal English communication skills.\n● Ability to read and understand product requirements, technical documentation, release notes, and user stories.\n● Ability to write clear, detailed, and actionable bug reports and testing documentation in English.\nSoft Skills\n● Strong analytical and critical-thinking abilities.\n● Exceptional attention to detail and commitment to product quality.\n● Strong problem-solving and investigative skills.\n● Excellent communication and collaboration skills.\n● Ability to work independently while managing multiple priorities.\n● Proactive mindset with a passion for continuous learning and improvement.\n● Comfortable working in a fast-paced, AI-driven environment.",
+  "quyen_loi": "Competitive salary, healthy and sporty environment\nHybrid/remote professional working environment\nOpportunity traveling to US for training\n\nWe're always looking for superstars to join our team in any of our three offices and we have 12 core values that make us who we are today and define where we are going tomorrow: \n• Build a family spirit \n• Focus on users and all else will follow \n• Recognize and reward results \n• Move fast \n• Keep things simple \n• Be honest and direct \n• Stay lean \n• Leverage technology \n• Embrace change \n• Don't take success for granted \n• Aspire to improve and change the world \n• Live Healthy",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2ODczLCJwdXIiOiJibG9iX2lkIn19--1f68512ec01bbb247424578ecc6dfb5e9e13202d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/spiraledge-logo.jpg",
+  "company_url": "/companies/spiraledge",
+  "company_mo_ta": "Spiraledge is a leading internet retailer and healthy living company headquartered in Campbell, CA.",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-product-owner-personal-finance-platform-trusting-social-0100",
+  "tieu_de": "Senior Product Owner Personal Finance Platform",
+  "ten_cong_ty": "Trusting Social",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Product Owner",
+    "Business Analysis",
+    "UI-UX",
+    "AI",
+    "Agile"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Havana Tower - 132 Ham Nghi",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,000 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Our vision is to build a Personal Banker for every Vietnamese citizen - an intelligent, empathetic, and always-available financial companion that helps ordinary people borrow, repay, and manage money affordably and with dignity. The Personal Finance Platform you will help build is the first step toward that vision.How we work with AI\nTrusting Social builds AI-powered lending in partnership with banks and financial institutions, and owns the full AI lending stack - fraud prevention, credit scoring, risk-based pricing, real-time integrations, and an AI agent. Just as important, we are remaking every team as a human–AI fusion: people set the direction and hold the judgment, while AI carries the analytical and execution load. In this role you will work alongside AI agents every day, and you will be expected to get more done, faster, because of how well you use AI.About the role\nYou will join the product squad building the Personal Finance Platform, working directly with the Product Lead to ship the first launch in Q4 2026. This is a hands-on execution role: you turn product direction into detailed requirements, working software, and measurable outcomes.What You'll Do\nDeep customer insight - continuously researching the financial pains, behaviours, and unmet needs of mass-market Vietnamese consumers, and turning them into product decisions.\nThe end-to-end customer experience across the platform - making every journey simple, transparent, and trustworthy for first-time and underbanked users.\nMarket and competitive awareness - tracking the consumer-finance market, competitor moves, and regulation, and keeping the product direction up to date.\nFeature discovery and detailed requirements - user stories, acceptance criteria, and PRDs - for your assigned journeys on the Personal Finance Platform.\nLaunch execution - coordinating day-to-day with engineering, design, data, risk, and bank-partner counterparts to hit launch dates.\nFeature-level metrics - instrumenting, tracking, and reporting adoption and funnel performance, and proposing iterations from the data.\nDaily AI leverage - using AI tools to accelerate spec-writing, analysis, and testing, and verifying AI output against source data.\nClear, timely communication to the squad and the Product Lead on progress, blockers, and trade-offs.",
+  "yeu_cau": "Must have\nA genuine passion for solving customers' real financial pains, and empathy for mass-market and underbanked consumers.\n2–4 years of experience as a product owner, associate product manager, or business analyst on consumer-facing digital products.\nStrong requirement craft - user stories, acceptance criteria, edge-case thinking, and UAT discipline.\nComfort with data - able to pull and interpret product metrics (SQL a plus) and back decisions with evidence.\nProven execution and coordination across engineering, design, and data teams.\nStrong daily fluency with AI tools and an appetite to build AI-augmented workflows\nFluent Vietnamese and English.\nNice to have\nDomain experience in consumer finance, e-wallets or large-scale digital products\nParticipation in a zero-to-one product launch.\nHands-on experience building AI prompts, agents, or multi-step workflows.\nAI expectations (mandatory)\nTrusting Social is remaking every team as a human–AI fusion, and this role is expected to work AI-first from day one. The successful candidate must:\nUse multiple AI tools every day and pick the right tool for each task, adapting quickly to an unfamiliar setup.\nBuild their own prompts and reusable multi-step AI workflows for spec-writing, analysis, and testing.\nVerify AI output against source data and know exactly when not to trust or use AI.\nShow the appetite and trajectory to grow into orchestrating AI agents and people in the team's delivery flow.",
+  "quyen_loi": "Top Salary, Awesome Benefits\nPremium healthcare for 3 members in family\nGrab to work, Lunch allowance for all employee\n\nCompetitive compensation package, including 13th-month salary and performance bonuses\nComprehensive health care coverage for you and your dependents\nGenerous leave policies, including annual leave, sick leave, and flexible work hours\nConvenient central district 1 office location, next to a future metro station\nOnsite lunch with multiple options, including vegetarian\nGrab for work allowance and fully equipped workstations\nFun and engaging team building activities, sponsored sports clubs, and happy hour every Thursday\nUnlimited free coffee, tea, snacks, and fruit to keep you energized\nAn opportunity to make a social impact by helping to democratize credit access in emerging markets.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwNDkzLCJwdXIiOiJibG9iX2lkIn19--7e0bca7fee8eb985817d0e72b1dd2cebb8327b70/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/trusting-social-logo.jpeg",
+  "company_url": "/companies/trusting-social",
+  "company_mo_ta": "Making Financial Inclusion a Reality using Machine Learning and AI",
+  "job_expertise": [
+    "Product Owner"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-engineer-java-react-vnggames-1631",
+  "tieu_de": "Senior Fullstack Engineer Java + React",
+  "ten_cong_ty": "VNGGames",
+  "ngay_dang_raw": "2026-09-10",
+  "han_ung_tuyen_raw": "2026-10-15",
+  "ky_nang": [
+    "Spring Boot",
+    "Cloud",
+    "CI/CD",
+    "NextJS",
+    "ReactJS",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Z06 Street No. 13, Tan Thuan Dong Ward",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Game Publishing Platform (GPP) builds and runs the core systems behind all VNGGames products - payment & billing, account & passport, webshop, and the storefronts that players use every day. Our systems serve millions of players in Southeast Asia and other international markets.\nWe are an AI-First team. We build large backend systems and web applications, and we also use AI tools every day to code faster, improve code quality, and automate repetitive work.\nWe are looking for a Senior Fullstack Engineer who is strong in both backend (Java/Spring) and frontend (Next.js/React), and who can take full ownership of a feature from the database to the user interface.\nWhat you will do\nDesign, build, and run features end-to-end, from backend services and data models to the user interface, on systems used by millions of people.\nDevelop and maintain large-scale Payment/Billing and Platform services. Make sure they are highly available, secure, and fast under heavy load.\nBuild and improve our storefront on Next.js. It supports many regions and languages and has clear performance and conversion targets.\nHelp shape the system architecture on both backend and frontend, and make sure the team follows the agreed design principles.\nLead and take part in Code Review. Help raise the team's standard for automated testing.\nUse AI tools (GitHub Copilot, Cursor, Claude, ChatGPT…) for coding, review, refactoring, unit testing, and automation. Help the team turn AI usage into a clear, repeatable process.\nMentor junior engineers and help them grow.\nWork closely with Product, QC, Design, and Operations to ship features with a smooth user experience.",
+  "yeu_cau": "Experience\nAt least 5 years of software development experience, with at least 3 years using Java in production.\nAt least 2 years of production experience with React and TypeScript. Next.js experience is a strong plus.\nFundamentals\nDeep understanding of data structures, algorithms, operating systems, networking, and databases.\nAble to analyze a system for performance, concurrency, and failure cases.\nTechnical Skill:\nStrong in Java Core and Spring Framework (Spring Boot, Spring Cloud, Spring Security).\nProduction experience with Next.js, React, and TypeScript\nExperience with MySQL/PostgreSQL (schema design, query optimization), Redis, and MongoDB.\nExperience with Kafka or RabbitMQ. Clear understanding of Microservices vs. Modular Monolith and their trade-offs.\nExperience designing REST APIs, managing versions, and keeping backward compatibility.\nCloud & DevOps\nExperience with Google Cloud Platform (GCP), Docker, Kubernetes, and CI/CD tools.\nUsed to monitoring systems with tracing, metrics, and logs (Sentry, OpenTelemetry/Prometheus or similar).\nSkills and mindset\nSolve problems well under pressure, especially on systems that handle payments and revenue.\nActively look for better solutions and new technology, especially AI.\nCommunicate clearly and work well with other teams.",
+  "quyen_loi": "Advance your career in the gaming industry\nTake ownership and grow with global talents\nBuild games played by millions worldwide\n\nModern AI tools provided, and you are encouraged to use them every day.\nWork on products with millions of users across many international markets.\nOwn features from backend to frontend, not just one layer.\nAttractive benefit package in an open and energetic workplace",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkxNDEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--eb610607339f0beda536816a358467c26c9cc724/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Untitled%20design.png",
+  "company_url": "/companies/vnggames",
+  "company_mo_ta": "VNGGames - BE GLOBAL, BE GAME CHANGER",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Game",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

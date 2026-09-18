@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-database-administrator-dba-ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex-3713",
+  "tieu_de": "Senior Database Administrator DBA",
+  "ten_cong_ty": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "ngay_dang_raw": "2026-08-25",
+  "han_ung_tuyen_raw": "2026-09-29",
+  "ky_nang": [
+    "DBA",
+    "Python",
+    "Ansible",
+    "Terraform",
+    "MongoDB",
+    "MySQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 04, Tòa nhà số 5 Điện Biên Phủ",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thiết kế, triển khai và vận hành toàn bộ hệ thống cơ sở dữ liệu MySQL và MongoDB cho sàn giao dịch crypto, đảm bảo hệ thống hoạt động ổn định 24/7 với uptime tối thiểu 99.9%.\nThiết kế schema và data model cho các nghiệp vụ trading engine, order book, wallet management và KYC/AML; triển khai, quản lý MySQL Cluster (InnoDB Cluster, Group Replication, ProxySQL) và MongoDB Cluster (Replica Sets, Sharded Clusters), đảm bảo high availability, automatic failover và khả năng xử lý tải cao.\nTối ưu hiệu năng truy vấn thông qua query optimization, index tuning và execution plan analysis, đảm bảo latency thấp cho matching engine và order processing.\nXây dựng và duy trì chiến lược backup/restore, point-in-time recovery cho MySQL và MongoDB, đảm bảo các chỉ số RPO/RTO theo yêu cầu của sàn giao dịch.\nTriển khai các biện pháp bảo mật database gồm encryption at rest/in transit, access control, audit logging và data masking cho dữ liệu nhạy cảm như PII và thông tin tài chính.\nThiết kế và triển khai phương án Disaster Recovery, bao gồm cross-region replication và automated failover; thiết lập hệ thống giám sát và cảnh báo chủ động qua PMM, Grafana, custom dashboards; tham gia on-call rotation để xử lý sự cố database 24/7.\nPhối hợp với team Development để review, tối ưu database queries và tư vấn thiết kế data model cho các tính năng mới; xây dựng quy trình schema/data migration đảm bảo zero-downtime deployment; cung cấp tài liệu về kiến trúc database, quy trình vận hành và troubleshooting.",
+  "yeu_cau": "Có tối thiểu 5 năm kinh nghiệm quản trị cơ sở dữ liệu (DBA) trong môi trường production, ưu tiên kinh nghiệm trong lĩnh vực fintech hoặc sàn giao dịch\nThành thạo MySQL/MariaDB: InnoDB internals, replication (async, semi-sync, group replication), InnoDB Cluster, ProxySQL, query optimization, partitioning\nThành thạo MongoDB: Replica Sets, Sharded Clusters, aggregation pipeline, WiredTiger storage engine, change streams\nKinh nghiệm thiết kế và triển khai giải pháp high availability, disaster recovery cho database systems\nKinh nghiệm với database performance tuning, capacity planning và troubleshooting trong môi trường high-traffic, low-latency\nKiến thức về database security: encryption, access control, audit, compliance (PCI-DSS là lợi thế)\nKinh nghiệm với automation tools cho database operations: Ansible, Terraform, scripting (Bash, Python)\nKinh nghiệm với containerized databases (Docker, Kubernetes Operators cho MySQL/MongoDB) là lợi thế\nTiếng Anh đọc hiểu tài liệu kỹ thuật tốt",
+  "quyen_loi": "Thưởng tháng 13\nThưởng hiệu quả kinh doanh\nBảo hiểm sức khoẻ cao cấp\n\nThu nhập hấp dẫn, cạnh tranh theo năng lực\nThưởng các dịp Lễ, Tết theo quy định và chính sách của công ty\nThưởng tháng 13, thưởng hiệu quả hoạt động theo quy định và chính sách công ty\nBảo hiểm bắt buộc theo luật lao động + Bảo hiểm sức khỏe\nChế độ ngày phép hấp dẫn theo cấp bậc công việc, du lịch/teambuilding hằng năm\nMôi trường làm việc chuyên nghiệp, năng động, tôn trọng, kỷ luật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk5NDMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7b79b0d832c1fea467ee5b09018a1dd4685f2a6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20CAEX.jpg",
+  "company_url": "/companies/ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex",
+  "company_mo_ta": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

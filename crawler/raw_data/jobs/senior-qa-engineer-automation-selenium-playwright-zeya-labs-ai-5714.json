@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-qa-engineer-automation-selenium-playwright-zeya-labs-ai-5714",
+  "tieu_de": "Senior QA Engineer Automation, Selenium, Playwright",
+  "ten_cong_ty": "Zeya Labs AI",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Automation Test",
+    "Jenkins",
+    "API",
+    "Cypress",
+    "Playwright",
+    "Selenium"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Phòng L5-20, Tầng 5, Số 343, đường Hoàng Sa, Phường Tân Định",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "What This Role Is\nAt Zeya Labs, we build enterprise software that delivers real business value — which means quality isn't a checkpoint at the end, it's built into how we work. As a Senior QA Engineer (Automation), you will own quality across the full software development lifecycle, from test strategy through release validation, for applications that our customers run their operations on.\nYou will design and maintain the automation frameworks that keep our regression, API, and integration testing fast and reliable, while also driving the practices — defect management, root cause analysis, release sign-off — that let the wider team ship with confidence. This is a hands-on technical role and a quality-leadership role at the same time: you write the scripts, and you also set the standard other engineers are held to.\nConcretely, you are responsible for three things:\nEnd-to-End QA Ownership\nLead QA activities across the full software development lifecycle — test planning, execution, defect management, and release validation\nDesign, develop, and maintain automated test frameworks and scripts for web, API, and regression testing\nCreate test strategies, test plans, and test cases, and hold the line on quality standards across releases\nPerform functional, integration, regression, API, and database testing across enterprise applications\nCollaborate closely with Product Owners, Business Analysts, Developers, Project Managers, and other stakeholders to ensure delivery quality\nOwn the defect lifecycle end to end — triage, root cause analysis, and the continuous-improvement loop that follows\nSupport UAT, deployment validation, production verification, and post-go-live activities\nMentor junior QA engineers and champion QA best practices across the team",
+  "yeu_cau": "What We Are Looking For\n5–8+ years of experience in Software Quality Assurance, including automation testing\nStrong experience with automation tools and frameworks such as Selenium, Playwright, Cypress, Appium, or similar\nExperience in API testing and automation (Postman, REST Assured, or similar)\nExperience with enterprise applications — Finance, ERP, Estate Management, or other business workflow systems\nStrong understanding of Agile methodologies, SDLC, testing processes, and defect management\nExperience integrating automation into CI/CD pipelines (GitLab CI, Jenkins, Azure DevOps, or similar)\nStrong analytical, problem-solving, communication, and collaboration skills\nYou Will Work Across\nThis role spans multiple layers of the QA function depending on release needs:\nAutomated test frameworks spanning web, API, and regression suites\nEnterprise domains such as Finance, ERP, Estate Management, and business workflow systems\nCI/CD pipelines, embedding automated testing directly into the delivery process\nUAT, deployment validation, and production verification through to post-go-live support\nMentoring and QA process improvement across the wider engineering team\nNice to have: experience leading QA activities or mentoring QA teams, and exposure to cloud-based applications or performance testing\nThere's no quality function to coast on here — you are building and running it. We're looking for someone who treats automation as a craft, not a checkbox, and who wants ownership over how quality gets built into enterprise software from the ground up.",
+  "quyen_loi": "AI-native culture with enterprise AI tools\nFlexible hybrid work, focused on outcomes\nSmall team, high ownership\n\n.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxMDM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b426d8710ffc8744b78b926946df464335e6ec12/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/1785735005565_8251303350573331076_8251303350573331076_4747fcc64212e2931fb5228fc3db356c.jpg",
+  "company_url": "/companies/zeya-labs-ai",
+  "company_mo_ta": "Zeya Labs AI",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

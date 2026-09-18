@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/security-soc-analyst-ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex-1421",
+  "tieu_de": "Security SOC Analyst",
+  "ten_cong_ty": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "ngay_dang_raw": "2026-08-19",
+  "han_ung_tuyen_raw": "2026-09-23",
+  "ky_nang": [
+    "Cybersecurity",
+    "SOAR",
+    "Digital Forensics",
+    "EDR",
+    "Incident Response",
+    "SIEM"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 04, Tòa nhà số 5 Điện Biên Phủ",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Theo dõi các cảnh báo thời gian thực từ SIEM, IDS/IPS, công cụ đầu cuối (endpoint) và các nguồn dữ liệu tình báo mối đe dọa.\nPhân tích và phân loại các cảnh báo để xác định mức độ nghiêm trọng, phạm vi và tác động; chuyển tiếp các sự cố ưu tiên cao lên cấp trên.\nĐiều tra các mối đe dọa tiềm tàng bao gồm tấn công có chủ đích (APT), lây nhiễm mã\nđộc, lừa đảo và các cuộc tấn công bằng bot tự động.\nThực hiện ứng phó sự cố một cách hiệu quả trong việc ngăn chặn, loại bỏ, phục hồi và điều tra trong suốt quá trình bị tấn công mạng.\nLập báo cáo sau sự cố chi tiết về nguyên nhân gốc rễ, các bước giảm thiểu và đề xuất các biện pháp phòng ngừa.\nTinh chỉnh các quy tắc phát hiện và điều chỉnh hệ thống SOC dựa trên các kỹ thuật, chiến thuật và quy trình (TTPs) đang không ngừng thay đổi\nTiếp nhận thông tin tình báo mối đe dọa (nội bộ và bên ngoài) để dự đoán các cuộc tấn công và chủ động điều chỉnh các cơ chế phòng thủ.\nPhối hợp trong các hoạt động săn tìm mối đe dọa (threat hunting) và diễn tập Red-team để kiểm chứng các cơ chế phòng thủ.\nNghiên cứu và phát triển công nghệ nhằm tối ưu hóa các giải pháp an ninh mạng.",
+  "yeu_cau": "Tốt nghiệp Đại học chuyên ngành An toàn thông tin, Công nghệ thông tin, Khoa học máy tính hoặc các ngành liên quan; ưu tiên ứng viên có bằng Cử nhân chuyên ngành An toàn thông tin\nCó ít nhất 3 năm kinh nghiệm trong các vai trò ứng phó sự cố, phân tích SOC hoặc giám sát an ninh mạng (ưu tiên trong lĩnh vực Tiền điện tử, Ngân hàng hoặc Fintech).\nThành thạo các công cụ SIEM, EDR, IDS/IPS, phân tích mã độc, phân tích log và công cụ tình báo mối đe dọa.\nKiến thức vững chắc về hệ điều hành, giao thức mạng, phân tích mã độc và các công cụ điều tra số (forensic).\nCó khả năng lập trình script (Python, Bash) và kiến thức cơ bản về bảo mật đám mây.\nTư duy phân tích mạnh mẽ, kỹ năng giải quyết vấn đề và khả năng làm việc dưới áp lực cao.\nKỹ năng giao tiếp xuất sắc - có khả năng soạn thảo báo cáo sự cố kỹ thuật và báo cáo tóm tắt cho cấp quản lý.\nKỹ năng tư duy phản biện tốt và khả năng học hỏi nhanh",
+  "quyen_loi": "Thưởng tháng 13\nThưởng hiệu quả kinh doanh\nBảo hiểm sức khoẻ cao cấp\n\nThu nhập hấp dẫn, cạnh tranh theo năng lực\nThưởng các dịp Lễ, Tết theo quy định và chính sách của công ty\nThưởng tháng 13, thưởng hiệu quả hoạt động theo quy định và chính sách công ty\nBảo hiểm bắt buộc theo luật lao động + Bảo hiểm sức khỏe\nChế độ ngày phép hấp dẫn theo cấp bậc công việc, du lịch/teambuilding hằng năm\nMôi trường làm việc chuyên nghiệp, năng động, tôn trọng, kỷ luật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk5NDMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7b79b0d832c1fea467ee5b09018a1dd4685f2a6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20CAEX.jpg",
+  "company_url": "/companies/ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex",
+  "company_mo_ta": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "IT Services and IT Consulting",
+    "Cyber Security",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

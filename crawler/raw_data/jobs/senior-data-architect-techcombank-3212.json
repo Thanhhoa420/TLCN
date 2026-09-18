@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-architect-techcombank-3212",
+  "tieu_de": "Senior Data Architect",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-08-06",
+  "han_ung_tuyen_raw": "2026-09-25",
+  "ky_nang": [
+    "Data Engineer",
+    "Data Science",
+    "Machine Learning",
+    "SQL",
+    "Python",
+    "Big Data"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 6 Quang Trung, phường Trần Hưng Đạo",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\n- The job holder drives the discovery, design, and execution of a wide variety of analytical technology solutions. \n- The job holder provides strategic decision-making, and guidance within technical disciplines, responding to disruptive analytical technologies and solving unique and complex problems. \n- The job holder researches, architects, and defines Data Engineering, Advanced Analytics và Business Intelligence capabilities and strategies for information delivery and data exploration to support business function needs and goals.\nKey Accountabilities\nData Architect \n- Delivers a modern architecture capable of advancing the overall analytic performance and data-driven strategy of the bank \n- Design end-to-end data streams, storage, data serving systems and analytical workflows, including overall architecture, capabilities, platforms, tools and governing processes. \n- Create, maintain, and communicate positioning/go-forward strategies for the data platform and analytical capabilities/tools. \n- Share governance responsibility to ensure alignment to enterprise guidelines for security, auditing, data governance, metadata management, etc. \n- Help define/improve best practices, guidelines and integration with other enterprise solutions. \n- Review analytic solutions for re-usability, scalability, synergy opportunities and alignment to defined best practices and guidelines. \n- Create and evolve big-data and analytic technology roadmap, to align with continuously evolving business needs. \n- Monitor technology trends and perform discovery of any new tools/capabilities of interest. \n- Benchmark big-data and analytic capabilities with industry analysts and other companies. \n- Own strategic technology relationships with technology vendors and external communities/partners. \n- Lead education and training for analytics community.\nProjects Management \n- Manage project conflicts, challenges and dynamic business requirements to keep operations running at high performance. \n- Work with team leads to resolve people problems and project roadblocks, conduct post mortem and root cause analyses to improve practices for maximum productivity.\nTalent Development \n- Mentor and coach junior members in team to enhance their data capability \n- Identify and encourage areas for growth and improvement within the team and support with personal development plan.",
+  "yeu_cau": "- Bachelor’s or Master’s degree in Computer Science, Software Engineering, Machine Learning, Statistic, Data Science or other related technical disciplines Work Experience \n- 10+ years of relevant experience in demonstrating a high degree of proficiency in designing and developing complex, high-quality big-data platforms serving analytical solutions, including 3+ years in a Big-Data Architecture role designing technology architectures, detailed workflows, best practices and governance guidelines. \n- English proficiency requirements are pursuant to Techcombank's policy \n- Proven track record of delivering scalable, resource intensive, integrated and operational big-data and analytical solution; experience creating point of views, roadmaps, and process diagrams \n- Hands-on experience working with open-source big-data/data-lake like Hadoop, Spark, Kafka, SQL/NoSQL KV/Columnar/Graph, ESB and analytical technologies like R/Python, - TensorFlow and/or BI tools like Tableau/Power BI; Cloud analytics platform experience preferred \n- Experience working in Agile teams in digital transformation projects \n- Experience in Agile Software Development and having a strong understanding of Agile principles, practices and Scrum methodologies",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\nWHY BECOME IT/DATA EXPERTS AT TECHCOMBANK?\nInvesting over 500 million USD to develop large-scale IT projects, Techcombank is one of the leading bank in Technology trends in Vietnam\nYou will grow with Techcombank by having the opportunity to learn from top experts from across the world\nTechcombank provides a rewarding remuneration structure that commensurate with your achievement and contribution\nTechcombank is the Top 2 Best place to work in the banking industry where you can experience various exciting activities throughout the year: Company anniversary, Team building, Active Saturday , Year End Party, etc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "Data Architect"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-golang-backend-engineer-cong-ty-tnhh-nexlab-it-solutions-2159",
+  "tieu_de": "Senior Golang Backend Engineer",
+  "ten_cong_ty": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "ngay_dang_raw": "2026-09-11",
+  "han_ung_tuyen_raw": "2026-10-16",
+  "ky_nang": [
+    "Golang",
+    "Kafka",
+    "Redis",
+    "Docker",
+    "Kubernetes",
+    "Microservices"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "L17-11, Tầng 17, Tòa nhà Vincom Center, 72 Lê Thánh Tôn, Phường Sài Gòn",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,500 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Overview\nWe are looking for a Senior Golang Backend Engineer to build and optimize high-concurrency, realtime backend services running on Kubernetes and AWS.\nThis role focuses on microservices, event streaming, caching, and scalable architecture for realtime workloads.\nYou will work on systems that handle large traffic, low latency, and high availability using Kafka, Redis, WebSocket/gRPC and cloud-native infrastructure.\nResponsibilities\nDevelop backend services in Golang with focus on concurrency and performance\nDesign and maintain microservices architecture deployed on Kubernetes\nBuild realtime services using WebSocket / gRPC\nUse Redis (cache, Pub/Sub, session) for performance optimization\nUse Kafka for event streaming and async processing\nDeploy and operate services on AWS (EKS/EC2/S3)\nCollaborate with DevOps for CI/CD and containerized deployment\nParticipate in performance optimization and system stability improvements\nWork closely with frontend, product, and DevOps teams",
+  "yeu_cau": "Requirements (Must-have)\n5+ years experience with Golang\nStrong knowledge of microservices, REST/gRPC\nExperience with Kubernetes, Docker\nExperience with Redis and Kafka\nExperience building high-concurrency / realtime systems\nFamiliar with AWS cloud environment\nGood problem solving and performance optimization mindset\nNice to have\nExperience with Terraform / observability tools\nExperience in game server / streaming / fintech / realtime platform\nKnowledge of secure communication (TLS/mTLS)",
+  "quyen_loi": "Work on system-level, high traffic architecture\nOpportunity to grow into Senior/Tech Lead in distributed systems\nModern tech stack: Golang, Kafka, Redis, K8s, AWS",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2daef7638bfe1f6fb7ebdcbd3e75a71e14258485/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nexlab%20IT.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nexlab-it-solutions",
+  "company_mo_ta": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}
