@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-security-operations-engineer-dai-ichi-life-viet-nam-5631",
+  "tieu_de": "Senior Security Operations Engineer",
+  "ten_cong_ty": "Daiichi Life Việt Nam",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "Security",
+    "English",
+    "Cloud Security",
+    "Information Security",
+    "Application Security",
+    "Cybersecurity"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "149-151 Nguyen Van Troi",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Security Operations Engineer is responsible for security monitoring, incident investigation, vulnerability management, security platform operations, and governance and compliance activities across infrastructure, cloud, endpoint, and application environments. The role also takes part in expanding the security team's ownership of security platforms currently operated by other IT teams.\nThis position requires a strong foundation in cybersecurity fundamentals, hands-on experience operating enterprise security platforms, and the ability to work with internal teams, external service providers, and business stakeholders. Experience in application security or penetration testing is a strong advantage.\nKEY RESPONSIBILITIES:\n \n1 - Security Platform Operations & Engineering:\nOperate, configure, and maintain security platforms such as SIEM, XDR/EDR, PAM, DLP, and Secure Web Gateway.\nTune policies, alerts, dashboards, and platform integrations, and troubleshoot platform issues.\nDesign, implement, test, document, and continuously improve security controls, hardening baselines, and detection use cases.\nWork with internal IT teams and service providers on platform operations.\nAct as the technical escalation point for incidents affecting security platforms or security services, and coordinate until service is restored.\nSupport security projects and technology evaluations by contributing operational requirements, technical assessments, implementation support, and post-deployment.\n2 - Security Monitoring & Incident Response \nMonitor and triage security alerts and events and escalate confirmed incidents following the incident response process.\nInvestigate incidents by analysing logs and indicators of compromise, identify root cause, and support containment and remediation.\nCoordinate containment and remediation with IT Teams, and complete post-incident follow-up.\nImprove detection rules, alerting, and response playbooks based on incident findings and lessons learned.\n3 - Vulnerability Management & Security Assessment\nCoordinate vulnerability scanning across infrastructure, cloud, endpoint, and application environments, and review scan results to assess risk and prioritise remediation.\nTrack remediation actions to closure with system owners, validate closure evidence, and report overdue or risk-accepted items to management.\nCoordinate penetration tests and security assessments, including scope preparation, scheduling, result review, and tracking of remediation.\n4- Governance, Compliance & Reporting\nSupport security audits and compliance reviews by preparing evidence and following up on action items.\nMaintain security documentation, including standards, procedures, and operational runbooks.\nPrepare security reports and metrics for management, monitor agreed service levels and operational deliverables, and coordinate with service providers on service delivery.",
+  "yeu_cau": "Education: Bachelor's degree in Information Security, Information Technology, Computer Science, or a related field.\n \nExperience:\nAt least 3 – 5 years of experience in Security Operations, Security Engineering, or a closely related cybersecurity role.\nExperience operating enterprise security platforms in a production environment.\nExperience operating production systems in an environment with strict operational standards and formal change control.\nTechnical skills:\nSolid understanding of network security, operating system security, identity and access management, security monitoring, incident response, vulnerability management, and common cyber-attack techniques.\nHands-on experience administering several enterprise security technologies, such as SIEM, XDR/EDR, Secure Web Gateway, Web Application Firewall, PAM, DLP, with the ability to learn and operate additional platforms as required.\nHands-on experience in security monitoring, log analysis, alert triage, security investigation, and incident response.\nBasic scripting or automation skills (PowerShell, Python, or Bash).\nLanguage and personal skills\nGood English reading and writing skills, and the ability to join technical discussions in English.\nClear communication with both technical and business stakeholders.\nStructured problem solving and analytical thinking.\nAble to work under pressure during security incidents and service disruptions, and to decide what matters first.\nAbility to document work clearly and follow issues through to closure.\nNICE TO HAVE:\n \nStrongly preferred\nExperience in Application Security, including OWASP Top 10, Secure SDLC, threat modelling, SAST/DAST.\nHands-on experience with security testing tools such as Burp Suite, OWASP ZAP, Nmap, or Metasploit.\nAlso considered\nKnowledge of cloud security (e.g., Azure, AWS, GCP).\nExperience in security operations for organizations in a regulated sector such as banking, insurance, or financial services, either in-house or as part of a managed security service provider.\nFamiliarity with security frameworks and standards such as ISO/IEC 27001, NIST Cybersecurity Framework, CIS Controls, or MITRE ATT&CK.\nRelevant security certifications such as Security+, CySA+, or vendor certifications on the security platforms in use.",
+  "quyen_loi": "Salary for 13th month, Bonus & Special Bonus\nFull of social welfare under Vietnamese Labor Law (Insurance, annual leave, ...)\nHealthcare for yourself & Your Family\nAnnual travel and team building activities\n15-16 annual leave days\nCompany will buy Life Insurance Contract for yourself after 1 year working\nTraining: Trained in soft and technical skills\nInternational, challenging, and friendly working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0Njk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--40d4551aa365ca72935c5027bb683de1cb5dcbe1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo.png",
+  "company_url": "/companies/daiichi-life-viet-nam",
+  "company_mo_ta": "Daiichi Life Việt Nam",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "IT Services and IT Consulting",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

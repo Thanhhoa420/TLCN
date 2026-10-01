@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/sr-expert-ai-engineer-data-scientist-python-4b063-tnex-0507",
+  "tieu_de": "Sr/Expert AI Engineer Data Scientist, Python - 4B063",
+  "ten_cong_ty": "TNEX",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Python",
+    "Data Science",
+    "AWS",
+    "Machine Learning",
+    "LLM",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 54A Nguyễn Chí Thanh, Phường Láng",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "30-50M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are building customer-facing and internal AI products that directly impact growth, risk, operations, and customer experience in a regulated fintech environment.\nAs a Senior / Expert AI Platform Engineer, you will lead the delivery of LLM-powered products such as chatbots, voicebots, and analytics co-pilots, while ensuring they are production-grade, compliant, and measurable.\nThis is a product-heavy role: success is defined by business outcomes, not just infrastructure.\nYou will work end-to-end across data → model → product → monitoring, partnering closely with Product, Risk, Compliance, and Engineering teams.What Youʼll Build:\nCustomer-facing AI used by millions of users, AI assistants embedded in critical fintech workflows, A trusted, compliant AI platform adopted across the company, Measurable business impact across growth, cost, and riskWhy Join Us:\nBuild real AI products, not demos, Direct ownership of business-critical systems, Strong executive sponsorship for AI & GenAI, Modern stack: AWS Bedrock, dbt, Airflow, MLflow, High trust, high impact, expert-level autonomyMain Responsibilities include:\n1. AI Products & Customer Journeys\nOwn the design and implementation of AI-driven products\nCustomer service chatbots & voicebots\nInternal analytics & decisioning co-pilots\nAI assistants for operations, sales, and risk teams\nTranslate business problems (conversion, cost-to-serve, fraud, credit decisioning, CX) into AI solutions\nDesign LLM workflows using RAG, agents, tools, and structured reasoning\nIntegrate models via AWS Bedrock with strict controls on latency, cost, and reliability\n2. Fintech-Grade AI & ML Platform\nBuild and evolve a shared AI & ML platform supporting:\nPredictive ML (risk, fraud, personalization)\nLLM & GenAI workloads\nProductionize models with strong MLOps practices:\nExperiment tracking & model registry (MLflow)\nCI/CD for models, prompts, and agents\nOrchestrate data & ML pipelines using Airflow\nEnable analytics, features, and training datasets using dbt\nSupport both real-time inference and batch decisioning\n3. Risk, Governance & Compliance (Critical)\nDesign AI systems aligned with fintech governance requirements:\nModel versioning, traceability, and auditability\nExplainability and decision logging where required\nImplement guardrails for:\nHallucination control & safe completion\nData privacy & PII protection\nModel misuse and prompt injection\nPartner with Risk, Compliance, and Legal to enable safe GenAI adoption\nSupport internal reviews, validations, and regulator-ready documentation\n4. Monitoring, Quality & Continuous Improvement\nDefine and operate AI observability:\nModel & prompt performance\nDrift, bias, and degradation\nLatency & cost efficiency\nBuild feedback loops from users, agents, and business teams\nContinuously improve prompts, models, and product experience",
+  "yeu_cau": "Strong Python engineering skills\nProven experience delivering AI/ML systems in production\nHands-on experience with LLMs & GenAI (RAG, embeddings, evaluation)\nExperience using AWS Bedrock in real products\nSolid MLOps experience with MLflow Workflow orchestration with Airflow\nExperience with dbt and modern analytics/data stacks\nStrong product mindset: ability to connect AI outputs to business outcomesExpert-Level Expectations\nAct as a technical authority for AI products and platforms\nMake architecture and design decisions with long-term scalability in mind\nMentor senior engineers and influence AI best practices across teams\nProactively identify high-impact AI use cases in fintech\nBalance innovation with risk, compliance, and operational stabilityNice to Have\nExperience in fintech, banking, or regulated industries\nVoicebot systems (STT/TTS, real-time streaming)\nFeature store or online decisioning systems\nKubernetes or large-scale inference platforms\nExperience working with regulators, audits, or model risk teams",
+  "quyen_loi": "1. Attractive Compensation and Rewards\nCompetitive salary benchmarked against the market and aligned with your capabilities. The final salary package will be negotiated upon successfully passing the interview process.\nYear-end performance bonus ranging from 2 to 5 months' average salary, depending on individual performance evaluation results.2. Comprehensive Benefits Package\nStatutory insurance coverage and additional private health insurance for employees.\nDiverse employee benefits, including flexible working hours, company trips, birthday leave, and more.\nAccess to employee loan programs with preferential interest rates.3. Learning, Development, and Career Advancement\nStructured and in-depth training programs focused on Re-skilling, Up-skilling, and New-skilling, tailored to specific job groups and career paths.\nClose mentoring and coaching from direct managers, senior leaders, and industry experts.\nManagement development programs for high-potential employees, preparing them for future leadership and managerial roles.\nPriority is given to promoting internal talent into management positions, providing clear career progression opportunities.4. Professional Work Environment and Dynamic Corporate Culture\nFriendly, supportive, and collaborative workplace that values accountability and mutual respect.\nInnovative and dynamic environment that encourages creativity, continuous learning, and improvement.\nRespect for diversity, with a strong emphasis on teamwork and effective collaboration.\nA wide range of cultural, sports, and recreational activities that foster employee engagement and a positive workplace atmosphere.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI2NDA3MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f8367817a9870d1741bbb6bcf65cf900d310dbab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/TNEX.jpg",
+  "company_url": "/companies/tnex",
+  "company_mo_ta": "TNEX",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

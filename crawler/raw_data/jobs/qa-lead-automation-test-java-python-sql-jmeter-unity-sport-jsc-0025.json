@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-lead-automation-test-java-python-sql-jmeter-unity-sport-jsc-0025",
+  "tieu_de": "QA Lead Automation Test, Java, Python, SQL, JMeter",
+  "ten_cong_ty": "Unity Sport JSC",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "QA QC",
+    "SQL",
+    "Jmeter",
+    "Automation Test",
+    "Python",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5th Floor – Lumiere Building, 628A Vo Nguyen Giap street, An Khanh Ward ",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT UNITY SPORT\nUnity Sport is a High-Performance Sports Tech Hub dedicated to building technology platforms that serve millions of sports fans around the world.\nWe go beyond developing applications. We design and operate the technology infrastructure that powers real-time sports data systems. With the ability to process massive volumes of data, support millions of concurrent connections, and deliver information within milliseconds, we create fast, accurate, and seamless sports experiences.\nAt Unity Sport, every moment matters. Our mission is to solve complex technology challenges and bring fans the defining moments of sports as they happen — instantly, accurately, and seamlessly.\nJob Description\nDesign, develop, and maintain automated test suites for performance testing and data validation testing.\nCollaborate with the Development and DevOps teams to integrate test automation into the CI/CD pipeline.\nConduct load testing and stress testing, and monitor system metrics such as CPU, memory, network, and database performance.\nDevelop test scripts to compare and validate data across multiple sources, including APIs, databases, files, and third-party systems.\nTest real-time communication via WebSocket and MQTT to ensure system stability, performance, and reliability.\nAnalyze logs, prepare test reports, and provide recommendations to improve system performance and data quality.\nContribute to the standardization and improvement of test automation processes within the project.\nLead and manage the QA team: assign tasks, review test cases and automation code quality, and mentor junior team members.",
+  "yeu_cau": "Required\nAt least 3 years of experience as a QA Lead and 7 years of experience in QA/QC.\nProficiency in at least one programming language: Java, Python, or JavaScript.\nHands-on experience with performance testing tools such as JMeter, Locust, Gatling, or k6.\nExperience working with databases (MySQL, PostgreSQL, MongoDB, etc.) and writing SQL queries for data validation.\nStrong understanding of REST APIs, WebSocket, MQTT, and automated testing for API and messaging systems.\nExperience integrating automated tests into CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions).\nPreferred\nExperience in big data testing or data pipelines (Kafka, Spark, Hadoop).\nFamiliarity with Docker and Kubernetes for deployment and testing.\nKnowledge of monitoring and observability tools such as Grafana, Prometheus, and ELK Stack.\nStrong analytical thinking with the ability to analyze and interpret system logs.",
+  "quyen_loi": "FREE Gym at 5-star Center.\nFriendly and fun working environment.\nTeam building every year.\n\nCompetitive salary with attractive performance bonuses (quarterly/yearly).\nSalary review every 6 months, birthday allowance, and project-based spot bonuses.\nOpportunity to work directly with senior leadership and a dynamic founding team.\n12 annual leave days + 1 birthday leave day; annual health check.\nComplimentary access to a 5-star gym; sports competitions with exciting prizes.\nParticipation in training programs, workshops, team building, and annual company trips.\nHappy hour, birthday parties, free unlimited tea/coffee/snacks.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ5MDE5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--9fbfb63e0adf26ec7bd9b95b3ccca35c62e2f958/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7817745795142_2bc01fd54e24e3e2629ac5a5f7b61042.jpg",
+  "company_url": "/companies/unity-sport-jsc",
+  "company_mo_ta": "Xây dựng nền tảng dữ liệu thời gian thực cho hàng triệu người dùng toàn cầu",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "Sports and Fitness"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/site-reliability-engineer-ii-2-years-good-english-yum-digital-technology-5542",
+  "tieu_de": "Site Reliability Engineer II 2+ years - Good English",
+  "ten_cong_ty": "YUM! Digital & Technology",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "DevOps",
+    "Kubernetes",
+    "AWS",
+    "Grafana",
+    "Prometheus",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Block C, 4th floor, Waseco building, 10 Pho Quang,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "As per Market Standards",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Incident Management and Reliability\nLead or coordinate incident response for assigned markets and services, with independent ownership of routine incidents and supported ownership of complex multi-system incidents\nFacilitate communication during incidents and drive timely resolution, including clean shift handoffs across global time zones\nContribute to post-incident reviews and root cause analysis activities\nEnsure corrective and preventive actions are identified, tracked, and completed for owned servicesMonitoring, Alerting, and Observability\nImplement and continuously optimize monitoring, logging, alerting, and tracing solutions\nDevelop meaningful alerts based on service behavior, customer impact, and business priorities\nBuild and maintain dashboards that provide actionable insights into system performance and reliabilityPlatform and Market Ownership\nOwn day-to-day SRE responsibilities for one or more assigned markets, platforms, or services\nEnsure monitoring coverage, dashboards, runbooks, and alerting configurations remain accurate, effective, and up to date\nAssess platform health, identify reliability risks, and raise improvements before incidents occur\nPartner with engineering teams to ensure new features and services meet reliability requirements before production release\nTrack reliability metrics for owned services, including Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgetsPlatform Engineering, Automation, and AI\nDevelop and maintain tools, scripts, and automation that reduce manual effort and improve operational efficiency\nIdentify and eliminate repetitive tasks through automation, with a bias toward self-service capabilities over ticket queues\nContribute to auto-healing and auto-remediation capabilities: detection rules, remediation runbooks as code, and automated response workflows\nBuild and extend internal platform tooling using infrastructure as code and CI/CD pipelines rather than manual configuration\nApply team best practices for the responsible use of AI within SRE workflows, including AI-assisted diagnosis, triage, and remediationTeam Contribution\nShare knowledge through documentation, training sessions, and post-incident learning activities\nReview runbooks and operational documentation to maintain quality standards\nContribute to the continuous improvement of team processes, standards, and ways of working",
+  "yeu_cau": "2+ years of experience in SRE, DevOps, production support, or infrastructure engineering roles\nHands-on experience with monitoring and observability tooling (e.g., Datadog, Prometheus, Grafana, CloudWatch, or similar)\nWorking knowledge of at least one major cloud provider (AWS preferred)\nProficiency in at least one scripting or programming language (e.g., Python, Bash, Go) for automation, with demonstrated examples of automating away manual operational work\nExperience participating in incident response and on-call or shift-based operations\nUnderstanding of SLI/SLO concepts and reliability engineering fundamentals\nAbility to work follow-the-sun shift rotations, including structured handoffs with teams in other regions\nStrong written and verbal English communication skills for cross-region collaboration",
+  "quyen_loi": "18 Annual Leave + 5 Recharge Days/ Year\n13th-month bonus\n2 days WFH/ week\n\n100% salary during the probation period\n18 days of annual leave per year\nFive “Recharge Days” – extra days in addition to company holidays\nOne day of paid leave for your birthday\n2 days WFH/ week\nHalf-day Fridays\nFull salary insurance\n13th-month bonus\nAdvanced health insurance (Generali)\nRegular team and engagement activities\nLinkedIn learning and training courses, based on company policy\nMacBook and monitors",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMzEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--7f9ef81513271fba66b842661a60eac5c6f0a5b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Yum%20D&T-Logo.jpg",
+  "company_url": "/companies/yum-digital-technology",
+  "company_mo_ta": "YUM! Digital & Technology",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

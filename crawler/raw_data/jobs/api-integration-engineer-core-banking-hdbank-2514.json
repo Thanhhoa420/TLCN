@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/api-integration-engineer-core-banking-hdbank-2514",
+  "tieu_de": "API Integration Engineer - Core Banking",
+  "ten_cong_ty": "HDBank",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "API",
+    "Solution Architecture",
+    "Microservices",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "25 Nguyễn Thị Minh Khai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vai trò: Chuẩn hóa tích hợp & Open API xuyên toàn hệ sinh thái công nghệ Tập đoàn.\nTrách nhiệm chính:\nThiết kế, xây dựng API & Integration Platform, Open API/Open Banking, kết nối Core ngành với nền tảng số và đối tác sinh thái (Partner & Merchant Portal).\nĐảm bảo tích hợp xuyên suốt giữa Core – Nền tảng số (Web/SuperApp) – Hệ thống doanh nghiệp (ERP/HCM/CRM).\nXây dựng chuẩn API Gateway, quản lý phiên bản, bảo mật & hiệu năng tích hợp dùng chung toàn Tập đoàn.",
+  "yeu_cau": "Kinh nghiệm tối thiểu:\n8–12 năm kinh nghiệm CNTT, trong đó tối thiểu 4 năm ở vai trò Integration Architect / API Lead.\nCó kinh nghiệm thực tế triển khai Open Banking/Open API hoặc tích hợp ESB quy mô doanh nghiệp.\nBackground ưu tiên: Ưu tiên kinh nghiệm tích hợp hệ thống Core Banking (iRIS, ESB) hoặc các nền tảng thanh toán/đối tác sinh thái đa kênh.\nChứng chỉ ưu tiên:\nMuleSoft Certified Platform Architect.\nApigee hoặc Kong Certified, AWS API Gateway.\nISO 20022 (đối với ứng viên thiên về Core ngân hàng) là lợi thế.\nCấp độ đề xuất: Chuyên gia bậc 3–4.",
+  "quyen_loi": "Friendly workplace\nCompetitive salary\nCareer development\n\nAt HDBank, we strive to create a workplace that feels like a second home—where you are empowered to innovate, grow, and pursue your passion.Benefits\n13th and 14th month salary bonuses\nPerformance-based annual bonus\nHealth insurance and accident insurance\nAnnual company trip and vacation\nAnnual salary review",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MjIzLCJwdXIiOiJibG9iX2lkIn19--8386ba2df991859d2dd43d164fa44accd62f4a5d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/hdbank-logo.png",
+  "company_url": "/companies/hdbank",
+  "company_mo_ta": "Cam kết lợi ích cao nhất",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

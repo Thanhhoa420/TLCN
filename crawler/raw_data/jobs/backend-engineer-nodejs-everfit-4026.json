@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-engineer-nodejs-everfit-4026",
+  "tieu_de": "Backend Engineer Nodejs",
+  "ten_cong_ty": "Everfit",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "NodeJS",
+    "Database",
+    "AWS",
+    "System Architecture",
+    "Microservices",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "12A, Vietinbank building, 36 Tran Quoc Toan, Da Nang",
+  "quan_huyen": "Quận Hải Châu",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Position Overview:\nOur Vietnam team is the engine of Everfit. Currently around 170 people, roughly 150 in Da Nang and 20 in Hanoi, who built the product that’s made us a category leader in 6 years since launch .\nThe next chapter is about unlocking what this team is capable of moving faster but with extreme precision, building with AI in every workflow, and operating at the level of the best companies in the world.\nWe’re looking for a Backend Engineer to build reliable, scalable systems that power Everfit’s continued growth. You will design and develop backend services and APIs, improve system performance and architecture, and deliver secure, high-quality solutions that support our products and users at scale.\n \nYour impact:\nBackend Development & Architecture\nDevelop, test, and maintain reliable, scalable backend services using Node.js.\nDesign and implement RESTful APIs that support Everfit’s products, users, and integrations.\nContribute to the evolution of our microservices architecture, data models, and backend infrastructure.\nTranslate business and customer requirements into secure, high-performance technical solutions.\nMake thoughtful technical decisions that balance delivery speed, scalability, and long-term maintainability.\nEngineering Quality\nWrite clean, testable, observable, and maintainable code.\nParticipate actively in code reviews, sharing constructive feedback and learning from other engineers.\nBuild automated tests and monitoring to improve system reliability and prevent regressions.\nIdentify technical debt, performance bottlenecks, and reliability risks, then collaborate with the team to address them.\nContribute to clear technical documentation and consistent engineering standards.\nAI-First Engineering\nUse AI-assisted development tools to improve coding, testing, debugging, documentation, and code review workflows.\nExplore practical ways to integrate AI capabilities into Everfit’s products and backend services.\nShare effective AI workflows, tools, and learnings with the engineering team.\nApply sound engineering judgment when reviewing and validating AI-generated solutions.\nCollaboration & Delivery\nWork closely with Product Managers, Business Analysts, QA, Design, and fellow engineers to deliver high-quality features.\nParticipate in scrum rituals, technical discussions, prototyping, and solution design.\nCommunicate technical considerations, risks, and trade-offs clearly to both technical and non-technical stakeholders.\nCollaborate across squads on shared services, platform standards, and system integrations.\nTake ownership of features throughout their lifecycle—from discovery and development to release, monitoring, and continuous improvement.",
+  "yeu_cau": "5+ years of professional experience working with Node.js (ES6).\nIntermediate English communication skills — you're willing to grow with us.\nExperienced with microservices and distributed systems.\nSolid understanding of RESTful API design and backend architecture.\nExperienced with Express.js, MongoDB, Redis, and PostgreSQL.\nFamiliar with unit testing frameworks like Jest or Mocha, and passionate about code quality.\nAble to write clean, maintainable, and well-documented code.\nComfortable working in an Agile/Scrum development environment.\nStrong problem-solving and analytical skills.\n[Nice to have]\nHands-on experience with AWS services (e.g., S3, ECS, Lambda).\nFamiliarity with message queues (e.g., Kafka, SQS).\nKnowledge of containerization and orchestration tools (e.g., Docker, ECS).\nFamiliar with authentication/authorization mechanisms (e.g., OAuth2, JWT).",
+  "quyen_loi": "AI-first company shaping the future of fitness\nJoin a passionate global team across VN, US, & UK\nCollaborative team valuing joy & creativity\n\nCompensation & Benefits:\nFull social insurance coverage and premium healthcare benefits.\nCompetitive salary with 13th-month pay and performance bonus.\nPaid leave — vacation, sick leave, and maternity leave\nBuild Your Career with Impact:\nBe part of a mission-driven company that’s transforming human potential.\nEmpower over 300,000+ coaches in more than 200 countries - including Olympic athletes, military trainers, rehab specialists, and celebrity coaches.\nMake a global impact while building a meaningful, purpose-driven career.\nContinuous training, mentoring.\n1-2 performance reviews annually.\nWork Environment:\nEnglish-speaking, international environment promoting open communication and collaboration.\nWork alongside world-class talent from companies like Apple, Meta, Uber, Patreon, and Nike, united by a shared passion for impact and excellence.\nInternational team for global career growth.\nState-of-the-art equipment provided.\nBeautiful working environment near Danang's city center (Dragon Bridge) and Hanoi office. \nHealth & Wellness:\nPVI health insurance program and annual health check-ups.\nActive sports clubs (football, badminton, pickleball) and company retreats.\nA modern pantry designed for relaxation and social connection.\nMonthly wellness and learning workshops to recharge and grow.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY4MDg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b87625c6ac193183cd9612f9d773fb82cbb01775/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Avatar%20Everfit.png",
+  "company_url": "/companies/everfit",
+  "company_mo_ta": "Come build the future with us",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

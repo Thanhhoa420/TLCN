@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-timo-3956",
+  "tieu_de": "Senior Backend Engineer",
+  "ten_cong_ty": "Timo",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "JavaScript",
+    "Cloud-native Architecture",
+    "Kubernetes",
+    "Spring Boot",
+    "Microservices",
+    "Kafka"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "412 Nguyen Thi Minh Khai",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Timo\nLaunched in 2015, Timo pioneered digital banking in Vietnam with a mission to make banking faster, simpler, and more accessible.\n \nToday, as part of one of Southeast Asia’s leading digital financial services platforms, Timo is building secure, scalable, and customer-first digital banking experiences for millions of users across Vietnam.\n \nWe are looking for curious minds and driven talents from fintech, digital banking, and technology companies who are excited to move fast, build meaningful products, and help shape the future of banking in Vietnam.\n \nAbout the Role\nWe are looking for a Principal Backend Engineer to help shape the engineering foundations behind Timo's digital banking platform. In this role, you will own the core engineering platform, building internal frameworks, improving developer experience, and driving engineering best practices across teams. You will help Timo's engineers ship faster, build more reliably, and scale efficiently.\n \nYou will report to the Head of Engineering.\n \nWhat You Will Do\nArchitect and build internal frameworks, SDKs, and reusable components that streamline development across Timo's engineering teams\nDrive engineering standards in API design, microservices, observability, and performance optimization\nImprove developer experience (DevEx) through self-service tooling, automation, and CI/CD improvements\nLead technology evaluation: research, run PoCs, and contribute to Timo's and Kredivo's Tech Radar\nStrengthen observability: ensure logging, tracing, and monitoring scale seamlessly with the platform\nPartner with DevOps to optimize CI/CD pipelines and cloud cost efficiency\nInfluence cross-functionally across Backend, Mobile, Data, and Security teams to drive organization-wide initiatives\nMentor senior engineers and drive adoption of platform tools and best practices\nArchitect and evolve scalable backend and platform solutions using Java, Spring Boot, microservices, Kubernetes, Kafka/RabbitMQ, and event-driven architectures\nProvide technical leadership on system design, architecture, performance optimization, and complex production troubleshooting",
+  "yeu_cau": "What We Are Looking For\nExperience\n6+ years of backend engineering experience, with prior experience in a Principal, Staff, or technical leadership role\nProven track record of building production systems at scale\nBackground in Platform Engineering, fintech, banking, payments, or Developer Experience is preferred\nStrong hands-on experience with Java, Spring Boot (4+ years), microservices, Kubernetes, Kafka/RabbitMQ, distributed systems, and cloud-native application architectures\nSkills & Expertise\nStrong expertise in building internal frameworks, SDKs, or developer tooling\nDeep knowledge of distributed systems, microservices, and software architecture\nExperience evaluating and adopting new technologies, running PoCs, and maintaining a Tech Radar\nFamiliarity with CI/CD pipelines, cloud infrastructure, observability, caching, event-driven systems, and deployment automation\nSkilled at defining and driving engineering standards: API design, performance, reliability\nFamiliarity with event-driven and distributed system patterns.\nExcellent debugging and problem-solving skills across complex, multi-service environments\nProfessional working English: daily collaboration with Timo leadership and Kredivo's regional engineering teams",
+  "quyen_loi": "Big chance to build Fintech system, large data\nInternational & English environment\nApply new Tech-Stack, Technology and more\n\nOur deliverable is a leading software that is changing the way people do banking. You will be proud of your work and you will share with everybody that you helped to build Timo.\nYou’ll be joining a team of experts who are technically savvy, creative, and who share the intention of reinventing banking in Vietnam. You work closely with international architects and front-end consultants, product managers, and designers to develop the system. You will learn a lot from them.\nCompany Benefits:\nFull benefits and salary during probation\nPremium health care insurance\nCompetitive salary and learning culture\nOther benefits as per stated in Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI4NzkzMywicHVyIjoiYmxvYl9pZCJ9fQ==--c42f54d9d26674f8a00e350a54f4cd5dc0e0cb94/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo.png",
+  "company_url": "/companies/timo",
+  "company_mo_ta": "Timo Vietnam",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

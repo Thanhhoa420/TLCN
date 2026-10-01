@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-analyst-crm-loyalty-golden-gate-4026",
+  "tieu_de": "Senior Data Analyst CRM Loyalty",
+  "ten_cong_ty": "Golden Gate",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Data Analysis",
+    "Business Intelligence",
+    "Tableau",
+    "Power BI",
+    "SQL",
+    "CRM"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "315 Trường Chinh",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,500 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Growth Analytics & Business Insights Analyst supports Growth & Loyalty activities through data analysis, performance reporting, and business insights.\nThe role focuses on Loyalty, Loyalty-related Trade Marketing programs, customer behavior, and related digital marketing journeys. Working under the direction of the Growth Marketing Supervisor, the Analyst will prepare reports and dashboards, analyze campaign and customer performance, and help the team identify opportunities for improvement.\nThe Analyst is also encouraged to raise questions and provide alternative perspectives when supported by data.\nKey Responsibilities\nGrowth, Loyalty & Customer Analytics\nAnalyze customer, transaction, membership, campaign, and digital interaction data to support Growth Marketing activities.\nMonitor key customer metrics, including acquisition, activation, engagement, retention, purchase frequency, spending, churn, and customer lifecycle.\nEvaluate Loyalty performance across membership tiers, customer segments, point earning and redemption, voucher usage, and promotional participation.\nAnalyze Trade Marketing activities and digital customer journeys by relevant dimensions such as customer segment, campaign, channel, store, product, and time period.\nConduct segmentation, cohort, funnel, trend, and behavioral analysis based on business requirements.\nReporting & Performance Analysis\nPrepare recurring and ad-hoc reports for Loyalty, Trade Marketing, digital journeys, and other Growth Marketing initiatives.\nDevelop and maintain dashboards based on KPI frameworks and reporting requirements provided by the Growth Marketing Supervisor.\nTrack campaign performance against agreed targets, historical results, or reference groups, and summarize key outcomes after implementation.\nHighlight material changes, unusual movements, funnel drop-offs, risks, and areas that may require further analysis.\nSupport the improvement and automation of recurring reports to reduce manual work and improve reporting efficiency.\nBusiness Insights & Recommendations\nInterpret analytical results and translate them into clear and relevant business insights.\nHelp identify customer behaviors, performance drivers, business risks, and potential growth opportunities.\nExplain what changed, identify possible contributing factors, and suggest areas for further monitoring or analysis.\nPresent findings in a concise, business-friendly format for both technical and non-technical stakeholders.\nRaise questions or propose alternative interpretations when business assumptions are not sufficiently supported by data.\nData Quality, Documentation & Collaboration\nValidate source data, business rules, calculation logic, and reporting outputs before sharing results.\nInvestigate data discrepancies and coordinate with BI, Data, Technology, or system owners when support is required.\nMaintain clear documentation of KPI definitions, calculation methods, data sources, and reporting logic within the Growth Marketing scope.\nWork closely with Growth Marketing, CRM, Loyalty, Operations, Finance, BI, Data, and other relevant teams.\nFollow company policies regarding customer data privacy, data security, access control, and responsible data usage.",
+  "yeu_cau": "Qualifications & Experience\n4+ years of experience in Data Analytics, Business Intelligence, Business Insights, CRM Analytics, Marketing Analytics, or a similar role.\nExperience using data to support business decisions, customer analysis, campaign evaluation, or performance reporting.\nHands-on experience developing dashboards and preparing recurring or ad-hoc reports for business teams.\nExperience working with customer, transaction, CRM, Loyalty, campaign, or digital journey data is preferred.\nExperience in F&B, retail, e-commerce, consumer services, or other transaction-driven businesses is an advantage.\nTechnical & Analytical Skills\nRequired\nStrong SQL skills for data extraction, validation, reconciliation, and analysis.\nGood proficiency in at least one visualization tool, such as Power BI, Tableau, or Superset.\nStrong Excel or Google Sheets skills for data analysis and business reporting.\nFamiliarity with segmentation, cohort analysis, funnel analysis, trend analysis, and campaign performance analysis.\nGood analytical thinking, attention to detail, communication, and data presentation skills.\nNice to Have\nKnowledge of statistical analysis, test and control groups, or A/B testing.\nProficiency in Python or R for data manipulation or reporting automation.\nFamiliarity with data warehouse concepts or cloud data platforms such as BigQuery, Redshift, or ClickHouse.\nUnderstanding of Loyalty programs, CRM, customer lifecycle management, promotional effectiveness, or digital conversion funnels.",
+  "quyen_loi": "Văn phòng xịn xò, môi trường năng động\nĐược tham gia xây dựng nhiều sản phẩm\nCông ty F&B siêu to khổng lồ ứng dụng công nghệ\n\nWorking location: Hanoi Office at 315 Truong Chinh, Thanh Xuan, Hanoi \nWorking hours: Monday - Friday; flexible check-in time;\nEquipment: The company provides all necessary working equipment such as Desktops/Laptops;\nStatutory Benefits: Guaranteed full welfare benefits in accordance with the Labor Law, including: Full statutory insurance contributions, 24/7 accident insurance, etc.;\nHealth Care: Private health insurance (depending on job level);\nBonuses: KPI bonus, 13th-month salary;\nEmployee Discount: 10% - 30% discount on the total bill when dining at restaurants within the Golden Gate network;\nProject Exposure: Opportunity to participate in large-scale digital transformation projects with a direct impact on business operations;\nCulture: Professional working environment with cross-functional and partner collaboration.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MzM2LCJwdXIiOiJibG9iX2lkIn19--0084bebdd6c8284136141a7eb27e5a4802ac7679/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/golden-gate-logo.png",
+  "company_url": "/companies/golden-gate",
+  "company_mo_ta": "Golden Gate Restaurant Group is recognized as the leading restaurant chain operator in Vietnam",
+  "job_expertise": [
+    "Data Analyst"
+  ],
+  "job_domain": [
+    "Food and Beverage",
+    "E-commerce",
+    "Retail and Wholesale",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-ai-native-engineer-python-sql-llm-aws-zeya-labs-ai-0402",
+  "tieu_de": "Senior AI Native Engineer Python, SQL, LLM, AWS",
+  "ten_cong_ty": "Zeya Labs AI",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "AI",
+    "LLM",
+    "API",
+    "AWS",
+    "SQL",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Phòng L5-20, Tầng 5, Số 343, đường Hoàng Sa, Phường Tân Định",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "What This Role Is\nWe are building AI-native delivery systems without a fixed precedent. AI-augmented engineering and agentic workflows are shifting the core constraint from building software to designing, orchestrating, and improving intelligent systems that can reason and act.\nAs a Senior AI Native Engineer, you will own end-to-end AI product surfaces—from ideation to production—working across product, engineering, and applied AI systems to turn ambiguity into working, scalable solutions.\nYou will work closely with internal stakeholders on rapid experimentation, prototyping, and Lab based initiatives that demonstrate and validate new agentic capabilities.\nFrom a technical standpoint, you should be able to engage meaningfully with product teams and understand core system design concepts. This includes having a realistic understanding of AI capabilities and limitations, recognizing why certain problems are more complex than they appear, and understanding how system performance and success are evaluated in production environments. While implementation sits with engineering, you are responsible for the correctness of what gets built. That means reviewing technicalproposals, interrogating assumptions, and ensuring that every solution is feasible, well-structured, and grounded in real system behavior with the engineering and delivery team. Concretely, you are responsible for four things:\nEnd-to-End AI System Ownership\nLead the end-to-end design and development of AI-native products, including agents, workflows, and intelligent systems built on modern cloud architectures\nOwn and implement AI-driven pipelines and workflows, ensuring reliability, scalability, reusability, and production readiness\nDesign system architectures for AI applications, including agent frameworks, RAG pipelines, and multi-step reasoning workflows\nCollaborate closely with engineers, data scientists, and stakeholders to deliver AI-powered features, decision systems, and automation solutions.\nOversee integration of structured and unstructured data sources, ensuring strong governance, reliability, and system integrity\nEstablish best practices around code quality, testing, documentation, and CI/CD for AI systems and workflows\nContribute to development of AI agents and intelligent services leveraging real-time data, APIs, and vector-based retrieval systems\nOptimize system performance, latency, cost, and scalability across AI pipelines and infrastructure layers\nWork directly with global stakeholders, gathering requirements and translating them into scalable AI product solutions\nMentor junior builders and contribute to a strong engineering and AI product culture",
+  "yeu_cau": "What We Are Looking For\n5+ years of experience in software engineering, AI product development, or data-driven system engineering\nDemonstrated experience designing and delivering production AI systems, including agents, automation pipelines, or intelligent workflows\nStrong foundation in AI system architecture, including LLM integration, retrieval-augmented generation (RAG), and workflow orchestration\nAdvanced proficiency in Python and SQL for developing reliable, scalable AI-enabled systems\nHands-on experience with major cloud platforms (AWS, Azure, or GCP) in production environments\nExperience integrating APIs and building service-oriented or event-driven architectures\nStrong knowledge of data engineering concepts, including handling structured and unstructured data at scale\nExcellent communication skills in English, capable of working with different teams and senior stakeholders\nProven leadership ability with strong problem-solving skills and full lifecycle ownership of technical initiatives\nYou Will Work Across\nThis role spans multiple domains depending on product needs:\nAI agents and multi-step autonomous workflows\nRAG systems over messy, real-world data (e.g., planning documents, regulations, reports)\nDecision intelligence systems and spatial AI applications for real estate and operational use cases\nFull-stack product development with engineering and delivery team (frontend interaction design, backend systems, and API integration)\nRapid prototyping of new ideas, tools, and internal systems\nAny component required to move the product forward in each given cycle.\nThere is no existing product function to inherit and no backlog to pick up from. We are looking for someone who wants to build something from scratch —and who understands that in this team, building means\nactually building",
+  "quyen_loi": "AI-native culture with enterprise AI tools\nFlexible hybrid work, focused on outcomes\nSmall team, high ownership\n\n.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkxMDM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--b426d8710ffc8744b78b926946df464335e6ec12/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/1785735005565_8251303350573331076_8251303350573331076_4747fcc64212e2931fb5228fc3db356c.jpg",
+  "company_url": "/companies/zeya-labs-ai",
+  "company_mo_ta": "Zeya Labs AI",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

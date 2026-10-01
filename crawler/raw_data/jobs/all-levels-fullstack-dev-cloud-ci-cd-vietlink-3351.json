@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/all-levels-fullstack-dev-cloud-ci-cd-vietlink-3351",
+  "tieu_de": "All levels Fullstack Dev Cloud, CI/CD",
+  "ten_cong_ty": "Vietlink",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "AWS",
+    ".NET",
+    "Java",
+    "Python",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "2nd Floor, Central Park, 117-119-121 Nguyen Du, Ben Thanh Ward, HCMC",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mid_Senior Fullstack:\nDevelopment\nDesign, develop, and maintain high-quality web applications using JS/TS and Cloud services.\nAnalyze client requirements and translate them into efficient, scalable, and maintainable code.\nWork in an Agile development team, collaborating closely with developers, product managers, and stakeholders.\nParticipate in sprint planning, daily stand-ups, and retrospectives to ensure continuous improvement.\nOptimize applications for performance, reliability, and scalability.\nTesting, Debugging, and Troubleshooting\nConduct thorough testing of web applications to ensure functionality, security, and performance.\nWork closely with the QC team to identify and resolve bugs or issues promptly.\nDebug and troubleshoot production issues to maintain application stability.\nSecurity and Compliance\nImplement security best practices to protect applications from vulnerabilities and cyber threats.\nEnsure compliance with data protection and privacy regulations.\nMonitor and enhance application security using Cloud security tools.\nDocumentation\nCreate and maintain technical documentation, including API specifications, system architecture, and user guides.\nMaintain up-to-date documentation for knowledge sharing and future reference.\nCollaboration and Communication\nWork closely with product managers, designers, and other engineers in an Agile environment to understand project requirements and deliver solutions.\nActively participate in team discussions, code reviews, and collaborative decision-making.\nEffectively communicate technical concepts to non-technical stakeholders.\nContinuous Learning\nStay updated with the latest trends and technologies in Next.js, Azure, and software development.\nContinuously improve coding skills and adopt best practices for efficient development.\nEngage in Agile best practices, including continuous integration and deployment.\n \n===\nTechnical leader:\nEnsure project quality and delivery timelines through code reviews, technical design decisions, and early identification of technical risks\nDefine and maintain development standards, code review processes, and quality guidelines aligned with Japanese software development practices\nDrive AI tool adoption (e.g., Cursor, Claude Code) across the team to improve development productivity\nProvide technical guidance and training to team members to achieve high performance\nProvide technical leadership on basic and detailed design, including generative AI projects\nUnderstand business goals and provide technical solutions to contribute to business success\nCollaborate with other departments to ensure alignment between project goals and technical solutions",
+  "yeu_cau": "Requirements for Middle_Senior Fullstack:\nRequired:\nSolid experience building both the frontend and backend of web apps, strong JS/TypeScript, and comfortable working with modern frontend and backend frameworks in general.\nUnderstanding Infrastructure as Code and CI/CD in practice (e.g. has worked with Terraform, GitHub Actions or similar) \nCloud (AWS/GCP/Azure)\nNice to have: \nHands-on experience with our current project stacks specifically (Next.js, Remix, NestJS, HonoJS), plus anything around AI — we're especially interested in candidates who've built AI agents or worked with RAG/LLM integration, given where we're heading as a company.\nRequirements for Technical leader Fullstack:\nRequired:\nProven experience leading a development team through technical leadership\nExperience working on projects with Japanese clients\n5+ years of engineering experience with strong programming skills (TypeScript, JavaScript, Python, Java, Go, or equivalent)\nHands-on experience with AWS for server-side design and development\nHigh proficiency in English (reading, writing, and speaking) for international project communication\nBusiness acumen to understand business goals and contribute from a technical perspective\nExperience integrating AI tools (e.g., Cursor, Claude Code) into development workflows and driving team adoption\nHands-on experience with modern web frameworks (React, Vue.js, Next.js, FastAPI, etc.)\nHands-on experience with IaC and CI/CD pipelines (Terraform, AWS CDK, etc.)\nPreferred:\nExperience with agile development methodologies, pair programming, or mob programming\nProven experience in AI development projects (e.g., Azure OpenAI, AWS Bedrock, GCP Vertex AI)\nExperience supporting team members' AI utilization and technical growth\nExperience with Azure or Google Cloud in addition to AWS",
+  "quyen_loi": "Friendly Coworkers, Exciting Workplace\nGreat Salary & Perks\nWork-Life Integration\n\n● Fully paid insurance coverage, premium health care, and annual health check-ups \n● 20 days of annual leave plus 1 more day for the Anniversary Establishment Day in Oct\n● All benefits followed Vietnamese labor law, including a 13th-month salary\n● Training allowance\n● Annual company trip and team building\n● Annual performance review\n● Free parking card\n● A laptop that fits your needs.\n● Sport Club (badminton, football)\n● Weekly Technical sharing/soft skill\n● Free beverages\n● Working from Monday to Friday (9am -6pm)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTI3OTEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--162cada0ee8c0adfc06d83e6e4ad3ac82ab67016/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Vietlink%20logo.jpg",
+  "company_url": "/companies/vietlink",
+  "company_mo_ta": "Link Up for the Next",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

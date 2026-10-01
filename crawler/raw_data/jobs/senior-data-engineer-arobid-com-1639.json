@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-engineer-arobid-com-1639",
+  "tieu_de": "Senior Data Engineer",
+  "ten_cong_ty": "AROBID.COM",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Database",
+    "Big Data",
+    "Data modeling",
+    "Data Warehousing",
+    "Data-driven"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "2ⁿᵈ Floor, SECC, 799 Nguyen Van Linh Street, Tan My Ward",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,200 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Data Engineer to build and maintain scalable data platforms that support AI, analytics, and backend applications. You will be responsible for designing data architectures, developing ETL pipelines, integrating data from multiple sources, and ensuring high-quality, reliable datasets for downstream systems.Key Responsibilities\nDesign and develop scalable ETL pipelines.\nIntegrate, clean, and standardize data from multiple sources (databases, APIs, files, logs, etc.).\nDesign and maintain Data Lake, Data Warehouse, and data models.\nBuild and optimize data pipeline architecture for scalability and reliability.\nImplement data quality processes, including data validation, duplicate detection, and missing value handling.\nBuild Feature Store or Feature Pipelines to support AI and machine learning.\nImplement data versioning to ensure reproducibility and traceability.\nMonitor, troubleshoot, and optimize production data pipelines.\nCollaborate with AI Engineers, Backend Engineers, and Data Analysts to deliver reliable data solutions.",
+  "yeu_cau": "TECHNICAL REQUIREMENTS\nBachelor‘s degree in Computer Science, Information Technology, Information Systems, or a related field.\nMinimum 5 years of experience as a Data Engineer or in a similar role.\nStrong SQL and Python programming skills.\nProven experience building ETL/ELT pipelines and processing data from multiple sources.\nHands-on experience designing Data Lake, Data Warehouse, data pipeline architecture, and data models.\nExperience implementing data validation, duplicate detection, and missing value handling.\nExperience building Feature Store or Feature Pipelines for AI/ML applications.\nExperience with data versioning and production pipeline monitoring.\nBasic English reading skills for technical documentation.\nPreferred Skills\nApache Airflow, Spark, Kafka.\nPostgreSQL.\nMicrosoft Excel.\nNLP Data for AI.",
+  "quyen_loi": "Social insurance coverage upon signing your employment contract.\nGenerous leave policy: 12 annual leave days plus all Vietnamese public holidays.\n13th-month salary (applicable from the probationary period).\nCompany-provided equipment.\nWell-stocked pantry: tea, coffee, snacks, microwave, etc.\nEngaging company activities: Company trips, team-building events, regular internal events (including live music performances!), and access to company-sponsored badminton courts.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE1NDg1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c153173b5c4de017c77d9dcf13eba6cbfffdec1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20-%20Hong%20Thi%20Tran.png",
+  "company_url": "/companies/arobid-com",
+  "company_mo_ta": "Chi nhánh AROBID - Công ty CP Tầm Nhin Mới",
+  "job_expertise": [
+    "Data Scientist"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

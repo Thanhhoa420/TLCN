@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/junior-android-developer-kotlin-java-motorist-pte-ltd-0733",
+  "tieu_de": "Junior Android Developer Kotlin/Java",
+  "ten_cong_ty": "Motorist Pte Ltd",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Android",
+    "Java",
+    "Database",
+    "OOP",
+    "Kotlin",
+    "English"
+  ],
+  "cap_bac": "Fresher",
+  "dia_chi_raw": "lầu 12A ,258 Nam Kỳ Khởi Nghĩa",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Very Attractive!!!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Junior Android Developer to join our growing Motorist Vietnam team.\nYou will help design, optimize, and enhance the Motorist mobile application — one of Singapore’s leading automotive platforms — using the latest Android technologies to deliver the best experience for drivers across Southeast Asia.1. Education\n● Bachelor’s degree in Computer Science, Software Engineering, or related field.\n● Final-year students or fresh graduates with strong Android project portfolios are also welcome to apply.2. Responsibilities\n● Design, build, and maintain advanced features for the Motorist app using Kotlin and Jetpack Compose.\n● Implement modern architectures using MVVM, Hilt/Dagger (Dependency Injection), and Coroutines.\n● Work with frameworks and libraries such as Retrofit2 + OkHttp3, Realm, RxJava, and Firebase Crashlytics / Analytics.\n● Collaborate closely with backend developers, designers, and QA testers to ensure smooth, high-performance user experiences.\n● Debug, refactor, and continuously optimize the Motorist app for reliability and scalability.\n● Conduct research and apply emerging Android technologies to improve performance and user satisfaction.\n● Participate in sprint planning, code reviews, and team knowledge sharing sessions.",
+  "yeu_cau": "Technical ExperiencesMust Have\n● Bachelor’s degree in Computer Science or related field.\n● Understanding of Java/Kotlin, Android Studio, and Android SDK fundamentals.\n● Familiar with SOLID principles, OOP, data structures, and clean architecture (MVVM).\n● Experience working with databases such as SQLite, Room, and Realm.\n● Understanding of RESTful API integration and JSON data handling.\n● Proficient understanding of code version control tools, such as Git.\n● Strong attention to detail and analytical problem-solving mindset.Nice to Have\n● Exposure to Jetpack Compose, Retrofit2 / OkHttp3, RxJava, or Google Maps SDK.\n● Basic understanding of Firebase Messaging, Crashlytics, or Remote Config.\n● Familiarity with Material 3 Design, Coroutines Flow, or JUnit / Espresso testing.\n● Appreciation for clean, maintainable, and well-structured code.\n● Collaborative mindset and a reliable team player who takes ownership of their work.Language Skills\n● Able to communicate and collaborate in English (written and spoken).\n● Willing to learn and improve communication when working with Singapore HQ and other markets.Flexible Points\nWe welcome engineers who:\n● Are passionate about Android development and eager to grow in a professional environment.\n● May not have long working experience but can demonstrate strong fundamentals and self-learning ability.\n● Want to master Jetpack Compose, Kotlin Coroutines, and Clean Architecture.\n● Are not yet fluent in English but are motivated to practice and improve daily.\n● Enjoy solving problems and building high-quality apps that users love.Notice\nCandidates are required to provide reference information after passing the interview round.\nAt Motorist, we believe in work hard, play hard. You’ll be part of an energetic and collaborative team that encourages creativity, learning, and ownership.\nJoin us to grow your career and help build one of Singapore’s leading automotive platforms.",
+  "quyen_loi": "Highly competitive salary and benefits package\nExcellent environment and team to help you grow.\nWe are Singapore's leading car portal\n\n● Competitive salary with annual performance review and 13th-month bonus.\n● Modern working devices: MacBook, monitor, Android test phones, etc.\n● PVI Health Insurance and full social insurance as per Vietnam Labor Law.\n● 15 days annual leave, increasing by 1 day per year.\n● English language training sponsored by the company.\n● Professional development and opportunities to travel to Singapore for training.\n● Friendly, innovative, and young working environment in District 2, Ho Chi Minh City.\n● Working hours: 7 hours/day, Monday to Friday (no weekends).\n● Year-end party and team-building activities.\n● Unlimited potential for career growth and internal advancement.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTE4LCJwdXIiOiJibG9iX2lkIn19--321e0d52510be7f2518314149beec486c153b107/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/motorist-pte-ltd-logo.png",
+  "company_url": "/companies/motorist-pte-ltd",
+  "company_mo_ta": "Motorist.sg is Singapore's Leading AutoConcierge Platform that simplifies vehicle ownership",
+  "job_expertise": [
+    "Mobile Application Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-rust-c-c-cong-ty-tnhh-nexlab-it-solutions-3643",
+  "tieu_de": "Backend Developer Rust/ C/ C++",
+  "ten_cong_ty": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Rust",
+    "C++",
+    "C language"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 20 đường Sông Thao",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Overview\nWe are looking for an experienced Backend Developer to design and build endpoint detection and response capabilities for our security platform. You will work on the endpoint sensor, telemetry pipeline integration, and response workflows that enable high-fidelity detection and rapid containment of threats.\nThis role requires strong systems programming skills, deep understanding of operating system internals, and practical experience building secure, high-performance software that runs reliably on production endpoints.Responsibilities\nDesign and implement endpoint sensor components for telemetry, detection, and response.\nBuild high-performance, low-overhead agents for Windows, macOS, and/or Linux.\nImplement process, file, registry, network, memory, and module monitoring where relevant.\nDevelop secure communication channels between endpoint agents and backend services.\nIntegrate local detections with cloud or on-prem security platforms.\nCreate response actions such as process termination, isolation, quarantine, or configuration enforcement.\nWork with detection engineers to translate behavioral logic into performant endpoint-side implementations.\nImprove resilience against tampering, bypass, privilege escalation, and runtime instability.\nCollaborate with SOC and IR teams to support investigations and threat containment.\nParticipate in code review, architecture review, threat modeling, and secure development practices.\nOptimize for maintainability, crash safety, observability, and compatibility across OS versions.",
+  "yeu_cau": "Required qualifications\nStrong experience in Rust, C, or C++ for production systems.\nSolid understanding of operating system internals.\nExperience building software that interacts with low-level OS APIs, services, drivers, or daemons.\nKnowledge of endpoint security concepts such as EDR, AV, behavioral detection, and response orchestration.\nFamiliarity with secure software design, memory safety concerns, and defensive coding practices.\nExperience debugging complex systems issues, performance bottlenecks, and concurrency problems.\nAbility to work across the full lifecycle: architecture, implementation, testing, deployment, and maintenance.Preferred qualifications\nExperience with Windows internals, ETW, kernel/userland boundaries, or minifilters.\nExperience with macOS system extensions, EndpointSecurity framework, or launch services.\nExperience with Linux audit subsystem, eBPF, fanotify, inotify, or kernel modules.\nKnowledge of detection engineering, MITRE ATT&CK, or endpoint threat hunting.\nExperience hardening software against tampering, injection, and privilege abuse.\nBackground in security products, EDR/XDR platforms, EPP, or agent-based infrastructure.\nFamiliarity with Rust for systems/security applications.\nExperience with telemetry pipelines, protobuf/flatbuffers, gRPC, or message queues.\nUnderstanding of CI/CD, test automation, and release management for endpoint software.Nice to have\nDriver development or kernel-mode experience.\nExperience with code signing, notarization, and endpoint trust models.\nFamiliarity with sandboxing, privilege separation, and secure update mechanisms.\nExposure to incident response operations or SOC workflows.\nExperience contributing to open-source security or systems projects.",
+  "quyen_loi": "Work on system-level, high traffic architecture\nOpportunity to grow into Senior/Tech Lead in distributed systems\nModern tech stack: Rust, C, or C++",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2daef7638bfe1f6fb7ebdcbd3e75a71e14258485/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nexlab%20IT.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nexlab-it-solutions",
+  "company_mo_ta": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-frontend-engineer-react-typescript-javascript-vision-advisory-analytics-2336",
+  "tieu_de": "Senior Frontend Engineer -React, TypeScript, JavaScript",
+  "ten_cong_ty": "VISION Advisory & Analytics",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "ReactJS",
+    "CSS",
+    "HTML",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3 Nguyen Co Thach Street",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Overview\nWe are a Macau-based casino gaming technology company providing technology solutions to international casino operators and gaming businesses worldwide. \nWe are looking for a Senior Frontend Engineer to develop and maintain web-based management applications and interactive browser-based gaming clients. The primary focus will be modern React and TypeScript frontend development, with exposure to Cocos Creator, real-time communication and WebRTC-based video streaming.\n* Strong React/TypeScript candidates with relevant interactive or real-time experience should also be considered. Cocos Creator and WebRTC would be an advantage, but is not essential.\nThe role involves working in an international environment, with English used regularly for day-to-day communication and collaboration.\n \nOur Candidate Profile\nComfortable working across conventional web UI and interactive/game-client functionality.\nStrong attention to usability, performance and visual quality.\nAble to diagnose frontend issues that may originate in browser, API or network behaviour.\nWorks collaboratively with backend and infrastructure engineers.\nKey Responsibilities\nDevelop and maintain responsive web applications using React, TypeScript, JavaScript, HTML and CSS.\nBuild reusable frontend components for dashboards, forms, tables, user management, transactions and other operational workflows.\nIntegrate frontend applications with backend REST APIs and handle authentication, error states and asynchronous data flows\nDevelop real-time frontend functionality using WebSocket and/or Socket.IO.\nMaintain and enhance browser-based game-client functionality using Cocos Creator or a comparable interactive/game framework.\nSupport desktop and mobile game interfaces, responsive layouts and screen adaptation.\nImplement real-time game-state updates, player interactions, balance/credit views and jackpot or game-event notifications.\nSupport live-video integration and WebRTC-based streaming functionality where required.\nSupport third-party iframe integrations and secure communication between embedded clients and host applications.\nMaintain multilingual user interfaces and cross-browser compatibility.\nTroubleshoot browser, rendering, performance, networking and media-streaming issues.\nParticipate in code reviews and work closely with backend and infrastructure engineers.\nContribute to frontend unit, integration and end-to-end test automation.",
+  "yeu_cau": "Required Skills\n5+ years of commercial frontend-development experience.\nStrong commercial experience with React.\nStrong TypeScript and JavaScript skills.\nStrong HTML5 and CSS skills and experience building responsive web applications.\nExperience integrating frontend applications with REST APIs.\nGood understanding of browser debugging, asynchronous programming and frontend performance.\nExperience using Git and modern development workflows.\nStrong problem-solving and troubleshooting skills.\nPreferred Skills\nCocos Creator or another browser/game framework such as Phaser, PixiJS or Unity WebGL.\nWebSocket and/or Socket.IO for real-time applications.\nWebRTC concepts such as RTCPeerConnection, ICE, STUN, TURN and live video tracks.\nAnt Design, Umi/Umi Max or similar component/application frameworks.\nBrowser media APIs, live-video applications or multi-camera streaming.\niframe/postMessage integrations.\nAutomated testing with Jest, Vitest, React Testing Library, Playwright or Cypress.\nGaming, streaming or other highly interactive browser applications.\nRelevant Experience\nExperience building production React applications with complex forms, tables, dashboards or workflow-driven interfaces.\nExperience with real-time UI updates or media-rich/interactive browser applications.\nExperience supporting desktop and mobile browser compatibility and performance.\nQualifications\nBachelor's degree in Computer Science, Software Engineering, Information Technology or a related discipline, or equivalent practical industry experience.",
+  "quyen_loi": "Own meaningful work - Take ownership of solutions that contribute directly to a new, high-volume gaming technology platform. \nHave a voice - Contribute to architecture, technology choices and engineering practices, not just task execution. \nWork with autonomy - We trust experienced professionals to make decisions, solve problems and move things forward without unnecessary bureaucracy. \nInternational exposure - Collaborate with an international IT Lead and work on technology designed for global B2B casino operations. \nBuild and grow - Be part of a growing technology team where your experience can shape both the product and the way we work. \n---\nThank you for your time and interest in working with us. Please note that only shortlisted candidates will be contacted for the next stage of the recruitment process.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgxMDM2LCJwdXIiOiJibG9iX2lkIn19--c2f80b58cdbd42483909d06db96b1b509364f179/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/vision-advisory-analytics-logo.png",
+  "company_url": "/companies/vision-advisory-analytics",
+  "company_mo_ta": "One Ecosystem. Smarter Casino Operations.",
+  "job_expertise": [
+    "Frontend Developer"
+  ],
+  "job_domain": [
+    "Game",
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

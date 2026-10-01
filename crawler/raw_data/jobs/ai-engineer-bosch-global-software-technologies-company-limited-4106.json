@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-engineer-bosch-global-software-technologies-company-limited-4106",
+  "tieu_de": "AI Engineer",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "AI",
+    "PyTorch",
+    "TensorFlow",
+    "Deep Learning",
+    "Machine Learning",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The EPM department focuses on software tooling development to support embedded products across the XC domains, including Advanced Driver Assistance Systems (ADAS), Car Multimedia (XC-CM), and Cross-Domain Computing & Software-Defined Vehicle platforms (XC-CE/SDV). We develop tools and engineering solutions that streamline software and system development for technologies such as radar, video, HMI, ultrasonic sensors, vehicle compute platforms, middleware, software integration, CI/CD, and cloud-connected SDV ecosystems.\nServing global teams across Japan, China, Europe, and Vietnam, we contribute to the advancement of secure, safe, intelligent, and software-defined mobility solutions by enabling efficient development, integration, validation, and deployment of next-generation automotive software.\nAs an AI Engineer, your typical work activities include:\nBuilding and deploying AI-powered applications, working alongside experienced fullstack AI engineers.\nApplying AI and machine learning to solve real-world problems.\nAssist in the design, development, and testing of AI models and algorithms.\nHelp build and maintain data pipelines for preprocessing, cleaning, and transforming data for AI applications.\nIntegrate and deploy machine learning models into production systems using APIs and microservices.\nParticipate in code reviews and contribute to the team's software development lifecycle.\nCollaborate with senior engineers to troubleshoot and optimize AI systems for performance and scalability.\nStay up-to-date with the latest advancements in AI, machine learning, and relevant frameworks.",
+  "yeu_cau": "The job might be fit for you if you have:\nBachelor's degree in Computer Science, AI, or a related technical field.\nStrong proficiency in Python is a must. Familiarity with other languages like Java or C++ is a plus.\nSolid understanding of machine learning and deep learning concepts, including supervised and unsupervised learning.\nHands-on experience with at least one major AI/ML framework, such as TensorFlow, PyTorch, or Scikit-learn.\nKnowledge of SQL and experience with data manipulation libraries like Pandas and NumPy.\nExcellent problem-solving and analytical skills.\nStrong communication and teamwork abilities.\nA keen interest in continuous learning and adapting to new technologies.\nGood English communication skills, be able to interact fluently with worldwide stakeholders.",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nWhy BOSCH?\nBecause we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.\nBenefits and Career Opportunities\nWorking in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\nJoin in a dynamic and fast-growing global company (English-speaking environment), with opportunity to work in global projects and being a part of innovation team contributing initiative ideas to the hi-tech world\nOnsite opportunities: short-term and long-term assignments in worldwide offices\nEngage in our diverse training programs which surely help strengthen both your personal and professionalism\n13th-month salary bonus + attractive performance bonus (you'll love it!) + annual performance appraisal\n100% offered salary and mandatory social insurances in 2-month probation\n15++ days of annual leave + 1-day of birthday leave\nPremium health insurance for employee and 02 family members\nFlexible working time and working model\nLunch and parking allowance\nGood benefits of company activities such as: football, badminton, yoga, Aerobic, team building…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/infrastructure-cyber-security-engineer-devsecops-cloudteam-3810",
+  "tieu_de": "Infrastructure Security Engineer",
+  "ten_cong_ty": "Cloudteam",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Linux",
+    "AI",
+    "System Admin",
+    "Cybersecurity",
+    "System Architecture",
+    "Networking"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "No. 1 Street Number 7, Him Lam",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "JOB PURPOSES\nResponsible for supporting the operation, maintenance, and security of enterprise IT infrastructure across Linux/Windows systems, network security, monitoring, and security compliance.\nApply automation and AI-assisted engineering tools to improve troubleshooting and operational efficiency.\nKEY RESPONSIBILITIES\nBachelor’s degree in IT, Computer Science, Network Security, Telecommunications, or related fields.\nDeploy, operate, monitor, patch, and troubleshoot Linux and Windows servers and infrastructure services.\nConfigure and maintain firewalls, VPN, routing, NAT, network connectivity, and security policies.\nMonitor infrastructure availability, performance, capacity, and security events.\nTroubleshoot system and network incidents and support root cause analysis.\nSupport system hardening, vulnerability remediation, patching, and security improvements.\nSupport Active Directory, DNS, DHCP, Group Policy, and identity and access management.\nParticipate in security incident response, compliance reviews, and remediation activities.\nSupport automation of operational tasks using scripting and infrastructure tools.\nMaintain technical documentation, system diagrams, SOPs, and implementation documents.\nCollaborate with internal teams, vendors, auditors, and project stakeholders.",
+  "yeu_cau": "Infrastructure & Operating Systems\nHands-on experience with Linux administration such as Ubuntu, CentOS, RHEL, Rocky Linux, or equivalent.\nFamiliarity with Windows Server, Active Directory, DNS, DHCP, and Group Policy.\nNetwork & Security\nHands-on experience with at least one firewall platform such as Sophos Firewall, FortiGate, pfSense, OPNsense, or equivalent.\nUnderstanding of TCP/IP, VLAN, Routing, Switching, VPN, NAT, DNS, and network troubleshooting.\nFamiliarity with firewall policies, network segmentation, system hardening, and access control.\nBasic understanding of security principles and least-privilege access.\nMonitoring & Security Operations\nFamiliarity with monitoring tools such as PRTG, WhatsUp Gold, Zabbix, Grafana, or equivalent.\nBasic understanding of security monitoring, log analysis, SIEM, or SOC operations is an advantage.\nPreferred / Nice to Have\nExperience in one or more of the following areas is an advantage:\nVirtualization, storage, backup, DR, or HA.\nBash, PowerShell, Python, Ansible, or similar automation tools.\nOracle/MySQL administration.\nIAM, MFA, SSO, RBAC, or Zero Trust.\nDocker, Kubernetes, or container security.\nISO/IEC 27001, PCI-DSS, vulnerability management, or security auditing.\nAI-assisted engineering tools such as ChatGPT, Claude, Cursor, Claude Code, Hermes, or similar platforms.\nRelevant infrastructure, networking, Linux, Microsoft, or cybersecurity certifications.\nCandidates do not need to meet every preferred requirement. We value strong fundamentals, hands-on experience, troubleshooting ability, and willingness to learn.\nLanguage & Personal Skills\nAble to read technical documentation and communicate in English.\nGood troubleshooting and analytical skills.\nResponsible, proactive, willing to learn, and able to work independently or in a team.",
+  "quyen_loi": "Enterprise platforms for business operations\nAI, cloud, cybersecurity, and digital services\nIndustry solutions for complex environments\n\nCompetitive salary and benefits package, including a guaranteed 13th-month salary.\nCompany trip annually.\nDynamic and innovative working environment with professional colleagues.\nOpportunities for professional growth and exposure to enterprise technology platforms and global business practices.\nComfortable workplace with free parking, coffee, snacks.\nCompany-sponsored training programs and professional certifications.\nOnsite working environment at the company office in District 7, Ho Chi Minh City",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3ODQyLCJwdXIiOiJibG9iX2lkIn19--25c7c5401a1e0fc7c2a88e02dd92e96b3f68f83f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/cloudteam-logo.png",
+  "company_url": "/companies/cloudteam",
+  "company_mo_ta": "Secure Software, Cloud, Security, and AI Solutions for Enterprises",
+  "job_expertise": [
+    "Systems Engineer / Administrator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Cyber Security",
+    "Network and Infrastructure",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-java-spring-boot-sql-kafka-t2-soft-company-limited-0016",
+  "tieu_de": "Backend Developer Java/Spring Boot/SQL/Kafka",
+  "ten_cong_ty": "T2 SOFT COMPANY LIMITED",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Java",
+    "English",
+    "Kafka",
+    "SQL",
+    "ETL",
+    "Spring Boot"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Landmark72 Tower, Pham Hung, New Urban Area",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Develop backend services and enterprise applications using Java and Spring Boot.\nDesign and implement batch processing, ETL/data pipelines, data synchronization, and scheduled jobs for high-volume financial systems.\nBuild REST APIs and integrate systems with databases and external services.\nHandle large-scale data processing, migration, and performance optimization.\nTroubleshoot issues and improve system stability and data processing performance.",
+  "yeu_cau": "4+ years of experience in Backend Development and/or Data Engineering.\nStrong experience with Java, Spring Boot, Spring Batch, Spring Data JPA, and Spring Security.\nHands-on experience with ETL, batch processing, data migration, data synchronization, and scheduled jobs.\nGood understanding of REST APIs, transaction management, concurrency, and multithreading.\nStrong SQL skills and experience with Oracle, PostgreSQL, MySQL, or SQL Server.\nExperience with large-volume data processing and database performance optimization.\nExperience with Kafka, message queues, Airflow, Spark, or similar data processing tools is a plus.\nExperience in financial, credit, lending, or enterprise systems is preferred.\nGood English communication and strong problem-solving skills.",
+  "quyen_loi": "Annual healthcare package, full health insurance, 13th-month salary, and performance bonus.\nCompany-provided PC, training courses, and opportunities to learn new technologies.\nFlexible working hours.\nTeam building activities, company holidays, and weekly happy times.\nOpportunities for overseas business trips.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU0MTQyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--040ba5d8c107ef2b8d9a58f24cd3204fd51f164c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z6926105031304_f0809b26a9eac6abb151cef64ce3bad1.jpg",
+  "company_url": "/companies/t2-soft-company-limited",
+  "company_mo_ta": "T2 SOFT COMPANY LIMITED",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

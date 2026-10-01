@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/staff-ai-engineer-report-to-cto-perform-ai-3739",
+  "tieu_de": "Staff AI Engineer - Report to CTO",
+  "ten_cong_ty": "Perform.AI",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "LLM",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Grace Tower, 71, đường Hoàng Văn Thái, Tân Phú,",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "WE NEED YOU ON OUR TEAM!\nWe’re hiring a Staff Engineer to be the senior technical authority for AI across the organization. This is not a people-management role – it’s a consulting and architecture role with organization-wide reach: you design AI solutions, set the standards other engineers build to, drive evaluation discipline, and shape how AI enters our products from the design phase onward. You report directly to the CTO and multiply the impact of every squad working with AI. \n \nWhat You’ll Do\nAdvise and design AI solutions across the full spectrum – from single LLM calls to complex multi-agent infrastructure – recommending implementation approaches that account for fallbacks, cost/latency budgets, and rate-limit constraints (throttling, TPM/RPM).\nArchitect agentic systems with the right structure for the problem: MCP server design, deterministic workflows, single agents with tool access, orchestrator–worker or A2A multi-agent topologies.\nOwn the evaluation practice that drives technical decisions: eval sets, scoring rubrics, and regression measurement for non-deterministic outputs – and use that evidence to settle when to prompt, when to RAG, when to fine-tune, and when to build an agent, so architecture choices are backed by measurement rather than intuition.\nPartner with Product from the design phase: consult on where AI genuinely adds value in a feature, what’s feasible at what cost, and what the failure modes will look like – so AI capability shapes the product spec instead of being retrofitted after.\nForecast the direction of AI in the next 2-3 years, and start to take actions today so Perform.AI remains technologically relevant in that future.\nRaise the technical level of engineers across squads: review their designs and code before implementation, define shared standards they follow (prompt conventions, eval-driven development), design and deliver internal AI training programs, and make architecture decisions the whole team builds on.",
+  "yeu_cau": "WHAT YOU SHOULD BRING ALONG!\nCore Qualifications\n8+ years of software engineering experience, with 2+ years building and operating LLM-based systems in production.\nHands-on experience designing and running LLM-based systems in production – beyond API calls: handling fallbacks, cost/latency trade-offs, rate limits (TPM/RPM), and structured output reliability at scale.\nExperience building multi-step agentic systems and choosing the right topology for the problem – using frameworks like LangChain/LangGraph or equivalents (LlamaIndex, Pydantic AI, Claude Agents SDK), with working knowledge of MCP, context/state management, and agent failure modes.\nDemonstrated evaluation discipline for non-deterministic systems: building eval sets, defining scoring rubrics (including LLM-as-judge approaches), measuring regression – using tools like LangSmith, Langfuse, or equivalents – and using eval evidence to drive architecture decisions (prompt vs. RAG vs. fine-tune vs. agent).\nStrong backend fundamentals with the depth to drive the tech stack, not just work within it: expert-level Python, distributed systems, high-volume data pipelines, and the judgment to select and standardize frameworks, libraries, and infrastructure for AI workloads across the team.\nNice to Have\nExperience in logistics, e-commerce, or other high-volume data domains.\nContributions to open source, technical writing, or conference talks.\nExperience fine-tuning models (managed fine-tuning APIs or open-weight approaches like LoRA/PEFT) and judging when fine-tuning beats prompting or RAG on cost and quality.\nExperience across the LLM deployment spectrum: working with managed cloud LLM services (AWS Bedrock, Azure OpenAI, Vertex AI, or equivalent) – quotas, regional availability, model version management – familiarity with deploying open-weight models (e.g., Llama, Qwen from Hugging Face) on your own infrastructure with an understanding of the cost/control trade-offs between the two.",
+  "quyen_loi": "Be part of an AI-first transformation\nA culture that shows up outside of work too\nRoom to grow as we grow\n\nWHAT YOU WILL RECEIVE IN RETURN!\nWe at Perform.AI are dedicated to being a platform for growth for all our team members, regardless of function and location.\nThe opportunity to work in a fast-growing, super exciting, and innovative business building the AI Commerce Operating System for global e-commerce brands. You will be the needle of success in the growth of a global product that will become a key platform behind successful e-commerce brands worldwide.\nFully sponsored Claude Code usage – As part of our commitment to staying at the bleeding edge of AI-driven engineering, we provide sponsored access to Claude Code, enabling you to build faster, smarter, and more efficiently with state-of-the-art AI support.\nSubmerge in the bleeding-edge of Agentic Development – We don’t simply supplement an existing process with AI tools, we rework every aspect of the software development life cycle, from requirement gathering, implementation, to testing. We believe the productivity multiplication of AI doesn’t just come from individual applications but also from an entire system that embraces it into every fabric.\nAn environment where everybody never stops growing and focuses on succeeding – we continuously work with you on your strengths and weaknesses across many important dimensions and look at ways for you to address them and further your development.\nJoin a passionate, global team at Perform.AI where you can continuously develop your skills and actively drive our mission and international success.\nOUR BENEFITS!\nPerform.AI is committed to providing a comprehensive and competitive benefits package that supports the wellbeing, growth, and performance of our employees.\nCompetitive compensation package\n13th month salary and ESOP\nHealth insurance and annual health check-up\nHybrid working, flexible hours, and unlimited leave\nLearning support fund for professional development\nAccess to AI tools and innovation initiatives\nCompany-provided laptop & monitor\nComplimentary lunch and daily snacks\nEmployee care programs and engagement activities",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODExNjk0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6f9ee833c15320d8b5b8f28454163fbb10e0294d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/performai_favicon_black%20background.jpg",
+  "company_url": "/companies/perform-ai",
+  "company_mo_ta": "The AI Commerce Operating System for Ambitious Brands",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Transportation, Logistics and Warehouse",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

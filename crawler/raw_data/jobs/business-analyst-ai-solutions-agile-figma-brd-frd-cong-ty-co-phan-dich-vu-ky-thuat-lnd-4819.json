@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/business-analyst-ai-solutions-agile-figma-brd-frd-cong-ty-co-phan-dich-vu-ky-thuat-lnd-4819",
+  "tieu_de": "Business Analyst AI Solutions Agile, Figma, BRD/FRD",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT LND",
+  "ngay_dang_raw": "2026-09-19",
+  "han_ung_tuyen_raw": "2026-10-24",
+  "ky_nang": [
+    "Business Analysis",
+    "Agile",
+    "Figma",
+    "User story",
+    "BRD",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " 778/11 Nguyễn Kiệm",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ROLE SUMMARY:\nBridge end-users and the AI build team. Own requirements, act as the primary user-facing interface for LND’s AI initiative, run training, and lead QA / UAT before each deployment — operating inside the team’s cadence of shipping a usable increment every ≤ 2 weeks. This role fills two gaps flagged in the AI Team Build Recommendations: an unassigned QA / Tester function and the need to protect the Product Owner’s time before each sprint.\nKEY RESPONSIBILITIES:\nUser interface & discovery. Run workshops and interviews with stakeholders (execution, proposal, field service, BoD), capture pain points and translate them into AI-solution concepts.\nRequirements & documentation. Produce BRD / FRD, user stories, use cases, workflow diagrams and UAT scenarios with clear acceptance criteria.\nRapid prototyping & mock-ups. Turn requirements into clickable Figma mock-ups and AI-generated prototypes, iterating fast with users to validate before build.\nQA & testing. Prepare test cases and datasets, perform internal business testing and coordinate UAT before hand-over — owning the currently-unassigned QA role.\nBusiness Analyst — AI Solutions Deliver training and user manuals, support deployment, then log bugs / change requests and prioritise them with the Product Owner.",
+  "yeu_cau": "Bachelor’s degree in IT, Information Systems or Business; 2–4 years as an (IT) Business Analyst in software delivery.\nSolid grasp of SDLC + Agile / Scrum and requirement-elicitation techniques.\nHands-on experience writing BRD / FRD, user stories, acceptance criteria, and supporting UAT.\nMock-up & wireframing using Figma and AI-assisted mock-up / design tools to produce interface mock-ups quickly.\nAI prototyping - fluent with AI rapid-prototyping methodologies to move from concept to working demo fast.\nProven track record of end-user training and documentation.\nStrong English + Vietnamese communication - customer-facing, both languages.\nSQL / basic data analysis for validation and reporting.",
+  "quyen_loi": "Performance-based bonuses, with performance reviews conducted twice a year\nAnnual Health Check\nAnnual leave and public holidays in accordance with applicable regulations",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA5ODQ4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--af3d8d2ffd24e45b435c87eaed81165a1cc3f54b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/images%20(4).png",
+  "company_url": "/companies/cong-ty-co-phan-dich-vu-ky-thuat-lnd",
+  "company_mo_ta": "CÔNG TY CỔ PHẦN DỊCH VỤ KỸ THUẬT LND",
+  "job_expertise": [
+    "Business Analyst"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

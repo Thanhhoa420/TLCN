@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-engineering-position-junior-middle-level-ksynerx-vietnam-2426",
+  "tieu_de": "Junior/Middle FullStack Engineer Python, Java, NodeJS",
+  "ten_cong_ty": "kSynerX Vietnam",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Python",
+    "JavaScript",
+    "NodeJS",
+    "SQL",
+    "Java",
+    "C++"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "305C/8A Nguyen Van Troi",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Educational Background Requirements:\nBachelor's or master's degree in computer science, Software Engineering, Information Systems, or other relevant technical disciplines.\nExpected Technical Competency Areas:\nOperating systems: UNIX/Linux\nProgramming languages: Python, C++, Java, Bash scripts, Node JS & React JS…\nDatabases, Data Storage and Data Platforms: SQL (PostgreSQL), CockroachDB, DuckDB, S3 Storage\nMessaging systems and workflow integration: Kafka, AMQP, Apache Airflow, Temporal, N8N\nCloud services and infrastructures: VM, containers, Kubernetes, IaC (infrastructure-as-code)\nData pipelines & products: ETL, plugins/connectors to data sources, Change Data Cap-ture (CDC)\nMicroservices, Design Patterns, Test Driven Development, Logging\nWorkplace Type:\nOn-site (Downtown Ho Chi Minh City)\nEmployment Type:\nFull-time\nIntroduction:\nkSynerX is seeking highly motivated full-time employees specializing in full-stack software service engineering to join our Development & Engineering (D&E) team in Ho Chi Minh City.\nThe D&E team is responsible for designing, developing, and continuously improving kSynerX’s core technology products. This role offers an excellent opportunity to contribute to pioneering advancements in smart and intelligent decision-making based on data analytics and AI/ML algorithms.\nKey Responsibilities:\nCreate and manage efficient data pipelines for ingesting, processing, and transforming large volumes of data.\nIntegrate data from diverse data sources, ensuring data quality and consistency.\nEngineer and optimize software services performance and efficiency.\nTranslate user requirements to technical solutions for front-end and backend software services\nDevelop full stack of front-end and corresponding back-end service-based components\nDesign and implement backend multi-protocol services for data integration and AI/ML serving\nSupport integration of smart algorithms, data connectors, data transformation/ingestions pipelines into services, data pipelines, and automated workflows into services\nPerform other related duties as assigned.\nReview code and provide constructive feedback",
+  "yeu_cau": "Work experience as a Python, C++, Java, Node JS Developer\nExpertise in at least one popular Python framework (like Django, Flask or Pyramid)\nKnowledge of object-relational mapping (ORM) and Pydantic Models\nFamiliarity with front-end technologies (like JavaScript and HTML5) React JS, Net JS\nStrong programming skills in React.js and Node.js, Java and Python\nGood knowledge for optimizing applications for performance and user experience\nGood experience with database related to SQL, NoSQL\nStrong knowledge about front-end application performance and backend performance\nGood experiences in integration with RESTful and messaging systems APIs\nGood experience with SQL, UNIX/Linux environments, and scripting languages.\nStrong analytical thinking, problem-solving abilities, and effective communication skills.",
+  "quyen_loi": "Compensation and Benefits:\nkSynerX offers a competitive compensation and benefits package aligned with market standards. \nCompensation is determined based on role, experience, technical expertise, and overall candidate assessment. \nAdditional details regarding bonuses, benefits, and equity opportunities will be shared during the recruitment process",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEzNjQ2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--0d0caf107a4d1e79cbef4983589090b89db0de75/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/1790574252082_6491491658012577107_6491491658012577107_ea8150da6967679ef5d7011ee200dc66.jpg",
+  "company_url": "/companies/ksynerx-vietnam",
+  "company_mo_ta": "Highly motivated full-time employees specializing in data platforms, BigData, ML & AI hiring",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

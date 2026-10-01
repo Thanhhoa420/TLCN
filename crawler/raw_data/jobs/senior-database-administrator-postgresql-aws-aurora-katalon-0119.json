@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-database-administrator-postgresql-aws-aurora-katalon-0119",
+  "tieu_de": "Senior Database Administrator PostgreSQL/AWS/Aurora",
+  "ten_cong_ty": "Katalon",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Database",
+    "Amazon Aurora",
+    "Oracle",
+    "DBA",
+    "PostgreSql",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Viettel Building, 285 Cach Mang Thang Tam Street",
+  "quan_huyen": "Quận 10",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Founded in 2016, Katalon is the category leader in AI-augmented software testing, empowering hybrid testers—those blending manual, automation, and AI skills—to deliver exceptional digital experiences. Katalon enables software teams of any size to deliver world-class customer experiences faster, easier, and more efficiently.\nSince its first launch, Katalon has experienced tremendous growth, serving more than 30,000 teams across 80+ countries, many of which are in the Fortune Global 500. Katalon has been named a G2 Leader in software testing for 11 consecutive quarters and a Great Place to Work for three consecutive years.About the role\nWe are looking for a Senior Database Engineer / DBA to own Katalon’s production database environment, with a primary focus on PostgreSQL / AWS Aurora.\nYou will manage approximately 10 production database clusters hosting customer data on AWS, working closely with our Engineering team in Vietnam on database performance, reliability, architecture, security, and future upgrades.\nWe are open to strong Oracle DBA profiles with solid cross-database fundamentals and the ability to work with PostgreSQL/Aurora.Key Responsibilities\nManage and maintain production PostgreSQL / AWS Aurora databases.\nTroubleshoot and resolve performance, availability, locking, concurrency, and query issues.\nPerform query tuning, indexing, and database performance optimization.\nDesign databases and schemas for new customer workloads.\nManage high availability, replication, backup/recovery, and failover.\nMonitor database health, capacity, and performance using CloudWatch, Performance Insights, and Enhanced Monitoring.\nManage database users, roles, permissions, and security controls.\nPlan and execute database upgrades, migrations, and maintenance.\nPartner closely with Engineering teams on database-related requirements and production incidents.",
+  "yeu_cau": "Job Requirements\n5+ years of experience in DBA / Database Engineering.\nStrong experience with production database administration and troubleshooting.\nStrong knowledge of performance tuning, SQL, indexing, HA/replication, backup & recovery, and database security.\nExperience with PostgreSQL/Aurora OR Oracle.\nStrong understanding of database architecture and operational best practices.\nGood communication and collaboration skills.Technology\nPrimary: PostgreSQL, AWS Aurora, AWS RDS, CloudWatch\nOracle profiles are welcome: Candidates with strong Oracle DBA experience and transferable database fundamentals are encouraged to apply. Experience with PostgreSQL/Aurora or Oracle-to-PostgreSQL migration is a plus.Nice to Have\nExperience with both Oracle and PostgreSQL.\nAWS database experience.\nExperience supporting customer-facing SaaS production environments.\nExperience in a lean, high-ownership DBA environment.",
+  "quyen_loi": "Compelling Pay and Incentives\nWell-being & Work-life Balance\nProfessional Development and Recognition\n\nAt Katalon, we bring together self-starting, open-minded, and talented people while actively promoting a transparent and growth-enabling working environment. But don’t just take our word for it. Take a better look below!\nTotal Remuneration: Satisfying your financial goals through competitive compensation and periodic performance bonuses.\nWell-being & Work-life Balance: Staying healthy through comprehensive health plans and generous paid leaves.\nStatutory Compliance: Labor compliance with local regulations that ensure employee security.\nWork Facilities & Accommodation: Top-notch equipment, supportive allowances, and A-class facilities.\nDiversity, Equity, Engagement, & Inclusion: Becoming part of a global team that celebrates differences, equal opportunity, and meaningful employee recognition.\nGrowth & Rewards: Thriving professionally through employee enablement, a culture of trust, and rewarding performance.\nKatalon is proud to be an equal-opportunity employer. We care about our people and celebrate our differences. We want to work with talented, collaborative, and innovative people. We do not discriminate in hiring or any employment decision based on race, color, religion, national origin, age, sex (including pregnancy, childbirth, or related medical conditions), marital status, ancestry, physical or mental disability, genetic information, veteran status, gender identity or expression, sexual orientation, or other characteristics protected by law.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2Mjc5MywicHVyIjoiYmxvYl9pZCJ9fQ==--43a261ae00d3a967d1507a78539d8177bc53ec7d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Katalon-Logo_stacked_RGB@1x%20(1).png",
+  "company_url": "/companies/katalon",
+  "company_mo_ta": "A category leader in AI-augmented software testing",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

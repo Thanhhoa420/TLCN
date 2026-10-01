@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-lead-c-net-azure-mitek-vietnam-3511",
+  "tieu_de": "Technical Lead C#, .NET, Azure",
+  "ten_cong_ty": "MiTek Vietnam",
+  "ngay_dang_raw": "2026-09-26",
+  "han_ung_tuyen_raw": "2026-10-31",
+  "ky_nang": [
+    ".NET",
+    "CI/CD",
+    "Kubernetes",
+    "C#",
+    "Microservices",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà A5, Lô số A5, khu E-Office, đường Sáng Tạo, KCX Tân Thuận",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role\nWe are looking for an experienced Technical Lead to drive the technical direction and delivery of MiTek's Internal Developer Platform (IDP). This role combines hands-on engineering with technical leadership, enabling development teams to build, deploy, and operate software more efficiently through modern platform engineering practices.\nThe Technical Lead will partner with Architecture, Engineering Managers, and global engineering teams to define platform strategy, establish engineering standards, and mentor engineers while remaining actively involved in solution design and implementation.\n \nKey Responsibilities\nTechnical Leadership\nContribute to and help drive the technical vision and architecture of the Internal Developer Platform.\nLead technical design discussions and architecture reviews across platform initiatives.\nEnsure solutions align with enterprise architecture, security, scalability, reliability, and operational excellence requirements.\nDrive and influence technical decisions through collaboration and technical expertise, balancing business priorities,\nReview and approve solution designs, implementation approaches, and technical standards.\nPlatform Engineering\nDesign, build, and evolve cloud-native platform capabilities that improve developer productivity and experience.\nDrive adoption of developer portals, CI/CD platforms, Infrastructure as Code, self-service workflows, platform APIs, and shared services.\nLead initiatives involving Microsoft Azure, Terraform, Kubernetes, microservices, distributed systems, and developer experience.\nPromote reusable paved-road solutions that reduce cognitive load and improve engineering consistency.\nTeam Development\nMentor and coach software engineers in system design, cloud engineering, architecture thinking, and engineering best practices.\nSupport individual technical growth through design reviews, pairing, constructive feedback, and knowledge sharing.\nParticipate in technical hiring, interviews, onboarding, and capability development.\nFoster a culture of collaboration, accountability, experimentation, inclusion, and continuous improvement.\nEngineering Excellence\nEstablish and maintain standards for software architecture, coding, testing, observability, security, reliability, and documentation.\nChampion automation, self-service, contract testing, and continuous delivery practices.\nImprove platform reliability, scalability, maintainability, and operational efficiency.\nUse meaningful engineering and adoption metrics to guide prioritization and improvement.",
+  "yeu_cau": "Required Qualifications\n8+ years of software engineering experience, including 3+ years in a technical leadership role.\nStrong proficiency in C#, .NET.\nHands-on experience with Microsoft Azure, Terraform, Infrastructure as Code, and CI/CD pipelines, Cloud Native Security\nExperience designing, building, and operating microservices, distributed systems, and cloud-native applications.\nSolid knowledge of Kubernetes, containers, API design, event-driven architecture, and modern DevOps practices.\nProven ability to lead technical initiatives across teams and facilitate architecture decisions.\nStrong communication, problem-solving, critical thinking, and decision-making skills.\nProfessional working proficiency in English.\nPreferred Qualifications\nExperience implementing or operating an Internal Developer Platform.\nExperience with Backstage or a comparable developer portal.\nExperience building self-service engineering workflows and reusable platform products.\nExperience with GitHub Enterprise, GitHub Actions, and software supply chain practices.\nExperience with developer experience, platform adoption, and engineering productivity initiatives.\nExposure to AI-assisted development, Model Context Protocol (MCP), or engineering productivity tools.\nMicrosoft Azure or relevant cloud certifications",
+  "quyen_loi": "Competitive salary + Healthcare insurance package.\nFlexible Working Hours\n13th month and productivity bonus.\n\nMitek – International Product company, is a wholly owned subsidiary of Berkshire Hathaway, having been acquired by Warren Buffett's holding company in 2001.\nCompetitive Income: Attractive NET salary, 13th-month bonus, year-end performance bonus.\nComprehensive Healthcare: PVI insurance, full social insurance, 24/7 accident insurance, annual health check-ups.\nTraining & Development: English courses, LinkedIn Learning, MiTek University, overseas training opportunities\nLeave Policy: annual leave days, Christmas holiday.\nRecognition of Achievements & Contributions: Employee of the Month/Year, Platinum Star Award, VIP trip for employees with 3 years of service\nModern Facilities: Designed to support learning, working, and development\nBenefits: Free diverse lunch options, team-building activities, sports clubs (Badminton, Football, Swimming, Modern Dance, Yoga, Esports, Gym)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU3NTQ1OSwicHVyIjoiYmxvYl9pZCJ9fQ==--aa68bfff78b397beb49bcc1079b420d36dcbf296/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/MicrosoftTeams-image%20(51).png",
+  "company_url": "/companies/mitek-vietnam",
+  "company_mo_ta": "Join us, Develop with us!",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

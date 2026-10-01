@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-technical-engineer-devops-sre-ai-hsc-5951",
+  "tieu_de": "Senior Technical Engineer DevOps/SRE, AI",
+  "ten_cong_ty": "HSC",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "DevOps",
+    "Application Security",
+    "System Admin",
+    "Vulnerability Assessment",
+    "Risk Management",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "AB Tower, 76A Le Lai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Primary Objectives\nMonitor the operation of the trading application system to ensure the utility and warranty of the service in a 24/7/365 working environment. Research, identify, and assess security vulnerabilities, while also identifying, evaluating, and mitigating security risks.\nSupport users on trading platforms and work with collection of custom applications and systems operating on different OS.\nMain Responsibilities\nOperate, monitor, and diagnose Online Trading / Core Trading system and DR site.\nResearch, design, develop and implement solutions for fault, performance, capacity, and configuration management for applications. Will work in conjunction with Infrastructure teams to identify combined, centralized solutions.\nDesigns, develops and implements documentation or tools appropriate to the maintenance of application platforms.\nDevelops, improves, modifies, and assesses security architecture in a hosting-based environment.\nResponds to all system security weak points and partners with other teams and third-party vendors to resolve security issues.\nProvide Tier 2 support to issues escalated from Service Desk team. Interface with development teams to resolve Tier 3 'in code' issues. On-call support for escalated off-hours issues.\nExecution and maintenance of internal SLAs developed with business stakeholders following ITIL framework.\nGenerative AI/LLM Integration: Research and implement LLM/RAG solutions to summarize complex error logs and automatically recommend remediation guides (Runbooks/Playbooks) for the Incident Response team.",
+  "yeu_cau": "1. Educational level\nBachelor’s (or above) degree in the field of computer science or information systems\n2. Professional Experience\nMinimum 5 years in a technical role involving applications operation and management, preferably in a 24-7-365 production environment\nMCSE, LPIC-3 is preferred\nMust have solid working experience and knowledge of Windows and Unix/Linux operating systems. Should be familiar with HA, CFS configurations, security and patch management\nStrong grasp of Internet network concepts, protocols, and associated services (TCP/IP, HTTP, FTP, SCP, DNS)\nExperience in designing secure network architectures, virtualization technologies, identity and access management principles, application security, and encryption technologies\nInstallation, configuration, and administration experience with operations management tools: IIS, Tomcat, RecordTS and VMware performance tools\nExperience administering/maintaining multi-tier application systems in a production environment\n3. Professional Competencies/Knowledge\nTrading Process Knowledge: Trading Process Knowledge is a comprehensive understanding of the entire trade lifecycle. This includes order entry (the different order types), execution (how the trade is filled on the market), clearing (confirming the details of the transaction), and settlement (the final transfer of securities and funds).\nSecurities Product Knowledge: Securities Product Knowledge refers to specific expertise in various types of tradable financial assets (securities). This includes understanding the characteristics that differentiate equities, fixed-income securities (bonds), derivatives (futures, options), and hybrid securities to advise clients and manage portfolios effectively.\nIT Software Release (Go-live) Process Knowledge: IT Software Release (Go-live) Process Knowledge is the understanding of the structured methodology for deploying new software or system updates into the live production environment. This knowledge is crucial for minimizing business disruption, managing technical risks, and ensuring a smooth transition for users.\nSoftware Testing Knowledge: Software Testing Knowledge is the understanding of the methods and processes used to verify that a software application is free of defects and meets all specified requirements. This includes functional, performance, security, and user acceptance testing (UAT) to ensure a high-quality product is delivered.\nKnowledge of AIOps & Automated Root Cause Analysis: Leveraging AI to process vast amounts of operational data (telemetry—including logs, metrics, traces, and events) to automatically detect anomalies and identify the root cause of incidents in seconds rather than hours.",
+  "quyen_loi": "Positive work environment, support & determination\nVery attractive salary & benefits\nDevelopment opportunities & improve a quality life\n\nUnderstanding candidates' expectations of the ideal workplace, we always put the people element at the top of our priorities. ​\nPrimary benefits:\nAttractive KPI Bonus annual\nReview Salary and performance annual\n16+ Annual Leaves​, 5 sick leaves, 1 day off birthday\nFull Social Insurance, Annual Medical Check- up​, Health insurance\nTeam Building and company activities: Year- end Party, New-year Party, Company trip, Charity activities\nLearning workshops: e-learning, English courses, career development training programs​\nSports clubs: gym, yoga, running, football, tennis, badminton",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyMzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--91fc351a120f29f987de5192d52a04d8013c82d6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/hsc-logo@3x.png",
+  "company_url": "/companies/hsc",
+  "company_mo_ta": "Ho Chi Minh City Securities Corporation (HSC)",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Insurance",
+    "Banking",
+    "Network and Infrastructure",
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

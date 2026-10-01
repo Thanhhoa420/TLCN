@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/network-system-administrator-phu-hung-securities-phs-4040",
+  "tieu_de": "Network System Administrator",
+  "ten_cong_ty": "Phu Hung Securities (PHS)",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "System Admin",
+    "Firewall",
+    "Windows Server",
+    "Networking",
+    "Linux",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 21, Phú Mỹ Hưng Tower, số 08 Hoàng Văn Thái, Phường Tân Mỹ, TP. HCM.",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Network System Management and Operations:\nMonitor, configure, operate, and troubleshoot LAN/WAN network systems, firewalls, routers, switches, and VPNs.\nTrack and optimize network performance to ensure high availability, stability, and security, and resolve issues related to connectivity, speed, or security.\n2. System & Storage Administration:\nManage virtualization systems (VMware), physical server infrastructure, and high-speed storage arrays (SAN/NAS) supporting Oracle databases.\n3. Support and Reporting:\nProvide technical support to internal users for network and server-related issues.\nPrepare periodic reports on system status, risks, and incidents for management.",
+  "yeu_cau": "Bachelor’s degree in Information Technology, Information Security, Computer Networking, or related fields.\nMinimum 2 years of experience in network/system administration or cybersecurity.\nSolid understanding of network architecture and protocols (TCP/IP, LAN/WAN, VLAN, DNS, DHCP, VPN).\nBasic knowledge of network security (Firewalls, IDS/IPS).\nExperience with Windows Server, Linux, and network monitoring tools (e.g., Wireshark, Nagios, SolarWinds).\nFamiliarity with virtualization (VMware) and Hybrid Cloud (AWS/Azure) is a plus.\nAbility to write basic automation scripts (Python, Bash, or PowerShell) is an advantage.\nEnglish: Intermediate.",
+  "quyen_loi": "Competitive salary, bonus, review salary/year\nSocial insurance based on 100% salary\nModern technology mindset\n\nCompetitive salary with annual performance-based reviews.\nAttractive year-end KPI and business performance bonuses that recognize employees' actual contributions.\nComprehensive allowances, including lunch, parking, and phone allowances, with special support for professional practicing certificates.\nSocial insurance contributions based on 100% of the contractual salary.\n24/7 accident insurance and an extended premium health insurance package.\nHigh-quality annual health check-ups.\nStructured career development paths tailored to each position, combining E-learning and instructor-led training.\nContinuous updates on professional knowledge and soft skills.\nModern technology mindset fostered through training courses delivered by experts.\nMeaningful gifts for holidays, Tet, birthdays, and other special occasions.\nAnnual company trips, Year-End Party, and quarterly creative workshops.\nSports clubs that promote physical well-being and strengthen internal connections.\nDedicated health insurance packages for employees' family members.\nInternational Children's Day gifts, compassionate support for special occasions, and timely visits and care.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMwNTU4MywicHVyIjoiYmxvYl9pZCJ9fQ==--6afe6d80f27b799591d2c1c342897ad9bb4ce2e0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/phu%20hung.jpg",
+  "company_url": "/companies/phu-hung-securities-phs",
+  "company_mo_ta": "Thịnh vượng trường tồn - Vươn tầm quốc tế",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

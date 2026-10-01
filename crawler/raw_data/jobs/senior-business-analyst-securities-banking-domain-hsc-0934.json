@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-business-analyst-securities-banking-domain-hsc-0934",
+  "tieu_de": "Senior Business Analyst Securities/Banking Domain",
+  "ten_cong_ty": "HSC",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "Business Analysis",
+    "User story",
+    "Jira",
+    "Project Management",
+    "SQL",
+    "Agile"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "AB Tower, 76A Le Lai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Primary Objectives\nWork closely with the business users to understand business needs and is a major contributor to the requirements specification deliverable, writes the business and functional requirements\nCoordinate with solutions vendors, developers, designers, and testers to develop digital solutions answering business requirement\nMain Responsibilities\nCreate and monitor user stories with system development team\nCoordinate with stakeholders to determine development approaches, scope, and expected timeline of projects / releases\nConduct interviews with clients and related departments to identify opportunities to optimize user experience and efficiency of business operations\nWrite documents on business process, system features and specifications to share among multiple development teams\nSupport end users on system usage\nMaintain the close relationship with both internal and external users, suppliers to ensure the value created through the utility and warranty of services assigned\nOther Responsibilities\nSupport and coordinate Departments to achieve Company objectives\nOther tasks assigned by Supervisor",
+  "yeu_cau": "1. Educational level\nBachelor's degree in information technology, Computer Science or equivalent\n2. Professional Experience\nA minimum of 3-5 years’ experience in business analysis, and minimum 1 year in managing internal projects\n3. Professional Competencies/Knowledge\nConcrete knowledge in Equities and Futures trading workflow (order lifecycle, execution, allocation, clearing), Order Management System (OMS) and FIX (Financial Information eXchange) standard including message flows, session management, and practical integration scenarios\nFamiliarity with electronic trading ecosystems: exchanges, brokers, market data feeds, and connectivity protocols.\nKnowledge in financial trading (FIX) Networks (Bloomberg, Autex, NYFIX, Charles River, FlexTrade, SSC FIX Link, Fidessa…) and post trade system DTCC CTM/Alert or other financial system such as SWIFT\nStrong Excel and SQL skills for data analysis and validation; strong log analysis/debuging pracitce\nExperience using AI Models (ChatGPT, Claude…), Experience in an Agile way of working",
+  "quyen_loi": "Positive work environment, support & determination\nVery attractive salary & benefits\nDevelopment opportunities & improve a quality life\n\nUnderstanding candidates' expectations of the ideal workplace, we always put the people element at the top of our priorities. ​\nPrimary benefits:\nAttractive KPI Bonus annual\nReview Salary and performance annual\n16+ Annual Leaves​, 5 sick leaves, 1 day off birthday\nFull Social Insurance, Annual Medical Check- up​, Health insurance\nTeam Building and company activities: Year- end Party, New-year Party, Company trip, Charity activities\nLearning workshops: e-learning, English courses, career development training programs​\nSports clubs: gym, yoga, running, football, tennis, badminton",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzMyMzc3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--91fc351a120f29f987de5192d52a04d8013c82d6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/hsc-logo@3x.png",
+  "company_url": "/companies/hsc",
+  "company_mo_ta": "Ho Chi Minh City Securities Corporation (HSC)",
+  "job_expertise": [
+    "Business Analyst"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Banking",
+    "Software Products and Web Services",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

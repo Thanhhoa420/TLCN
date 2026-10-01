@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-data-engineer-big-data-lakehouse-f88-3903",
+  "tieu_de": "Senior Data Engineer Big Data / Lakehouse",
+  "ten_cong_ty": "F88",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "SQL",
+    "Data Warehousing",
+    "ETL",
+    "Python",
+    "Apache Spark"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà G-Group, 05 Nguyễn Thị Duệ, P. Yên Hòa",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "800 - 1,300 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thiết kế, xây dựng và tối ưu các Data Pipeline ETL/ELT xử lý dữ liệu với khối lượng lớn.\nTham gia thiết kế và phát triển kiến trúc Data Lakehouse / Data Warehouse.\nXây dựng các luồng xử lý dữ liệu theo mô hình Batch Processing, Near Real-time và Streaming.\nLàm việc với các nền tảng xử lý dữ liệu phân tán và Big Data như Apache Spark, Kafka hoặc các công nghệ tương đương.\nThiết kế và tối ưu mô hình dữ liệu phục vụ BI, Reporting, Analytics và Data Mart.\nLàm việc với các hệ quản trị cơ sở dữ liệu quan hệ và/hoặc Distributed Database.\nPhân tích và tối ưu hiệu năng SQL, Data Pipeline và các workload xử lý dữ liệu lớn.\nXây dựng các cơ chế đảm bảo Data Quality, Data Consistency, Data Lineage và khả năng kiểm soát dữ liệu.\nXây dựng cơ chế monitoring, logging và xử lý lỗi cho các Data Pipeline.\nPhối hợp với các nhóm Backend, DBA, BI, Data Analyst, Data Scientist và Business để xây dựng các sản phẩm dữ liệu.\nTham gia đánh giá và lựa chọn công nghệ, framework và giải pháp phù hợp cho Data Platform.\nTham gia review thiết kế, review code và xây dựng coding/design standards cho đội ngũ Data Engineering.",
+  "yeu_cau": "Có kinh nghiệm thực tế trong lĩnh vực Data Engineering / Big Data / Data Platform.\nCó kiến thức tốt về:\nData Warehouse\nData Lake\nData Lakehouse\nData Mart\nETL / ELT\nData Modeling\nCó kinh nghiệm xây dựng hệ thống xử lý dữ liệu lớn sử dụng Apache Spark / PySpark / Spark SQL hoặc công nghệ tương đương.\nHiểu các nguyên lý của Distributed Database.\nCó kinh nghiệm làm việc với ít nhất một số hệ quản trị dữ liệu như:\nRDBMS: Oracle, PostgreSQL, MySQL, SQL Server.\nQuery Engines & Big Data: Trino, Presto, Apache Spark (Spark SQL) hoặc các hệ thống tương đương.\nNoSQL Databases.\nGraph Databases.\nThành thạo SQL với khả năng:\nViết và tối ưu các truy vấn phức tạp.\nĐọc và phân tích Execution Plan.\nXử lý dữ liệu với khối lượng lớn.\nTối ưu query và data model.\nCó kinh nghiệm với các định dạng dữ liệu phục vụ Big Data như Parquet, Avro, ORC.\nHiểu về Partitioning, Bucketing, Indexing, Data Distribution và Query Optimization.\nCó kinh nghiệm sử dụng ít nhất một ngôn ngữ lập trình phục vụ Data Engineering, ưu tiên Python.\nCó kinh nghiệm làm việc với Git và quy trình phát triển phần mềm.",
+  "quyen_loi": "Attractive Compensation and Benefits\nLimitless Opportunities for Professional Growth\nOwnership of Cutting-Edge Projects\n\nPEOPLE DEVELOPMENT POLICY:\n\"EXCEL WITH JOY\" WORKPLACE\nGuided by the positioning “Excel With Joy”, F88 fosters continuous growth in an environment built on joy, support, and empowerment - enabling every individual to become a more capable and fulfilled version of themselves, both at work and in life.\n- JOY represents the sense of security that comes from being respected and cared for emotionally and mentally, so that each working day is not merely about completing tasks, but about experiencing meaning and purpose.\n- EXCEL reflects continuous progress in both career and life, where success is measured not by titles, but by the value created, capabilities accumulated, and pride built along the journey with the organization.\n---------\nREWARDS & BENEFITS\n1. LONG-TERM FINANCIAL VALUE\nF88 offers competitive compensation & a diverse reward structure (holiday bonuses, seniority recognition, performance-based incentives, etc.) that fairly reflects individual capabilities and contributions. Through the ESOP program, employees become long-term co-owners growing alongside the organization.\n2. COMPREHENSIVE HEALTH PROTECTION\nF88 provides holistic health benefits, including tailored health insurance for employees and their families, online medical consultations, health education workshops, etc. - ensuring protection for both physical and mental well-being.\n3. MENTAL WELL-BEING & LIFE BALANCE\nIn addition to statutory leave, F88 introduces Recharge Days and Health Days, bringing total annual leave to up to 23 days per year depending on position. A wide range of cultural activities, annual company trips, and flexible benefits (such as F88 Happy Vouchers, F88 Bus, etc.) help employees sustain positive energy and engagement.\n4. EMPOWERMENT FOR GROWTH\nAt F88, employees are empowered to own their learning, career pathways, and role expansion. Structured development programs, a “fail fast – learn fast” mindset, and opportunities to participate in key strategic projects enable individuals to grow rapidly and prepare for bigger responsibilities ahead.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NjA0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--35f533ea0a57f09826c9242a7a1e56233f65ecf4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20PNG.png",
+  "company_url": "/companies/f88",
+  "company_mo_ta": "F88 Business Joint Stock Company",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Retail and Wholesale",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

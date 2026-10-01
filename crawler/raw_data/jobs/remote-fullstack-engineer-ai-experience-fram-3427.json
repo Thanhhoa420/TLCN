@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/remote-fullstack-engineer-ai-experience-fram-3427",
+  "tieu_de": "Remote Fullstack Engineer AI Experience",
+  "ten_cong_ty": "Fram",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "NodeJS",
+    "English",
+    "PostgreSql",
+    "AI",
+    "TypeScript",
+    "NextJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Floor 20, TNR Tower, 180-192 Nguyen Cong Tru Street",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "An AI-native platform that lets Swiss fiduciary firms manage client bookkeeping, payroll and compliance through a WhatsApp-first workflow, backed by a Next.js/Supabase application and n8n automation. We’re hiring a backend-leaning full-stack engineer to close a critical security backlog, stabilise the platform for production use, and lay the operational groundwork, CI/CD, observability, staging are needed to onboard more customers safely. You will work directly inside the existing single-contributor codebase, take full ownership of the n8n automation layer, and be one of two engineering hires driving the technical roadmap (the other being an AI/Agent Engineer).\n Responsibilities\nRemediate the platform’s active security exposure: enforce authentication and row-level security (RLS) on every API route; close public database policies exposing payroll and client data; fix a tenant-isolation bug that allows cross-tenant access\nReplace n8n’s direct database master-key access with an authenticated ingestion API that derives tenant identity server-side, removing the single largest operational risk in the automation layer\nDesign and implement a background job queue for heavy, currently synchronous document processing (PDF/XLSX extraction, multi-account imports) to remove request-timeout failures\nMake cloud storage private (signed URLs, UUID paths) and put the database schema into version control, paired with a real staging environment\nBuild CI/CD pipelines, automated tests, including tenant-isolation regression tests and baseline observability (logging, monitoring, alerting)\nHarden and maintain the n8n workflows that run the WhatsApp document-intake and accounting-automation flows, including error handling, idempotency, and a dead-letter/retry path\nImplement data-subject-rights tooling (export/erase) and an append-only accounting ledger with reversal entries, in coordination with the company’s external data-protection advisor\nRedact personal data from application logs and enforce least-privilege access patterns throughout the stack\nCollaborate with the AI/Agent Engineer on backend integration points for the LLM-driven agent, tool authorization checks, audit logging of agent actions.",
+  "yeu_cau": "4+ years of professional experience with Node.js/TypeScript in production backend systems\nStrong hands-on experience with Next.js (App Router) and building/maintaining REST and webhook APIs\nDeep, practical knowledge of PostgreSQL, including Row-Level Security (RLS) policy design and multi-tenant data isolation\nProduction experience with Supabase, or an equivalent BaaS (Firebase, AWS Amplify), auth, storage and database\nExperience with n8n, Zapier, or a comparable workflow-automation tool, ideally including securing/hardening automations that touch production data\nWorking DevOps fluency: CI/CD pipeline design (GitHub Actions or equivalent), staging environments, secrets management, and basic monitoring/alerting setup\nSolid understanding of authentication/authorization patterns and common web-application security pitfalls (mass assignment, privilege escalation, injection)\nComfortable working in and improving a codebase with minimal existing test coverage or documentation. You will be establishing the engineering discipline, not just following it\nClear written communication in English; able to work asynchronously across time zones.Nice to have \nExperience with Swiss or EU data-residency / GDPR-driven architecture decisions\nFamiliarity with double-entry accounting systems, or fintech/regtech products generally\nExperience integrating LLM-based agents into a production backend (tool-calling, audit trails)\nPrior experience as the sole or lead engineer on a live production system (start-up background)",
+  "quyen_loi": "Gain very attractive salary and benefits;\nBe a developer, not a coder;\nExcellent environment and team to help you grow.\n\nYou’ll love working here!\nCompetitive salary package.\nMon-Fri, flexible remote working.\n12 days of annual leave and 3 additional special holidays (Swedish National Day, Christmas Eve & your Birthday).\nAnnual leave increases with loyalty.\nPremium health care package for employees & family members.\nEnglish, professional working environment.\nOpportunities to gain hands-on experience in cutting-edge technologies.",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyNDYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--543990d2ef45739a4539ec361d6cad20e12052fd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/fram%20logo%20.png",
+  "company_url": "/companies/fram",
+  "company_mo_ta": "The only Swedish-Vietnamese IT company listed on prestigious NASDAQ stock exchange",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

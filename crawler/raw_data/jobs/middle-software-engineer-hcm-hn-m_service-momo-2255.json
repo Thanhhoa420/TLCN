@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-software-engineer-hcm-hn-m_service-momo-2255",
+  "tieu_de": "Middle Software Engineer /",
+  "ten_cong_ty": "M_Service (MoMo)",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Java",
+    "Python",
+    "MySQL",
+    "Kafka",
+    "Microservices",
+    "Spring Boot"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "6th Floor, Phu My Hung Tower, 08 Hoang Van Thai Str, Tan Mỹ Ward",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, build and improve large-scale backend systems.\nWrite clean, testable and efficient code in Java, and take part in code reviews.\nCheck product requirements for technical feasibility, and make sure designs match the specifications.\nHelp design robust, scalable systems and infrastructure.\nFind bottlenecks and bugs, and fix them. Support production issues with a strong focus on finding, diagnosing and resolving problems.\nWork with Product Managers, Data Scientists, engineers and other divisions.\nShare good practices on deployment and container orchestration, and guide junior members.\nResearch new technologies, especially in mobile payments and AI.",
+  "yeu_cau": "Bachelor's degree in Computer Science or a related field.\n2+ years of backend development experience with Java.\nSolid understanding of data structures, algorithms, OOP and SOLID principles.\nExperience with Spring framework (Spring Boot, Spring MVC, Spring Data, Spring AOP) and Hibernate.\nExperience building and maintaining microservices and distributed systems.\nFamiliar with message brokers such as Kafka or RabbitMQ.\nExperience with RDBMS (MySQL/PostgreSQL) and caching (Redis).\nOwnership mindset: you can deliver on your own, keep high code-quality standards and communicate well with others.Điểm cộng\nExperience with Python (Kotlin or Go is also a plus).\nNoSQL databases: MongoDB, Cassandra, Google Bigtable.\nDocker, Kubernetes, Infrastructure as Code.\nMonitoring stacks (Prometheus, Grafana, ELK…).\nCloud platforms (AWS/GCP).\nExperience optimizing systems for high traffic.\nExposure to AI/ML systems or working with Data Science teams.",
+  "quyen_loi": "Super App\nHigh Traffic\nBig Scale\n\nCompetitive pay, 13th-month salary and a yearly performance bonus.\nSalary review at least once a year, based on performance and contribution.\n14 paid days off per year.\nPremium health care insurance.\nAllowances: lunch, parking, birthday, happy hours…\nTeam-building and clubs: company trip, football, English club, running club…\nWork with a strong, experienced team in a friendly, dynamic and flexible environment.\nOther benefits under Vietnamese Labor Law.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA0NjgzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--03f3b18b330fba781cafe034dd1b56cbcff0e550/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/MoMo%20Logo.png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "MoMo is Vietnam’s leading mobile e-wallet and over-the-counter (OTC) remittance and payment platform",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

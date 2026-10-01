@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-java-atomi-digital-2332",
+  "tieu_de": "Backend Dev Java, Microservices, Spring Boot, Docker",
+  "ten_cong_ty": "ATOMI DIGITAL",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Java",
+    "Docker",
+    "Oracle",
+    "Spring Boot",
+    "Microservices",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "266 Nam Kỳ Khởi Nghĩa",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "• Tham gia phân tích, thiết kế và phát triển phần mềm cho các dự án công ty\n• Chỉnh sửa, nâng cấp hệ thống, phát triển các yêu cầu bổ sung tính năng phần mềm.\n• Tham gia nghiên cứu và phát triển các dự án, sản phẩm thực tế đã có trên nền tảng java của Công ty.\n• Tuân thủ, tối ưu Code theo Coding Convention\n• Phối hợp cùng đội ngũ BA/Test phân tích, thiết kế, đưa ra giải pháp để phát triển phần mềm đáp ứng đúng, đủ, tiện các yêu cầu của người dùng cuối\n• Tham gia rà soát đánh giá, xử lý các lỗi liên quan tới bảo mật do các công cụ rà soát bảo mật phát hiện ra",
+  "yeu_cau": "• Tối thiểu 02 năm kinh nghiệm trong lĩnh vực lập trình phần mềm hoặc thiết kế hệ thống ứng dụng\n• Có kinh nghiệm thiết kế các hệ thống hoạt động theo mô hình CI/CD,Microservices và sẵn sàng cho việc chuyển đổi lên nền tảng điện toán đám mây.\n• Có kinh nghiệm lập trình Java Springboot… xử lý/giải quyết các cơ chế Async& Sync, đa nhiệm, đa luồng, memory leak, high cpu, virtual threads,…\n• Có kinh nghiệm triển khai/tham gia phát triển trên các nền tảng (Java): trục tích hợp ESB (WSO2, Apache Camel…), Message Broker, Web Application Server, Memory cache, BPMN 2.0, Spring (Boot, Streaming, Batch…)…\n• Có kinh nghiệm làm việc với Redis, Oracle, MongoDB,...\n• Biết sử dụng Docker, Openshift,\n• Ưu tiên ứng viên có kinh nghiệm dự án triển khai tích hợp core T24",
+  "quyen_loi": "• Lương tháng 13, thưởng cuối năm theo quy định công ty (từ 2-4 tháng lương)\n• Thưởng sinh nhật; các ngày lễ (1m-3m/lần)\n• Phụ cấp ăn trưa: 50k/ngày làm việc; phụ cấp gửi xe 300k/tháng\n• Review lương tối thiểu 1 lần/năm\n• Du lịch/teambuilding, khám sức khỏe định kì hàng năm\n• BHXH, BHYT, BHTN theo quy định của pháp luật hiện hành\n• Được thử thách trong các dự án lớn, có cơ hội khẳng định năng lực bản thân và phát triển sự nghiệp\n• Môi trường làm việc thân thiện, năng động, sáng tạo, khuyến khích phát triển cá nhân",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ1NDQzNiwicHVyIjoiYmxvYl9pZCJ9fQ==--ffaacbaadb4b32bd64d54261fae487da79db6065/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/Atomi%20digital.jpeg",
+  "company_url": "/companies/atomi-digital",
+  "company_mo_ta": "Nhà cung cấp các giải pháp Công nghệ Tài Chính và Dịch vụ Công nghệ thông tin hàng đầu Việt Nam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

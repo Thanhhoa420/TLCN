@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-ci-cd-automation-cong-ty-co-phan-chung-khoan-vps-1612",
+  "tieu_de": "DevOps Engineer CI/CD, Automation",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VPS",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "DevOps",
+    "Generative AI",
+    "Terraform",
+    "Cloud",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "88 Trần Thủ Độ",
+  "quan_huyen": "Quận Hai Bà Trưng",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vị trí\nVị trí chịu trách nhiệm tiêu chuẩn, thiết kế, xây dựng, triển khai và cải tiến CI/CD, Observability và Automation nhằm tăng tốc quá trình triển khai ứng dụng, chuẩn hóa môi trường vận hành và giảm thao tác thủ công thông qua mô hình Environment as Code.\nMô tả công việc\nXây dựng, chuẩn hóa và tối ưu pipeline CI/CD cho các ứng dụng, bao gồm build, test, scan, package, deploy và rollback.\nThiết kế pipeline template, reusable component và workflow triển khai dùng chung để giúp các dự án triển khai nhanh, ổn định và nhất quán.\nTriển khai và tích hợp Observability cho ứng dụng, bao gồm log collection, metric, tracing, dashboard và alert phục vụ theo dõi vận hành.\nTự động hóa việc khởi tạo, cấu hình và triển khai môi trường thông qua Environment as Code / Infrastructure as Code, giúp rút ngắn thời gian chuẩn bị môi trường cho dự án.\nPhối hợp với các đội phát triển, hạ tầng và bảo mật để tích hợp kiểm soát chất lượng, bảo mật và quan sát hệ thống vào quy trình CI/CD.\nTrách nhiệm công việc & mục tiêu tương ứng\nCI/CD: Xây dựng, chuẩn hóa và cải tiến pipeline template, reusable component và deployment workflow dùng chung. Mục tiêu: Tăng tỷ lệ dự án sử dụng pipeline chuẩn, giảm lỗi triển khai và rút ngắn thời gian release.\nEnvironment as Code: Tự động hóa việc khởi tạo, cấu hình và triển khai môi trường DEV, SIT, UAT, PRE-PROD và PROD bằng Infrastructure as Code\nEnvironment as Code. Mục tiêu: Rút ngắn thời gian chuẩn bị môi trường, đảm bảo cấu hình nhất quán, có thể lặp lại và truy vết.\nObservability: Triển khai log collection, metric, tracing, dashboard và alert cơ bản cho ứng dụng trước khi vận hành. Mục tiêu: Giúp đội dự án và vận hành theo dõi tình trạng ứng dụng, phân tích luồng xử lý, phát hiện sớm lỗi và hỗ trợ xử lý sự cố nhanh hơn.\nAutomation & Enablement: Phát triển automation script, công cụ hỗ trợ triển khai, tài liệu hướng dẫn, checklist và best practices cho các đội dự án.\nMục tiêu: Giảm thao tác thủ công, tăng khả năng tự phục vụ và nâng cao mức độ áp dụng automation trong triển khai phần mềm.",
+  "yeu_cau": "Thành thạo CI/CD và có kinh nghiệm xây dựng pipeline, pipeline template, deployment workflow với GitLab CI, ArgoCD, Rancher, Azure DevOps hoặc công cụ tương đương.\nCó khả năng tự động hóa triển khai môi trường bằng Infrastructure as Code / Environment as Code như Terraform, Ansible, Helm hoặc công cụ tương đương.\nCó kinh nghiệm triển khai Observability cho ứng dụng, bao gồm logging, metrics, tracing, dashboard và alert.\nCó tư duy tự động hóa, chuẩn hóa, chủ động phối hợp và khả năng hỗ trợ nhiều dự án song song.\nCó khả năng ứng dụng AI/GenAI trong công việc để tăng hiệu quả phân tích log, hỗ trợ troubleshooting, tối ưu pipeline, tạo automation script và chuẩn hóa tài liệu kỹ thuật.\nYêu cầu kinh nghiệm\nTối thiểu 4 năm kinh nghiệm trong các vai trò DevOps, CI/CD, Automation, SRE hoặc System/Cloud Engineering.\nĐã tham gia triển khai thực tế CI/CD, automation môi trường và Observability cho ứng dụng, bao gồm logging, monitoring và tracing trong môi trường CNTT ở doanh nghiệp tài chính hoặc Tập đoàn lớn",
+  "quyen_loi": "Thường cuối năm trung bình 5 - 7 tháng lương\nTeam building nghỉ dưỡng 2 lần/ năm\nVăn phòng siêu sang, xịn, mịn\n\nMôi trường chuyên nghiệp, năng động, luôn cập nhật ứng dụng kỹ thuật mới cho vận hành\nĐồng nghiệp giàu chuyên môn, thân thiện, gắn kết, hỗ trợ\nCơ hội không giới hạn dành cho nhân viên tài năng\nChế độ cạnh tranh, hình thức đa dạng, thu hút gắn kết\nĐào tạo bài bản, chuyên nghiệp, chú trọng phát triển cá nhân\nCông ty có nhiều hoạt động thể hiện trách nhiệm với cộng đồng\nChế độ:\nLương cạnh tranh\nThưởng cuối năm hấp dẫn\nĐóng BHXH Full lương\nReview lương hàng năm\nTeam building nghỉ dưỡng 2 lần/ năm\nThưởng ngày lễ tết",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjA5MzMyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--0f5d14335a030e0551bdb6c14cdf4c14785e11e7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOGO-VPS%20PNG.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-vps",
+  "company_mo_ta": "VPS - Kiến Tạo Giá Trị Vượt Trội Và Bền Vững",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

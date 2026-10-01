@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-platform-engineer-f88-5354",
+  "tieu_de": "DevOps/Platform Engineer",
+  "ten_cong_ty": "F88",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "DevOps",
+    "Docker",
+    "CI/CD",
+    "Terraform",
+    "AWS",
+    "Kubernetes"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà G-Group, 05 Nguyễn Thị Duệ, P. Yên Hòa",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "700 - 1,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "• Tham gia xây dựng và phát triển F88 Cloud Platform (FCP) – nền tảng Cloud nội bộ phục vụ các hệ thống của F88.\n• Triển khai, quản trị và vận hành các hệ thống, ứng dụng trên Kubernetes và AWS.\n• Tham gia xây dựng các dịch vụ nền tảng trên FCP như Kubernetes, Load Balancer, Database, Kafka, Redis, Object Storage, Logging & Monitoring.\n• Xây dựng và duy trì hệ thống CI/CD, GitOps và Infrastructure as Code, tự động hóa quá trình triển khai và vận hành hạ tầng.\n• Tham gia thiết kế kiến trúc, triển khai mới, migration và tối ưu workload giữa AWS, On-premise và FCP.\n• Xây dựng hệ thống monitoring, logging, alerting; troubleshooting và tối ưu hiệu năng, đảm bảo High Availability, Scalability và Security.\n• Ứng dụng AI/AIOps vào quá trình phát triển và vận hành nhằm tăng tốc automation, troubleshooting, phân tích log/metric và tối ưu hoạt động hệ thống.\n• Phối hợp với Development, System và Security để chuẩn hóa quy trình triển khai và vận hành hệ thống.",
+  "yeu_cau": "• Thành thạo Kubernetes, có kinh nghiệm vận hành production; hiểu Deployment, StatefulSet, Service, Ingress, Storage/PVC, RBAC, HPA, Network Policy...\n• Có kinh nghiệm thực tế với AWS, đặc biệt các dịch vụ: EC2, EKS/ECS, VPC, ELB, S3, RDS/Aurora, IAM, Route 53, CloudWatch, API Gateway.\n• Thành thạo Linux, Docker/Container và có khả năng troubleshooting hệ thống.\n• Có kiến thức tốt về Networking: TCP/IP, DNS, HTTP/HTTPS, TLS, Routing, NAT, Load Balancing, Reverse Proxy, Firewall/Security Group.\n• Có kinh nghiệm với Terraform hoặc các công cụ Infrastructure as Code tương đương.\n• Có kinh nghiệm xây dựng CI/CD & GitOps với các công cụ như Jenkins, GitLab CI, ArgoCD, Git, Helm.\n• Có kinh nghiệm với hệ thống Monitoring/Logging như Prometheus, Grafana, ELK/Elasticsearch/OpenSearch.\n• Có kiến thức hoặc kinh nghiệm với các platform/middleware phổ biến như Kafka, Redis, PostgreSQL/MySQL, MongoDB, Object Storage/S3.\n• Có khả năng scripting/automation với Shell, Python hoặc Ansible.\n• Có khả năng sử dụng các AI Coding/Agent tools trong công việc theo hướng Vibe Coding/AI-assisted Engineering để hỗ trợ viết code/script, Infrastructure as Code, automation, troubleshooting và xây dựng công cụ nội bộ; có tư duy ứng dụng AIOps vào vận hành hệ thống.\n• Ưu tiên ứng viên có kinh nghiệm về Cloud Platform, Platform Engineering, SRE hoặc xây dựng Private Cloud.",
+  "quyen_loi": "Attractive Compensation and Benefits\nLimitless Opportunities for Professional Growth\nOwnership of Cutting-Edge Projects\n\nPEOPLE DEVELOPMENT POLICY:\n\"EXCEL WITH JOY\" WORKPLACE\nGuided by the positioning “Excel With Joy”, F88 fosters continuous growth in an environment built on joy, support, and empowerment - enabling every individual to become a more capable and fulfilled version of themselves, both at work and in life.\n- JOY represents the sense of security that comes from being respected and cared for emotionally and mentally, so that each working day is not merely about completing tasks, but about experiencing meaning and purpose.\n- EXCEL reflects continuous progress in both career and life, where success is measured not by titles, but by the value created, capabilities accumulated, and pride built along the journey with the organization.\n---------\nREWARDS & BENEFITS\n1. LONG-TERM FINANCIAL VALUE\nF88 offers competitive compensation & a diverse reward structure (holiday bonuses, seniority recognition, performance-based incentives, etc.) that fairly reflects individual capabilities and contributions. Through the ESOP program, employees become long-term co-owners growing alongside the organization.\n2. COMPREHENSIVE HEALTH PROTECTION\nF88 provides holistic health benefits, including tailored health insurance for employees and their families, online medical consultations, health education workshops, etc. - ensuring protection for both physical and mental well-being.\n3. MENTAL WELL-BEING & LIFE BALANCE\nIn addition to statutory leave, F88 introduces Recharge Days and Health Days, bringing total annual leave to up to 23 days per year depending on position. A wide range of cultural activities, annual company trips, and flexible benefits (such as F88 Happy Vouchers, F88 Bus, etc.) help employees sustain positive energy and engagement.\n4. EMPOWERMENT FOR GROWTH\nAt F88, employees are empowered to own their learning, career pathways, and role expansion. Structured development programs, a “fail fast – learn fast” mindset, and opportunities to participate in key strategic projects enable individuals to grow rapidly and prepare for bigger responsibilities ahead.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA1NjA0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--35f533ea0a57f09826c9242a7a1e56233f65ecf4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20PNG.png",
+  "company_url": "/companies/f88",
+  "company_mo_ta": "F88 Business Joint Stock Company",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "Retail and Wholesale",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

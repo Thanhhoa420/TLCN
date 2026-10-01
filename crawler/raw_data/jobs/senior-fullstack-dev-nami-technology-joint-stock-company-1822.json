@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-dev-nami-technology-joint-stock-company-1822",
+  "tieu_de": "Senior Fullstack Engineer",
+  "ten_cong_ty": "Nami Technology Joint Stock Company",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "Golang",
+    "System Architecture",
+    "Fullstack",
+    "Kubernetes",
+    "AWS",
+    "C#"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Villa A4-2 KCD EverRich 3, Phu Thuan Street",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The Senior Fullstack Engineer is responsible for designing, developing, and integrating scalable software solutions across backend, frontend, and real-time systems. This is a hands-on\nengineering role focused on system architecture, high-quality development, technical problem-solving, and end-to-end delivery.\nKey Responsibilities\nMentor the development members.\nDesign and maintain overall system architecture.\nDevelop and maintain backend services using Golang and C/C#.\nDevelop web applications using modern frontend technologies.\nDesign and implement real-time streaming and WebSocket solutions.\nDesign and develop integrations with external systems, APIs, and third-party platforms.\nSupport PoC, deployment, troubleshooting, and production issues.\nPerform code review and ensure development quality.\nCollaborate with Product, QA, and other teams to deliver projects successfully.\nMake technical decisions and drive solutions from requirement → development →\nintegration → deployment → production.",
+  "yeu_cau": "Must Have\nAt least 5 years of experience in software development.\nStrong experience with Golang.\nStrong knowledge of System Architecture / System Design.\nHands-on experience with Streaming / Real-time systems.\nStrong experience with WebSocket.\nExperience with Fullstack Web Development.\nExperience with C/C#.\nProven experience in system integration / API integration / third-party integration.\nExperience with AWS, Docker, Kubernetes, and CI/CD.\nExperience leading or mentoring a software development team.\nGood ability to analyze requirements and translate them into technical solutions.\nStrong problem-solving and troubleshooting skills.\nWorking Environment & Soft Skills\nProactive, responsible, and able to work independently.\nComfortable working in a fast-paced environment with changing requirements.\nStrong ownership of technical tasks and project delivery.\nAble to work effectively with developers, Product, QA, and other stakeholders.\nGood communication and teamwork skills.\nAble to balance technical quality, project timeline, and business requirements.\n      Nice to Have\nExperience working directly with customers, partners, or external technical teams.\nGood customer-facing and technical communication skills.\nGood communication skills in English, especially for technical discussions.\nKnowledge of V oIP / SIP / RTP / PBX / Contact Center.\nExperience with WebRTC or other real-time communication technologies.\nGood understanding of TCP/IP, HTTP/HTTPS, TLS, and networking.\nExperience with message queues / event streaming such as Kafka or RabbitMQ.\nExperience with databases such as PostgreSQL\nExperience with monitoring and observability tools.\nExperience working with international customers or distributed teams.",
+  "quyen_loi": "Benefits\nCompetitive salary.\nComprehensive social insurance package and premium health insurance.\nAnnual performance review with promotion opportunities.\nFive-day workweek (Monday–Friday).\nOpportunity to work on cutting-edge AI technologies with talented engineers.\nInternational career development opportunities in Japan, the United States, and other\nglobal markets.\nA dynamic and collaborative working environment with exciting employee activities,\nincluding annual Company Trips, YEP, team building events, and sports activities.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTAzNjIwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--b6b739c6c29c327b6884d3582be0b3916e4c6a92/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/LOgo.png",
+  "company_url": "/companies/nami-technology-joint-stock-company",
+  "company_mo_ta": "Nami Technology Joint Stock Company",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

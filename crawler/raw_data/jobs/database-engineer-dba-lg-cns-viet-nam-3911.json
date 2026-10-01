@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/database-engineer-dba-lg-cns-viet-nam-3911",
+  "tieu_de": "Database Engineer DBA",
+  "ten_cong_ty": "LG CNS Việt Nam",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Oracle",
+    "AWS"
+  ],
+  "cap_bac": "Fresher",
+  "dia_chi_raw": "Tầng 15, tòa Keangnam Landmark 72, Mễ Trì",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Administer, operate, and optimize database systems to ensure high availability, security, stability, and performance.\nParticipate in database projects across both on-premises and cloud environments (AWS, Azure, GCP).\nParticipate in designing, building and testing database systems on public cloud platforms.\nCollaborate with Korean DB experts for implementation, migration, performance tuning, and troubleshooting.\nPerform DB object management (Table, Index, View, Stored Procedure, etc.).\nMaintain backup and recovery strategies.\nMonitor system performance and handle incidents.\nSupport application deployment and release activities.\nInstall and manage database systems such as Oracle, MSSQL, and MySQL.",
+  "yeu_cau": "Hands-on experience with at least two database platforms (Oracle, MSSQL, MySQL, PostgreSQL, MongoDB, etc.).\nKnowledge/experience in database migration.\nExperience working in public cloud environments (AWS, GCP, Azure).\nEnglish communication ability.\nStrong analytical thinking, system mindset, proactive attitude, and teamwork.\nNice to have/ Preferred\nExperience designing, building, and operating DB systems on cloud (RDS, Redshift, Big Query, etc.).\nExperience in SQL development and performance tuning (MySQL, MariaDB, PostgreSQL, Oracle).\nKnowledge of Shell Scripting, PL/SQL, Python, and ETL tools.",
+  "quyen_loi": "Salary and bonus based on ability\nYoung and fun working environment\nOpportunities to study and work abroad.\n\n- Best remuneration: Periodically review and adjust salary once a year, PI bonus twice a. Allowances for lunch, transportation, and phone charges. Party with the team once a. Workshop travel for the whole company once a year. Bonuses/Gifts for holidays, International Labor Day, International Women's Day, etc.\n- High-class, modern office: 5-star standard office with modern equipment, large rest and entertainment areas (game area, karaoke room, reading room, cafe counter, snack bar, etc.) Meet all members' needs, especially the office has an airy and beautiful view that is among the most beautiful in Hanoi.\n- Top equipment: Each employee is equipped with the latest generation LG Gram laptop and modern large LG screen.\n- Best working time: Work 8 hours/day (8:00 ~ 17:00), from Monday to Friday. No pressure to work overtime/weekends!\n- Flexible, youthful working style: LG CNS Vietnam members are mostly from the 9-10x generation, with a youthful, modern, and fair working style!\n- Creative environment, valuing individual opinions: With a young and talented team, we always appreciate the creativity and suggestions that members make.\n- Opportunities to work/study in Korea and abroad: With customers and projects mostly from abroad, your opportunities for training and onsite abroad will always be open!\n- Other: Happy hours every Friday, Team outing monthly, join clubs like football, badminton, etc...",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTc3MTIzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--79414bdba1830df263fbf0fe3fbf7127abc83386/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Annotation%202025-02-14%20172858.jpg",
+  "company_url": "/companies/lg-cns-viet-nam",
+  "company_mo_ta": "TOP 1 IT COMPANY IN KOREA",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

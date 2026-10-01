@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-qa-engineer-qa-leader-blogic-systems-0438",
+  "tieu_de": "Senior QA Engineer / QA Leader",
+  "ten_cong_ty": "Blogic Systems",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "QA QC",
+    "Tester",
+    "Team Management",
+    "Postman",
+    "Leadership",
+    "Automation Test"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 17, Đường Số 6, Khu Dân Cư Trí Kiệt, Phường Phước Long B",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "BLogic Systems builds POS systems for the U.S. restaurant and bar market.  Our product team in Ho Chi Minh City works directly with our US-based team, and our software runs live in restaurants across the United States — quality issues reach real customers immediately.\nWe are hiring for two levels: a QA Leader to take full charge of product quality, and a Senior QA Engineer to strengthen the team's core. The Leader role is a strategic position for someone with 5+ years of QA experience, including proven experience managing QA teams; strong Senior candidates without management experience are also encouraged to apply for the Senior track.\n \n1. QA Strategy & Quality Management\nDefine and manage the overall QA strategy, testing standards, processes, and quality roadmap across the entire product line: POS, KDS, Kiosk, Online Ordering, Dashboard, and payment flows.\nOwn the defect escape rate — the percentage of bugs found by customers, IT Support, or leadership instead of QA. This is your primary KPI.\nEnsure consistent testing practices and quality standards across projects and releases.\nEstablish and enforce release gates: nothing goes to production without meeting clear quality criteria. You have the authority to block a release.\n2. Team Management & Leadership\nLead, mentor, and develop the existing QA team; set KPIs and career development plans for each member.\nManage team resources, performance, and hiring.\nBuild a collaborative, high-performing QA team.\n3. Test Planning & Delivery\nManage test planning and execution across functional, regression, integration, system, and UAT testing.\nBuild and maintain a regression suite for business-critical flows: payment, surcharge / dual pricing, receipt printing, split check, order submission, offline mode, and backward compatibility between POS versions.\nConduct testing on real hardware: POS terminals, payment devices, printers, scales, KDS displays, and handheld devices.\nCoordinate QA activities across multiple projects and releases; manage testing priorities, risks, and delivery commitments.\n4. Test Automation & Tooling\nBuild the test automation framework from near zero, reducing our current dependence on manual testing.\nIntegrate AI tools into the QA workflow: test case generation, log analysis, bug cluster analysis, and automation script development.",
+  "yeu_cau": "Must have\n5+ years of experience in software QA/testing. For the Leader track: experience managing and leading QA teams is required; for the Senior track, it is a plus.\nStrong hands-on experience in test planning, execution, defect management, regression testing, and release quality.\nExperience managing QA delivery across multiple projects or releases.\nProven ability to define and manage QA strategy, testing standards, processes, and a quality roadmap.\nReal automation experience (Playwright, Appium, or equivalent) — you have built a framework from scratch, not only executed existing scripts.\nExperience testing systems that handle money: a one-cent discrepancy in a payment flow is an incident, not a minor bug.\nStrong root cause analysis skills — you go beyond logging bugs to understanding why they happened.\nProficiency with AI tools applied to real testing work.\nStrong people-management, communication, problem-solving, and stakeholder-management skills.\nThe professional confidence to hold a release that does not meet quality criteria, even under schedule pressure.\nEnglish: able to read technical documentation; ability to communicate with our US team is a plus.\nNice to have\nQA experience with POS, payment gateways, fintech, or hardware-integrated systems.\nFamiliarity with payment processor certification standards.\nExperience with test automation tools such as Selenium, Gherkin, SpecFlow, Postman, SoapUI, etc.",
+  "quyen_loi": "USA company building products for U.S. consumers\nCompetitive salary for top talent\nProfessional, high-performance working environment\n\nCompetitive salary for top talent\n13th-month salary + performance bonuses.\nAnnual salary review\nPremium health insurance\nAccess to AI tools for daily work and career growth\nCompany trip + team building\nFree coffee\nProfessional Development Opportunities (Pluralsight, Udemy Account)",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA5MjY3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1fc288431dc209801a163f4406fef12df1ca0487/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/blogic-yellow-new.png",
+  "company_url": "/companies/blogic-systems",
+  "company_mo_ta": "Trusted POS delivering real results",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Food and Beverage"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-net-developer-ban-vien-corporation-3741",
+  "tieu_de": "Senior .NET Developer",
+  "ten_cong_ty": "BAN VIEN CORPORATION",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    ".Net Core",
+    "CI/CD",
+    "Docker",
+    "Azure"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Onsite",
+  "quan_huyen": "Quận Tân Phú",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Collaborate with Business units, QA, UI/UX, and other technical teams to ensure the product meets requirements.",
+  "yeu_cau": "• Bachelor's degree in Computer Science, Computer Engineering, or a related field.\n• At least 4 years of hands-on experience in .NET development. \n• Deep knowledge of .NET Core, Entity Framework / ORM, and C#.\n• Strong foundation in Object-Oriented Programming (OOP) and MVC frameworks.\n• Practical experience applying SOLID principles, with solid skills in Unit Testing and Integration \nTesting.\n• Experience working within Scrum methodology and/or using CI/CD tools to deploy projects to \nproduction.\n• Experience with relational databases, particularly MS SQL Server and Oracle.\n• Hands-on experience with Docker (containerization, image building, deployment workflows).\n• Able to write technical designs (system/module-level architecture, API design, database schema) \nbased on business requirements.\n• At least 1 year of experience with Azure Cloud Services - familiarity with a subset of the following is \nsufficient (not all required): \no Virtual Machines\no Blob Storage / File Storage\no Load Balancer\no Azure SQL Database\no Azure Active Directory\no Key Vault\no Azure DevOps Services\no Container Registry\no Azure Monitor / Log Analytics / Application Insights\no API Management\n \nNice to have\n• Understanding of microservice architecture principles and design patterns.\n• Azure Certification (e.g., AZ-204, AZ-400, AZ-104) is a plus.\n• Experience in the Banking / Finance domain is a plus. \n• Experience using AI models/tools (e.g., Copilot, LLM-assisted coding) to support and accelerate \ndevelopment work.\n• Strong problem-solving and analytical thinking. \n• Good communication skills for cross-functional collaboration (QA, PM, Frontend teams). \n• Ability to work independently and within a team in an Agile environment.",
+  "quyen_loi": "Fast-track your career with exciting projects.\nOnsite work opportunities: USA, Japan, Singapore.\nPremium healthcare.\n\nYou deserve the best when working with Ban Vien\nFast-track career growth with many exciting projects\nOnsite opportunities abroad: USA, Japan, Singapore\nPremium healthcare & wellness in yound, dynamic and inclusive environment\nReward Policies and Recognition Programs: Quarterly Performance Assessment & Profile Capturing, 13th salary and project bonus\nProfessional learning & development and training program opportunities\nFlexible working time\nBan Vien Plus+:\n 🌟 4-star Company Trip – 3 days for employees & families\n 🎉 Annual Thank You Event – Celebration & awards\n 💎 Exclusive Point System – Total rewards\n 🎁 Special Gift Sets – For every occasion",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMxODIwNywicHVyIjoiYmxvYl9pZCJ9fQ==--72e107d40e0264a9c8d64457c764c2427547bdc3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo-1.png",
+  "company_url": "/companies/ban-vien-corporation",
+  "company_mo_ta": "TRUSTED TECHNOLOGY PARTNER FOR BUSINESS",
+  "job_expertise": [
+    "Banking & Financial Systems Developer"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

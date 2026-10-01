@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/head-of-ai-data-hd-securities-corporation-3339",
+  "tieu_de": "Head of AI Data",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Database",
+    "Google BigQuery",
+    "Kafka",
+    "Snowflake",
+    "Databricks",
+    "Spark"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,500 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. MỤC TIÊU VỊ TRÍ\nXây dựng và dẫn dắt Phòng AI & Data từ đầu. Thiết kế, triển khai nền tảng dữ liệu tập trung (Data Foundation) của công ty — nguồn dữ liệu duy nhất, đúng, đủ và kịp thời cho sản phẩm số, báo cáo điều hành, báo cáo tuân thủ và các bài toán AI. Chủ quản danh mục dự án AI và công cụ AI của công ty.\n \n2. TRÁCH NHIỆM CHÍNH\n2.1. Kiến trúc & triển khai nền tảng dữ liệu\nXây dựng chiến lược dữ liệu và kiến trúc mục tiêu (DWH/lakehouse); lựa chọn công nghệ có đánh giá chi phí.\nThiết kế mô hình dữ liệu cho các domain lõi: khách hàng, tài khoản, lệnh & giao dịch, vị thế & tài sản, thanh toán bù trừ, margin, phí, dữ liệu thị trường.\nDẫn dắt xây dựng pipeline thu nhận, chuyển đổi và phục vụ dữ liệu từ hệ thống lõi, ứng dụng giao dịch, CRM, kế toán — bao gồm các hệ thống do nhà thầu sở hữu.\nBảo đảm đối soát tự động với hệ thống nguồn và kế toán; thiết lập DataOps, HA/DR, sao lưu và lưu trữ theo quy định.\n2.2. Quản trị & chất lượng dữ liệu\nXây dựng khung quản trị dữ liệu: chính sách, phân loại dữ liệu, mô hình Data Owner / Data Steward.\nSở hữu Data Catalog, Data Dictionary, Lineage; định nghĩa chỉ số thống nhất toàn công ty; Master Data cho khách hàng, sản phẩm, mã chứng khoán.\nThiết lập khung chất lượng dữ liệu có chỉ số và SLA xử lý sự cố.\nBảo vệ dữ liệu cá nhân và dữ liệu khách hàng: kiểm soát truy cập, mã hoá, che dữ liệu cho môi trường phi-production; tuân thủ Nghị định 13/2023/NĐ-CP, Luật Bảo vệ dữ liệu cá nhân, quy định của UBCKNN về hệ thống CNTT.\n2.3. Phân tích & dữ liệu phục vụ sản phẩm\nCung cấp dữ liệu như một dịch vụ cho các đội sản phẩm: dataset chuẩn, data API, self-service BI cho các đơn vị nghiệp vụ và Ban điều hành.\nSở hữu việc đo bộ chỉ số vận hành sản phẩm và hiệu quả phát triển (delivery metrics) một cách tự động.\nƯu tiên các bài toán tạo giá trị sớm: báo cáo điều hành hằng ngày, 360° khách hàng, cảnh báo rủi ro margin, tự động hoá báo cáo cơ quan quản lý.\n2.4. Chủ quản AI\nTiếp quản và chủ quản các dự án AI đang triển khai với đối tác: theo dõi tiến độ, nghiệm thu kỹ thuật, lập kế hoạch vận hành và chuyển giao tri thức.\nQuản lý danh mục công cụ AI được phê duyệt và quy định kiểm soát dữ liệu khi sử dụng AI.\nXây lộ trình AI theo nguyên tắc nền dữ liệu vững trước: feature store, dữ liệu huấn luyện có quản trị, RAG trên dữ liệu nội bộ; ưu tiên use case đo được giá trị.\n2.5. Xây dựng đội ngũ\nTuyển dụng, huấn luyện, đánh giá đội Data/AI; xây khung năng lực và lộ trình nghề nghiệp.\nĐặt chuẩn chuyên môn dữ liệu cho toàn bộ đội sản phẩm; quản lý đối tác/nhà thầu về dữ liệu và AI; quản lý ngân sách phòng.\n3. KẾT QUẢ KỲ VỌNG TRONG 12 THÁNG\nKiến trúc dữ liệu mục tiêu và lộ trình được phê duyệt trong 90 ngày; các dự án AI đang chạy có chủ quản trong 30 ngày.\nNền tảng dữ liệu vận hành trong production, phủ các domain lõi, có đối soát tự động với hệ thống nguồn và kế toán.\nData Catalog, Lineage và khung chất lượng dữ liệu vận hành; bộ chỉ số vận hành sản phẩm được đo tự động.\nBáo cáo điều hành trọng yếu chuyển từ thủ công sang tự động; ít nhất một use case AI chạy trên dữ liệu nền tảng.\nĐội đạt 5 người, không phụ thuộc một cá nhân.",
+  "yeu_cau": "4. YÊU CẦU\n4.1. Bắt buộc\nTối thiểu 10 năm kinh nghiệm dữ liệu (data engineering, DWH/BI, data platform), trong đó ít nhất 4 năm ở vai trò Data Architect, Head of Data hoặc Data Platform Manager.\nĐã trực tiếp thiết kế và đưa vào vận hành ít nhất một nền tảng dữ liệu / DWH / lakehouse quy mô doanh nghiệp.\nĐã quản lý hoặc nghiệm thu ít nhất một dự án AI/ML hoặc analytics đưa vào production.\nKinh nghiệm trong tổ chức tài chính chịu quản lý (chứng khoán, ngân hàng, quản lý quỹ, bảo hiểm, fintech).\nVững mô hình hoá dữ liệu (3NF, Data Vault, Kimball), kiến trúc batch và streaming; SQL chuyên gia; thành thạo ít nhất một stack hiện đại (Spark/Databricks, Snowflake, BigQuery, Kafka/CDC, Airflow, dbt…) hoặc stack on-prem tương đương.\nKinh nghiệm thực tế về data governance: catalog, lineage, MDM, chất lượng dữ liệu, bảo vệ dữ liệu cá nhân.\nHiểu quy định về dữ liệu tại Việt Nam: Nghị định 13/2023/NĐ-CP, Luật Bảo vệ dữ liệu cá nhân, Luật Dữ liệu.\nĐã xây và dẫn dắt đội dữ liệu từ 5 người trở lên; đã quản lý đối tác/nhà thầu triển khai.\nGiao tiếp tốt với lãnh đạo nghiệp vụ; tiếng Anh đọc tài liệu kỹ thuật và làm việc với đối tác.\n4.2. Ưu tiên\nKinh nghiệm dữ liệu công ty chứng khoán: lệnh/khớp lệnh, tài khoản, margin, thanh toán bù trừ T+2, dữ liệu thị trường HOSE/HNX; báo cáo theo quy định của UBCKNN/VSD.\nKinh nghiệm MLOps, feature store, RAG/LLM trên dữ liệu nội bộ; quản trị công cụ AI trong tổ chức.\nKinh nghiệm tách dữ liệu khỏi hệ thống nhà thầu và tiếp quản sản phẩm từ đối tác.\nChứng chỉ DAMA CDMP, TOGAF, hoặc chứng chỉ data engineer/architect của AWS/Azure/GCP, Databricks, Snowflake.",
+  "quyen_loi": "5. QUYỀN LỢI\nMức lương: Cạnh tranh\nĐịa điểm / hình thức làm việc: HCM / HN",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

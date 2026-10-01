@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/database-administrator-postgresql-oracle-sql-ssi-securities-corporation-2815",
+  "tieu_de": "Database Administrator PostgreSQL, Oracle",
+  "ten_cong_ty": "SSI Securities Corporation",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "DBA",
+    "MongoDB",
+    "Oracle",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "SSI Tower, 1 Châu Văn Liêm",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Design And Implementation\nDefine the configuration for the database implementation within the organization. This shall include proper sizing and the detail requirement on parameters, file location, etc.\nDetermine and monitor the capacity and utilization of databases and corresponding hardware.\nDetermine the upgrade path for over utilized databases and corresponding hardware.\nVerify the justification of the database requirement from vendors for their solution installing in the company.\nImplement the design in professional manner.\nEnsure zero data loss by proper backup/recovery mechanism design.\nEnsure the database facilities operating and recovery within the agreed SLA.\nDetermine the best approach for system protection requirement such as load balancing, failover, remote site protection, etc.\nDetermine the risks in database facilities and the resolution to rectify the risks.\n2. Operation Support\nPerform any database cleansing ensuring the health working environment.\nImplement ETL, clean up and transform external data to fit the desired format, efficiently importing large volumes of data extracted from multiple systems into a data warehouse environment.\nDetermine the effectiveness of the restoration for the database by the backup data.\nDetermine/define the mechanism for the monitoring of the performance & exceptions of the database facilities.\nDetermine/define the mechanism on detecting any issues happening in the database facilities in the campus.\nRectify the issues immediately if happening.\nPerform user administrative activities on database level but not included user administration on application level.\nDefine/design the operation reports required to summaries the status of the database facilities for management. This shall include the utilization vs capacity, rate of availability, issues, etc.\n3. Security & Authentication\nDetermine potential weaknesses of the database software and the company’s overall system.\nDetermine how to protect the database facilities.\nImplement best practices to minimize security risks.\nSet up access policy according to the company’s role matrix to control who has access and what type of access they are allowed.\nSet up audit policy.\nConsult audit logs in the case of a security breach or irregularity.\n4. Documentation & Version Control\nDocument the design of the database facilities with the detail of diagram, system parameters and requirement, protection mechanism, and other related material as well as its historical changes becoming part of the IT Architecture Dossier.\nPrepare the documents keep the latest and historical information of the facilities becoming part of the inventory control of the department.\nMaintain the configuration document for each facility keeping the latest configuration parameter, historical changes on parameters in each device, and the method of changing the parameter becoming part of the\nConfiguration Control and Version Control within the department\nPrepare the operation guide for each facility.",
+  "yeu_cau": "University Degrees or above in IT, Computer Mathematics or related subjects.\nAt least 3 years as Database Administrator in companies in the field of banking, finance, telecommunications or equivalent.\nExpert knowledge of Oracle Database (12c and higher) or Microsoft SQL Server Database (2016 and higher), is a must.\nIBM DB2, PostgreSQL and MongoDB administrative experience is an advantage.\nIn-depth experience of databases running on Unix server.\nSolid experience in supporting High Availability database environment: various operating systems, clustering, HA, event debugging and issue resolution.\nProficiency in using PLSQL (or T-SQL, PL/pgSQL ...) is a strong advantage.\nExperience of database tuning and capacity planning is an advantage.\nExperience with securities trading systems is an advantage.\nKnowledge with security model to manage risks through patching or innovative techniques.\nGood presentation, written and verbal communication skill.\nCommunication skills, communication confidence, teamwork, good customer relations.\nAbility to work independently, under pressure and large.",
+  "quyen_loi": "Attractive salary and bonus package\nPremium AON healthcare insurance\nFully sponsored training to build your career\n\nCông ty Cổ phần Chứng khoán SSI được vinh danh trong danh sách “Top 100 nơi làm việc tốt nhất Việt Nam”, “Top 50 thương hiệu tuyển dụng hấp dẫn – Khối doanh nghiệp Việt”, “Nơi làm việc tốt nhất ngành Tài chính” do công ty tiên phong về giải pháp Thương hiệu Nhà tuyển dụng toàn diện Anphabe công bố trong những năm vừa qua.\nLương thỏa thuận (căn cứ theo năng lực của ứng viên)\n12 ngày nghỉ phép/năm + 2 ngày nghỉ ốm có hưởng lương\nChế độ bảo hiểm sức khỏe cao cấp và kiểm tra sức khỏe định kỳ hàng năm.\nThưởng các ngày lễ, Tết; Tặng quà sinh nhật, quà Tết…\nCơ hội tham gia các câu lạc bộ: Tennis, Cầu lông, Yoga, Bóng đá…\nCác hoạt động Teambuilding sôi nổi, thường niên: Family Day, Gala Dinner.\nCông ty tài trợ toàn bộ chi phí các chương trình đào tạo hỗ trợ cho công việc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NDkzLCJwdXIiOiJibG9iX2lkIn19--3368b4bee17942a22de5b7f4a75e6415f5bbf1b3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/saigon-securities-inc-logo.jpg",
+  "company_url": "/companies/ssi-securities-corporation",
+  "company_mo_ta": "SSI – A leading Financial Corporation",
+  "job_expertise": [
+    "Database Administrator"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-elsa-3058",
+  "tieu_de": "Senior DevOps Engineer",
+  "ten_cong_ty": "ELSA",
+  "ngay_dang_raw": "2026-09-30",
+  "han_ung_tuyen_raw": "2026-11-04",
+  "ky_nang": [
+    "Terraform",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "140B Nguyen Van Troi street",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About ELSA\nFounded in 2016, ELSA harnesses the power of generative AI to improve English communication skills globally with headquarters in San Francisco and offices in Lisbon, Tokyo, Jakarta, Singapore and Vietnam. With over 90 million users and 1 billion hours of anonymized data, our AI-driven language learning platform delivers hyper-personalized learning paths for both businesses and individuals, transforming lives and organizations through effective spoken English. ELSA is backed by leading investors including Gradient Ventures - Google’s A.I. fund, Monk's Hill Ventures and Global Ventures.\nWe are seeking a proactive DevOps Engineer to join our elite engineering team in Vietnam. You will play a pivotal role in scaling our cutting-edge AI product, ensuring high availability, and optimizing our infrastructure using the latest technologies.Hiring Process\nRound 1: Technical Challenge\nRound 2: Technical Interview\nRound 3: Culture Fit & Mindset EvaluationResponsibilities\nAutomation & CI/CD: Implement and maintain robust CI/CD pipelines. Actively leverage AI tools (e.g., GitHub Copilot, ChatGPT) to optimize scripting and automate repetitive operational tasks.\nInfrastructure & K8s Management: Manage the lifecycle of AWS infrastructure and EKS clusters, including version upgrades, node group migrations, and ensuring zero-downtime operations.\nObservability & Performance: Implement and manage monitoring, logging, and APM solutions to trace transactions, identify bottlenecks, and ensure system health.\nDatabase & Data Integrity: Manage cloud databases (RDS, DynamoDB), ensuring high availability, automated backup strategies, and disaster recovery readiness.\nSecurity & DevSecOps: Proactively improve system security by managing IAM policies, performing vulnerability scanning, and implementing security best practices across the stack.\nCollaboration & Support: Partner with developers to optimize workflows and troubleshoot issues with a supportive, open-minded approach.\nDocumentation: Maintain clear and comprehensive technical documentation for internal knowledge sharing.",
+  "yeu_cau": "Your Skills and ExperienceTechnical Requirements\n3-5 years of hands-on DevOps experience in production environments.\nKubernetes Expertise: Deep understanding of EKS, Helm charts, and ArgoCD. Experience with K8s version upgrades is a strong advantage.\nCloud & IaC: Proficiency in AWS services and Terraform.\nObservability: Working knowledge of APM tools (Signoz/Sentry/New Relic) and monitoring stacks (Prometheus/Grafana).\nDatabase Management: Experience in managing and scaling AWS RDS (Aurora/PostgreSQL) and DynamoDB.\nSecurity Mindset: Familiarity with Network security, IAM, Secret Management, and container security scanning.\nScripting: Strong abilities in Bash or Python for automation.\nAI Fluency: Demonstrated ability or high interest in using AI tools to solve complex technical problems and increase productivity.Soft Skills & Mindset (The \"ELSA Way\")\nCan-do Attitude: A proactive problem-solver who brings solutions, not just problems.\nLow Ego & Openness: You value the best idea over being \"right,\" embrace feedback, and share knowledge generously.\nCollaborative & Adaptable: Strong communication skills and comfortable in a fast-paced, evolving startup environment.",
+  "quyen_loi": "Competitive salary\nFlexible working hours & work from home policy\nGrow professionally in a global environment\n\nWhy You'll Love Working Here\nCompetitive Package: Attractive salary, comprehensive benefits, and stock options.\nGrowth Environment: Ample opportunities for professional development in a global, AI-first company.\nUnique Culture: A collaborative, inclusive work culture with no office politics and a focus on meritocracy.\nWork-Life Balance: Flexible working hours and a supportive environment.\nSilicon Valley Spirit: Experience the dynamic energy of a well-funded, fast-growing startup.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MDU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d731f4a05148cc01dc25c0d1628d5811cb7e412/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Elsa%20Logo%20Horizontal%20RGB%20-%20resize.png",
+  "company_url": "/companies/elsa",
+  "company_mo_ta": "ELSA - World's leading AI app - A Unicorn in the making",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

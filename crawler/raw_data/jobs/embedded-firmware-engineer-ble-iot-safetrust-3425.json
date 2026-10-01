@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/embedded-firmware-engineer-ble-iot-safetrust-3425",
+  "tieu_de": "Embedded Firmware Engineer BLE IoT",
+  "ten_cong_ty": "Safetrust",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Embedded",
+    "SPI",
+    "RTOS",
+    "Firmware",
+    "C++",
+    "BLE"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "360A Ben Van Don",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the role:\nThe Embedded Software Engineer is responsible for developing and maintaining firmware and software for Safetrust's IoT platform, leveraging BLE, Wi-Fi, and other cutting-edge technologies. This position plays a key role in the product development team, ensuring new and existing embedded products are reliable, performant, and shippable.\nThis role focuses on execution and quality — writing and debugging embedded C/C++, collaborating on automated testing, and optimizing performance — and contributes to Safetrust's continued growth by helping revolutionize physical access control systems.\n \nKey Responsibilities:\nDesign, develop, and maintain firmware/software for new and existing embedded products.\nDevelop and debug code in C and C++.\nCollaborate on automated unit and integration testing to ensure product quality.\nOptimize software performance and reliability for embedded systems.\nWork cross-functionally with hardware, QA, and cloud teams to deliver complete features.\nDesign, develop, test, and maintain embedded firmware for Safetrust's IoT access control products using C/C++.\nDevelop firmware for BLE, Wi-Fi, LTE, NFC, and other wireless communication technologies used across Safetrust products.\nImplement and optimize firmware running on ARM-based microcontrollers including Nordic, STM32, Cypress, and ESP platforms.\nDevelop, integrate, and maintain RTOS-based applications, drivers, middleware, and communication stacks.\nDesign and implement communication interfaces including SPI, I2C, UART, USB, CAN, and GPIO.\nDebug complex firmware, hardware, and integration issues using oscilloscopes, logic analyzers, JTAG/SWD debuggers, and other embedded development tools.\nOptimize firmware performance, memory utilization, power consumption, and reliability to support battery-powered and always-on devices.\nCollaborate with Hardware Engineering throughout board bring-up, prototype validation, manufacturing support, and product verification.\nDevelop automated unit tests, integration tests, and regression testing to improve firmware quality and reduce production defects.\nParticipate in architecture discussions, technical design reviews, code reviews, and continuous improvement initiatives.\nWork closely with Cloud, Mobile, QA, Product Management, and Manufacturing teams to deliver complete product features.\nSupport manufacturing and field teams by investigating production issues, customer-reported defects, and firmware updates.\nMaintain technical documentation including firmware architecture, interface specifications, troubleshooting guides, and release documentation.\nContinuously evaluate new embedded technologies, development tools, communication protocols, and industry best practices that improve Safetrust products.",
+  "yeu_cau": "Skills & Experience:\nB.S., M.S., or equivalent degree in Computer Science, Computer Engineering, Information Technology, or a related field.\n2+ years of experience in embedded firmware and application development (4+ for Senior).\nStrong proficiency in C and C++ programming.\nSolid understanding of software compilers and debugging tools.\nKnowledge of software architecture and design patterns for embedded systems.\nProficiency in data structures and algorithms.\nHands-on experience with BLE, Wi-Fi, LTE, and ARM MCUs (Nordic, STM, Cypress, ESP).\nFamiliarity with communication protocols (I2C, UART, SPI).\nUnderstanding of Real-Time Operating Systems (RTOS).\nLogical thinking, problem-solving ability, and effective teamwork skills.\nNice to Have / Preferred\nFamiliarity with Python, C#, or similar additional languages.\nKnowledge of high-level protocols (MQTT, REST APIs).\nProactive learning attitude and adaptability to new technologies.\nSuccess Profile:\nThe ideal candidate is:\nDetail-oriented and disciplined about embedded code quality and reliability.\nProactive and adaptable to new technologies and shifting priorities.\nA strong communicator who collaborates well with hardware, QA, and cloud teams.\nAble to execute independently on firmware features from spec to ship.\nComfortable working across regions and functions in a global environment (Vietnam, US, Australia).",
+  "quyen_loi": "Competitive salary\nFull statutory insurance\nProfessional, international working environment\n\nCompetitive salary based on experience and performance\nDaily lunch provided at the office\nFree coffee, tea, and refreshments\nFull statutory insurance (social, health, unemployment)\nAnnual health check-up and paid annual leave\nProfessional, international working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNjc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca847a8deb1c367d52bbcf880b1008b0acf7f93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-04-29%20090907.png",
+  "company_url": "/companies/safetrust",
+  "company_mo_ta": "Safetrust",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Manufacturing and Engineering",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

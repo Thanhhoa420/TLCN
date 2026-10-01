@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-intern-base-ops-fpt-is-2440",
+  "tieu_de": "DevOps Intern base Ops",
+  "ten_cong_ty": "FPT IS",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "PowerShell",
+    "Docker",
+    "Redis",
+    "Oracle",
+    "Python"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Keangnam Landmark 72, E6 Pham Hung",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng hệ thống Monitor, Logging, Alert-Cảnh báo\nTriển khai hạ tầng cho hệ thống tích hợp ESB, API của ngân hàng\nLàm việc với các hệ thống liên quan đến container: openshift\nCài đặt và cấu hình các máy chủ, thiết bị mạng và tường lửa hệ thống\nTham gia vào quy trình xây dựng CI/CD pipeline, DevSecOps",
+  "yeu_cau": "Sinh viên năm 3,4 Đại học khoa CNTT, Điện tử viễn thông, khoa học máy tính, ... và các chuyên ngành liên quan khác.\nBiết sử dụng Shell Script và các ngôn ngữ: Python, Powershell là lợi thế.\nCó hiểu biết về hệ CSDL: MSSQL, Oracle hoặc Postgre,...\nCó hiểu biết về Windows, Linux (CentOS, Redhat, Ubuntu) và Queue technology như Rabbit MQ, Kafka.\nCó hiểu biết về Caching và proxy như: Redis, Apache, Nginx.\nCó hiểu biết về Docker, Container, K8s. \nTiếng Anh đọc hiểu, nghiên cứu tài liệu chuyên ngành.\nHam học hỏi và tìm hiểu các Công nghệ mới.\nCó khả năng làm việc độc lập và làm việc nhóm.",
+  "quyen_loi": "Nhiều dự án lơn và công nghệ mới theo xu hướng 4.0\nMôi trường làm việc năng động, thân thiện\nNhiều phúc lợi và lương thưởng hấp dẫn\n\nĐược đào tạo bởi các chuyên gia công nghệ hàng đầu của FPT IS.\nĐược tham gia vào dự án/giải quyết bài toán thực tế của khách hàng.\nĐược tiếp cận các công nghệ mới.\nTham gia/trải nghiệm văn hóa FPT/FPT IS thông qua các sự kiện/hoạt động của FPT.\nTham gia các hoạt động teambuilding của đơn vị.\nCó cơ hội trở thành nhân viên chính thức,",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b0ad76f35fab863d1005afb348fd6d1f47ab3cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7198274729522_eef0f7d9c19666cac93f22a3189db145.jpg",
+  "company_url": "/companies/fpt-is",
+  "company_mo_ta": "Co- create the next!",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

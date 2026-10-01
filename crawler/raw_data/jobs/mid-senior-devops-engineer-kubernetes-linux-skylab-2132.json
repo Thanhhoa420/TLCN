@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/mid-senior-devops-engineer-kubernetes-linux-skylab-2132",
+  "tieu_de": "Mid/Senior DevOps Engineer Kubernetes, Linux",
+  "ten_cong_ty": "SkyLab",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "DevOps",
+    "Ansible",
+    "Terraform",
+    "Kubernetes",
+    "Linux",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 6, Robot Tower, 308 - 308C Điện Biên Phủ",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "DevOps Engineer (Mid / Senior)\nDatacenter Infrastructure & Observability\nLocation: Ho Chi Minh City, Vietnam (onsite)  |   Level: Mid / Senior   |   Type: Full-time   |   Experience: Mid 3+ years, Senior 5+ years\nAbout SkyLab\nSkyLab is a Singapore-headquartered AI infrastructure company operating across Southeast and North Asia. We design, build and operate GPU-as-a-Service (GPUaaS) environments on the latest NVIDIA platforms for AI model developers and enterprises, whose training and inference workloads depend on every node and link being healthy, 24 hours a day.\nAbout the role\nThe DevOps team builds and runs the platform that keeps it that way. Our monitoring and automation stack watches hundreds of GPU servers across every site, covering hardware health, network fabric and alerting that gets the right people involved quickly. As new sites come online across the region, each one joins this platform from day one.\nYou will join the team that owns it end to end. Everything is infrastructure-as-code, reviewed through merge requests, and runs on-premises rather than on public cloud.\nYou will work closely with our Data Center Operations team and with engineers overseas, so clear written English is an important part of the job.\nKey responsibilities\nObservability: operate and improve a multi-site monitoring platform, where each site keeps working on its own and a central NOC gives fleet-wide visibility.\nHardware and network health: use out-of-band server data and network telemetry to spot issues with GPUs, nodes and links early.\nAutomation: automate provisioning, configuration and deployment as code, and keep the CMDB accurate so it drives discovery and alerting.\nAI-augmented operations: apply AI tools and agents to reduce manual work, such as alert triage, incident summaries and runbook automation, and use AI assistants to write and review code faster.\nAlerting: tune alerts to be clear and actionable, and keep the runbooks behind them up to date.\nTroubleshooting: investigate issues across hardware, network, OS and application layers, find the root cause, and share what was learned.\nReliability and security: help maintain highly available services, backup and recovery plans, secrets, and regular patching.\nCI/CD and tooling: improve pipelines and build internal tools that make changes easier and safer for other teams.\nCollaboration: document your work and partner with Data Center Operations and overseas engineers on design and problem-solving.\nOur toolset: Prometheus/Grafana stack, Terraform, Ansible, Kubernetes (k3s), Proxmox, GitLab CI, NetBox (CMDB), Jira and PagerDuty.",
+  "yeu_cau": "Requirements (must-have)\nExperience: Mid 3+ years in DevOps, SRE or infrastructure roles. Senior 5+ years, including running production systems.\nStrong Linux administration and troubleshooting skills.\nHands-on experience with Ansible and Terraform.\nExperience with Docker and Kubernetes in production.\nExperience with Prometheus-based monitoring (PromQL, alert rules, exporters) and Grafana.\nSolid networking fundamentals: TCP/IP, DNS, TLS, load balancing, VLANs and basic routing.\nScripting in Python and Bash.\nVirtualization experience, ideally Proxmox or another KVM-based hypervisor.\nGit-based workflow with code review and CI/CD, ideally GitLab CI.\nComfortable communicating in English, written and spoken.\nNice to have\nYou don't need all of these. Any of them will help you ramp up faster.\nServer hardware and BMC management (Redfish, IPMI, iDRAC), ideally with GPU/HPC servers.\nDatacenter networking, especially Juniper.\nThanos, Loki or Grafana at multi-site scale.\nNetBox or another CMDB.\nPostgreSQL high availability (Patroni, etcd) or object storage (MinIO, S3).\nIncident tooling (PagerDuty, Jira Service Management) and on-call experience.\nSecrets management (SOPS, Vault) and CVE remediation.\nExperience building or using AI agents and LLM-based tools in operations (AIOps).\nPublic cloud (AWS or Azure), Go, or certifications such as CKA/CKAD.\nFor Senior level, we also expect you to\nLead the design of new components and site rollouts.\nHelp set standards for alert quality, runbooks and code review.\nTake a lead role in incident response and follow-up.\nMentor and support mid-level engineers.\nSoft skills\nCalm and methodical when things go wrong.\nProactive, and comfortable working with teammates across time zones.\nEnjoys improving how things are done.\nWrites clearly, so others can follow your docs and runbooks.",
+  "quyen_loi": "Hi-tech working environment\nYoung and dynamic colleagues\nInternational experience\n\nCompetitive package\nProfessional working environment\nOpportunities to challenge and develop your career\nSocial insurance, health insurance, unemployment insurance as labor law stipulated\nPremium Healthcare\nOpportunity to participate in stock option program.\nPublic holiday and Annual leave in accordance with the Vietnamese labour law",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwMDE1NywicHVyIjoiYmxvYl9pZCJ9fQ==--3a3ec266dff99ae1174e63b52f1cbdb058cfe2c5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image_2022_01_25T03_51_54_036Z.png",
+  "company_url": "/companies/skylab",
+  "company_mo_ta": "SkyLab believes in the connectivity and network of things",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-qa-qc-engineer-automation-siraya-technologies-pte-ltd-2622",
+  "tieu_de": "Middle QA/QC Engineer Automation",
+  "ten_cong_ty": "SIRAYA TECHNOLOGIES PTE. LTD.",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "QA QC",
+    "CI/CD",
+    "API",
+    "Golang",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Phòng 24.03, Lầu 24, Tòa nhà Pearl Plaza, 561A Điện Biên Phủ",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "*Interview will be conducted in English, English CV and Fluent verbal communication is required*\n \nRole Summary\nWe are looking for a Middle QA/QC Engineer to own the quality of applications and technical solutions built in-house. Beyond functional testing, you will design test strategy, build and maintain automation frameworks (API & Web & App), and work closely with developers to ship reliable, well-tested products. This role requires a development background — you should be comfortable reading code, understanding system architecture, and writing test scripts.\n \nKey Responsibilities\nAnalyze specs, requirements, and system architecture to design comprehensive test plans and test cases.\nPerform testing across multiple layers: functional, integration, API, regression, e2e and basic performance/load.\nDesign, build, and maintain automation test frameworks for API (Postman/REST) and Web (Playwright/Cypress).\nIntegrate automated tests into the CI/CD pipeline and maintain them as the product evolves.\nRead application code to understand logic, reproduce and diagnose defects, and verify fixes together with developers.\nTrack and report quality metrics (defect density, test coverage, pass rate, escape rate).\nContribute to QA process, standards, and test documentation",
+  "yeu_cau": "Requirements\n[1+] years of QA/QC experience, with [2+] years in working as Developer.\nDevelopment background: able to read code, understand application logic, and write test scripts.\nProficient in at least one programming language ([JavaScript/TypeScript, Golang]).\nStrong hands-on experience with API testing (Postman / REST) — request design, assertions, environments, collections.\nHands-on experience building Web automation with Playwright and/or Cypress.\nSolid understanding of system architecture, HTTP/APIs, and how distributed/backend services work.\nExperience integrating tests into CI/CD (e.g. GitHub Actions, GitLab CI, Jenkins).\nGood analytical, debugging, and communication skills.",
+  "quyen_loi": "Compensation, Benefits & Well-being\nGrowth, Learning & Personal Development\nFlexible Work, Culture & Everyday Experience\n\nWe offer a competitive compensation structure, including annual salary reviews, performance bonuses, and a profit-sharing bonus tied to both individual contributions and company growth. Our benefits package covers national insurance, communication and transportation allowances, as well as generous subsidies for annual professional health checkups —so you can focus on your work with peace of mind.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTk3NjU0NywicHVyIjoiYmxvYl9pZCJ9fQ==--6d18efa6338850522ebb45b22f8d75efdf2a873e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/Siraya_Logo.jpeg",
+  "company_url": "/companies/siraya-technologies-pte-ltd",
+  "company_mo_ta": "SIRAYA TECHNOLOGIES PTE. LTD.",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

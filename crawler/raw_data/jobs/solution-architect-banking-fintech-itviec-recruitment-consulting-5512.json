@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-banking-fintech-itviec-recruitment-consulting-5512",
+  "tieu_de": "Solution Architect Banking/Fintech",
+  "ten_cong_ty": "ITviec Recruitment Consulting",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Software Architecture",
+    "Agile",
+    "SQL",
+    "Spring Boot",
+    "Java",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "City",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ITviec's client are looking for an experienced and strategic Solution Architect to lead the architecture and solution design for large-scale digital banking and financial transformation initiatives.\nThe successful candidate will have extensive experience in designing, implementing, and modernizing banking systems, ensuring the architecture supports the evolving needs of financial institutions, along with the ability to lead solution discussion and communicate confidently with client stakeholders to deliver scalable, secure and high-quality system solutions.\nIn today’s engineering ecosystem, AI assistants are integral to the Software Development Lifecycle. Engineering, including this role, are expected to leverage AI tools for design analysis, code generation, test creation, and refactoring guidance, while focusing their expertise on architecture, system thinking, solution validation, security, quality assurance, and strategic technical decisions.\n \nKey Responsibilities\nSolution Architecture & System Design\nDesign and implement end-to-end solution architectures for banking transformation and modernization initiatives.\nEvaluate existing banking systems, identify limitations, propose scalable, sustainable and secure architectural solutions.\nCreate high-level and detailed architecture blueprints, covering application architecture, integration, data flows, and infrastructure considerations.\nEnsure architectural integrity and consistency across the entire banking ecosystem\nIdentify, communicate, and mitigate Risks, Assumptions, Issues, and Decisions (RAID) throughout the project lifecycle.\nLeverage AI-assisted tools to analyze architecture options, improve design documentation, and support engineering productivity.\nTechnical Leadership\nProvide technical leadership in defining best practices and frameworks for banking transformation.\nGuide teams in translating architectural designs into practical implementation strategies, ensuring consistent implementation of architecture standards.\nSupport teams in solving complex technical challenges, particularly in distributed systems, integration, and large-scale financial platforms.\nBanking & Financial Platform Architecture\nDesign systems and integration approaches supporting core banking capabilities, financial transactions, payment processing, and digital banking services.\nEnsure architectures comply with financial industry standards, regulatory requirements, and security frameworks.\nCollaborate with domain experts to translate banking business capabilities into technical architecture solutions.\nClient Collaboration & Delivery\nCollaborate with business stakeholders, product owners, and subject matter experts to define solution blueprints.\nLead architecture discussions, design workshops, and solution alignment sessions with client teams.\nCommunicate architecture decisions, trade-offs, risks, and recommendations clearly to both technical and non-technical stakeholders.\nSupport delivery teams to ensure solutions are implemented according to the intended architecture and quality standards.",
+  "yeu_cau": "Technical Qualifications\nBachelor’s degree in Computer Science, Information Technology, or a related field.\n10+ years of experience in software engineering or platform development.\n4+ years of experience in a Solution Architect, or similar architecture leadership roles.\nProficiency in developing and deploying applications in a microservices architecture and event driven architectures, especially strong in Java (Java, OOP, Kafka, Spring boot, etc.), with a focus on scalability, reliability, and performance optimization.\nExpertise in enterprise architecture, software design patterns, and API-driven architectures.\nHands-on experience with integration frameworks and legacy modernization approaches in banking.\nExperience working with containerization technologies (Docker, Kubernetes).\nSolid understanding of CI/CD pipelines, DevOps practices, and modern engineering workflows.\nExcellent problem-solving skills, attention to detail, and strong interpersonal skills.\nStrong ability to work in a fast-paced, high-impact environment and lead technical discussions.\nSpecific Qualifications\n4+ years Experience working in banking, fintech, or financial services technology environments.\nStrong understanding of core banking, card, payment systems, or related financial systems.\nKnowledge of financial industry security standards and regulatory frameworks (e.g., PCI-DSS).\nHands‑on exposure to AI‑assisted development tools (GitHub Copilot, Claude Code, or similar).\nAbility to write effective prompts and context for AI generation across design, coding, testing, and documentation workflows.\nAbility to evaluate AI-generated solutions, architecture suggestions, and generated code for correctness, security, and scalability.\nNice-to-Have\nExperience with cloud platforms (AWS, Azure, or GCP).\nExperience with enterprise architecture frameworks (e.g., TOGAF or similar).\nExperience supporting banking digital transformation or core system modernization initiatives.",
+  "quyen_loi": "WHY CHOOSE ITVIEC RECRUITMENT CONSULTING\nFor high-calibre IT professionals, partnering with us means gaining a decisive advantage in your career growth. We are your dedicated strategic talent advisor.\n1. IT Specialization & Expert Insight\n100% Focus on Vietnam Tech: Unlike generalists, we live and breathe the IT market, ensuring nuanced, technical understanding of your skills and career trajectory.\nData-Driven Advisory: We leverage proprietary AI & Data Talent Landscape intelligence to provide strategic advice on salary benchmarks and long-term career planning.\n2. Exclusive Opportunities Access\nThe Hidden Market: We exclusively manage Executive Search and confidential, high-impact Principal-level roles that are not advertised publicly.\nStrategic Matching: Our process uses data to match you with career moves that align perfectly with your potential, eliminating irrelevant noise.\n3. Confidentiality and Trust\nAbsolute Discretion: Your profile and information are handled with the highest level of confidentiality and are never shared without your explicit consent.\nLong-Term Partnership: We act as your trusted career consultant, maintaining relationships long after placement to ensure mutual, sustained success.\n4. Integrated Solution Power\nSeamless Network: Benefit from the combined power of Vietnam’s leading IT Job Board and our specialized Consulting arm, providing a single, comprehensive touchpoint for all top-tier opportunities.\nWe operate with principles of Straight Talk, Action Orientation, and Absolute Confidentiality, ensuring every IT professional is treated as a \"VIP\" (Very Important Person).",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg5OTkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--a6543d306293819ea2f1a6e0636a7b12b5ccc2c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20ITViec%20Recruitment%20Consulting%20(1).png",
+  "company_url": "/companies/itviec-recruitment-consulting",
+  "company_mo_ta": "ITviec Recruitment Consulting",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

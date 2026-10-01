@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-qc-engineer-api-testing-cong-ty-tnhh-nexlab-it-solutions-1526",
+  "tieu_de": "Senior QC Engineer API Testing",
+  "ten_cong_ty": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "QA QC",
+    "CI/CD",
+    "Cloud",
+    "k6",
+    "Playwright",
+    "API"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 20 đường Sông Thao",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 1,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Overview\nWe are looking for a QC Engineer to ensure product quality across backend, web, mobile, and desktop applications.\nThis role combines manual testing, API testing, automation, and performance testing integrated into CI/CD pipelines.\nYou will work closely with engineers to validate high-concurrency, realtime systems running on Kubernetes and AWS.\nResponsibilities\nDesign test cases, test plans, and regression test suites\nPerform manual and automated testing for web, mobile, desktop, and backend APIs\nConduct API testing using Postman \nConduct performance testing using k6 / Locust\nValidate systems using Kafka, Redis, realtime flows\nIntegrate automation tests into CI/CD (Github Actions)\nWork with developers to identify root causes and prevent defects\nMaintain test documentation and quality metrics",
+  "yeu_cau": "Requirements (Must-have)\n5+ years experience in QC (Prefer use AI Agent)\nStrong experience in API testing\nExperience with automation testing tools (Playwright)\nExperience with performance testing (k6 / Locust)\nExperience working in cloud / Kubernetes environment\nFamiliar with CI/CD pipeline integration\nNice to have\nKnowledge of security testing (TLS, certificates)\nExperience testing high-concurrency systems\nKnowledge of SOC2 / ISO standards",
+  "quyen_loi": "Work closely with modern backend systems and cloud infrastructure\nOpportunity to grow into Senior QA / QA Architect\nStrong automation & performance testing exposure",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NjEyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2daef7638bfe1f6fb7ebdcbd3e75a71e14258485/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nexlab%20IT.jpg",
+  "company_url": "/companies/cong-ty-tnhh-nexlab-it-solutions",
+  "company_mo_ta": "CÔNG TY TNHH NEXLAB IT SOLUTIONS",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

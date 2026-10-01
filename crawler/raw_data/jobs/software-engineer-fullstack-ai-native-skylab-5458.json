@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/software-engineer-fullstack-ai-native-skylab-5458",
+  "tieu_de": "Software Engineer Fullstack, AI-Native",
+  "ten_cong_ty": "SkyLab",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Fullstack",
+    "SQL",
+    "AI",
+    "Python",
+    "NodeJS",
+    "TypeScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 6, Robot Tower, 308 - 308C Điện Biên Phủ",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Location: Ho Chi Minh City, Vietnam (on-site)\nLevel: Mid to senior (5+ years building and running production software)\nLanguage: Strong written and spoken English\nReports to: VP of Engineering\nCompensation: Competitive base, performance bonus, equity participation\nThe role\nYou will work across our new and existing products and projects. You own the features you work on from the technical design to production. You receive the product requirements, write the technical specification, plan the build, estimate and commit to your own dates, build it, and stay with it until it works in production. Nobody writes the design for you, and nobody breaks the work into tickets for you.\nOur engineers use AI coding tools every day. We expect that. What we are hiring for is the judgement around the tools: deciding what to build and how before generating any code, breaking the work down, knowing when the output is wrong, and being accountable for everything that ships under your name, whoever or whatever wrote it.\nWe are not looking for someone who passes requirements to an AI tool and passes the result to review. We are looking for engineers who think the problem through, plan the work, and deliver it, and who use AI to do that faster.\nWhat you will do\nDesign and plan\nTurn product requirements into a technical specification: functional requirements, acceptance criteria, data model, service boundaries, state changes and failure cases.\nRaise time, feasibility and scope problems while the requirements are still being written, not after the build starts.\nPresent your design at architecture review, defend the decisions, and change it where the review finds real gaps.\nBreak the build into tasks with estimates in hours and due dates, and commit to them.\nBuild and deliver\nBuild the feature end to end, using AI tools where they help and your own judgement everywhere.\nKeep the specification current as the design changes during the build, so QA and other engineers always work from the real design.\nWrite tests that would fail if the behaviour were wrong. Passing tests and coverage numbers are the minimum, not proof that the code works.\nReview your own work before asking anyone else to, and attach the evidence when you merge: the tests, the results and what you checked.\nReport progress daily and raise a slip on the day you believe it, with what it affects and what you propose.\nDeploy, verify the feature works in production, and fix what breaks. Work is done when it is verified working in production, not when it is merged.\nWork with the team\nWork with the product manager and QA engineer on your feature from requirements to release.\nReview other engineers' code, including AI-generated code, with the same care as your own.\nDocument how the systems you build work, so the next engineer can pick them up.",
+  "yeu_cau": "What we look for\nIn priority order:\n1. You think and plan before you build. Given an unclear request, you ask the right questions, identify what is missing, and produce a plan that covers the data, the edge cases, the failure modes and how you will know it works, before you open an AI tool. You can show us specifications or designs you have written.\n2. You work independently. You take a problem from requirements to production without someone directing each step. When you are stuck, you come with options and a recommendation rather than a question alone. You deliver on the dates you commit to, and when you can't, you say so early.\n3. You use AI as a tool, not a substitute for understanding. You use Claude Code, Cursor, Copilot or similar every day, and you know where they fail: invented APIs and fields, wrong assumptions about data, race conditions, missing tenant or permission checks, tests that pass without checking anything. You can explain every line you ship. You can show us how AI tools have made you faster on real work, and how you caught them being wrong.\n4. You have shipped and run real systems. You have built software that is running in production and been responsible for it: debugging live problems, reading logs and metrics, fixing and writing up the cause. You can walk us through systems you have built and the decisions you made.\n5. You have strong engineering fundamentals. Data modelling, transactions and consistency, idempotency, retries and timeouts, queues and events, API design. You understand what happens when a network call fails halfway through.\n6. You write clearly. Specifications, merge request descriptions and status updates that are specific and easy to act on. Most of our coordination is written.\nRequirements\nBachelor's degree in Computer Science, Software Engineering or a related field\n5+ years professional software development, 3+ years on backend or full-stack services in production, with systems you designed and owned end to end\n3+ years TypeScript/Node.js or Python as primary language, 1+ year in the other\n2+ years SQL on PostgreSQL: schema design, migrations, indexing, transactions\nDesigned and owned an end-to-end data flow in production: API or webhook in, queue or sync, storage, consumer out\nProduction experience with a message queue (Kafka, RabbitMQ, SQS or similar), including idempotency and retries\nKubernetes troubleshooting of own services: kubectl, pod logs and events, rollouts\nStructured logging and metrics in production (Prometheus, Grafana, Loki or equivalent)\nTechnical specifications or design documents you wrote that others built or reviewed against, and can show\n6+ months daily use of AI coding tools on production code, with review and tests you wrote for the generated code\nGit with pull-request code review and CI\nStrong written and spoken English\nNice to have\nExperience with financial, accounting, e-commerce or marketplace systems, or integrations with third-party APIs.\nExperience with workflow orchestration (for example Kestra), Redis, or vector search.\nExperience building agent workflows, MCP servers or other AI tooling.\nFrontend experience with React.\nOpen-source contributions, a technical blog or side projects we can look at.",
+  "quyen_loi": "Hi-tech working environment\nYoung and dynamic colleagues\nInternational experience\n\nWhat you get\nCompetitive package\nProfessional working environment\nOpportunities to challenge and develop your career\nSocial insurance, health insurance, unemployment insurance as labor law stipulated\nPremium Healthcare.\nOpportunity to participate in stock option program.\nAnnual leave for 15 days.\nPublic holiday in accordance with the Vietnamese labour law",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjQwMDE1NywicHVyIjoiYmxvYl9pZCJ9fQ==--3a3ec266dff99ae1174e63b52f1cbdb058cfe2c5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image_2022_01_25T03_51_54_036Z.png",
+  "company_url": "/companies/skylab",
+  "company_mo_ta": "SkyLab believes in the connectivity and network of things",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

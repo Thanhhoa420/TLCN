@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-full-stack-developer-c-net-core-react-smartdev-llc-4209",
+  "tieu_de": "Senior Full-stack Developer C#, .NET Core, React",
+  "ten_cong_ty": "SmartDev LLC",
+  "ngay_dang_raw": "2026-09-30",
+  "han_ung_tuyen_raw": "2026-11-04",
+  "ky_nang": [
+    "Fullstack",
+    "Microservices",
+    "ReactJS",
+    "C#",
+    ".NET"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5th Floor, 19 Duy Tan, Zodiac Building",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,500 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As a Senior Full-Stack Engineer, you will be responsible for the end-to-end delivery of high quality applications. You will apply your deep expertise to define architectural blueprints and develop viable solution options, ensuring they align with defined functional and non-functional requirements. You will play a key role in governance and quality control, actively guiding peers on best practices, and ensuring robust technical planning. Crucially, you will collaborate directly with other cross-functional technology teams to ensure smooth integration and deployment of full-stack solutions.\nKey Responsibilities:\nDrive Technical Excellence by architecting, building, enhancing, and maintaining complex full-stack applications while proactively evaluating and integrating new technologies.\nEnsure Code Quality and Stability through rigorous code reviews and maintaining a stable, high-performance development and deployment environment.\nFull-Cycle Ownership including the analysis of business objectives to define and refine detailed functional and non-functional requirements.\nDesign and Implement end-to-end technical solutions for both functional and non functional needs, focusing on scalability, security, and performance.\nDevelop and Deploy high-quality, production-ready software solutions with comprehensive test coverage and minimal supervision.\nMaster Cloud Architecture by designing and implementing low-latency, high-availability, and fault-tolerant applications within the AWS ecosystem, leveraging technologies like C#, .NET Core, Node.js, and React.\nEstablish DevOps Pipelines by setting up and managing critical AWS resources, automating processes via CI/CD, and utilizing Infrastructure as Code (IaC) principles.\nMentor and Elevate junior and mid-level engineers by providing technical guidance, code assistance, and actively fostering their growth.\nChampion Collaboration by working proactively as part of a highly collaborative Agile team, supporting shared goals and influencing technical direction.\nCommunicate and Influence clearly and effectively across technical and non-technical audiences, articulating insights, technical plans, and ideas to cross-functional teams and management.\nOwn the Service Lifecycle (Build it, Own it, Run it) by taking end-to-end responsibility for the reliability, monitoring, and operational health of deployed services.",
+  "yeu_cau": "Strong proficiency with the following languages C#, .NET core, React.\nStrong in English communication.\n6+ years of experience in the IT industry, including at least 2 years delivering distributed solutions.\nGood knowledge of Microservices architecture and RESTful APIs\nAbility to design and build API-based and distributed, cloud-native solutions with AWS\nExperience working with RDBMS (Postgres or SQL Server)\nExperience working with automated testing frameworks\nExperience working with performance test automation tools\nStrong understanding of best practises, design patterns and standards\nUnderstanding fundamental design principles behind a scalable application\nRisk management and incident management knowledge.\nWorking knowledge of front-end technologies, such as HTML5 and CSS3 and React.\nUnderstanding accessibility and security compliance.\nUser authentication and authorization between multiple systems, servers, and environments.\nProficient understanding of code versioning tools, such as Git.\nAWS certifications (nice to have)",
+  "quyen_loi": "Good English Working Environment\nNew technologies\nCompetative salaries\n\nInternational working environment with AI-driven strategic direction.\n20 days of annual leave – Hybrid working mode.\nPremium healthcare package with PVI and comprehensive annual health check-ups\nCompetitive salary & 13th salary bonus\nLunch allowance to fuel your productivity.\nEngaging company culture with fun activities\nGlobal collaboration – Work with both Vietnamese and international colleagues.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUzNzIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--d60add8442fcb2bc0dfa164d66189156b0af53c3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/11178786.png",
+  "company_url": "/companies/smartdev-llc",
+  "company_mo_ta": "SmartDev LLC is an Agile Software Development Company.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

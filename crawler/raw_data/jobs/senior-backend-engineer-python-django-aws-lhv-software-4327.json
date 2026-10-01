@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-python-django-aws-lhv-software-4327",
+  "tieu_de": "Senior Backend Engineer - Python/Django AWS",
+  "ten_cong_ty": "LHV Software",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Python",
+    "AWS",
+    "DevOps",
+    "Django",
+    "SQL",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "GB Building, Floor 11, 78-80 Cach Mang Thang Tam, Xuan Hoa Ward ",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Competitive",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Backend Engineer to join a cloud-based financial reconciliation and data platform.\nThis position is suitable for an experienced backend engineer who has built reliable, large-scale systems and is ready to take ownership of architecture, engineering quality, and team technical direction.\nThe project primarily uses Python, Django, and AWS. We also welcome strong backend leaders coming from Java, Golang, or similar technology backgrounds who have solid system-design fundamentals and are comfortable working with or transitioning to Python, and fluent in English communication.\n \nLocation: Ho Chi Minh City, hybrid working.\n \nKey Responsibilities\nDesign, develop, and maintain scalable backend services and APIs using Python and Django\nBuild and maintain financial reconciliation data platform with AWS cloud services\nBuild reliable, secure, and high-performance enterprise applications that support business growth\nCollaborate with cross-functional stakeholders to translate business requirements into technical solutions and deliver products end-to-end\nParticipate in architecture discussions, code reviews, testing, deployment, and operational support\nLeverage modern AI-assisted development tools to improve engineering productivity and software quality\nContribute to engineering best practices, documentation, and continuous improvement initiatives",
+  "yeu_cau": "3–5 years of professional experience developing backend applications using Python and Django\nExperience building scalable, production-grade enterprise applications\nStrong experience with AWS services, including: SNS, SQS, API Gateway, Step Functions, S3\nExperience working with AI-powered development tools such as Claude Code and other modern AI engineering assistants\nProven ability to partner with stakeholders and deliver products from ideation through production deployment\nStrong communication and collaboration skills\nAbility to thrive in a fast-paced, collaborative environment\nPassion for software craftsmanship, maintainable system design, testing, observability, and continuous improvement\nFluent in English.",
+  "quyen_loi": "Attractive salary, Macbook pro is provided\nHealth care, PVI insurance, 15 days annual leaves\nFlexible WFH and in the office\n\nBenefits:\nFlexible working from home and in the office.\n15 days annual leaves, working Monday - Friday.\nMacBook pro is provided.\nAttractive salary and Fully paid Insurances.\n13th salary is paid before Lunar New Year.\nPremium Healthcare Insurance (PVI).\nAllowances: team building, sports activities, parking fees, and electricity/internet fees.\nTraining courses (English, IT, soft skill) are provided.\nAnnual Company trip (4 days including weekends).\nGoodLife program: Company trips (annually, quarterly), Clubs (Sports, etc.)\nAnnual health check-up.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTIxOTA4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccc95909366a3d5a25475b5932125bfd8e413e22/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo-lhv.png",
+  "company_url": "/companies/lhv-software",
+  "company_mo_ta": "LHV Software is a worldwide software development and outsourcing company",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

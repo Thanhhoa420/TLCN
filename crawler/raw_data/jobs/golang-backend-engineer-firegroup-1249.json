@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/golang-backend-engineer-firegroup-1249",
+  "tieu_de": "Golang Backend Engineer",
+  "ten_cong_ty": "FireGroup",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Golang",
+    "MongoDB",
+    "Kafka",
+    "Kubernetes",
+    "AWS Lambda"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Pearl Plaza, 561A Điện Biên Phủ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the Role\nWe are looking for a Backend Engineer with strong production experience in Go and practical AWS experience. You will own backend features from understanding the business problem through implementation, deployment, and ongoing improvement.\nYou will work closely with Product, Design, Frontend, and QA to make engineering decisions grounded in merchant needs. We value engineers who ask why a feature matters, choose practical solutions, and follow through on how their work performs in production.\nOur core stack includes Go, AWS, Kafka, MongoDB, and Kubernetes.\n \nWhat You Will Do\nBuild and maintain Go services, APIs, and integrations that support the product’s features and data workflows.\nOwn the design and implementation of backend modules. Discuss trade-offs with the team and contribute to broader architecture decisions.\nDevelop reliable asynchronous workflows, including web-hook and event processing, with appropriate handling of retries, duplicate events, and failures.\nMonitor services and investigate production issues using logs, metrics, and profiling. Improve latency, memory usage, database performance, and infrastructure efficiency.\nWrite maintainable, well-tested code. Participate in code reviews, document key decisions, and follow consistent Git and commit practices.\nPropose improvements based on user problems and operational evidence, then check whether the changes deliver the intended result.\nUse AI coding tools such as Claude Code to support development, testing, and documentation while taking responsibility for correctness and security.\nReview teammates’ pull requests for correctness, concurrency safety, performance, maintainability, and test coverage. Provide clear, actionable feedback and work with authors to resolve issues before merging.",
+  "yeu_cau": "Required qualifications\n3+ years of professional Go development experience, with Go used substantially in your recent backend work.\nStrong Go fundamentals, including goroutines, channels, synchronization, and memory management. You can explain how you have applied these concepts and investigated performance or reliability problems.\nPractical AWS experience building, deploying, and operating backend services. You can explain which services you used, your direct responsibilities, and how you monitored or troubleshot them.\nExperience developing REST APIs, working with databases, and writing automated tests, with attention to data correctness and maintainability.\nClear ownership of previous work and the ability to explain its impact on users, reliability, performance, or cost, with evidence where available.\nA product mindset: you seek to understand the problem, discuss trade-offs openly, and stay involved after release to improve the outcome.\nAbility to independently review teammates’ Go code, identify potential bugs and design trade-offs, and explain feedback constructively.\nPreferred experience\nKafka or similar messaging systems; MongoDB data modeling and query optimization; Docker and Kubernetes.\nAWS Lambda and serverless application development.\nSystem design, distributed systems, or SaaS and e-commerce integrations.\nFor Senior candidates, we additionally expect experience guiding technical decisions, reviewing designs, and mentoring engineers so the team can deliver more independently.",
+  "quyen_loi": "Make a global impact on merchants’ success\nDeepen your skills in a competitive SaaS market\nGrow with passionate talents for quality products\n\nAt the core of FireGroup is a deep desire to grow. We’re a passionate team with growth mindsets, turning what we do into a purpose. We’re always exploring how to apply world-class innovations and creative ideas to our work - so we can push further, conquer challenges, and go beyond limits.\n \nOur ultimate mission is to develop innovative products that comprehensively and effectively solve problems in e-commerce, making online business easy and sustainable for everyone. We believe that the spirit of daring to step up and our distinctive values are the greatest driving forces behind FireGroup's journey from a five-member startup to a team of over 200 colleagues, leading us to greater challenges and successes:\nCourage - Dare to step up\nGrowth - Grow beyond yesterday\nCreativity - Think differently\nOwnership - Own your work\nTeamwork - Get Stronger together\nTrust - Give trust, gain trust\nEmpathy - Walk in other's shoes\nAt FireGroup, our values don’t just live in documents - they live in us. They show up in every decision we make, every product we build, and every story our Firers share. Dive into real stories and everyday actions that bring our culture to life: firegroup.io/culture\n \nAnd that’s not all - we’ve got some great perks waiting for you, including:\nRewarding Compensation & Benefits\nCompetitive salary tailored to your skills and experience\n13th-month salary & seniority bonus\nAnnual salary reviews for outstanding contributions\n16 days of annual leave, with an extra day for 3+ years of service\nWork-from-home policy for pregnant employees\nPremium healthcare and annual health check\nSpecial occasion support: marriage, maternity bonuses, and birthday vouchers\nFestive gifts for holidays like Mid-Autumn and Lunar New Year\nFree coffee, tea, juice, and a wide range of snacks\nWell-equipped devices provided based on your role (MacBook/iMac/Macmini/Windows Laptop/Monitor)\nEmployee Stock Option Program offer for key contributors\nFast-track Growth:\nGain exceptional experience by building world-class products used by hundreds of thousands of merchants globally\nBuddy Program to guide and support you throughout your onboarding journey\nRegular seminars and workshops to sharpen both technical and soft skills\nAccess to Udemy, internal e-learning platform tailored to your growth\nRecognition programs that celebrate your outstanding contributions\nEngagement Activities:\nSports Club: Football, Badminton, Yoga\nGym area available onsite\nMonthly/Quarterly team bonding events across business units\nSignature company events: Company Trip, Year-End Party, New Year Kick-off, Women’s Day, Christmas, and Quarterly Town Halls - all designed to celebrate and connect our people.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQxODgzMywicHVyIjoiYmxvYl9pZCJ9fQ==--20901400eaf57e70b774a7ff0b762371abe9e1d8/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20full%20red%20dung.png",
+  "company_url": "/companies/firegroup",
+  "company_mo_ta": "FIREGROUP TECHNOLOGY",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/technical-architect-microservices-api-docker-ci-cd-sacombank-4954",
+  "tieu_de": "Technical Architect Microservices, API, Docker, CI/CD",
+  "ten_cong_ty": "SACOMBANK",
+  "ngay_dang_raw": "2026-09-30",
+  "han_ung_tuyen_raw": "2026-11-04",
+  "ky_nang": [
+    "Software Architecture",
+    "CI/CD",
+    "Kubernetes",
+    "Docker",
+    "API",
+    "Microservices"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Nam Ky Khoi Nghia",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Technical Architect (TA) tham gia thiết kế kỹ thuật cho các ứng dụng/nghiệp vụ ngân hàng số, chuyển yêu cầu nghiệp vụ thành giải pháp có thể triển khai, đồng thời phối hợp với Solution Architect, DEV, Integration, DevOps, Infrastructure và Security để đảm bảo hệ thống ổn định, bảo mật và có khả năng mở rộng.\nTrách nhiệm chính\nPhân tích yêu cầu và thiết kế kỹ thuật cho ứng dụng/module, API, microservices và các luồng tích hợp hệ thống.\nXây dựng/review tài liệu thiết kế: solution/technical design, sequence diagram, data flow, API specification và deployment/integration diagram.\nReview giải pháp kỹ thuật, hỗ trợ DEV/TEST xử lý technical blocker, lỗi tích hợp và các vấn đề phát sinh trong SIT/UAT/production.\nPhối hợp với DevOps, Infrastructure và Security trong triển khai CI/CD, container/Kubernetes, monitoring và các yêu cầu an toàn bảo mật.\nTham gia tối ưu hiệu năng, khả năng chịu tải, độ sẵn sàng; hỗ trợ phân tích nguyên nhân sự cố (RCA) và đề xuất phương án khắc phục.\nHướng dẫn kỹ thuật cho Developer, đảm bảo việc triển khai tuân thủ thiết kế và tiêu chuẩn công nghệ của ngân hàng",
+  "yeu_cau": "Tốt nghiệp đại học chuyên ngành Công nghệ thông tin.\nCó 3–5 năm kinh nghiệm phát triển phần mềm; ưu tiên Senior Developer/Technical Lead/Technical Architect hoặc vai trò tương đương.\nCó năng lực thiết kế ứng dụng và hệ thống; hiểu microservices, REST API, giao tiếp đồng bộ/bất đồng bộ, event-driven và distributed system.\nCó kinh nghiệm với API Gateway/API Management; ưu tiên WSO2 hoặc nền tảng tương đương.\nCó kiến thức hoặc kinh nghiệm với Docker, Kubernetes, CI/CD, database và các công cụ logging/monitoring.\nHiểu các nguyên tắc bảo mật ứng dụng/API như OAuth2, OIDC, JWT, MFA, encryption và OWASP; kinh nghiệm ngân hàng/fintech/payment là lợi thế.\nCó khả năng phân tích vấn đề, làm việc đa bên, trình bày và bảo vệ phương án thiết kế kỹ thuật rõ ràng; chủ động, trách nhiệm và có tinh thần ownership.\nƯu tiên ứng viên có kinh nghiệm triển khai Digital Banking, Mobile Banking hoặc hệ thống giao dịch quy mô lớn.",
+  "quyen_loi": "Ngân hàng TMCP hàng đầu\nLộ trình thăng tiến rõ ràng, minh bạch\nCơ hội được đào tạo, phát triển kỹ năng chuyên sâu\n\nCHẾ ĐỘ ĐÃI NGỘ:\nThời gian làm việc từ thứ 2 đến thứ 6\nThưởng tháng 13, thưởng thành tích công việc, thưởng kết quả kinh doanh,….\nThưởng vào các dịp Lễ, Tết, sinh nhật ngân hàng,…\nTham gia bảo hiểm đầy đủ theo quy định.\n12 ngày phép/năm và các chế độ nghỉ theo chính sách ngân hàng.\nHỗ trợ chi phí gửi xe, chi phí đồng phục.\nChế độ nghỉ mát hàng năm.\nƯu đãi sử dụng sản phẩm, dịch vụ của ngân hàng: Miễn phí thường niên thẻ tín dụng, vay ưu đãi,…\nKhám sức khỏe định kỳ hàng năm.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU3MzU1MCwicHVyIjoiYmxvYl9pZCJ9fQ==--3808e9337630a66608ed9656d4d5741f79c08b72/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Avt%20Sacombank%20Facebook-01%201.jpg",
+  "company_url": "/companies/sacombank",
+  "company_mo_ta": "Đồng hành cùng phát triển",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

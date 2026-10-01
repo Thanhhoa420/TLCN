@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/cloud-devops-engineer-azure-aws-euroland-asia-5213",
+  "tieu_de": "Cloud DevOps Engineer Azure, AWS",
+  "ten_cong_ty": "Euroland Asia",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Azure",
+    "Docker",
+    "Cloud",
+    "AWS",
+    "DevOps",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà Fafim Việt Nam, 19 Nguyễn Trãi",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Up to $2000",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "You will join a dynamic and experienced engineering team, operating and evolving cloud infrastructure and SaaS platforms that serve more than 1,000 leading global corporations, including Vodafone, Nokia, Shell, Carlsberg, NTT, Sony, Mitsubishi, Samsung, and many others.\nYou will work directly with production systems at global scale, spanning on-premise infrastructure and public cloud environments, and actively participate in our transition toward cloud-native architectures.\nYou will research, learn, and apply modern Cloud, DevOps, and CI/CD technologies, contributing to building secure, scalable, and high-performance platforms for our financial and Investor Relations products.\nKey Responsibilities:\nOperate and manage hybrid infrastructure, including:\nOn-premise servers and data center systems\nCloud infrastructure on Azure and/or AWS\nDeploy, manage, and optimize Cloud and PaaS services, such as:\nManaged compute: Azure App Service, Functions, Container Apps, VMs (AWS EC2, Lambda, ECS or equivalents)\nDatabases and storage: Azure SQL, Blob Storage (AWS RDS, S3 or equivalents)\nNetworking: Azure Front Door, VNET, DNS (AWS CloudFront, VPC, Route 53)\nParticipate in migrating systems from on-premise or VM-based deployments to cloud-native and PaaS solutions\nDesign, provision, and maintain infrastructure using Infrastructure as Code (IaC) tools (Terraform, Azure Bicep, ARM templates, or AWS CloudFormation).\nDesign, maintain, and improve CI/CD pipelines (Azure DevOps, GitLab CI, etc.)\nIntegrate DevSecOps security practices into pipelines, including automated code scanning, dependency checks, and secret management (Azure Key Vault, HashiCorp Vault). \nImplement and manage Observability solutions, including continuous monitoring, centralized logging, and alerting systems\nWork closely with development teams to support build and deployment processes\nMonitor systems, troubleshoot incidents, and optimize performance, availability, and cost\nApply best practices in:\nCloud architecture and operations\nSecurity, IAM, networking, and SSL/TLS\nWrite technical documentation and contribute to continuous process improvement",
+  "yeu_cau": "At least 2 years of experience in one or more of the following roles: Cloud Engineer, Platform Engineer, DevOps Engineer\nHands-on experience with at least one of major cloud platforms: Azure or AWS (Azure is preferred, AWS experience is fully acceptable)\nSolid understanding of:\nVirtual machines, networking, DNS, load balancing\nLinux and Windows server administration\nProficient with major CI/CD tools & GitOps: Azure DevOps, GitHub Actions, GitLab CI, Jenkins, or ArgoCD.\nProficient scripting skills: Bash, PowerShell, Python, or equivalent\nExperience with containers (Docker, Container Apps, AKS, ECS, etc.)\nExperience with CI/CD pipelines, deployment automation, and basic DevSecOps practices (SonarQube, Snyk, Trivy, etc.).\nStrong learning mindset, proactive attitude, and good teamwork skills.*** Preferred Qualifications:\nCloud certifications (Azure or AWS) are a plus\nPractical experience with Infrastructure as Code (IaC) tools, particularly Terraform or Bicep/CloudFormation.\nFamiliarity with monitoring, logging, and APM tools (Prometheus, Grafana, ELK, Datadog, Azure Monitor, or AWS CloudWatch)\nGood English communication skills.",
+  "quyen_loi": "Lương, thưởng và các chế độ đãi ngộ hấp dẫn\nMôi trường chuyên nghiệp, khóa đào tạo nâng cao\nDu lịch, team building, gói bảo hiểm sức khỏe\n\nCompetitive salary and benefits, based on experience and capability. Regular salary reviews every 6–12 months, aligned with performance and contributions. 13th-month salary and bonuses for public holidays and Lunar New Year.\nOpportunities to join company-sponsored training programs, including English language courses, technical training, and professional skill development aligned with job requirements. Opportunities for overseas onsite work, conferences, workshops, and training.\nWork on international-scale projects, with opportunities for business trips and training both domestically and abroad.\nProfessional working processes in a modern, open, and creative environment with a young, dynamic team.\nMultinational working environment, collaborating directly with colleagues from different countries.\nCompany trips and vacations twice per year, along with regular team-building activities such as weekly tea breaks, football, billiards, games, camping, and other social events.\nParticipation in a premium health insurance package.\nAnnual health check-ups and full social insurance coverage based on 100% of gross salary.\nMonday to Friday flexible working schedule\nA commitment to long-term, stable employment.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjg2MDg4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--1fbf0b23de653c64382c329a484b57a92959880e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Eurloand_LogoFamily_Symbol-01.png",
+  "company_url": "/companies/euroland-asia",
+  "company_mo_ta": "Euroland IR Vietnam - Công ty phần mềm tài chính, quan hệ nhà đầu tư hàng đầu đến từ Châu Âu",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

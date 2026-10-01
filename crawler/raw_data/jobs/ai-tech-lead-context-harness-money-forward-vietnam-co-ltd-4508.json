@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-tech-lead-context-harness-money-forward-vietnam-co-ltd-4508",
+  "tieu_de": "AI Tech Lead Context Harness",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "AI",
+    "RAG",
+    "LLM",
+    "Generative AI",
+    "Agentic AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role overview\nThe Context & Harness Committee is moving from strategy to execution. We are seeking three hands-on AI Tech Leads to define and validate our context engineering standards and evaluation harness before company-wide rollout.\n Core responsibilities\nLead the technical design and delivery of the assigned Context and Harness workstreams\nReview context formats, ontology models, harness proposals, and integration approaches.\nSupport pilot teams across MFBS divisions with context conversion, fixture authoring, and evaluation.\nDefine how GitHub, Notion, and Slack content maps into the agent context engine.\nEstablish guidelines for federated context routing and token-budget allocation across sources.\nContribute to an ontology proof of concept covering one domain and one workflow using YAML-based schemas.\nValidate integration with internal or external agent platforms, including access and smoke testing.\nCapture pilot evidence and contribute to the standard and company best-practices package.",
+  "yeu_cau": "Required skillsContext engineering skills\nRAG and retrieval pipelines: Design advanced search and retrieval systems that supply models with accurate, relevant, and timely information.\nContext-window and token management: Compress conversation history, prioritize useful context, and filter noise to optimize model attention and cost.\nMemory architecture: Build short-term and persistent memory systems that allow agents to retain state across tasks and interactions.\nInstruction curation: Structure plain-English operating rules, Markdown files, domain guides, and other instructions for dynamic injection into agent tasks.\nContext formats and knowledge modeling: Design context layers and reusable knowledge assets using Markdown, YAML, schemas, and related formats.Harness engineering skills\nTool and MCP integration: Connect models to external APIs, execution environments, tools, and Model Context Protocol (MCP) servers.\nSandboxing and permissions: Define safety boundaries, access controls, approval flows, and secure execution environments for agent actions.\nValidation and guardrails: Implement linters, automated tests, evaluations, and verification layers that detect hallucinations, policy violations, or broken code.\nOrchestration and control loops: Design multi-step workflows, retry logic, state transitions, and error-correction loops for long-horizon tasks.\nEvaluation harnesses: Build fixtures, benchmark tasks, quality gates, and CI-integrated evaluations using DeepEval, Promptfoo, or comparable frameworks.Supporting technical and leadership skills\nLLM and agent fundamentals: Strong understanding of agent workflows, RAG, evaluation methods, and quality gates for AI-generated output.\nSoftware engineering: Strong Git/GitHub and CI practices, experience with repo-native tooling, and the ability to prototype quickly.\nTechnical leadership: Ability to make pragmatic architecture decisions, lead POCs, and turn evidence into reusable standards.\nCommunication: Ability to write clear technical proposals and provide constructive cross-team review and feedback.\nExperience with ontology or knowledge modeling using YAML-based schemas.\nFamiliarity with internal or external agent platforms.\nExperience with hybrid search, indexing pipelines, or context freshness mechanisms.Success outcomes\nContext architecture, format, and evaluation standards are validated through representative pilots.\nPilot teams can convert source knowledge and author evaluation fixtures using documented playbooks.\nA working repo-native harness POC demonstrates repeatable benchmark execution and quality gates.\nThe committee has sufficient evidence to ratify the standard and decide whether to adopt or build the long-term harness.",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

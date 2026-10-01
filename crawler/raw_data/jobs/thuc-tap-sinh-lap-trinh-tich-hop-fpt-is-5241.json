@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/thuc-tap-sinh-lap-trinh-tich-hop-fpt-is-5241",
+  "tieu_de": "Thuc tap sinh Lap trinh tich hop",
+  "ten_cong_ty": "FPT IS",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "Java",
+    "JSON",
+    "Database",
+    "OOP",
+    "NodeJS"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "Keangnam Landmark 72, E6 Pham Hung",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Tham gia phát triển và tích hợp các hệ thống phần mềm trong các dự án chuyển đổi số.\nHỗ trợ xây dựng, phát triển và kết nối API/Web Service giữa các hệ thống.\nTham gia phát triển các module backend theo yêu cầu của dự án.\nHỗ trợ kiểm thử, xử lý lỗi và tối ưu các chương trình tích hợp.\nPhối hợp với các thành viên trong team để phân tích yêu cầu và triển khai giải pháp.",
+  "yeu_cau": "Sinh viên năm 3, năm 4 hoặc mới tốt nghiệp các ngành: Công nghệ thông tin, Khoa học máy tính, Kỹ thuật phần mềm, hoặc các ngành liên quan.\nCó kiến thức cơ bản về lập trình với một trong các ngôn ngữ: Java / JavaScript / Node.js / Python.\nCó kiến thức cơ bản về OOP, Database và SQL.\nHiểu biết cơ bản về REST API, HTTP, JSON/XML là lợi thế.\nCó tư duy logic, khả năng tự học và tinh thần chủ động.\nCó khả năng làm việc nhóm và chịu được áp lực công việc.",
+  "quyen_loi": "Nhiều dự án lơn và công nghệ mới theo xu hướng 4.0\nMôi trường làm việc năng động, thân thiện\nNhiều phúc lợi và lương thưởng hấp dẫn\n\nĐược đào tạo và hướng dẫn về System Integration, API, Microservices và quy trình phát triển phần mềm.\nĐược định hướng chuyên môn sớm, được đào tạo kỹ năng, nghiệp vụ bởi các kỹ sư, chuyên gia giàu kinh nghiệm và thực hành trực tiếp trong các dự án lớn.\nTrải nghiệm môi trường văn hóa FPT trẻ trung, năng động, hiện đại và văn hóa doanh nghiệp giàu bản sắc.\nXem xét lộ trình trở thành cộng tác viên, nhân viên chính thức sau 3 tháng thực tập.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njc5Mzk0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--1b0ad76f35fab863d1005afb348fd6d1f47ab3cb/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/z7198274729522_eef0f7d9c19666cac93f22a3189db145.jpg",
+  "company_url": "/companies/fpt-is",
+  "company_mo_ta": "Co- create the next!",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

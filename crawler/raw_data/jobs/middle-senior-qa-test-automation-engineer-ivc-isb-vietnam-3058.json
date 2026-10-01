@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-qa-test-automation-engineer-ivc-isb-vietnam-3058",
+  "tieu_de": "Middle - Senior QA Test Automation Engineer",
+  "ten_cong_ty": "IVC (ISB Vietnam)",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Automation Test",
+    "English",
+    "Docker",
+    "TypeScript",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Etown 2, 364 Cong Hoa",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, build, and maintain scalable automated test frameworks covering unit, integration, and end-to-end (E2E) testing scenarios.\nBuild comprehensive test suites targeting API layers (REST, WebSockets), real-time data pipelines, and interactive frontend workflows.\nIntegrate automated test suites directly into continuous delivery pipelines (e.g., GitHub Actions, GitLab CI, Jenkins) for instant build validation and automated quality gates.\nPartner directly with software engineers and product managers during design phases to define clear acceptance criteria and platform testability requirements.\nContribute to non-functional, load, stress, and conformance testing as the platform approaches go-live milestones to ensure high availability and sub-second latency.\nTrack, document, and report on automated test coverage, regression defect trends, and root-cause analyses.",
+  "yeu_cau": "At least 3 years of hands-on experience in software quality engineering with a heavy focus on Test Automation.\nExperience building object-oriented or modular automated test frameworks from scratch using Python or TypeScript (e.g., PyTest, Playwright, Cypress, or custom API test harnesses).\nStrong experience testing backend service interfaces and real-time protocols, including RESTful APIs and WebSockets.\nHands-on experience embedding automated tests into CI/CD pipelines and working with containerized testing environments (Docker).\nDeep theoretical and practical mastery of testing methodologies: boundary value analysis, integration contracts, component mocking, and test pyramid strategies.\nExcellent written and verbal English communication skills for collaborating with distributed engineering teams and writing clear technical documentation. 🔹 Preferred Skills & Qualifications\n \nExperience with high-throughput load and performance testing tools such as Locust, k6, Gatling, or JMeter.\nFamiliarity with testing event-driven or real-time streaming architectures (e.g., Apache Kafka, RabbitMQ, WebSockets).\nComfortable developing, debugging, and running test suites within Linux-based operating systems and container networks.\nBackground in financial technology (Fintech), capital markets, trading platforms, or regulated software environments.",
+  "quyen_loi": "Premium Healthcare package insurance\n13th month salary, Performance bonus\n16 days annual leave\n\n-      Competitive salary and benefits including Premium Healthcare package insurance\n-      13th month salary, Performance bonus\n-      16 days annual leave\n-      Comprehensive Training Courses (Languages, Technical and Soft-skill)\n-      Language Certificate allowance (TOIEC and Japanese)\n-      Lunar New Year gifts\n-      Lunch and bus/ parking allowance\n-      Fun team activities and outings\n-      Sponsored happy hour and sport clubs\n-      Comfortable work space and friendly colleagues",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NTQ4LCJwdXIiOiJibG9iX2lkIn19--48fa16dfe2f44b393d0209c7d00d5d94e5ebbfca/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/isb-vietnam-company-logo.jpg",
+  "company_url": "/companies/ivc-isb-vietnam",
+  "company_mo_ta": "ISB Vietnam Company Limited was established in 2003 with 100% investment of ISB Corporation",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

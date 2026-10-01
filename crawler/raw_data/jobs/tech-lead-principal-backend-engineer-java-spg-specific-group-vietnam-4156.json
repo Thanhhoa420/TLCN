@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/tech-lead-principal-backend-engineer-java-spg-specific-group-vietnam-4156",
+  "tieu_de": "Tech Lead/Principal Backend Engineer Java",
+  "ten_cong_ty": "SPG (Specific Group Vietnam)",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Java",
+    "Azure",
+    "Spring Boot",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "19 Cao Thắng",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Our Europe product team is looking for Principal/Technical Leader Backend Engineers:\nDevelop and maintain robust, high-performing microservices using Java Spring Boot.\nDesign and implement scalable and distributed solutions to meet complex business requirements.\nUtilize PostgreSQL for database management and integration within services.\nWork collaboratively with stakeholders to analyze requirements, propose solutions, and ensure alignment with business goals.\nDevelop comprehensive testing strategies, including unit and integration testing, to ensure reliable and secure applications.\nLeverage public cloud platforms such as Azure for deploying and scaling applications.\nEnsure code quality and maintainability by following best practices and conducting regular code reviews.",
+  "yeu_cau": "Fluent in English\n7+ years of experience in Java development with a deep knowledge of the Spring Boot framework.\nExcellent coding ability — candidates will be assessed through a practical live coding test during the interview process\nExperience leading a small engineering team (2–3 members) or serving as a Technical Lead, including task delegation, code review, and driving technical decisions\nStrong understanding of PostgreSQL and database design principles.\nProven track record of developing microservices and distributed systems.\nFamiliarity with public cloud services (AWS/Azure), including management and configuration.\nExcellent problem-solving skills and the ability to work independently or as part of a team.",
+  "quyen_loi": "Hybrid Work (3 days/ week WFH)\nInternational environment\nChallenging Project\n\nWorking time: Monday-Friday 9:00-18:00 (Flexible & Hybrid) (max 3 days WFH/week)\nAnnual personal review meeting\nFull payment during probation period\nFull 13th salary\n12 annual leaves\nCompany trip\nGifts on the special events.\nMonthly team bonding.\nFull Equipment for your work",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTE3MDA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--77dc367ba3faeacc7191e34480454c08daba88e4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20(1)%20-%20Linh%20Nguyen.png",
+  "company_url": "/companies/spg-specific-group-vietnam",
+  "company_mo_ta": "SPG (Specific Group Vietnam)",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

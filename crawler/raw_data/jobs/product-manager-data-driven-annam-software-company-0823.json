@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/product-manager-data-driven-annam-software-company-0823",
+  "tieu_de": "Product Manager Data-Driven",
+  "ten_cong_ty": "Annam Software Company",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Product Management",
+    "CRM",
+    "Data Analysis",
+    "Team Management",
+    "SQL",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Sunwah Innovation Center, 90 Nguyễn Hữu Cảnh, Phường 22",
+  "quan_huyen": "Quận Bình Thạnh",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,500 - 3,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are Annam Software – a 100 % foreign-owned product house building the next-generation Omnicasa property CRM for the European market. Our legacy web (Vue 2) and Windows desktop apps still serve 3000+ agents, but we’re rebuilding everything. To move fast and smart we need a Product Manager who lives inside PostHog, turns events into insights, and tells us exactly which features make the cut for MVP-1. If you love SQL, funnels, cohorts, and saying “let the data decide”, read on.\n \nSalary up to 100 million VND",
+  "yeu_cau": "What you will own\nPostHog end-to-end: architect taxonomy, instrument events, set up feature flags, create dashboards, build cohorts, own data quality.\nDefine North-Star metric and 3–5 key drivers for the new CRM; review weekly with execs.\nRun weekly growth experiments: hypothesis → PostHog A/B → readout → ship/roll-back.\nLead migration roadmap: audit legacy apps, map user flows, prioritise must-have vs nice-to-have features for the new front-end\nWrite concise PRDs with clear success metrics (measurable in PostHog).\nCollaborate with different teams (FE, BE, QA, Design, Customer Success) in Linear + Confluence; run sprints, groom backlogs, cut scope ruthlessly.\nTalk to EU agents, summarise pain points, feed into backlog.\nPresent data-backed recommendations to stakeholders.\nWhat you must bring\n4 + years as a SaaS product manager or growth PM; B2B CRM / Prop-Tech experience is a big plus.\nExpert-level PostHog skills: events, autocapture, feature flags, SQL insights, cohorts, experiments.\nProven record of moving legacy products to modern stacks while protecting revenue.\nExperience writing perfect and understandable documentation for your product\nComfortable writing basic SQL and reading JSON API payloads.\nAgile native: user stories, story mapping, OKRs, Scrum/Kanban.\nExcellent English (speak & write);\nNice to have\nExperience with Tauri / Electron desktop migration.\nWorking knowledge of Node, REST & GraphQL to mock quick fixes.\nUX eye – can whip up a quick Figma wireframe when designers are busy.",
+  "quyen_loi": "Multiple platforms - Techologies - More Challenges\nWork with large CMR Software and 500+ Customers\nOpportunities to travel/work to the U.S, EU\n\nWhat we give back\nVery competitive salary:\n13th-month salary\nPremium health insurance\nLaptop provided\nFlexible time\nFlat culture, no dress code, data > hierarchy.\nLabor contract, social insurance, unemployment insurance are fully based on Vietnamese law.\nReady to retire our legacy apps with data as your wrecking ball?\nSend your CV (English) + preferably a PostHog dashboard (or any equivalent analytics tool) screenshot or Loom walkthrough to us.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU5MjMyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--812b03a8fe53fad9a7ef649c8b2d07a8cf50c524/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/fulllogo_nobuffer.jpg",
+  "company_url": "/companies/annam-software-company",
+  "company_mo_ta": "Annam Software",
+  "job_expertise": [
+    "Product Manager"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

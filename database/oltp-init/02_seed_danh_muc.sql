@@ -3,6 +3,8 @@
 -- ============================================
 
 -- Chuyên môn IT
+-- ('Game Developer', 'Software/Solution Architect', 'Embedded/IoT Engineer' và 'Khác' là mới:
+--  'Khác' chứa các tin không map được vào chuyên môn nào)
 INSERT INTO danh_muc_chuyen_mon_it (ten_chuyen_mon) VALUES
 ('Backend Developer'),
 ('Frontend Developer'),
@@ -18,9 +20,14 @@ INSERT INTO danh_muc_chuyen_mon_it (ten_chuyen_mon) VALUES
 ('UI/UX Designer'),
 ('AI/Machine Learning Engineer'),
 ('Project Manager IT'),
-('Security Engineer');
+('Security Engineer'),
+('Game Developer'),
+('Software/Solution Architect'),
+('Embedded/IoT Engineer'),
+('Khác');
 
 -- Địa điểm (tỉnh/thành)
+-- Đã bỏ 'Remote': làm remote thuộc "hình thức làm việc", không phải địa điểm
 INSERT INTO danh_muc_dia_diem (ten_tinh_thanh, khu_vuc) VALUES
 ('TP. Hồ Chí Minh', 'Miền Nam'),
 ('Hà Nội', 'Miền Bắc'),
@@ -30,8 +37,7 @@ INSERT INTO danh_muc_dia_diem (ten_tinh_thanh, khu_vuc) VALUES
 ('Đồng Nai', 'Miền Nam'),
 ('Hải Phòng', 'Miền Bắc'),
 ('Huế', 'Miền Trung'),
-('Khánh Hòa', 'Miền Trung'),
-('Remote', 'Toàn quốc');
+('Khánh Hòa', 'Miền Trung');
 
 -- Kinh nghiệm
 INSERT INTO danh_muc_kinh_nghiem (mo_ta, so_nam_min, so_nam_max) VALUES
@@ -58,19 +64,19 @@ INSERT INTO danh_muc_hinh_thuc_lam_viec (ten_hinh_thuc) VALUES
 ('Hybrid');
 
 -- Loại hình làm việc (LOẠI HỢP ĐỒNG: khác với hình thức làm việc ở trên)
--- Nguồn: employmentType (JSON-LD, ITviec) + filter "Loại hình làm việc" (TopCV)
+-- Nguồn: employmentType (JSON-LD, ITviec)
 INSERT INTO danh_muc_loai_hinh_lam_viec (ten_loai_hinh) VALUES
 ('Full-time'),
 ('Part-time'),
 ('Internship'),
 ('Contract');
 
--- Cấp bậc / seniority level
--- Nguồn: filter "Level" (ITviec) + filter "Cấp bậc" (TopCV)
+-- Cấp bậc / seniority level ('Middle' là mới)
 INSERT INTO danh_muc_cap_bac (ten_cap_bac) VALUES
 ('Internship'),
 ('Fresher'),
 ('Junior'),
+('Middle'),
 ('Senior'),
 ('Manager');
 

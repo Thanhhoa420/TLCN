@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-lead-php-developer-symfony-english-ekino-vietnam-4657",
+  "tieu_de": "Senior/ Lead PHP developer Symfony, English",
+  "ten_cong_ty": "ekino Vietnam",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Symfony",
+    "MariaDB",
+    "OOP",
+    "SOLID Principles",
+    "PHPUnit",
+    "PHP"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Emporium, 3rd Floor, 184 Le Dai Hanh",
+  "quan_huyen": "Quận 11",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Attractive salary!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job description\nDesign, test, and maintain robust PHP applications that meet business and technical requirements.\nProduce clean and maintainable code while adhering to coding standards, security best practices, and software engineering principles.\nCollaborate with cross-functional teams to design scalable architectures and integration solutions.\nImplement automated testing, code quality controls, and CI/CD practices to ensure reliable software delivery.\nTroubleshoot and resolve complex issues related to application performance, system integrations, databases, and production environments.\nOptimize application performance through caching, database tuning, and system monitoring.\nParticipate in code reviews, technical design discussions, and architecture decisions to continuously improve product quality.\nResearch, evaluate, and adopt new technologies and best practices to enhance development processes and technical capabilities.\nMentor and support team members in solution design and coding issues; and evaluate their performance.",
+  "yeu_cau": "Desired Skills and Experience\n5+ years’ experience in PHP 8.x development (ideally 8.4/8.5) and OOP, applying modern architecture concepts (dependency injection, service containers, event-driven design, modular components, and middleware pipelines).\nProficient in Symfony (5.4 up to 7.4) to build scalable and high-performance applications.\nHands-on experience with testing and code quality tools: PHPUnit, PHPStan, PHP CS Fixer, and Sonar.\nSolid understanding of web technologies and HTTP protocols, including CORS, HTTP headers, authentication, authorization, API communication standards, and web application security best practices.\nComfortable working on macOS/Linux with shell and CLI tools.\nExperience developing RESTful APIs, microservices, and API-first solutions in distributed environments.\nStrong skills in performance optimization and caching strategies (Redis, HTTP caching); experience with Varnish, Nginx, or PHP-FPM is a plus.\nUnderstanding of application architecture, design patterns, and best practices (clean code, SOLID; DDD and CQRS are a plus).\nExperience with relational databases (MariaDB/MariastgreSQL), including database management, query optimization, schema design, and data import/export.\nExperience working with Docker, FrankenPHP, MariaDB, Redis, and AWS services.\nFamiliar with Jira, Confluence, GitHub and CI/CD workflows.\nGood communication in English, written and spoken.\nDemonstrated leadership, collaboration, and problem-solving skills, with the ability to think strategically while staying hands-on.\nNice-to-have skills:\nExposure to MuleSoft integration platform.",
+  "quyen_loi": "Challenging projects\nHigh-skilled and passionate team\nGreat-place-to-work activities\n\nAttractive salary and bonuses (Annual and Performance Bonus)  \nEnsure private healthcare insurance package, yearly medical check-up, support allowance...\nTotal 24 days of paid annual leave \nHigh-ownership working environment, challenging projects, on-the-job coaching, and training programs\nClear career path: define your career development with long-term vision\nGreat-place-to-work activities (company trips, sports clubs...)\n---\nThank you for your time and enthusiasm in our career opportunities.\nPlease kindly note that shortlisted candidates will be contacted within 3 weeks of application. Alternatively, we will reach out to you when another suitable chance arises in the future.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0OTA4MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ba98068d549ad7571c041812d8c93c02d1fd5d8f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Havas%20CX%20ekino%20-%20Red%20black.png",
+  "company_url": "/companies/ekino-vietnam",
+  "company_mo_ta": "French Digital Transformation Agency",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

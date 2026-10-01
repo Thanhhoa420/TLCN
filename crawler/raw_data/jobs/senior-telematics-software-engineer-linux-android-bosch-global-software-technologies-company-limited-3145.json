@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-telematics-software-engineer-linux-android-bosch-global-software-technologies-company-limited-3145",
+  "tieu_de": "Senior Telematics Software Engineer Linux / Android",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "C++",
+    "RTOS",
+    "English",
+    "Android",
+    "Linux",
+    "Embedded"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Bosch is looking for Senior Telematics Software Engineers to develop next-generation connected vehicle solutions across Commercial Vehicle / Off-Highway and Passenger Car programs.\nDepending on your technical expertise, you will work primarily in one of two areas: Embedded Linux/RTOS or Embedded Android/AOSP. You are not required to be an expert in both.\nWhat You’ll Do\nDesign, develop and maintain embedded software for Telematics Control Unit (TCU) platforms.\nDevelop vehicle communication and diagnostic functions using CAN/CAN-FD, J1939, UDS, DoIP and related automotive protocols.\nDevelop connectivity features including 4G/5G, GNSS, MQTT/HTTPS and cloud communication.\nDevelop and maintain OTA (FOTA/SOTA), remote diagnostics and vehicle data services.\nPerform software integration, debugging, testing and vehicle-level validation.\nCollaborate with global OEM customers, platform, cloud/backend and hardware teams.\nDepending on your expertise, contribute to either:\nEmbedded Linux/RTOS: Linux-based TCU development, Yocto/Buildroot and embedded platform integration; OR\nEmbedded Android/AOSP: AOSP/Android Automotive, HAL/VHAL, AIDL/HIDL, Android System Services and Linux-to-Android platform migration.",
+  "yeu_cau": "What You Need\nBachelor's or Master's degree in Computer Science, Electrical/Electronics Engineering or related field.\n5+ years of experience in Embedded Software, Automotive, Telematics or related fields.\nStrong programming skills in C/C++.\nGood understanding of embedded systems and software development.\nExperience with automotive communication protocols such as CAN/CAN-FD, UDS, DoIP or J1939.\nExperience with connectivity, diagnostics, OTA or telematics is highly preferred.\nFamiliarity with Git, CI/CD and embedded debugging/testing tools.\nWe welcome candidates with strong expertise in EITHER of the following tracks:\nEmbedded Linux / RTOS\nEmbedded Linux and/or RTOS\nYocto / Buildroot\nARM-based embedded platforms\nEmbedded connectivity and networking\nOR\nEmbedded Android / AOSP\nEmbedded Android / AOSP / Android Automotive\nHAL / VHAL and AIDL / HIDL\nAndroid System Services\nSELinux and Android build system\nLinux-to-Android migration experience is highly preferred\nYou do not need to meet both tracks. Strong expertise in either Embedded Linux/RTOS or Embedded Android/AOSP is welcome.",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nWhy BOSCH?\nBecause we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.\n \nBenefits and Career Opportunities\n \nWorking in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\nEnglish-speaking environment, with opportunity to be part of innovation team and work in global projects\nOnsite opportunities\nEngage in our diverse training programs which surely help strengthen both your personal and professionalism\nFlexible working time\n13th-month salary bonus + attractive performance bonus (you'll love it!) + annual performance appraisal\n100% offered salary and mandatory social insurances in 2-month probation\n15++ days of annual leave + 1-day of birthday leave\nPremium health insurance for employee and 02 family members\nLunch and parking allowance\nGood benefits of company activities such as: football, badminton, yoga, Aerobic, team building…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Telecommunication",
+    "Network and Infrastructure",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

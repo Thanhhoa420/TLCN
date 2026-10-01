@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-cloud-aws-gotymex-0536",
+  "tieu_de": "Senior DevOps Engineer Cloud, AWS",
+  "ten_cong_ty": "GoTymeX",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "DevOps",
+    "CI/CD",
+    "Java",
+    "Cloud",
+    "AWS",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Level 6-7, East Tower,  Lumiere Riverside, 277 Vo Nguyen Giap",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking an experienced (Senior) DevOps/Platform Engineer (AWS) to join our team and play a crucial role in supporting our engineering and business operations.  The ideal candidate will be responsible for the implementation of tools and processes which enable rapid development and deployment of software.\nYour mission is to embrace continuous integration/deployment in a delivery pipeline that will perform automated quality checks, deploy cloud infrastructure and applications quickly, and provide operational tooling and metrics that can be consumed by development teams. To be successful, you will have a blend of development experience and operational experience that provides a good understanding of the developers you are working with, while also balancing critical systems uptime.\n \nMain responsibilities:\nContribute to developing continuous delivery, automation, and building pipelines to create an excellent experience for developers and customers\nIdentify and develop opportunities to improve our processes and tools for automation\nLearn new skills and help foster a continuous delivery and cloud-first mindset\nManage your day-to-day workload and requests using agile practices as part of a team and community\nPeriodic after-hours on-call support is required with over-time\nAbility to travel occasionally (up to 10% of the year)",
+  "yeu_cau": "Must have skills\nBachelor's or Master's degree in Computer Science, Information Technology, or a related field.\nExperience in managing Linux operating systems\nExperience using Docker and container orchestration, such as ECS/EKS is a plus\nKnowledge of one or more of the following AWS CloudFormation/Terraform/CDK for infrastructure provisioning.\nKnowledge of the source control and its related concepts (Gitlab/Git flow, Trunk base, branches, etc.).\nExperience with CI/CD tools (such as Jenkins, TeamCity, AWS CodePipeline, CodeDeploy) or configuration management tools (such as Ansible, Chef, Puppet..)\nFamiliarity with at least one programming language (Python, Bash, etc.).\nKnowledge of networking, firewalls, load balancers, high availability, etc..\nGood skills in English and the ability to communicate effectively with business and technical teams.\nDemonstrate good logical thinking and problem-solving skills.\nBe curious and self-learning attitude.\nExperience in SDLC and Agile methodologies.\nAbility to work independently and as part of a team.\n \nNice to have skills\nExperience in the banking or finance industry\nAWS certification(s) related to Advanced Networking\nAWS Certified DevOps Engineer - Professional",
+  "quyen_loi": "Excellent environment and team to help you grow.\nCompetitive salary and learning culture.\nPremium health care for you and your family.\n\nYou’ll love working with us if you are:\nPassionate about technology.\nIndependent but also a good team player.\nComfortable with a high degree of ambiguity.\nFocused on usability and speed.\nKeen on presenting your ideas to your peers and management.\nAt GOTYMEX, opportunities are here for the taking. If you want to be part of our purpose and live and lead through our values, we can offer exciting development opportunities through expanded lateral roles, stretch assignments, or people leadership.\nSome of our benefits:\nMeal and parking allowances are covered by the company.\nFull benefits and salary rank during probation.\nInsurances such as Vietnamese labor law and premium health care for you and your family.\nSMART goals and clear career opportunities (technical seminar, conference, and career talk) - we focus on your development.\nValues-driven, international working environment, and agile culture.\nOverseas travel opportunities for training and work-related.\nInternal Hackathons and company events (team building, coffee run, etc.).\nPro-Rate and performance bonus.\n15-day annual + 3-day sick leave per year from the company.\nWork-life balance 40-hr per week from Mon to Fri.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMwNjk4NywicHVyIjoiYmxvYl9pZCJ9fQ==--468003962775780f94251e6b66d9e3d7ac1886e9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/GoTyme%20X_Dark@4x.png",
+  "company_url": "/companies/gotymex",
+  "company_mo_ta": "GoTymeX is a part of Tyme Group - one of the world’s fastest-growing digital banking groups.",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

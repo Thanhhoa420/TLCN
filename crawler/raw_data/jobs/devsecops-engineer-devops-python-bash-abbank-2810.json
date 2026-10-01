@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devsecops-engineer-devops-python-bash-abbank-2810",
+  "tieu_de": "DevSecOps Engineer DevOps, Python/Bash",
+  "ten_cong_ty": "ABBANK",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "DevSecOps",
+    "Bash Shell",
+    "Python",
+    "Kubernetes",
+    "Docker",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "36 Hoàng Cầu",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Very Attractive!!!",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng, phát triển và vận hành DevSecOps Platform & CI/CD cho môi trường On-Premise và Cloud.\nQuản trị và tích hợp GitLab, Jenkins, Nexus, SonarQube, Vault, ArgoCD, Kubernetes và các thành phần DevSecOps liên quan.\nXây dựng CI/CD Pipeline, Shared Library/Template, tự động hóa quy trình build, test, security scan, artifact và deployment.\nTích hợp Application & Supply Chain Security vào CI/CD (SAST, SCA, Secret, Container, IaC...).\nTriển khai và quản trị hạ tầng bằng Terraform, Kubernetes, Helm, GitOps và các công cụ Automation.\nXây dựng Monitoring, Logging, Alerting & Observability cho DevSecOps Platform, hạ tầng On-Prem và Cloud.\nQuản trị Linux, Container, Network, Storage, Database và các thành phần hạ tầng phục vụ DevSecOps Platform.\nĐảm bảo availability, performance, security, backup/DR; thực hiện troubleshooting, RCA, capacity planning và tối ưu hệ thống.\nXây dựng tiêu chuẩn, quy trình DevSecOps và hỗ trợ các team phát triển onboard, áp dụng và tối ưu DevSecOps Platform.",
+  "yeu_cau": "Tốt nghiệp ĐH/CĐ chuyên ngành CNTT, Khoa học máy tính, Kỹ thuật máy tính hoặc liên quan.\nCó từ 2 năm kinh nghiệm DevOps/DevSecOps; ưu tiên ứng viên có kinh nghiệm Banking.\nThành thạo Git/GitLab, CI/CD, Jenkins, Docker và Kubernetes.\nCó kinh nghiệm Linux, Terraform và scripting (Bash/Python).\nCó kiến thức về Network, Storage, Database, DNS, Load Balancer, Certificate trong môi trường Enterprise.\nCó kiến thức về DevSecOps, Application Security, Secret Management, IAM/RBAC và Software Supply Chain Security.\nCó kinh nghiệm với một hoặc nhiều công cụ Nexus, SonarQube, Vault, ArgoCD, Trivy/Snyk...\nCó kinh nghiệm Monitoring, Logging & Observability với Prometheus, Grafana, ELK/OpenSearch, OpenTelemetry hoặc tương đương.\nCó kinh nghiệm triển khai/vận hành hệ thống trên On-Premise và Cloud (GCP/AWS); hiểu HA/DR là lợi thế.\nCó tư duy Automation & Platform Engineering, khả năng troubleshooting, RCA, ownership và phối hợp tốt với các team.",
+  "quyen_loi": "Lương/ thưởng hấp dẫn\nCơ hội thăng tiến nghề nghiệp cao\nMôi trường làm việc thân thiện, năng động\n\nLương và phúc lợi hấp dẫn:\nMức lương cạnh tranh, phản ánh trực tiếp kỹ năng và kinh nghiệm của ứng viên (chi tiết sẽ được thảo luận trong buổi phỏng vấn)\n13 ngày nghỉ phép linh hoạt, bao gồm ngày sinh nhật và các dịp quan trọng khác\nBảo hiểm đầy đủ theo luật lao động, cùng với ABBANK CARE - chương trình phúc lợi bổ sung đặc biệt dành cho ABBankers\nLãi suất vay ưu đãi - Quyền lợi đặc biệt dành cho nhân viên ABBANK\nCơ hội phát triển nghề nghiệp hấp dẫn:\nGia nhập các dự án chuyển đổi quy mô lớn, cộng tác cùng các chuyên gia hàng đầu để áp dụng công nghệ mới nhất trong ngành ngân hàng\nLộ trình phát triển sự nghiệp rõ ràng, được tạo điều kiện cho cả sự phát triển kỹ thuật và quản lý\nHỗ trợ đào tạo và chứng chỉ trong lĩnh vực IT, ngân hàng/tài chính\nMôi trường làm việc năng động:\nMô hình làm việc linh hoạt, trẻ trung, khuyến khích đổi mới và sáng tạo\nVăn phòng được trang bị hiện đại, kèm theo các thiết bị tiên tiến nhất dành cho nhân viên\nTổ chức thường xuyên các hoạt động ngoại khóa (team building, hội thảo, và các sự kiện văn nghệ), tạo điều kiện cho nhân viên gắn kết và phát triển",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NDc2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--58852c6ffb6b5f4d6aa11d51a36133557ea29c4b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/ABB_CoreID_RGB.png",
+  "company_url": "/companies/abbank",
+  "company_mo_ta": "Cung ứng các sản phẩm - dịch vụ tài chính ngân hàng trọn gói",
+  "job_expertise": [
+    "DevSecOps Engineer"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

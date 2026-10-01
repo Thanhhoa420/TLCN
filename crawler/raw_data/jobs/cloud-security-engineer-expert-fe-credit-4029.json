@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/cloud-security-engineer-expert-fe-credit-4029",
+  "tieu_de": "Cloud Security Engineer Expert",
+  "ten_cong_ty": "FE CREDIT",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Cloud Security",
+    "ISO 27001",
+    "PCI DSS",
+    "Cloud",
+    "AWS",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "REE Tower, 9 Doan Van Bo",
+  "quan_huyen": "Quận 4",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 2,400 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "I. Job Overview\nFE Credit is looking for a Cloud Security Engineer Expert with over 6 years of experience to join the Information Security team. In this role, you will be primarily responsible for designing, building, monitoring, and optimizing the security architecture across our multi-cloud infrastructure (AWS, OCI, VNG Cloud). Given the nature of the financial industry, this position requires a proactive, prevention-oriented mindset and deep understanding of strict compliance standards and regulations to protect data integrity and customer assets.\n \nII. Key Responsibilities\nDesign & Architecture: Design and implement security architecture, establish secure network zone designs (Landing Zones), identity and access management (IAM), and security controls across the multi-cloud environment (AWS, Oracle Cloud Infrastructure – OCI, VNG Cloud).\nMonitoring & Early Detection: Build, configure, and optimize the security monitoring ecosystem (SIEM, SOAR, CloudTrail, OCI Logging) to detect, analyze, and respond promptly to cloud security incidents 24/7.\nVulnerability & Configuration Management: Manage and operate CSPM (Cloud Security Posture Management) and CWPP (Cloud Workload Protection Platform) solutions to continuously scan for vulnerabilities and control misconfigurations across cloud platforms.\nData Security: Implement data encryption solutions (at rest/in transit), key management (KMS/HSM), and data loss prevention (DLP) solutions suited to the organization's financial cloud infrastructure.\nAssessment & Testing: Collaborate with the Pentest team to conduct periodic penetration testing on cloud infrastructure; assess the security of cloud services before deployment to Production.\nDevSecOps: Integrate automated security testing tools (SAST/DAST) into CI/CD pipelines, promoting a DevSecOps culture throughout the packaging and deployment of financial applications on the cloud.\nCompliance: Ensure the multi-cloud infrastructure consistently complies with strict financial industry security standards such as PCI-DSS, ISO 27001, NIST, and regulations issued by the State Bank of Vietnam.",
+  "yeu_cau": "Experience:\nMinimum 6 years of hands-on experience in Cloud Security or Information Security, including at least 3 years directly managing multi-cloud security. Experience working in Financial Services, Banking, FinTech, or Insurance organizations is preferred.\nTechnical Foundation:\nProficient in configuring security on AWS (GuardDuty, IAM, Security Policy, KMS) and OCI (Cloud Guard, Security Zones).\nExperience implementing and flexibly adapting security solutions on domestic cloud infrastructure such as VNG Cloud.\nDeep understanding of Container security (Docker, Kubernetes/EKS/OKE) and Network Security (Virtual Firewall, WAF, VPN, VPC/VCN peering).\nAbility to write automation scripts (Python, Bash, PowerShell) and experience with Infrastructure as Code (Terraform, CloudFormation) from a security perspective.\nProfessional Certifications (is a plus):\nAdvanced Cloud Security certifications such as: AWS Certified Security – Specialty, Oracle Cloud Infrastructure Security Professional.\nInternational security certifications: CCSP (Certified Cloud Security Professional), CISSP, CEH, or CHFI.\nAI Security certification.\nSoft Skills:\nStrong analytical thinking and ability to work well under the high-pressure conditions typical of the financial industry.\nGood English communication and technical documentation reading skills.\nStrong teamwork and independent working abilities.",
+  "quyen_loi": "Tech savvy working environment\nAttractive benefits\nTraining and developing opportunities\n\nSee yourselves in a new light\nIn essence of joining our company, you will be given the scope to seize every opportunity and helped to acquire specific competencies you’ll need to succeed either you wish to go wide or go deep. Our company prides ourselves on our underpinned principle of nurturing people in not only HR policies but also in our culture. We value innovations and we need people to work on initiatives and carry on our business vision of operating excellence and market leadership.\nAlongside with these, we believe our staff members deserve a good working condition, so that in addition to social health insurance you will be accessible to health and accident insurance and will be eligible to join in team building every year. We also value your efforts; for this reason, we give you both financial and non-financial rewards such as: KPI bonus, Best Initiatives, Best performer or Best manager of the year, etc.\nCompany's Benefits\nFinancial support:\nProbation with full salary\nLunch allowance\nWedding support\nFamily funeral support\n13th month salary + KPIs bonus\nPerformance rewards and awards\nHealthcare Insurance\nEvents and activities:\nChristmas\nYear End party\nTeam Building\nFamily Day\nSport Day",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzcwOTQ5MywicHVyIjoiYmxvYl9pZCJ9fQ==--a64d8a8a5a6d203b43b0606ab006a3d397cb2bdc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/333050180_238437701941858_4304305143990953003_n.jpg",
+  "company_url": "/companies/fe-credit",
+  "company_mo_ta": "FE CREDIT",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

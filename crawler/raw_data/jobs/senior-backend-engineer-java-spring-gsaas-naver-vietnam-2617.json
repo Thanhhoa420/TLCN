@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-java-spring-gsaas-naver-vietnam-2617",
+  "tieu_de": "Senior Backend Engineer Java/Spring - GSaaS",
+  "ten_cong_ty": "NAVER VIETNAM",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Java",
+    "Spring"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "4th and 9th Floor, Block B, Viettel Building, 285 Cach Mang Thang Tam Street",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Backend Engineer for GSaaS projects to serve NAVER Works, LINE Works users such as:\nServices related to Naver Drive like Naver Switch: is a tool that connects WORKS Drive with other cloud storage services such as Google Drive, Box, Dropbox, and Microsoft OneDrive, enabling seamless data transfer to WORKS Drive.\nInternal tools like Biz Tool: is a tool/system that supports integrated authority management for service operations tools.\nChatbots such as Eco App: is a bot/app that can integrate 3 party services (Jira, Dropbox,...) with NAVER WORKS/LINE WORKS, delivers important information and real-time updates to users, and supports efficient task processing.\nClovaNote Admin: is that provides an admin page for management of Clova Note B2B, developing Clova Note in-app for 3rd parties (Zoom, Teams).",
+  "yeu_cau": "Your daily tasks:\nResponsible for developing and maintaining the server-side components using the Java programming language.\nWrite and maintain technical documentation, including system architecture and API specifications.\nTake a look at NAVER WORKS services .\nYour background:\n4+ years of work experience on related work;\nBachelor's degree or above in Computer Science or related field;\nGood Java basic skills, experience with multi-threaded programming, IO, JVM garbage collection;\nExperience with Java performance tuning and find and resolve troubleshoot experience with Spring, Spring MVC, Spring Boot, MyBatis, MySQL, High Availability, High Concurrency Related Technologies; \nExperience with Linux basic command, independently complete project deployment, troubleshooting; \nOpen-minded, honest and have a positive attitude towards people;\nGood at communication skills in general and English skills in particular.\nIt's a big plus if you:\nExperience with big data projects, Kafka & Hbase.",
+  "quyen_loi": "Healthcare plan for you and your family\nA work-life balance (Hybrid, Workation)\nCompetitive package\n\nFrom solid welfare programs to autonomy over working time and place, we create the culture in which we work. By joining NAVER VIETNAM, you will be involved in:\nCompetitive rewards: Various additional bonuses based on work performance\nContinuous growth: Self development allowance and annual learning budget (Udemy, Coursera)\nAI-powered work: Access to Claude Code Enterprise — build faster, smarter, and focus on what truly matters\nPremium healthcare: Coverage for you and family members, annual check-ups\nStrong culture: Team activities, hobby clubs, and celebrations\nModern environment: Latest equipment, great peers, supportive leaders\nRecognition & perks: Dedication bonus, referral bonus, home and office support\n…and an environment where you can grow faster, build meaningful products, and do your best work.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4NzY2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ea902481f8993444310a1fb4cd09822c9f9af1de/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Naver_Logo(2)-white.png",
+  "company_url": "/companies/naver-vietnam",
+  "company_mo_ta": "NAVER VIETNAM",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

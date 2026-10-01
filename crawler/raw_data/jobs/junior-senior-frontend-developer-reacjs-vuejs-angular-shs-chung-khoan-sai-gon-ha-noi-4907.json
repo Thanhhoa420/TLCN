@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/junior-senior-frontend-developer-reacjs-vuejs-angular-shs-chung-khoan-sai-gon-ha-noi-4907",
+  "tieu_de": "Junior/Senior Frontend Developer ReacJS/VueJS/Angular",
+  "ten_cong_ty": "SHS | Chứng khoán Sài Gòn - Hà Nội",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "AngularJS",
+    "VueJS",
+    "ReactJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Số 43 Phố Lý Thường Kiệt",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "15 - 50M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Phát triển, xây dựng và bảo trì các website/web app theo yêu cầu. \nTham gia phân tích yêu cầu, thiết kế hệ thống và đề xuất giải pháp kỹ thuật. \nThiết kế và phát triển các tính năng web trading, website, backoffice và các hệ thống nghiệp vụ liên quan. \nTích hợp API back-end với giao diện người dùng, xử lý và hiển thị dữ liệu theo thời gian thực thông qua Socket/WebSocket. \nTối ưu hiệu năng, khả năng tương thích, bảo mật và khả năng mở rộng của ứng dụng. \nBảo trì, xử lý lỗi và nâng cấp các tính năng theo yêu cầu. \nPhối hợp với Designer, BA, Tester, Back-end trong mô hình Agile để hoàn thiện tính năng theo sprint. \nTham gia review code, chuẩn hóa coding convention và nâng cao chất lượng mã nguồn. \nViết tài liệu kỹ thuật và hướng dẫn sử dụng khi cần.",
+  "yeu_cau": "Có ít nhất 2 năm kinh nghiệm phát triển Web. \nThành thạo ít nhất một trong các công nghệ: HTML, CSS, JavaScript/TypeScript, ReactJS, VueJS, Angular. \nCó kinh nghiệm làm việc với RESTful API, Socket/WebSocket và các hệ thống xử lý dữ liệu realtime. \nCó kiến thức về Database, SQL; hiểu biết về Hive/SQLite hoặc các hệ quản trị CSDL là lợi thế. \nHiểu biết về responsive design, cross-browser compatibility và tối ưu hiệu năng Web. \nCó hiểu biết về bảo mật ứng dụng Web như JWT, mã hóa, quản lý phiên, chống reverse engineering hoặc các cơ chế bảo mật tương tự là lợi thế. \nCó kinh nghiệm sử dụng Git hoặc các hệ thống quản lý phiên bản tương tự. \nCó kinh nghiệm phát triển Web trong domain chứng khoán, ngân hàng/tài chính là một lợi thế. Ưu tiên ứng viên đã từng phát triển các hệ thống Web Trading, tài chính hoặc các ứng dụng có yêu cầu xử lý dữ liệu realtime/high-load. \nCó tư duy sản phẩm, quan tâm đến trải nghiệm người dùng. \nChủ động, trách nhiệm cao, có khả năng làm việc độc lập và phối hợp tốt với các thành viên trong đội.\nCó khả năng tiếp thu nhanh công nghệ mới và thích nghi với sự thay đổi.",
+  "quyen_loi": "Phúc Lợi\nBảo hiểm\nDu Lịch\nPhụ cấp\nDu lịch nước ngoài\nĐồng phục\nThưởng\nChăm sóc sức khỏe\nĐào tạo\nTăng lương\nCông tác phí\nPhụ cấp thâm niên\nChế độ nghỉ phép",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjMwMzQ3NywicHVyIjoiYmxvYl9pZCJ9fQ==--4d5addd90e5d4e6fb35970907f5dd060588420dc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202025-06-21%20at%2010.36.33.png",
+  "company_url": "/companies/shs-chung-khoan-sai-gon-ha-noi",
+  "company_mo_ta": "Công ty Cổ phần Chứng khoán Sài gòn - Hà Nội (SHS) là 1 trong những công ty chứng khoán hàng đầu VN",
+  "job_expertise": [
+    "Frontend Developer"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

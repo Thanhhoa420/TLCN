@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/audio-engineer-embedded-linux-android-cong-ty-tnhh-ecarx-2602",
+  "tieu_de": "Audio Engineer Embedded / Linux / Android",
+  "ten_cong_ty": "CÔNG TY TNHH ECARX",
+  "ngay_dang_raw": "2026-09-19",
+  "han_ung_tuyen_raw": "2026-10-24",
+  "ky_nang": [
+    "Embedded Android",
+    "Chinese",
+    "C language",
+    "C++",
+    "Embedded",
+    "Linux"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": " Tầng 15, Epic Tower, ngõ 19 Duy Tân, Phường Cầu Giấy",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Architecture & Planning: Lead audio software design and planning for automotive cockpits to ensure reliable, high-performance capture, processing, and playback.\nModule & Pipeline Design: Define software layering, interfaces, routing, audio effects (EQ/DSP/AEC), multi-channel management, and source priority.\nCross-Team Collaboration: Partner with HW, algorithm, and system teams to adapt, optimize, and bring audio systems to mass production on cockpit SoCs.\nIssue Resolution: Fix complex cockpit audio bugs, including latency, jitter, clock sync, and multi-core communication.\nStandards & Process: Set technical specs and coding standards to deliver modular, reusable audio software",
+  "yeu_cau": "Education: Bachelor's degree or higher in CS, EE, Communications, Acoustics, or related fields (flexible for top candidates).\nExperience: 3+ years in embedded or Linux/Android dev, with 1–2+ years in audio (cockpit, mobile, smart speakers, headphones; auto experience optional).\nAudio Tech Stack: Familiarity with audio frameworks (Android Audio HAL/Audio Flinger, tiny-alsa, Linux ALSA/Pulse Audio) and audio pipeline basics. DSP experience is a plus.\nCoding: Strong C/C++ skills with a modular design mindset. (Architecture experience preferred but can be learned on the job).\nPlusses:\nCockpit SoCs (Qualcomm/Renesas/NXP) or heterogeneous multi-core platforms.\nIn-vehicle networks (CAN / Ethernet / A2B) and audio transport protocols.\nEnglish proficiency (working level required); Chinese is a plus.",
+  "quyen_loi": "Competitive Compensation: Salary range 65M-80M + Year-end bonus\n100% Social Insurance Coverage: Fully covered from Day 1 of probation\nWork-Life Balance: Flexible working hours (no clock-in), Mon–Fri\nComprehensive Care: Annual health check-up, team-building events...",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEwMjMxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2924d7e0a2e674640645f37c3b7811871fabaa68/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/ecarx_logo.jpg",
+  "company_url": "/companies/cong-ty-tnhh-ecarx",
+  "company_mo_ta": "CÔNG TY TNHH ECARX",
+  "job_expertise": [
+    "Embedded Engineer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

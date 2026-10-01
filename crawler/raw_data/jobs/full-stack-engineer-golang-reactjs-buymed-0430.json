@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/full-stack-engineer-golang-reactjs-buymed-0430",
+  "tieu_de": "Full-stack Engineer Golang/ReactJS-Competitive Salary",
+  "ten_cong_ty": "Buymed",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Golang",
+    "Docker",
+    "Cloud",
+    "PostgreSql",
+    "NextJS",
+    "ReactJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Vincom Center Đồng Khởi, 45A Lý Tự Trọng, p. Bến Nghé,",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Full-stack Engineer (Golang/ReactJS) to join the Engineering team in the development of website, mobile app, and e-commerce healthcare platform, using modern technologies such as Golang, ReactJS/NextJS, Docker, Kubernetes, and Google Cloud Platform.\nKey Responsibilities\n1. Product & Feature Development\nBuild and maintain backend systems using Golang and frontend interfaces using ReactJS / NextJS.\nDevelop features for website, mobile app, and e-commerce healthcare platform.\nDesign and implement RESTful APIs and JSON-RPC APIs to support product features.\nSupport and resolve issues reported by end-users, customers, and internal teams.\n2. System Design & Engineering Quality\nWork with real-time and large-scale data systems, including message queues, caching layers, search engines, and cloud infrastructure.\nContribute to performance optimization, security improvement, and scalable system design.\nParticipate in architecture discussions, code reviews, and technical decision-making.\n3. Business & Operations Improvement\nWork with Product, Operations, and business teams to understand problems and propose technical solutions.\nBuild solutions that improve business performance, operational efficiency, and user experience.\nUse AI tools to improve coding speed, testing, debugging, and technical decision-making.",
+  "yeu_cau": "Work Experience\nBachelor’s degree in Computer Science, Software Engineering, or related fields.\nAt least 3 years of experience in backend web development using Golang.\nHands-on experience with frontend development using ReactJS, NextJS, or similar frameworks.\nExperience building scalable web applications, APIs, and distributed systems.\nTechnical Skills\nStrong understanding of concurrency patterns, microservices, and distributed architecture.\nStrong experience with PostgreSQL, MongoDB, ElasticSearch, Redis, and RabbitMQ.\nFamiliar with cloud infrastructure, especially Google Cloud Platform.\nExperience with Docker and Kubernetes.\nAble to design clean APIs and build reliable, maintainable systems.\nAble to use AI tools to improve development speed, testing, debugging, and technical decision-making.\nNice to Have\nExperience developing e-commerce applications, retail systems, or healthcare platforms.\nExposure to frontend frameworks such as NextJS, SolidJS, or similar technologies.\nUnderstanding of AI Agents, including agents, skills, MCP, and context management.\nExperience using Claude Code, Codex, Cursor, or similar AI coding tools.\nGood English communication skills.",
+  "quyen_loi": "Performance & salary review yearly\nCompetitive Package\nFull salary-based social insurance\n\nPerformance & salary review yearly\nPaid social insurance based on full salary\nBao Viet Insurance\nMedical Checkup\n15 days of annual leave\nParking allowance",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM3ODUyOSwicHVyIjoiYmxvYl9pZCJ9fQ==--95ced78d416b923893fba36cd20ead7fcb5bd3d7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/buymed_vertical_green.png",
+  "company_url": "/companies/buymed",
+  "company_mo_ta": "Significantly impact healthcare by solving complex issues",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Healthcare"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

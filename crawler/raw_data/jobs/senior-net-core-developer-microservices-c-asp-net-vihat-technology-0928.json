@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-net-core-developer-microservices-c-asp-net-vihat-technology-0928",
+  "tieu_de": "Senior .NET Core Developer Microservices, C#, ASP.NET",
+  "ten_cong_ty": "VIHAT Technology",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    ".Net Core",
+    "Microservices Architecture",
+    "ASP.NET",
+    "SQL",
+    "C#",
+    "ReactJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "140 - 142 Đường số 2, Khu nhà ở Vạn Phúc 1",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Về vị trí\nTrở thành .NET Developer nòng cốt, thiết kế và phát triển các hệ thống backend ổn định, bảo mật, dễ mở rộng, góp phần tối ưu hiệu suất và hỗ trợ mục tiêu tăng trưởng của doanh nghiệp.\nNhiệm vụ chính\nTham gia phát triển các sản phẩm của công ty theo yêu cầu của khách hàng và của ban giám đốc.\nĐược làm việc và học hỏi cùng với team nhiều kinh nghiệm.\nCơ hội trải nghiệm và ứng dụng nhiều công nghệ mới trong sản phẩm.\nChi tiết công việc khác trao đổi trực tiếp khi phỏng vấn.",
+  "yeu_cau": "Yêu cầu công việc\nCó ít nhất từ 3 năm kinh nghiệm phát triển ứng dụng .NET Core 8, kiến trúc Microservice\nFront-end: ReactJS, NextJS, CSS, Javascript, Jquery\nBack-end: ASP.NET / MVC / MVC Core, Entity Framework, SQL Server, SMPP\nMessage Queue & Cache: RabbitMQ, Kafka, Redis\nHiểu rõ kiến thức về OOP, SOLID\nHiểu và áp dụng Design Pattern (Singleton, Repository, Strategy, Mediator...)\nHiểu REST API, JWT/OAuth2\nNắm vững C#: async/await, LINQ, DI, Middleware\nHiểu SQL: JOIN, index, transaction, ORM vs raw SQL\nSử dụng source version control (Gitlab)\nCó thể làm việc độc lập hoặc với một nhóm theo yêu cầu\nTinh thần trách nhiệm cao, cần thận và tỉ mỉ trong công việc\nKhả năng học hỏi và research nhanh.\nƯu tiên các ứng viên:\nCó kinh nghiệm tối ưu hóa hệ thống, thiết kế kiến trúc hệ thống theo modular và scalable\nMicroservices: service decomposition, inter-service communication, API Gateway\nCó kiến thức về CQRS Pattern + Clean Architecture\nNoSQL: MongoDB, Elasticsearch\nDocker, CI/CD cơ bản\nNodeJS, NextJS",
+  "quyen_loi": "Môi trường công nghệ hiện đại, vui vẻ, hòa đồng\nĐược xét tăng lương 1 năm 1 lần\n\nQuyền lợi\nMức lương: Thoả thuận theo kinh nghiệm và năng lực\nXét tăng lương 01 năm/lần\nThưởng dự án hàng tháng khi trở thành nhân viên chính thức\nĐược training đa dạng về các hot-trend công nghệ, kỹ năng chuyên môn lẫn kỹ năng mềm.\nĐược làm việc và học hỏi cùng với team nhiều kinh nghiệm.\nCơ hội trải nghiệm và ứng dụng nhiều công nghệ mới trong sản phẩm.\nTham gia bảo hiểm xã hội\nKhám sức khỏe định kì hằng năm.\nĐược làm việc trong môi trường công nghệ, năng động, có cơ hội hoàn thiện bản thân và thăng tiến cao.\nChế độ bảo hiểm đầy đủ, phép năm, lương tháng 13 theo quy định của nhà nước.\nTham gia hoạt động thể thao, workshop, tổ chức sinh nhật, teambuilding…\nMôi trường 9X vui vẻ, hòa đồng, thân thiện.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MDM5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fcbe6997762b095d8078c20006296b9a2d8aa2a5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo-vihatt.png",
+  "company_url": "/companies/vihat-technology",
+  "company_mo_ta": "Công Ty TNHH Công nghệ VIHAT",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Telecommunication",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

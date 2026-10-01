@@ -32,16 +32,15 @@ CREATE TABLE danh_muc_hinh_thuc_lam_viec (
     ten_hinh_thuc VARCHAR(100) NOT NULL
 );
 
--- MỚI: Loại hình làm việc: LOẠI HỢP ĐỒNG (Full-time / Part-time / Internship / Contract)
+-- Loại hình làm việc: LOẠI HỢP ĐỒNG (Full-time / Part-time / Internship / Contract)
 -- Khác hoàn toàn với danh_muc_hinh_thuc_lam_viec ở trên.
--- Nguồn: employmentType (JSON-LD, ITviec) + filter "Loại hình làm việc" (TopCV)
+-- Nguồn: employmentType (JSON-LD, ITviec)
 CREATE TABLE danh_muc_loai_hinh_lam_viec (
     loai_hinh_lam_viec_id SERIAL PRIMARY KEY,
     ten_loai_hinh VARCHAR(50) NOT NULL
 );
 
--- MỚI: Cấp bậc / seniority level (Internship / Fresher / Junior / Senior / Manager)
--- Nguồn: filter "Level" (ITviec) + filter "Cấp bậc" (TopCV)
+-- Cấp bậc / seniority level (Internship / Fresher / Junior / Middle / Senior / Manager)
 CREATE TABLE danh_muc_cap_bac (
     cap_bac_id SERIAL PRIMARY KEY,
     ten_cap_bac VARCHAR(50) NOT NULL
@@ -76,14 +75,15 @@ CREATE TABLE nha_tuyen_dung (
     company_id SERIAL PRIMARY KEY,
     user_id INT NOT NULL UNIQUE REFERENCES users(user_id),
     ten_cong_ty VARCHAR(255) NOT NULL,
-    logo_url VARCHAR(500),
-    loai_hinh VARCHAR(50),
+    logo_url TEXT,                   -- đổi từ VARCHAR(500): link logo ITviec rất dài
+    loai_hinh VARCHAR(100),
     quy_mo VARCHAR(50),
     dia_chi VARCHAR(500),
     dia_diem_id INT REFERENCES danh_muc_dia_diem(dia_diem_id),
     website VARCHAR(255),
     mo_ta TEXT,
     trang_thai_duyet VARCHAR(20) DEFAULT 'cho_duyet',
+    url_nguon VARCHAR(255) UNIQUE,   -- MỚI: đường dẫn công ty trên ITviec (vd /companies/protonx); NULL nếu đăng ký trên web
     created_at TIMESTAMP DEFAULT NOW()
 );
 
@@ -113,15 +113,20 @@ CREATE TABLE tin_tuyen_dung (
     kinh_nghiem_id INT REFERENCES danh_muc_kinh_nghiem(kinh_nghiem_id),
     hoc_van_id INT REFERENCES danh_muc_hoc_van(hoc_van_id),
     hinh_thuc_id INT REFERENCES danh_muc_hinh_thuc_lam_viec(hinh_thuc_id),
-    loai_hinh_lam_viec_id INT REFERENCES danh_muc_loai_hinh_lam_viec(loai_hinh_lam_viec_id),  -- MỚI
-    cap_bac_id INT REFERENCES danh_muc_cap_bac(cap_bac_id),                                    -- MỚI
+    loai_hinh_lam_viec_id INT REFERENCES danh_muc_loai_hinh_lam_viec(loai_hinh_lam_viec_id),
+    cap_bac_id INT REFERENCES danh_muc_cap_bac(cap_bac_id),
     luong_min INT,
     luong_max INT,
+    luong_nguon VARCHAR(20)                  -- MỚI: nguồn của lương
+        CHECK (luong_nguon IN ('crawl', 'mo_phong', 'nhap_tay')),  -- NULL = không có lương
     so_luong_tuyen INT DEFAULT 1,
     so_luot_xem INT DEFAULT 0,
     ngay_dang TIMESTAMP,
     han_ung_tuyen DATE,
     trang_thai_id INT REFERENCES danh_muc_trang_thai_tin(trang_thai_id),
+    nguon_tin VARCHAR(20) DEFAULT 'web'      -- MỚI: tin từ đâu
+        CHECK (nguon_tin IN ('itviec', 'web')),  -- itviec = seed đã cào, web = nhà tuyển dụng đăng
+    url_nguon VARCHAR(500) UNIQUE,           -- MỚI: URL tin gốc trên ITviec; dùng để nạp seed không bị trùng
     created_at TIMESTAMP DEFAULT NOW(),
     updated_at TIMESTAMP DEFAULT NOW()
 );

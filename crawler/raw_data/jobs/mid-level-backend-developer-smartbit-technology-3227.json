@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/mid-level-backend-developer-smartbit-technology-3227",
+  "tieu_de": "Mid-level Backend Developer",
+  "ten_cong_ty": "Smartbit Technology",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "SQL",
+    "Design Systems",
+    "MongoDB",
+    "PostgreSql"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Nguyen Van Troi Street, Ho Chi Minh City, Vietnam",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "500 - 1,600 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Develop and maintain backend systems for CMS, CRM platform / Loyalty Program, or AI tools.\nDesign, build, and optimize APIs and server systems to handle millions of daily requests\nIntegrate backend services such as authentication, payment, leaderboard, chat, matchmaking, and events.\nCollaborate closely with frontend/client teams to ensure performance and client experience\nOptimize server performance, scalability, and high concurrency handling.\nWrite technical documentation and follow software development processes (code review, CI/CD)",
+  "yeu_cau": "At least 2+ years of experience in Go / Node.js / Java and agree to switch to Go.\nProficient in Go (can be trained).\nExperience with API gateway tools: Kong, KrakenD, or Express Gateway.\nKnowledge of real-time communication:  / WebSocket, NATS, MQTT, or Redis pub-sub.\nFamiliarity with microservice frameworks: NestJS,  Go (microservices), Java Spring Boot 3.\nExperience with authentication & authorization: Keycloak (OpenID) + JWT.\nExperience with databases: PostgreSQL, CockroachDB, or MongoDB.",
+  "quyen_loi": "Mức lương hấp dẫn, cạnh tranh, phù hợp năng lực\nHưởng 100% lương trong thời gian thử việc\nVăn phòng và trang thiết bị hiện đại\n\nCompensation & Benefits\n13th-month salary and performance-based bonuses linked to business results.\nMonthly meal allowance provided after the probation period.\nTwice-yearly performance reviews with opportunities for salary adjustments.\nAnnual company trips and engaging team-building activities to connect, recharge, and celebrate together.Health & Wellness\nAnnual health check-ups to support employees’ long-term well-being.\nFull participation in Social Insurance, Health Insurance, and Unemployment Insurance in accordance with company policy and applicable regulations.\nAccess to healthcare and medical support at reputable healthcare providers.Employee Referral Program\nAttractive referral rewards for successful hires.\nEarn up to VND 15,000,000 for each successfully referred candidate, depending on the position.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNzc4NiwicHVyIjoiYmxvYl9pZCJ9fQ==--4b2aa7fabf4ff5b7a159a06e4c6a03502ae679e1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Smartbit_Logo_Color%20(dark%20bg).jpg",
+  "company_url": "/companies/smartbit-technology",
+  "company_mo_ta": "Smartbit Technology",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

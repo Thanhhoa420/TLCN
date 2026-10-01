@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-developer-java-springboot-id7982-vpbank-0023",
+  "tieu_de": "Senior Backend Developer Java/Springboot ID7982",
+  "ten_cong_ty": "VPBank",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Java",
+    "Git",
+    "PostgreSql",
+    "Oracle",
+    "MVC",
+    "Spring Boot"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "89 Lang Ha",
+  "quan_huyen": "Quận Đống Đa",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chịu trách nhiệm thực hiện phát triển các yêu cầu có tích chất phức tạp cao và liên quan đến nhiều hệ thống theo đúng kiến trúc phê duyệt và tài liệu đặc tả nghiệp vụ đã được phân tích.\nTham gia tư vấn kỹ thuật với bộ phân phân tích BA/SA cùng với nghiệp vụ để có thể tối ưu nguồn lực và thời gian phát triển.\nThực hiện phát triển đúng timeline đã được xậy dựng trên từng yêu cầu phát triển CR/Inititatives đươc giao bởi team lead.\nKiểm tra và đảm bảo các chức năng được phát triển theo đúng thiết kế đã được liệt kê trong SRS, FSD được cung cấp bởi BA/SA.\nCập nhật và lưu trữ sourceCode trên hệ thống Gitlab\nThực hiện viết tài liệu đặc tả phát triển theo các tài liệu phân tích SRS, FDS và tài liệu kiến trúc cho từng module của hệ thống và cập nhật lên hệ thống JIRA, Confluence.\nThực hiện viết tài liệu triển khai và danh mục thực hiện trên checklist khi triển khai lên prodcution.\nThực hiên chia sẽ kinh nghiệm phát triển cho các thành viên trong cùng hệ thống.",
+  "yeu_cau": "Trình độ đào tạo: Tốt nghiệp Đại học chuyên nghành CNTT, Khóa học máy tính hoặc tương đương.\nYêu cầu công việc:\nCó từ 3-5 năm kinh nghiệm phát triển ứng dụng, sản phẩm (có kinh nghiệm phát triển sản phẩm trong mảng tài chính, ngân hàng là lợi thế)\nKiến thức và kinh nghiệm trong ngôn ngữ lập trình Java framework: Spring Boot, Web server: Jboss\nCó kinh nghiệm thực tế phát triển ứng dụng/dịch vụ theo mô hình Microservice\nCó khả năng phân tích và thiết kế hệ thống, hiểu về các design pattern như MVC, WPF, OOP…\nKiến thức về hệ thống CSDL: Oracle, PostgreSQL, NoSQL,…\nQuen thuộc với hệ thống quản lý source code: Git, Gitflow, CI/CD\nCó kinh nghiệm làm việc với các open source: Redis, Elasticsearch, ActiveMQ là một lợi thế.\nƯu tiên có kinh nghiệm làm việc với hệ thống tài chính, CoreBanking  \nCó kiến thức vận hành triển khai hệ thống.\nCó kinh nghiệm sử dụng, phát triển dịch vụ và vận hành trên cloud như AWS",
+  "quyen_loi": "People Development\nHigh promotion opportunities\nVery attractive salary package\n\nOur corporate culture is nurtured and built on six core values.\nJoin VPBank, you will experience a great opportunity to work in our professional environment with ‘Customer Focus’ and ‘Trust’ orientation. With more than 7.000 employees with various positions from back office to front office, we all have our clients and the priority of every position is to gain their reliance and commitment. Your contribution will be the measure of our organization’s success.\nWe provide ‘not just a Job, but a Career’. ‘People Development’ is chosen to be one of the most important corporation’s strategy. We create product training courses and give on-the-job training for newcomers & employees as well as organize many exciting internal activities to connect people. Ambitious and eager to thrive, we also have bonus & rewards to recognize best-sellers and excellent employees.\nVPBank is becoming a desirable destination for talent in the banking and finance industry. You will receive great support from your colleagues and managers with modern technology facilities. We believe that the strength raises from within, thus we create a diverse but unified, proactive and flexible working environment for enhancing our ‘productivity’.\n‘Make the difference’, you can shine bright!",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMjg3MywicHVyIjoiYmxvYl9pZCJ9fQ==--6ddff3ea8750de9d0b1e047a1c7dd88d1c8765e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9d65c1b41309d10722b1f04e34e2a4ac3f0a4741/IMG_9535.JPG",
+  "company_url": "/companies/vpbank",
+  "company_mo_ta": "HOME OF TALENTS",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

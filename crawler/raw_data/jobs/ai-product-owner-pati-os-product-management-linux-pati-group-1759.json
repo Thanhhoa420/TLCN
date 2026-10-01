@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/ai-product-owner-pati-os-product-management-linux-pati-group-1759",
+  "tieu_de": "AI Product Owner PATI OS, Product Management, Linux",
+  "ten_cong_ty": "PATI Group",
+  "ngay_dang_raw": "2026-09-26",
+  "han_ung_tuyen_raw": "2026-10-31",
+  "ky_nang": [
+    "Product Owner",
+    "macOS",
+    "Business Analysis",
+    "Linux",
+    "Product Management",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Midtown M7 Signature, Street 15, Tan My Ward",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "PATI Group is not looking for a passive coder who waits for tickets. We are looking for a Product Manager — the product owner, for several product positions under PATI OS: AdLauncher, StoreLauncher, Creative Portal, AdVault, AI Portal, and Profit Center.\nYou turn department pain points into shipped internal products, hand them to non-technical users, and keep upgrading them against P&L. You will not ship every surface on day one — sequence with 80/20.\n40% — Multi-app product ownership (PATI OS)\nOutcome: each assigned product has a clear problem, roadmap, Definition of Done, and live users who can run it without you.\nConcrete work:\nOwn briefs and roadmaps across AdLauncher, StoreLauncher, Creative Portal, AdVault, AI Portal, and Profit Center as capacity earns them.\nSit inside Marketing / Creative / Store / Ops / Finance workflows. Dig the real bottleneck — do not wait for a perfect ticket.\nSequence build vs buy vs kill. Cut features that do not move revenue, creative throughput, or cost.\nWrite requirements engineers and AI builders can execute: user, job-to-be-done, acceptance tests, failure modes.\nShip in thin slices. Demo to real users. Measure adoption. Run v2 from feedback — “1% better every day.”\n25% — AI workflow & system design\nOutcome: flows are repeatable and adoptable by non-technical staff (handover is part of Done).\nConcrete work:\nDesign prompts, system instructions, agent roles, MCP/CLI hooks, and context/memory, so models execute reliably across PATI OS surfaces.\nPrefer typed judgments and agent loops where they beat chat-and-paste.\nInstrument products: usage, failure rates, time saved, quality gates before output hits ads, creators, or digests.\nPartner with CTO / builders of architecture; You own the product outcome, not only the backlog list.\n20% — Discovery, prioritization & P&L alignment\nOutcome: every building ties to revenue, creative capacity, or measurable cost — not lab demos.\nConcrete work:\nPrioritize with managers and the board using 80/20 across the PATI OS portfolio.\nTranslate technical options into business language for leaders; argue toward clear requirements.\nTrack product metrics that matter: adoption, cycle time, rework, paid-tool replacement, quality escapes.\nKill or park work that does not clear the bar. Say no with evidence.\n15% — Rollout, training & continuous upgrade\nOutcome: products stay alive in production after launch.\nConcrete work:\nTrain internal users; write short playbooks; own onboarding for each release.\nCollect feedback, triage bugs vs enhancements, publish a visible changelog.\nKeep AdLauncher, StoreLauncher, Creative Portal, AdVault, AI Portal, and Profit Center coherent under one product standard.",
+  "yeu_cau": "1–3 years in Product Management or Business Analysis, with a proven track record shipping digital products you personally build end-to-end (prefer multi-surface ownership).\nHands-on deploying AI / automation that non-technical teammates actually use (not only personal ChatGPT habits).\nSystem mindset: can map a messy multi-team workflow, design an AI project structure, and manage context/memory so models execute.\nExtreme ownership in ambiguity: start without a perfect spec; experiment; absorb failure and iterate.\nBlunt, well-structured communication with department leaders — technical logic into plain business language.\nComfortable daily on macOS or Linux.\nEveryday conversational English for product and engineering alignment.\nMindset & attitude that fit PATI\nBuilder’s 5 Mindsets: Ownership, Problem Solving, 100% Definition of Done, AI First, 80/20.\nThinking skills: first-principles, second-order, systems thinking.\nWorking attitude:\nIntegrity: finish completely; surface risk early with a plan — do not hide until it becomes an incident.\nWant to own products in production, not slide decks.\nLike a fast, challenging environment and own your decisions.\nBelieve continuous self-learning is the basis for growth.",
+  "quyen_loi": "Compensation:\nRank A1–A4: 7.5–14.5 million VND / month (by capability and results — PATI does not “cào bằng”).\nProbation: 2 months at 85% pay. Compensation review on results (company cadence applies).\n13th-month pay; holiday/Tet bonus; birthday; company trip.\nFull social, health, and unemployment insurance; Bao Viet health insurance.\nFrontier AI (uncapped for work):\nCompany-funded frontier access, including Claude Code 20x, ChatGPT 20x, SuperGrok Heavy, KIMI Vivace (20x), Google Ultra, and Seedance.\nPATI is Agent-first: you are expected to use the best models in the world as operating infrastructure, not as a side tool.\nCareer path:\nWork directly with CoS / CTO / CMO lanes on product priority; propose what to build next with evidence.\nPath: Product Manager → Senior PM / Product Lead on real shipped portfolio impact, not tenure\nWorking hours\nMon–Fri: 8:30–17:30. Sat: 8:00–12:30. On-site.\nLocation: Midtown M7 Signature, Street 15, Tan My Ward, HCMC.\nBring your personal laptop. Company MacBook and senior benefits at Senior level.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODEyNDEwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1805993db1caa88f2d0e0f7bd1dd7d277fa13fb2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Pati%20group.jpg",
+  "company_url": "/companies/pati-group",
+  "company_mo_ta": "PATI Group",
+  "job_expertise": [
+    "Product Owner"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

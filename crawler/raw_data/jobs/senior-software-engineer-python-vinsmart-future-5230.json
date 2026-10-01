@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-software-engineer-python-vinsmart-future-5230",
+  "tieu_de": "Senior Software Engineer Python",
+  "ten_cong_ty": "VinSmart Future",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Python",
+    "SQL",
+    "API",
+    "Design Systems",
+    "AWS",
+    "ReactJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 20A, Vincom Center Đồng Khởi, 72 Lê Thánh Tôn, phường Bến Nghé",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job overview\n \nWe are looking for a Senior/Lead Backend Engineer (Python) to join our Data & AI team, building production-grade applications and platforms in the automotive and manufacturing domain, on use cases such as AI-powered chatbots, production planning, vehicle warranty and inspection workflows, intelligent document processing, and video processing/analytics.\nThis role is ideal for an engineer who is strong in Backend Engineering, System Design and Architecture, and wants to work on complex systems where AI capabilities need to be integrated reliably into large-scale production environments.\n \nKey Responsibilities:\nDesign, develop, and maintain scalable backend services and APIs using Python, FastAPI, PostgreSQL, Redis, and Celery.\nOwn system architecture and technical design, ensuring scalability, reliability, security, and high performance.\nBuild REST APIs and system integrations connecting AI/Data services with enterprise platforms and applications.\nOptimize production systems for performance, scalability, availability, and maintainability.\nCollaborate with AI/ML, Data, Product, and business teams to deliver end-to-end Data & AI solutions.\nSupport cloud-native development and deployment using AWS/Azure, Docker, Kubernetes, Terraform, and CI/CD, with frontend development using React/Next.js when needed.",
+  "yeu_cau": "Qualifications: \nStrong hands-on experience with Python and building production-grade backend systems.\nSolid expertise in Backend Engineering, System Design, Software Architecture, REST APIs, and System Integration.\nExperience with FastAPI, relational databases such as PostgreSQL, and technologies such as Redis, Celery, or WebSocket.\nStrong understanding of scalability, performance, reliability, security, and maintainability in production systems.\nExperience with cloud and DevOps environments, including AWS/Azure, Docker, CI/CD; Kubernetes and Terraform are preferred.\nExperience leading technical design or providing engineering guidance is a strong advantage.\nNice to Have\nFullstack experience with React, Next.js, TypeScript, and Tailwind CSS.\nExperience building or integrating AI/ML, GenAI, LLM, RAG, document processing, computer vision, or video processing solutions.\nExperience in manufacturing, automotive, IoT, or complex enterprise systems.\nTech Stack\nFrontend: React, Next.js, TypeScript, Tailwind CSS\nBackend: Python, FastAPI, SQLAlchemy, PostgreSQL, Redis, Celery, WebSocket\nCloud & DevOps: AWS, Azure, Docker, CI/CD, Terraform, Kubernetes\nCore Engineering Areas: Backend Development, Fullstack Development, System Design, Software Architecture, System Optimization, Security, REST/HTTP, System Integration, UI/UX",
+  "quyen_loi": "Competitive Salary & Benefits\nTraining course and certificates\nThe preferences when using the services of the Vin\n\nQUYỀN LỢI CHUNG KHI GIA NHẬP VINSMART FUTURE\n• Mức thu nhập, các gói thưởng hấp dẫn, cạnh tranh mạnh mẽ so với thị trường.\n• Được hưởng chế độ ưu đãi khi sử dụng các dịch vụ thuộc hệ sinh thái Tập đoàn: Ưu đãi học phí (Vinschool), khám chữa bệnh (Vinmec), nghỉ dưỡng (Vinpearl), mua xe (VinFast), thuê hoặc/và mua nhà (Vinhomes) … theo chế độ của Tập đoàn.\n• Cơ hội tiếp cận dự án chiến lược công nghệ trọng điểm, quy mô lớn.\n• Cơ hội làm việc trong môi trường công nghệ chuyên nghiệp, quy tụ các nhà khoa học, chuyên gia, kỹ sư đến từ các Công ty công nghệ hàng đầu Việt Nam và thế giới.\n• Cung cấp các nguồn học tập miễn phí trên các nền tảng Udemy, Coursera, O’Reilly; hội thảo nội bộ; tài trợ chứng chỉ và chương trình cố vấn đặc biệt từ Ban lãnh đạo Tập đoàn và Công ty.\n• Cơ hội tham gia các Câu lạc bộ công nghệ của Tập đoàn, các sự kiện công nghệ nội bộ để học hỏi, phát triển những dự án, ý tưởng cá nhân vào thực tế.\n• Cung cấp các chương trình đào tạo để trở thành \"Giảng viên nội bộ\" tham gia chia sẻ chuyên môn với những quyền lợi đặc biệt.\n• Được hưởng đầy đủ các chế độ bảo hiểm theo quy định của Luật Lao động (BHXH, BHYT, BHTN) và được Công ty mua Bảo hiểm sức khỏe cá nhân theo cấp bậc vị trí, khám sức khỏe định kỳ tại Bệnh viện và Trung tâm khám sức khỏe uy tín trên toàn quốc.\n• 12 ngày nghỉ phép năm, nghỉ các ngày lễ, Tết theo quy định của pháp luật.\n• Phụ cấp ăn trưa.\n• Tham gia các hoạt động nội bộ, hoạt động teambuilding, sự kiện hàng năm của Công ty.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3OTA4NywicHVyIjoiYmxvYl9pZCJ9fQ==--dfd3930dcd559d16a859989ee33a0da6d537b570/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image.png",
+  "company_url": "/companies/vinsmart-future",
+  "company_mo_ta": "Vin Smart Future",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Manufacturing and Engineering",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

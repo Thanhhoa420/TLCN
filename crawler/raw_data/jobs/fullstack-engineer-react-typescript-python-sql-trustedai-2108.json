@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/fullstack-engineer-react-typescript-python-sql-trustedai-2108",
+  "tieu_de": "Fullstack Engineer React/ TypeScript/ Python/ SQL",
+  "ten_cong_ty": "TrustedAI",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "Python",
+    "ReactJS",
+    "ETL",
+    "SQL",
+    "AWS",
+    "TypeScript"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 06, Số 385 Hoàng Quốc Việt, Phường Nghĩa Đô",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng hệ thống end-to-end (Frontend + Backend) và đưa lên production trên AWS: ổn định, mở rộng được, tối ưu hiệu năng & chi phí.\nPhát triển frontend (React/TypeScript) và backend/API (Python và/hoặc ngôn ngữ khác); thiết kế REST/GraphQL API.\nThiết lập & vận hành hạ tầng/DevOps: IaC (Terraform/CloudFormation), CI/CD, Docker, monitoring, logging.\nXây dựng data pipeline / ETL, xử lý dữ liệu từ nhiều nguồn không đồng nhất.\nĐảm bảo bảo mật hệ thống & bảo vệ dữ liệu xuyên suốt vòng đời phát triển.\nTích hợp các thành phần AI/LLM vào sản phẩm khi dự án yêu cầu (LLM API, vector search…).\nPhối hợp với PM & khách hàng để chốt yêu cầu, demo, ước lượng chi phí; viết tài liệu & bàn giao.",
+  "yeu_cau": "Yêu cầu\nTối thiểu 3 năm kinh nghiệm phát triển phần mềm full-stack, vững nền tảng kỹ thuật (thiết kế hệ thống, code sạch, maintainable).\nThành thạo Frontend (React/TypeScript) và ít nhất một ngôn ngữ Backend (Python là điểm cộng lớn).\nĐã từng tự build và đưa hệ thống lên production trên AWS (ECS/Lambda, RDS/PostgreSQL, S3, VPC, IAM…).\nKinh nghiệm DevOps / hạ tầng: IaC, CI/CD, Docker, monitoring, logging.\nThiết kế REST/GraphQL API; thành thạo SQL & dữ liệu quan hệ.\nKinh nghiệm data pipeline / ETL.\nĐọc hiểu tài liệu kỹ thuật tiếng Anh tốt.\nBảo mật (bắt buộc)\nSecure coding: nắm & áp dụng OWASP Top 10, tránh các lỗ hổng phổ biến (injection, SSRF, insecure deserialization…).\nXử lý dữ liệu cá nhân (PII): masking / minimization / kiểm soát truy cập, tuân thủ GDPR / APPI (Nhật Bản).\nXác thực & phân quyền: authentication/authorization, nguyên tắc least-privilege, IAM roles/policies.\nQuản lý secrets (AWS Secrets Manager / Vault…), không hardcode key/token.\nMã hoá: encryption at rest & in transit (TLS, KMS…).\nBảo mật mạng / hạ tầng: VPC, security group, network isolation, cấu hình cloud an toàn.\nAudit logging, giám sát truy cập & phản ứng sự cố.\nĐiểm cộng (không bắt buộc)\nKỹ năng & kinh nghiệm AI/LLM: RAG, embeddings, vector database (FAISS, Qdrant, Pinecone, Milvus…), tích hợp LLM API vào sản phẩm thật.\nMLOps, CI/CD cho ML, tối ưu chi phí/inference.\nChứng chỉ cloud / security (AWS Solutions Architect, AWS Security, CISSP, OSCP…).\nTiếng Nhật (JLPT N3 trở lên) - lợi thế lớn khi làm việc với khách hàng Nhật.\nKinh nghiệm làm dự án theo yêu cầu khách hàng, làm việc trực tiếp với khách hàng.\nCó sản phẩm/dự án đã deploy thực tế (portfolio, GitHub, bài viết kỹ thuật).",
+  "quyen_loi": "Thu nhập: Upto 40M, thỏa thuận theo năng lực; review lương định kỳ theo hiệu quả công việc.\nThưởng: theo dự án/KPI, thưởng lễ Tết theo quy định công ty.\nLàm việc trong môi trường công nghệ Nhật chuyên nghiệp, tiếp cận các dự án AI đa dạng và công nghệ mới (LLM, RAG, GenAI).\nĐược đóng BHXH/BHYT/BHTN đầy đủ theo Luật Lao động.\nCơ hội học hỏi tiếng Nhật và làm việc với khách hàng quốc tế.\nLộ trình phát triển rõ ràng lên Engineering Lead / Engineering Manager.\nMôi trường startup trẻ trung, linh hoạt, được tham gia sâu vào sản phẩm và quyết định kỹ thuật",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODExMjY2OSwicHVyIjoiYmxvYl9pZCJ9fQ==--5c97510d6036f55cef61ebb8c9f9068e7ba20b1f/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/trustedai.png",
+  "company_url": "/companies/trustedai",
+  "company_mo_ta": "Empowering humanity through trusted AI",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

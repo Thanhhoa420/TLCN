@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-frontend-developer-react-next-js-cong-ty-co-phan-dev-fromvietnam-1414",
+  "tieu_de": "Middle Frontend Developer React / Next.js",
+  "ten_cong_ty": "CÔNG TY CỔ PHẦN DEV FROMVIETNAM",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "ReactJS",
+    "TypeScript",
+    "NextJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "8 Lê Quang Đạo",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "700 - 1,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chúng tôi tìm kiếm Middle Frontend Developer tham gia phát triển các sản phẩm Web với 3 nhóm chính:\nE-commerce / Storefront \nAdmin Portal / Dashboard \nWebsite / Storefront Builder \nTech stack: React, TypeScript, React Router, Next.js.\nBạn sẽ không chỉ implement UI mà được kỳ vọng ownership một feature từ requirement → solution → implementation → testing → production.\nTrách nhiệm\nPhát triển và maintain Web applications với React, TypeScript, React Router và Next.js. \nXây dựng responsive UI, reusable components và shared modules. \nTích hợp REST API/GraphQL và xử lý business logic phía Frontend. \nPhát triển các tính năng E-commerce: Product, Cart, Checkout, Payment, Order, Promotion... \nXây dựng Admin Portal với Form, Table, Search/Filter, Dashboard, Role/Permission và business logic phức tạp. \nTham gia phát triển Storefront Builder với Dynamic Components, Drag & Drop, Configuration, Preview/Publish. \nTối ưu Frontend Performance & SEO, debug và xử lý production issues. \nTham gia Code Review và phối hợp với Backend, QA, BA/PM và Designer.",
+  "yeu_cau": "React / TypeScript\nThành thạo JavaScript/TypeScript và React. \nHiểu rõ Hooks, State, Context, Component Composition và React Rendering. \nCó khả năng xây dựng reusable & maintainable components. \nCó kinh nghiệm với Redux Toolkit, Zustand, TanStack Query hoặc tương đương. \nNext.js / React Router\nCó kinh nghiệm thực tế với Next.js và/hoặc React Router. \nHiểu App Router, Nested/Dynamic Routes, Server & Client Components. \nCó kiến thức về SSR, CSR, SSG, ISR, Caching/Revalidation, Authentication/Protected Routes và SEO/Metadata. \nBiết lựa chọn rendering strategy phù hợp dựa trên SEO, performance và product requirements. \nFrontend Engineering\nCó kinh nghiệm với REST API/GraphQL, Authentication, Authorization và Role/Permission.  \nThành thạo HTML, CSS, Responsive Design. \nCó khả năng sử dụng Chrome DevTools / React DevTools để debug và phân tích performance. \nThành thạo Git, Pull Request và Code Review. \nKinh nghiệm với Frontend Testing là một lợi thế.",
+  "quyen_loi": "Cơ hội nhận được Esop từ HĐQT\nLộ trình thăng tiến rõ ràng\nMôi trường công nghệ agile\n\nCam kết & giá trị cốt lõi : \nLấy khách hàng làm trung tâm của mọi hoạt động. Chúng tôi luôn nỗ lực nâng cao trải nghiệm khách hàng và lấy sự hài lòng của khách hàng làm thước đo của sự phát triển và thành công.\nMang lại cho nhân viên sự tử tế, niềm vui, sung túc và niềm tự hào.\nCam kết chính trực (integrity) trong mối quan hệ với cán bộ nhân viên, đối tác, đại lý, cổ đông và cộng đồng xã hội, đảm bảo hài hòa lợi ích của các bên liên quan, hướng tới sự phát triển bền vững.\nLiên tục đổi mới: Chúng tôi cho rằng không có cái gọi là phiên bản tốt nhất. Chúng tôi không ngừng đổi mới, hoàn thiện hơn mỗi ngày để thích nghi với sự thay đổi của thị trường cũng như đáp ứng tốt nhất tất cả nhu cầu của khách hàng.\nChế độ & quyền lợi rất “CHẤT” của Dev FromVietnam:\n🔔 Công ty làm Product. Tổng thu nhập năm từ 13-15 tháng.\n🔔 Hương đầy đủ chế độ BHXH, BHLĐ, nghỉ mát, lễ tết… theo quy định của công ty.\n🔔 Du lịch biển 1 lần/năm, Teambuilding 1-2 lần/năm. \n🔔 Cung cấp đầy đủ trang thiết bị phục vụ công việc nâng cao hiệu quả làm việc.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzcxODkwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--408b9bd98699e7f04eab42f7c5ebb002b718e03c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Artboard%201-100.jpg",
+  "company_url": "/companies/cong-ty-co-phan-dev-fromvietnam",
+  "company_mo_ta": "From Vietnam to the World",
+  "job_expertise": [
+    "Frontend Developer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

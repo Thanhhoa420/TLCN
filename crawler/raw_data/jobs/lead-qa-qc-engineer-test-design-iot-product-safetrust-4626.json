@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/lead-qa-qc-engineer-test-design-iot-product-safetrust-4626",
+  "tieu_de": "Lead QA/QC Engineer - Test Design IoT product",
+  "ten_cong_ty": "Safetrust",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "QA QC",
+    "IoT Platforms",
+    "Tester",
+    "Automation Test",
+    "Zephyr",
+    "TestRail"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "360A Ben Van Don",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the role:\nThe Lead Quality Engineer - Test Strategy & Design is responsible for the design, structure, and continuous quality of Safetrust's test cases and test documentation across mobile, web, API, and device platforms. This position plays a key role in the QA organization, acting as the source of truth for what is tested, how it is described, and how a release is proven ready to ship.\nThis role focuses on test design leadership and documentation ownership, working as a peer to the Test Automation Lead (who owns frameworks and CI infrastructure), and contributes to Safetrust's continued growth by ensuring test coverage scales rigorously as the product grows.\n \nKey Responsibilities:\nTest Case Design Ownership\nOwn the end-to-end test case design strategy across mobile apps, web portals, APIs, and IoT devices.\nDefine and enforce standards for how test cases are written: structure, granularity, preconditions, expected results, traceability to requirements.\nReview and approve test cases authored by QA engineers; coach the team on test design techniques (boundary, equivalence partitioning, decision tables, state transition, risk-based, exploratory charters).\nMaintain a master test case library — organized, deduplicated, version-controlled, and tagged for reuse across releases and product lines.\nDrive coverage analysis: map test cases to requirements, user stories, and risk areas; identify gaps and prioritize remediation.\nDefine and maintain reusable test data sets, environments, and fixtures that test cases depend on.\nEstablish enterprise-wide quality standards, testing methodologies, and governance across all Safetrust engineering teams.\nPartner with Engineering, Product Management, Security, and Customer Success to ensure quality objectives are incorporated throughout the software development lifecycle.\nDefine release quality gates, risk acceptance criteria, and go/no-go recommendations for production deployments.\nDevelop and maintain quality dashboards measuring defect trends, release readiness, customer-reported issues, automation coverage, and engineering quality metrics.\nLead root cause analysis initiatives for significant production incidents and establish preventative quality improvements.\nDrive continuous improvement initiatives focused on quality engineering maturity, process optimization, and organizational scalability.\nDevelop onboarding programs, mentoring frameworks, and technical training for Quality Engineers across all disciplines.\nCollaborate with the QA Automation Lead to define enterprise automation priorities and maximize automation return on investment.\nTest Documentation Ownership\nOwn the structure and quality of all test documentation: test plans, test strategies, test reports, release sign-off documents, RCA reports, and regression suites.\nEstablish templates, naming conventions, and lifecycle rules for every test artefact across the QA team.\nMaintain the test management system (Zephyr, or equivalent) as the single source of truth — keep it clean, current, and queryable.\nProduce clear, actionable release-readiness reports for engineering and product leadership: what was tested, what was skipped, known issues, residual risk.\nMaintain audit-ready documentation for security, compliance, and customer reviews (SOC 2, ISO 27001 evidence, customer test reports).\nDocument and continuously improve QA processes, runbooks, and onboarding material so the team scales without losing rigor.\nTeam Leadership\nLead and mentor a team of QA engineers spanning manual, mobile, device, and automation testing.\nSet quality KPIs (coverage, defect leakage, escape rate, test cycle time) and report them to engineering leadership.\nPlan QA capacity per release; balance manual, exploratory, and automated effort across squads.\nPlan hiring, growth, and individual development for the QA team.\nAutomation as Supporting Capability\nDecide which test cases are worth automating and which stay manual or exploratory — guide the team in making the right call.\nSet standards for how automated tests are written, named, and tied back to the test case library.\nEnsure automation results feed back into the same test management and reporting flow as manual results — one coherent picture of quality.",
+  "yeu_cau": "Skills & Experience:\nBachelor's or Master's degree in Computer Science, Engineering, or a related field.\n7+ years of QA experience with 2+ years leading a QA team or owning a QA function.\nDeep expertise in test design techniques and demonstrable ownership of large test case libraries (1,000+ cases).\nHands-on experience with test management tools (TestRail, Zephyr, Xray, qTest, or similar) — including admin-level configuration.\nStrong skills in writing clear, structured technical documentation in English.\nSolid grasp of risk-based testing, traceability matrices, and release-readiness criteria.\nExperience defining QA processes, templates, and standards across multiple product lines or squads.\nExcellent leadership, communication, and stakeholder-management skills.\nWorking knowledge of at least one automation framework (Selenium/Cypress/Playwright/Appium) — enough to set standards and review work, not necessarily to build the framework yourself.\nNice to Have / Preferred\nExperience testing IoT, embedded, or access-control products end-to-end.\nFamiliarity with BLE/NFC, mobile credentials, or hardware-software integration testing.\nExposure to compliance-driven QA (SOC 2, ISO 27001, medical, automotive, or financial standards).\nISTQB Advanced Level (Test Manager) or equivalent certification.\nProgramming literacy (Python, Java, or JavaScript) to read and review automation code.\nSuccess Profile:\nThe ideal candidate is:\nRigorous and structured, with a strong eye for test coverage gaps and documentation quality.\nA strong people leader who coaches QA engineers on test design craft.\nAble to translate testing status into clear, decision-ready reports for leadership.\nComfortable acting as a peer partner to the Test Automation Lead on shared priorities.\nComfortable working across regions and functions in a global environment (Vietnam, US, Australia).",
+  "quyen_loi": "Competitive salary\nFull statutory insurance\nProfessional, international working environment\n\nCompetitive salary based on experience and performance\nDaily lunch provided at the office\nFree coffee, tea, and refreshments\nFull statutory insurance (social, health, unemployment)\nAnnual health check-up and 18 paid annual leaves\nProfessional, international working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNjc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca847a8deb1c367d52bbcf880b1008b0acf7f93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-04-29%20090907.png",
+  "company_url": "/companies/safetrust",
+  "company_mo_ta": "Safetrust",
+  "job_expertise": [
+    "Manual Tester"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Manufacturing and Engineering",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

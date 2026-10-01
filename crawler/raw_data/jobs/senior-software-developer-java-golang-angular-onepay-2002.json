@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-software-developer-java-golang-angular-onepay-2002",
+  "tieu_de": "Senior Software Developer Java/ Golang/ Angular",
+  "ten_cong_ty": "OnePay",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Java",
+    "VueJS",
+    "Angular",
+    "Golang",
+    "Database"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "BIDV Tower, 194 Tran Quang Khai",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Java/Golang, Angular/VueJS Developer to be part of our expanding team. Your main goal is to oversee the development of products within the FinTech and Payments processing industry. \nAs a Senior Developer, your responsibilities will be: \nSystem Design, develop, and maintain robust, high-quality software applications using Java, Golang, or Angular, VueJS.\nTake lead and collaborate with cross-functional teams to analyze requirements, define technical solutions, and deliver new features.\nReview & ensure code quality by writing unit tests, performing code reviews, and enforcing development best practices.\nOptimize performance and scalability across distributed systems and complex environments.\nIdentify, troubleshoot, and resolve complex technical issues efficiently and proactively.\nProvide technical leadership and mentorship to junior and mid-level developers, fostering a culture of continuous improvement.\nLead & drive the team to adopt and follow Agile/Scrum practices effectively.\nContribute to system architecture discussions and long-term product/system roadmap planning.\nStay current with emerging technologies and trends in FinTech, Payments, and modern software development practices.",
+  "yeu_cau": "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field.\n5+ years of professional experience in software development.\nStrong proficiency in Java or Golang for backend development and/or Angular/VueJS for frontend development.\nExperience with RESTful APIs, microservices architecture.\nSolid experience in system design.\nSolid understanding of database programming (SQL and NoSQL) and data modeling.\nKnowledge of DevOps practices, Git, CI/CD pipelines, and containerization (Docker/Kubernetes) is a plus.\nExcellent problem-solving skills and attention to detail.\nStrong communication skills and ability to work collaboratively in a team environment.\nExperience with AI coding tools is a plus.\nSpeaking, Writing and Reading English is preferred.",
+  "quyen_loi": "Competitive Salary\nProfessional environment and Experienced team\nReceiving training opportunities\n\nCompetitive salary, negotiable based on competence\nPerformance-based bonuses twice a year, depending on KPI and company business results\nIn addition to 12 annual leave days as per labor law, additional paid summer leave based on seniority\nHealth insurance for employees and family members\nParticipation in company-organized team-building programs and annual community activities\nWorking schedule: Monday – Friday, plus 2-3 Saturday mornings per month\nOpportunities to join internal training and development programs\nFull benefits including social insurance (SI), health insurance (HI), unemployment insurance (UI), annual health check-ups, and other benefits as per company policies and labor law regulations.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY2MjMxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4e5c98a8171ee2d10a74117090433290ca5db732/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_OnePay.png",
+  "company_url": "/companies/onepay",
+  "company_mo_ta": "OnePay JSC",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

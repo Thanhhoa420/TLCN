@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/infrastructure-lead-cloud-cardoctor-0044",
+  "tieu_de": "Infrastructure Lead Cloud",
+  "ten_cong_ty": "CarDoctor",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Cloud",
+    "AWS",
+    "Azure",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5BT2, khu đô thị Mễ Trì Hạ",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "INFRASTRUCTURE LEAD (HYBRID: CLOUD & ON-PREM)\nABOUT US\nCarDoctor is a pioneer in applying AI to optimize vehicle care and automotive operations. The CarDoctor ecosystem connects drivers, garages, and partners within an intelligent platform that delivers convenience, safety, efficiency, and cost savings for users.\nWebsite:\nAggregatori Capaci is the core technology development company behind CarDoctor, building its technology ecosystem from the ground up with AI-first architecture and emerging technologies at its core.\nWebsite:\nWorking Location: 5BT2, Me Tri Ha Urban Area, Tu Liem Ward, Hanoi\nWorking Hours: 08:00 AM – 05:30 PM | Monday – Friday\nJOB PURPOSE\nLead the design, operation, and continuous improvement of the company's hybrid infrastructure, spanning both cloud (AWS/GCP) and on-premise (data center/colocation) environments.\nEnsure high availability, security, performance, and cost-efficiency across both cloud and on-prem systems, with a consistent architecture and operating model between the two.\nLead the Infra team (~4-6 engineers) and coordinate with internal teams and vendors to ensure reliable infrastructure operations end-to-end.\nKEY RESPONSIBILITIES\nA. Infrastructure Architecture & Capacity Planning\nDesign and own the hybrid infrastructure architecture: cloud-native workloads on AWS/GCP (EKS, EC2, S3, RDS, VPC, ALB/NLB...) and on-premise infrastructure (data center/colocation: compute, storage, network, security); standardize dev, staging, and production environments across both.\nLead capacity planning for both cloud and on-prem, based on user growth, tenant/station count, and workload trends; build a 12–24 month hardware/cloud investment roadmap.\nDesign High Availability and Disaster Recovery across environments (multi-AZ/multi-site, active-active or active-standby); define RPO/RTO per service tier and run periodic DR drills.\nDecide, workload by workload, what runs on cloud vs. on-prem, based on cost, performance, compliance, and Vietnam data-residency requirements.\nB. Platform Operations, CI/CD & Container Orchestration\nLead Kubernetes operations at scale across both environments (EKS and on-prem K8s) using Helm, with autoscaling/self-healing; support multi-tenant architecture for platform products (e.g. Service Station Portal).\nBuild and standardize CI/CD (Jenkins/GitLab CI/ArgoCD) and IaC (Terraform, Ansible, Helm) so releases to either environment are safe, fast, and consistent.\nOperate the data and middleware layer (PostgreSQL/MySQL clusters, Redis, Kafka/RabbitMQ, Elasticsearch/OpenSearch, object storage) and real-time infrastructure (VoIP/SIP, WebRTC, WebSocket) where applicable; ensure performance during peak periods.\nC. Observability, Security & Cost Efficiency\nBuild and maintain observability (Prometheus, Grafana, ELK/Loki, CloudWatch) across cloud and on-prem; define and enforce SLIs/SLOs/SLAs, and lead incident response and blameless RCA.\nEnforce least-privilege IAM, network/firewall security, and secret management across both environments; integrate security monitoring into reliability workflows.\nApply FinOps/cost-efficiency practices on cloud (rightsizing, autoscaling, Savings Plans) and cost-aware capacity planning on-prem; balance reliability vs. cost trade-offs across the hybrid estate.\nD. Team Leadership & Collaboration\nManage, mentor, and develop the Infra team (~4-6 engineers); own the infrastructure technical roadmap across cloud and on-prem.\nCollaborate with Backend, QA, and Security teams to standardize release, rollback, and versioning processes; report infrastructure status, incidents, and cost to the CTO/Management regularly.",
+  "yeu_cau": "JOB REQUIREMENTS\nMinimum 7 years of experience in DevOps/SRE/Infrastructure, including experience leading a team; experience spanning both cloud and on-premise environments is strongly preferred.\nProficient with core AWS services (EKS, EC2, S3, RDS, IAM, VPC, ALB/NLB, CloudWatch) and Terraform (required).\nHands-on experience managing on-premise infrastructure: Servers, Network, Storage, Virtualization (VMware/Hyper-V), Backup/DR.\nStrong understanding of Kubernetes operations at scale (EKS and/or on-prem), Helm, and multi-tenant architecture.\nExperience with CI/CD (Jenkins/GitLab CI/ArgoCD) and implementing observability (Prometheus/Grafana/ELK); experience defining SLIs/SLOs/SLAs.\nSolid understanding of system security (IAM/RBAC, secret management, least privilege, network/firewall) and FinOps/cost optimization.\nExperience operating database clusters, caching, message queues, search, or object storage (PostgreSQL/MySQL, Redis, Kafka/RabbitMQ, Elasticsearch, Ceph/MinIO) is a plus.\nProven ability to lead/mentor a technical team, with strong communication skills across technical teams, senior stakeholders, and vendors.",
+  "quyen_loi": "Compensation & Benefits\nCompetitive salary package based on qualifications and experience.\n13th-month salary.\nAnnual health check-up according to company policy.\nHoliday bonuses for National Day (September 2) and New Year.\nComprehensive employee care policies including birthday, marriage, childbirth, and illness support.\nCompany-provided laptop, monitor, and necessary tools/accounts for work.\n50% discount at the company café for employees.\nCareer Development\nAnnual salary review and promotion opportunities.\nDiverse career paths including management and specialist tracks.\nOpportunities to participate in technical training and TechTalks.\nOpportunity to work on cloud infrastructure supporting an AI-first automotive technology product.\nRecognition and rewards at both team and organizational levels.\nWorking Environment\nOpen and collaborative working environment.\nHigh-performance culture with opportunities for technical ownership and innovation.\nQuarterly/annual teambuilding activities and internal events.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk1Mzg3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--b345e88b6d561c183651388880214f9503fbb490/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/car%20logo.png",
+  "company_url": "/companies/cardoctor",
+  "company_mo_ta": "CarDoctor - Công nghệ thông minh, dịch vụ tận tâm",
+  "job_expertise": [
+    "Cloud Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

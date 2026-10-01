@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/truong-phong-ky-thuat-java-omicall-voip-ai-vihat-technology-1450",
+  "tieu_de": "Truong phong Ky thuat JAVA OMICall VoIP AI",
+  "ten_cong_ty": "VIHAT Technology",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Java",
+    "Networking",
+    "Database",
+    "AI",
+    "DevOps",
+    "Software Architecture"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "140 - 142 Đường số 2, Khu nhà ở Vạn Phúc 1",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Trưởng Phòng Kỹ thuật người chịu trách nhiệm cao nhất về công nghệ cho OMICall — nền tảng tổng đài chăm sóc khách hàng đa kênh ứng dụng AI (VoIP, Call Center, tích hợp CRM, Callbot, Voice Analysis).. TP Kỹ thuật cần vừa có năng lực kỹ thuật chuyên sâu về Java, kiến trúc hệ thống viễn thông (VoIP/SIP) quy mô lớn, vừa có khả năng dẫn dắt đội ngũ và ứng dụng AI vào sản phẩm lẫn quy trình phát triển.\nTrách nhiệm chính\nXây dựng và thực thi chiến lược, roadmap công nghệ cho sản phẩm OMICall, phù hợp mục tiêu kinh doanh của Ban giám đốc\nĐịnh hướng kiến trúc hệ thống tổng đài đa kênh: VoIP/SIP core, tích hợp đa kênh (Facebook, Zalo, Website, Hotline), CRM, Callbot, AI Voice Analysis\nĐảm bảo hệ thống vận hành ổn định, high availability cho khách hàng doanh nghiệp đang sử dụng dịch vụ (uptime, chất lượng cuộc gọi, độ trễ)\nXây dựng, đào tạo và phát triển đội ngũ kỹ thuật của dự án OMI: tuyển dụng, career path, đánh giá năng lực, giữ chân nhân tài\nDẫn dắt việc tích hợp AI vào sản phẩm (Callbot, Voice Analysis, chatbot đa kênh) và vào quy trình phát triển (AI-assisted coding)\nPhối hợp với đội ngũ kinh doanh/sản phẩm để đánh giá yêu cầu khách hàng doanh nghiệp, xây dựng roadmap tính năng, hỗ trợ demo/POC khi cần\nQuản lý ngân sách công nghệ của dự án: hạ tầng viễn thông, cloud, license, công cụ AI, đảm bảo hiệu quả chi phí\nĐảm bảo bảo mật dữ liệu khách hàng, tuân thủ quy định viễn thông và bảo vệ dữ liệu cá nhân\nBáo cáo định kỳ cho CTO /Ban giám đốc về tình hình công nghệ, rủi ro và đề xuất cải tiến sản phẩm OMI",
+  "yeu_cau": "Yêu cầu kỹ thuật\nBackend & Kiến trúc hệ thống (Java)\nTối thiểu 08 năm kinh nghiệm với Java ecosystem: Spring Boot, Spring Cloud, Spring Security, Hibernate/JPA\nCó kinh nghiệm tối ưu JVM: memory management, GC tuning, profiling (JProfiler, async-profiler, VisualVM), xử lý concurrency (thread pool, CompletableFuture, virtual threads)\nChủ động thiết kế microservices, kiến trúc chịu tải cao cho hệ thống SaaS đa khách hàng (multi-tenant): service decomposition, inter-service communication (gRPC, REST, Event-driven), API Gateway pattern\nClean Architecture, Domain-Driven Design (DDD), CQRS + Event Sourcing\nVersioning, rate limiting, idempotency, backward compatibility\nJWT/OAuth2, OpenID Connect, OWASP Top 10, secure coding practices\nTelephony & VoIP\nHiểu và có kinh nghiệm thực tế với giao thức VoIP: SIP, RTP/RTCP, WebRTC\nĐã từng làm việc với PBX/Softswitch: Asterisk, FreeSWITCH, Kamailio, OpenSIPS hoặc tương đương\nHiểu về SIP Trunking, đầu số hotline (1900/1800), codec âm thanh (G.711, G.729, Opus), NAT traversal (STUN/TURN)\nKinh nghiệm xử lý call routing, IVR, call queue, call recording ở quy mô lớn, đảm bảo chất lượng thoại và độ trễ thấp\nDatabase & Data\nThiết kế DB, làm việc với SQL: PostgreSQL, MySQL, SQL Server — query optimization, indexing, sharding, partitioning\nLàm việc với NoSQL: MongoDB, Elasticsearch, Redis\nMessage queue: Kafka, RabbitMQ — thiết kế event-driven architecture, đảm bảo at-least-once/exactly-once delivery, dead-letter queue\nFrontend & Fullstack\nĐủ năng lực đọc hiểu, review code và định hướng kiến trúc frontend: ReactJS/NextJS, Vue, TypeScript\nHiểu rõ API contract, CORS, authentication flow, state management, performance frontend\nHiểu về WebRTC phía client, xây dựng dashboard giám sát cuộc gọi real-time\nCó kinh nghiệm mobile cross-platform (React Native/Flutter) là lợi thế\nAI/ML & AI-Assisted Development\nCó kinh nghiệm ứng dụng AI vào xử lý giọng nói: Speech-to-Text, Text-to-Speech, phân tích cảm xúc/chất lượng cuộc gọi (Voice Analysis)\nCó kinh nghiệm xây dựng Callbot/Voicebot: conversational AI, NLU, tích hợp LLM\nTích hợp AI/LLM vào sản phẩm CRM/chăm sóc khách hàng: chatbot đa kênh, gợi ý kịch bản, tóm tắt cuộc gọi tự động\nThành thạo công cụ AI coding: GitHub Copilot, Cursor, Claude Code hoặc tương đương; biết setup workflow/skill/rule/command bằng AI cho cả team\nCó khả năng đánh giá, lựa chọn công cụ/mô hình AI phù hợp với ngân sách và quy mô sản phẩm\nDevOps & Hạ tầng\nCI/CD: thiết kế pipeline GitLab CI/GitHub Actions — build, test, lint, deploy tự động\nContainer & Orchestration: Docker (viết Dockerfile tối ưu, multi-stage build), Kubernetes (deployment, service, ingress, horizontal pod autoscaling)\nCloud: AWS/Azure/GCP — hiểu và tối ưu chi phí các managed service (RDS, S3, Load Balancer, API Gateway); Infrastructure as Code (Terraform) là lợi thế\nHiểu vận hành hạ tầng viễn thông ở cả mô hình Cloud và On-Premise (OMI có gói triển khai riêng cho doanh nghiệp lớn)\nObservability: structured logging (Log4j2/Logback), distributed tracing (OpenTelemetry, Jaeger), metrics (Prometheus + Grafana), alerting\nYêu cầu lãnh đạo & quản lý\nĐã từng đảm nhiệm vai trò Technical Director/Head of Engineering hoặc tương đương tối thiểu 03 năm\nKinh nghiệm xây dựng/scale đội ngũ kỹ thuật, quản lý đa module/đa hạng mục song song trong cùng một sản phẩm\nKhả năng làm việc trực tiếp với đội kinh doanh/sản phẩm và khách hàng doanh nghiệp: thu thập yêu cầu, tư vấn giải pháp kỹ thuật, trình bày cho stakeholder không chuyên kỹ thuật\nKhả năng đưa ra quyết định kỹ thuật nhanh dưới áp lực deadline, cân bằng giữa giải pháp hoàn hảo và đủ dùng\nChủ động nhận diện rủi ro/cơ hội công nghệ, đề xuất cải tiến trước khi phát sinh vấn đề lớn\nKinh nghiệm yêu cầu\nTối thiểu 08-10 năm kinh nghiệm phát triển phần mềm, trong đó tối thiểu 03 năm ở vai trò quản lý/lãnh đạo kỹ thuật cấp cao\nCó kinh nghiệm trong lĩnh vực VoIP/Call Center/Contact Center/Telecom là lợi thế rất lớn\nĐã từng dẫn dắt sản phẩm SaaS đa khách hàng (multi-tenant) từ giai đoạn 0-1 hoặc scale hệ thống chịu tải cao\nĐã ứng dụng AI vào sản phẩm hoặc quy trình phát triển phần mềm trong thực tế công việc\nƯu tiên đặc biệt\nCó kinh nghiệm trực tiếp làm Technical Lead cho sản phẩm tổng đài, call center hoặc VoIP\nCó hiểu biết về ngành chăm sóc khách hàng, CRM, Omnichannel\nTừng xây dựng AI Voicebot/Callbot hoặc sản phẩm AI ứng dụng cho customer service\nCó network trong ngành viễn thông/chăm sóc khách hàng là lợi thế",
+  "quyen_loi": "Môi trường công nghệ hiện đại, vui vẻ, hòa đồng\nĐược xét tăng lương 1 năm 1 lần\n\nQuyền lợi được hưởng\nMức lương cạnh tranh, thoả thuận theo năng lực và kinh nghiệm thực tế\nToàn quyền đề xuất, quyết định technology stack và quy trình kỹ thuật cho sản phẩm OMICall\nTrực tiếp tham gia định hướng phát triển sản phẩm, làm việc sát với CTO/Ban giám đốc\nNgân sách riêng cho R&D, đào tạo đội ngũ, công cụ AI\nThưởng theo hiệu quả kinh doanh/sản phẩm\nTham gia bảo hiểm (BHYT, BHXH, BHTN)\nKhám sức khỏe định kỳ hằng năm\nHỗ trợ sinh nhật, ốm đau, hiếu hỷ…, Chế độ phép năm, lương tháng 13…\nChương trình Open Day, hội thao…\nMôi trường làm việc năng động, công nghệ, có cơ hội hoàn thiện bản thân và thăng tiến cao\nThời gian & địa điểm làm việc\nTừ thứ 2 đến thứ 6 hàng tuần, nghỉ thứ 7 và chủ nhật\nBuổi sáng: 8h00-12h00\nBuổi chiều: 13h30-17h30\nĐịa điểm làm việc: Tại trụ sở chính số 142 Đ. Số 2, KDC Vạn Phúc City, Thủ Đức, Thành phố Hồ Chí Minh",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjA2MDM5MCwicHVyIjoiYmxvYl9pZCJ9fQ==--fcbe6997762b095d8078c20006296b9a2d8aa2a5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo-vihatt.png",
+  "company_url": "/companies/vihat-technology",
+  "company_mo_ta": "Công Ty TNHH Công nghệ VIHAT",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Telecommunication",
+    "Software Products and Web Services",
+    "Emerging Tech R&D",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

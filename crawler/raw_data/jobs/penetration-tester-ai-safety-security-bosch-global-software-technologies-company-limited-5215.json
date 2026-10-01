@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/penetration-tester-ai-safety-security-bosch-global-software-technologies-company-limited-5215",
+  "tieu_de": "Penetration Tester AI Safety Security",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Penetration Testing",
+    "English",
+    "Python",
+    "LLM",
+    "OWASP",
+    "Cybersecurity"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "🎁Q4 JOINING BONUS\nJoin BGSV by 31 December 2026 and receive a Joining Bonus equivalent to 1 month gross salary, subject to program eligibility and terms & conditions.\nAbout the Role\nWe are looking for a Penetration Tester to join our AI Safety & Security team, working hands-on across Bosch's growing portfolio of AI-enabled products and internal tooling — LLM deployments, agentic AI systems, and Model Context Protocol – style tool-calling integrations. Under the direction of the team's Lead AI Safety & Security Engineer, you will execute structured test plans against real systems, covering both whether an AI system behaves safely (does it refuse harmful requests, stay within its intended scope) and whether it is secure (can it be manipulated via prompt injection or tricked into misusing its tools). This is an individual-contributor role on a newly forming team — you'll be running real engagements from day one, not just shadowing them.\nKey Responsibilities\nExecute penetration tests and safety evaluations against LLM-based features and AI agents, following test plans and specifications defined by the team lead.\nRun red-teaming and jailbreak testing to surface harmful, biased, or unsafe model outputs, and document reproducible findings.\nTest for prompt injection (direct and indirect), excessive agency, and tool/plugin abuse in agentic and MCP-style tool-calling systems.\nVerify human-in-the-loop and guardrail controls hold up under adversarial conditions, not just in normal use.\nWrite clear, reproducible findings reports — evidence, severity, and a specific recommended fix — that both engineers and governance stakeholders can act on.\nHelp build and maintain test tooling: adversarial-prompt scripts, jailbreak test cases, and MCP/tool-schema fuzzing scripts.\nTrack published AI security research (OWASP LLM and Agentic Top 10s, MITRE ATLAS) and bring new attack techniques into the team's test suite.\nWork directly with AI/ML engineering teams to reproduce, triage, and confirm fixes for reported findings.\nSupport the team lead in scoping and coordinating external red-teaming/pentest vendor engagements when work is outsourced.",
+  "yeu_cau": "Required Qualifications\nBachelor's degree in Computer Science, Machine Learning, or a related field.\n2–5 years in penetration testing, security testing, or applied AI/ML security work.\nHands-on experience testing LLM or agentic AI systems — prompt injection, jailbreaks, or tool/plugin abuse; coursework, CTFs, or independent projects count given how new this field is.\nWorking familiarity with the OWASP Top 10 for LLM Applications and/or OWASP Top 10 for Agentic Applications.\nComfortable scripting in Python and/or JavaScript/Node to automate test cases.\nClear, precise technical writing for findings reports.\nPreferred Qualifications\nExposure to the Model Context Protocol (MCP) or comparable agent tool-calling frameworks.\nTraditional penetration testing experience across web, API, or network targets.\nFamiliarity with AI governance concepts (NIST AI RMF, ISO/IEC 42001, EU AI Act).\nOpen-source security tooling contributions, CTF results, or a public research/write-up portfolio.\nRelevant Certifications (any of the following a plus)\nOffensive security / penetration testing — OSCP, GPEN, GWAPT, or CEH.\nAI-specific security — ISC2 AI Security Certificate or Certified AI Security Professional (CAISP).",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nWhy BOSCH?\nBecause we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.\n \nBenefits and Career Opportunities\n \nWorking in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\nEnglish-speaking environment, with opportunity to be part of innovation team and work in global projects\nOnsite opportunities\nEngage in our diverse training programs which surely help strengthen both your personal and professionalism\nFlexible working time\n13th-month salary bonus + attractive performance bonus (you'll love it!) + annual performance appraisal\n100% offered salary and mandatory social insurances in 2-month probation\n15++ days of annual leave + 1-day of birthday leave\nPremium health insurance for employee and 02 family members\nLunch and parking allowance\nGood benefits of company activities such as: football, badminton, yoga, Aerobic, team building…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Cyber Security",
+    "Emerging Tech R&D",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

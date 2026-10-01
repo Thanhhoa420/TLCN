@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/expert-software-engineer-tech-lead-techcombank-2232",
+  "tieu_de": "Expert, Software Engineer Tech Lead",
+  "ten_cong_ty": "Techcombank",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Java",
+    "Microservices Architecture",
+    "Decorator pattern",
+    "SOLID Principles",
+    "Team Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "C5 Building Tower, D’Capitale Tower, 119 Tran Duy Hung",
+  "quan_huyen": "Quận Cầu Giấy",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Low-Level Architecture Design & Development\n- Contribute to low-level architecture design and develop software components that meet efficiency, scalability, and security standards.\n- Work closely with architects and senior engineers to optimize system design and implementation.\n2. Technical Mentorship & Process Improvement\n- Guide Officer-level engineers, providing mentorship on best practices, coding standards, and development workflows.\n- Identify areas for process improvements and drive adoption of engineering best practices within the team.\n3. Code Quality & Optimization\n- Lead peer code reviews, enforce coding standards, and improve overall code maintainability.\n- Optimize software for performance, scalability, and security, ensuring high reliability in production environments.\n4. Testing & Debugging\n- Conduct unit testing, integration testing, and contract testing to ensure software reliability.\n- Collaborate with QE teams to diagnose, troubleshoot, and resolve complex defects in a timely manner.\n- Promote test automation to improve software stability and release efficiency.\n5. Technical Documentation\n- Create and maintain clear, structured documentation, including:\n- API specifications\n- System design documents\n- Coding and architectural guidelines\n- Ensure documentation is regularly updated and aligned with system changes.",
+  "yeu_cau": "Qualifications:\n- Bachelor's or Master's Degree in Computer Science, Software Engineering, Information Technology, or a related field.\nWork Experience:\n- At least 7 years of experience in the engineering field.\n- At least 2 years in a Team lead position.\n- Proficiency in Java backend programming and related technologies for application development. \n- Experience in managing technical teams and mediating in the work environment.\n- Experience in leading and managing system/software delivery.\n- Experience in both architecture and software design implementation: SOLID principles, Design Patterns, Microservices architectures, Observability (monitoring, logging, tracing), Compiling, Runtime deep understanding. \n- Experience in advanced aspects of the engineering field: High performance, concurrency; Security best practices; Emerging technology.\nOther information:\n- Level: Expert (Manager)\n- Working time: Office Hours (9 AM – 6 PM)\n- Probation: 2 months (full 100% offer).",
+  "quyen_loi": "Top-tier banking environment in Vietnam\nChallenging opportunities for the “Greater” You\nAttractive career path and benefits\n\n- Receive an extremely attractive basic salary, 13th month salary + Performance Bonus up to 5 months. Annual salary and work performance review.\n- Participate in advanced training courses at Techcombank. \n- Be informed of the latest practical situations from the No. 1 Senior Experts/Managers in the Vietnamese market.\n- Share a clear career path with close support from management;\n- Receive comprehensive care with Personal and Family Health Insurance; Periodic health check-ups, Bank birthdays, Teambuilding, Year-end Party, ..",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAxMTAzLCJwdXIiOiJibG9iX2lkIn19--b1bff87d94a291ffd1fe909497a53b805d350781/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/techcombank-logo.png",
+  "company_url": "/companies/techcombank",
+  "company_mo_ta": "Techcombank- The leading commercial bank in Vietnam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

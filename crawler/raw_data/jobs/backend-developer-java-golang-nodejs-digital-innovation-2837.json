@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-java-golang-nodejs-digital-innovation-2837",
+  "tieu_de": "Backend Developer Java/ Golang/ NodeJS",
+  "ten_cong_ty": "Digital Innovation",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Java",
+    "OOP",
+    "MySQL",
+    "NodeJS",
+    "Golang"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa Audi Hà Nội, số 8 Phạm Hùng",
+  "quan_huyen": "Quận Nam Từ Liêm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Tham gia phân tích, thiết kế, phát triển và bảo trì các hệ thống Web/Application.\nPhát triển các tính năng Backend sử dụng một trong các ngôn ngữ: Java, Golang hoặc NodeJS.\nXây dựng và phát triển RESTful API, Microservices và các hệ thống có khả năng mở rộng cao.\nLàm việc với Database, tối ưu truy vấn và hiệu năng hệ thống.\nPhối hợp với Frontend, QA/QC, DevOps và các thành viên khác để triển khai sản phẩm.\nTham gia review code, viết unit test và xử lý các vấn đề phát sinh trong quá trình phát triển.\nNghiên cứu, đề xuất các giải pháp kỹ thuật nhằm cải thiện hiệu năng, độ ổn định và khả năng mở rộng của hệ thống.\nTham gia triển khai, vận hành và bảo trì hệ thống theo yêu cầu dự án.",
+  "yeu_cau": "Có từ 3 năm kinh nghiệm trở lên ở vị trí Backend Developer.\nCó kinh nghiệm chuyên sâu với ít nhất một trong ba ngôn ngữ Java / Golang / NodeJS.\nCó kiến thức tốt về:\nRESTful API, HTTP/HTTPS, JSON.\nDatabase: MySQL, PostgreSQL, Oracle hoặc tương đương.\nGit và quy trình phát triển phần mềm.\nOOP, Design Patterns và các nguyên tắc Clean Code.\nCó kinh nghiệm làm việc với Redis, Kafka/RabbitMQ là lợi thế.\nCó kinh nghiệm với Docker, CI/CD, Linux là lợi thế.\nCó hiểu biết về Microservices, Distributed System là điểm cộng.\nCó khả năng đọc hiểu tài liệu kỹ thuật tiếng Anh.\nCó tinh thần trách nhiệm, chủ động trong công việc và khả năng làm việc nhóm tốt.",
+  "quyen_loi": "Mức lương cạnh tranh Upto 30M, trao đổi theo năng lực và kinh nghiệm.\nTham gia các dự án thực tế với hệ thống có quy mô lớn.\nCó cơ hội làm việc với nhiều công nghệ Backend hiện đại.\nĐược đào tạo và nâng cao kiến thức chuyên môn.\nMôi trường làm việc chuyên nghiệp, năng động và hỗ trợ phát triển lâu dài.\nHưởng đầy đủ các chế độ theo quy định của công ty và pháp luật.\nThưởng theo hiệu quả công việc và dự án.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjY1NDIzNCwicHVyIjoiYmxvYl9pZCJ9fQ==--1adaa47b2170e7ab89348eb91b836f831b2028bc/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/271238631_132073349275632_3073689003733700467_n.png",
+  "company_url": "/companies/digital-innovation",
+  "company_mo_ta": "Digital Innovation",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

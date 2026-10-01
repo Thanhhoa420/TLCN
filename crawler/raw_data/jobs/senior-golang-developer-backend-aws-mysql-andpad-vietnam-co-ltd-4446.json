@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-golang-developer-backend-aws-mysql-andpad-vietnam-co-ltd-4446",
+  "tieu_de": "Senior Golang Developer Backend, AWS, MySQL",
+  "ten_cong_ty": "ANDPAD VietNam Co., Ltd",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Golang",
+    "Design Systems",
+    "Unit test",
+    "AI",
+    "AWS",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3rd Floor, Dong Nhan Building, 90 Nguyen Dinh Chieu, Tan Dinh Ward",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are looking for a Senior Golang Engineer who can join our team and develop the application in cooperation with the product manager. Working in the form of Squad, a small team can quickly and consistently engage in everything from designing to development, testing and operations.\n \nAlso, there are a lot of opportunities to work with new languages ​​and FWs other than the main language in an international environment.\n \n■ Job Scope\nDesign and implementation function of the product in charge using Golang\nRefactoring existing products for microservices\nRequirements definition and specification formulation in collaboration with product managers and designers\nArchitecture design based on requirements\nMeasurement of effects for quality improvement and implementation of service improvement measures\n■ Development environment\n Infrastructure: AWS, GCP\n CI/CD: Circle CI/ Codebuild\n DB: Amazon Aurora (MySQL compatible edition), Elasticsearch, DynamoDB\n Configuration management: Ansible\n Deploy/ Build: CodePipeline, CodeBuild, CircleCI, GitHub Actions\n IaC: Packer, Terraform\n Monitoring: Datadog, Bugsnag\n Others: Swagger, Docker, ZenHub, Figma, Slack/Jira",
+  "yeu_cau": "Must have: \nEmpathy for Andpad's mission and values\n5+ years of experience in developing and operating Web services using Golang, AWS, gRPC\nExperience as a technical lead throughout the full project development lifecycle\nExperience in developing and operating Web applications using frameworks\nExperience in schema design such as RDBMS and KVS and design of optimal query\nHave knowledge of Web application security\nExperience Test code implementation (Unit Test)\nGood at English communication\nNice to have: \nExperience of discovering problems from logs and solving problems\nExperience in developing systems using container technologies such as Docker and Kubernetes\nExperience in designing architecture based on application requirements and selecting middleware\nExperience of publishing and contributing OSS\nExternal technical output experience (writing, technical blog, stage, etc.)\nContext Engineering: Experience in how to provide the right context to AI agents, structuring codebases for AI readability, and reducing hallucinations.",
+  "quyen_loi": "No.1 Construction Tech company in Japan\nHybrid working environment\nAttractive salary and Macbook Pro\n\nCompetitive salary package, including full insurance coverage\nAnnual performance review: twice/ year\nYear-end Bonus\nHybrid working\n12 days of annual leave and maximum of 6 days for New Year's Leave\nPremium Healthcare Insurance Package starting from day one\nAnnual Health Check-up\nExcellent career development opportunities, with exposure to and experience in the latest technologies\nPatents and Inventions bonus\nCompany trip, Year-End Party, Gifts for Tet/ Holidays\nMacBook Pro/ Laptop is provided",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjUyNzE4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2442e5b084a5059142397f377f9573e6ac504dd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screen%20Shot%202022-04-05%20at%2012.11.03%20PM%20-%20Thanh%20Nguyen%20(1).png",
+  "company_url": "/companies/andpad-vietnam-co-ltd",
+  "company_mo_ta": "No.1 Construction Tech Company in Japan",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-devops-engineer-ci-cd-cloud-cong-ty-co-phan-chung-khoan-xuan-thien-5556",
+  "tieu_de": "Senior DevOps Engineer CI/CD - Cloud",
+  "ten_cong_ty": "Công ty Cổ phần Chứng khoán Xuân Thiện",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "DevOps",
+    "Docker",
+    "AWS",
+    "DevSecOps",
+    "Cloud",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 6, Số 2 Đặng Thai Mai, P. Tây Hồ, Hà Nội",
+  "quan_huyen": "Quận Tây Hồ",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. VỀ VỊ TRÍ NÀY\nXây dựng và vận hành nền tảng CI/CD, tự động hóa hạ tầng (Infrastructure as Code) phục vụ triển khai Core FLEX, hạ tầng Cloud trong nước, và các hệ thống nội bộ của công ty, rút ngắn thời gian triển khai và nâng cao độ ổn định hệ thống.\n2. CÔNG VIỆC CHÍNH\n2.1. Xây dựng nền tảng CI/CD \nThiết kế, xây dựng pipeline CI/CD phục vụ các nhóm phát triển (Backend/Frontend/Mobile); \nTự động hóa quy trình build, test, deploy nhằm rút ngắn thời gian đưa sản phẩm ra môi trường production; \nQuản lý môi trường Dev/Test/UAT/Production, đảm bảo tính nhất quán. \n2.2. Tự động hóa hạ tầng (IaC) \nTriển khai hạ tầng bằng công cụ Infrastructure as Code (Terraform/Ansible...); \nQuản lý container hóa, điều phối (Docker/Kubernetes) cho các dịch vụ ứng dụng; \nPhối hợp đội Hạ tầng triển khai hạ tầng Cloud trong nước (CMC/FPT/Viettel) cho dự án Core FLEX. \n2.3. Giám sát & tối ưu vận hành \nXây dựng hệ thống giám sát, cảnh báo (monitoring/alerting) toàn diện cho hạ tầng và ứng dụng; \nPhân tích, tối ưu chi phí và hiệu năng hạ tầng; \nTham gia xử lý sự cố production, thực hiện root cause analysis. \n2.4. An toàn & tài liệu \nPhối hợp phòng An toàn thông tin đưa các kiểm soát bảo mật vào pipeline (DevSecOps); \nSoạn tài liệu quy trình CI/CD, runbook vận hành; \nBáo cáo tiến độ, đề xuất cải tiến quy trình DevOps.",
+  "yeu_cau": "Tốt nghiệp Đại học chuyên ngành (hoặc tương đương kinh nghiệm thực tế đã được chứng minh): Công nghệ Thông tin; Khoa học Máy tính hoặc các ngành liên quan;\nThành thạo công cụ CI/CD (Jenkins/GitLab CI/Azure DevOps), container hóa (Docker/Kubernetes); \nHiểu biết về Infrastructure as Code (Terraform/Ansible), cloud platform (CMC Cloud/FPT Cloud/Viettel Cloud); \nHiểu biết về DevSecOps, giám sát hệ thống (Prometheus/Grafana/ELK) là lợi thế. \nTừ 3-6 năm kinh nghiệm DevOps/Site Reliability Engineering; \nTự động hóa hạ tầng và quy trình triển khai; \nScripting (Bash/Python), quản lý version control (Git); \nXử lý sự cố hệ thống nhanh, phân tích nguyên nhân gốc; \nĐọc hiểu tài liệu kỹ thuật tiếng Anh; \nTư duy hệ thống, chủ động cải tiến quy trình. \nCó tư duy ứng dụng AI/Automation nâng cao (AIOps, tự động hóa kiểm thử/triển khai, tự phục hồi sự cố); thúc đẩy văn hóa STP (Straight-Through Processing) xuyên suốt pipeline CI/CD. \nĐiểm cộng:\nCó chứng chỉ: AWS/Azure/GCP DevOps Engineer, Certified Kubernetes Administrator (CKA). \nCó kinh nghiệm triển khai hạ tầng Cloud trong nước hoặc hệ thống tài chính/chứng khoán.",
+  "quyen_loi": "Mức lương: cạnh tranh, deal theo năng lực; \nThưởng Lễ, Tết  theo quy định và tình hình kinh doanh của Công ty;\nPhụ cấp khác theo quy định và tính chất công việc;\nĐược hưởng đầy đủ các chế độ BHXH, BHYT, BHTN theo quy định; Phép năm (+ 2 phép thử việc khi lên chính thức);\nPhúc lợi khác: teambuilding, du lịch, khám sức khỏe;\nMôi trường làm việc đề cao sự chủ động, trao đổi thẳng thắn và khả năng tạo ra thay đổi thực tế.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjQxNzAyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--feff4e0408f263ea2686f15f0f487db5741f2eab/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/logo%20XTSC.png",
+  "company_url": "/companies/cong-ty-co-phan-chung-khoan-xuan-thien",
+  "company_mo_ta": "Xuan Thien Securities",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

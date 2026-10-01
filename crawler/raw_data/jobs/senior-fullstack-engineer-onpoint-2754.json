@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-engineer-onpoint-2754",
+  "tieu_de": "Senior Fullstack Engineer",
+  "ten_cong_ty": "Onpoint",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Golang",
+    "CI/CD",
+    "Docker",
+    "PostgreSql",
+    "NodeJS",
+    "Elixir"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "AB Building, 27B Nguyen Dinh Chieu",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We are seeking a highly skilled and experienced Senior Fullstack Engineer to join our dynamic team. In this pivotal role, you will driving the design and implementation of robust and scalable web applications, also a trusted technical partner to our Product Owners. You will play a critical role in shaping the future of our platform, balancing the evolution of our existing systems with the creation of innovative new features that directly impact our business goals. This includes opportunities to work with and integrate Artificial Intelligence into our production environment to enhance our platform's capabilities. If you are passionate about building high-quality software, solving complex problems, fostering technical growth in others, and exploring the practical application of AI, we want to hear from you. \nWhat You Will Do: \nTechnical Leadership & Architecture: Technical design, development, and implementation of new web applications and core system modules, ensuring they are built for scalability, performance, and maintainability. \nSystem Ownership: Take ownership of key parts of our web infrastructure, including existing systems and legacy code, ensuring their stability, performance, and security. \nCollaboration & Strategy: Work closely with Product Owners and stakeholders to translate business requirements into technical specifications and deliver impactful solutions. Provide accurate technical estimations, plan project timelines, and contribute to technical roadmap discussions. \nIntegration Expertise: Design and implement seamless integrations with critical third-party services (e.g., payment gateways, logistics providers, marketplaces, and AI services/models) to enhance our platform's capabilities. \nMentorship & Growth: Actively mentor and guide junior developers, sharing your knowledge, best practices, and helping them grow their technical skills and careers. \nOperational Excellence: Provide technical support and troubleshooting for operational issues, ensuring a smooth experience for our users and internal teams. \nQuality & Best Practices: Champion code quality, participate in and lead code reviews, contribute to knowledge sharing sessions, and advocate for continuous improvement in our development processes and tooling. \nSystem Evolution: Proactively identify areas for technical improvement, refactoring, and optimization within our existing systems, including exploring opportunities to leverage AI technologies",
+  "yeu_cau": "Education background requirements: : Bachelor's degree in a relevant field (e.g., Computer Science, Engineering) or equivalent practical experience. \nExperience/Industry requirements:  \nStrong Background in E-commerce Domain (Preferred): Strong understanding of the challenges and common patterns in the e-commerce space. \nTechnical\nProgramming Languages: Proficiency in any programming language; Elixir, Golang, or Node.js experience is a strong plus.\nDatabases: PostgreSQL, Redis, MongoDB, Elasticsearch\nMessage Queue: RabbitMQ or Kafka\nDocker, CI/CD (GitHub Actions), Cloud (AWS/GCP/Azure)\nSolid front-end knowledge; Unit/Integration/E2E testing experience\nScalable system design & legacy system ownership\nExperience\nThird-party integrations (payment, logistics, AI services)\nMentoring junior developers\nCollaborating with Product Owners on specs, estimations & roadmap\nNice to Have\nE-commerce domain background\nAI integration in production\nMicroservices, Grafana/Prometheus\nStrong English communication",
+  "quyen_loi": "Opportunity for regional scale (South East Asia)\nEnrich your skills and develop your potential\nEnjoy motivating working conditions\n\nSalary: Negotiable\nPhone, meal allowances\nFull salary insurance\nFull salary in probation\nTet, performance bonus\nPremium Health Insurance\nFull insurance package\n15 Annual Leave + 3 Sick Leave + 1 Outing Leave\nWork from home: 1 day/week\nLaptop provided",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTA0ODcxLCJwdXIiOiJibG9iX2lkIn19--5235b64078793b6c90fb00b7cf61f8b268ad2965/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/onpoint-logo.png",
+  "company_url": "/companies/onpoint",
+  "company_mo_ta": "E-commerce solution partner, help brands & retailers become more successful in Vietnam & SEA region",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

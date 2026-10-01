@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/test-automation-engineer-simpson-strong-tie-vietnam-4435",
+  "tieu_de": "Test Automation Engineer",
+  "ten_cong_ty": "Simpson Strong-Tie Vietnam",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "QA QC",
+    "Automation Test",
+    "Selenium",
+    "Appium",
+    "AI",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9th Floor, Etown 6 Building, 364 Cong Hoa Street, Tan Binh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "As a Test Automation Engineer, you will design and execute manual and automated tests, build and maintain test frameworks, and collaborate with all stakeholders and partners to support Simpson Strong-Tie’s application development.\n \nRESPONSIBILITIES\nContribute to ensuring and improving software quality throughout the Software Development Life Cycle by actively participating in testing activities and quality-related discussions. \nReview and analyze requirements, user stories, and acceptance criteria to identify test scenarios, risks, and quality concerns.  \nDesign, create, and maintain manual test cases and automated test scripts for functional, regression, integration, and end-to-end testing.  \nExecute manual and automated tests, analyze results, report defects, and ensure proper documentation of testing outcomes.  \nCollaborate with Developers, Business Analysts, Product Owners, and other stakeholders to clarify requirements, resolve defects, and improve product quality.  \nDevelop, enhance, and maintain automation test scripts and frameworks to improve test coverage, efficiency, and release confidence.  \nCollaborate with cross-functional and offshore teams to align testing activities with project goals and quality expectations.  \nParticipate in Agile ceremonies and provide QA input to support team delivery.  \nContinuously learn and apply testing best practices, automation tools, and technologies.  \nPerform other tasks as assigned by Line Manager.",
+  "yeu_cau": "Education & Certification \nBachelor’s degree in Computer Science, Information Technology, Software Engineering, or related fields \nDesired knowledge, skills and experience:  \n2+ years of hands-on experience in Software Testing, with both manual and automation skills. \nStrong programming skills in Python, Javascript, Typescript for test automation.\nHands-on experience with automation tools and frameworks such as Playwright, Selenium, Appium, or commercial automation solutions. \nAbility to understand complex formulas and business logic, and translate them into automated tests for effective validation. \nSolid knowledge of test automation principles, design patterns, and best practices. \nHands-on experience or practical exposure to AI-assisted test automation, including AI-powered test generation, prompt engineering for test automation, and AI-supported QA workflows. \nExperience with CI/CD pipelines, such as Azure DevOps, and source control systems, such as Bitbucket or Github. \nStrong API testing skills using modern tools and libraries such as Postman, Python Requests, or similar solutions. \nGood logical thinking, analytical skills, and ability to read, understand, and clarify requirements or specifications. \nProactive, result-driven, well-organized, and willing to learn new tools, technologies, and testing practices. \nGood written and verbal English communication skills.",
+  "quyen_loi": "13th Salary; Performance bonus\nPremium health care for you and your family\nOpportunity to be on site in the USA\n\nAttractive salary with 100% salary during probation\n13th-month salary, Performance bonus, Salary review annually\nPremium health care program for employees + one of your beloved ones, Annual medical check-up\n14 vacation days, Christmas Day per year\nOpportunity to be on-site in the USA\nChance to collaborate and work with global stakeholders\nProvide training to develop our employee‘s knowledge and skills (Internal training: Udemy, Pluralsight, and another online training course, TechTalk sharing within Software Development Division; External training: Management, English, Soft Skills, ….)\nBenefits for special holidays (Birthday, Marriage, Women’s Day, Tet Holidays, Mid-Autumn, Newborn babies, International Children‘s Day…)\nCompany trip and Year-End party every year\nSocial, sports and several team building activities\nYoung, friendly and international working environment\nModern working conditions and entertainment facilities at the office\nSnacks, tea and coffee all the time\nCompliance fully to Vietnam Labor code",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyODIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--159644f9509787107037fb1c15998a7c61d17a4e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_SST_RGB.png",
+  "company_url": "/companies/simpson-strong-tie-vietnam",
+  "company_mo_ta": "We provide No-Equal Engineering Services including constructions, mechanical and software solutions.",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

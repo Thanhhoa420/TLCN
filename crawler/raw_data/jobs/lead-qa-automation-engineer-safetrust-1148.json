@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/lead-qa-automation-engineer-safetrust-1148",
+  "tieu_de": "Lead QA Automation Engineer",
+  "ten_cong_ty": "Safetrust",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Automation Test",
+    "REST Assured",
+    "Selenium",
+    "Playwright",
+    "Appium",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "360A Ben Van Don",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About the role:\nThe Lead QA Automation Engineer is responsible for the design, build, and continuous evolution of Safetrust's test automation frameworks and CI/CD test infrastructure across mobile, web, API, and device platforms. This position plays a key role in the QA organization, turning test cases into fast, reliable, and trustworthy automated checks that gate every release.\nThis role focuses on automation architecture, CI/CD infrastructure, and cross-layer test strategy, working as a peer to the Test Design Lead (who owns test case design and documentation), and contributes to Safetrust's continued growth by making quality feedback fast and dependable on every commit.\n \nKey Responsibilities:\nAutomation Framework Ownership\nArchitect, build, and maintain scalable automation frameworks for web (Selenium, Cypress, Playwright), mobile (Appium, XCUITest, Espresso), and API (REST Assured, Postman/Newman, pytest).\nDefine coding standards, design patterns, and reusable abstractions (page objects, fixtures, test data factories, custom matchers).\nOwn the technical health of the automation codebase: flakiness budget, runtime budget, code coverage of the framework itself, and dependency hygiene.\nEvaluate and roll out new tools, languages, and practices to keep our automation modern, maintainable, and fast.\nCI / CD Test Infrastructure\nIntegrate automated test suites into CI/CD pipelines (Jenkins, GitHub Actions...) so every commit, PR, and release gets the right feedback at the right time.\nDesign test execution strategy: smoke, regression, nightly, pre-release, post-deploy — including parallelization, sharding, and selective re-runs.\nOwn the test infrastructure: device farms (BrowserStack, Sauce Labs, AWS Device Farm), self-hosted device labs, ephemeral test environments, and test data provisioning.\nDefine and operate the test reporting pipeline: dashboards, failure triage flow, flaky-test quarantine, and root-cause analysis.\nCross-Layer Test Strategy\nDrive the test pyramid in practice: push appropriate coverage down to unit and contract tests, keep end-to-end suites lean and high-signal.\nPartner with developers to shift quality left — testability of new features, dependency injection for tests, contract tests between services.\nDrive performance, load, and basic security automation where applicable (JMeter, k6, Gatling, ZAP).\nEnsure automation results feed back into the same test management system as manual results — one coherent picture of quality, owned jointly with the Test Design Lead.\nTechnical Leadership\nLead and mentor automation engineers across the QA team; review code and test design.\nDefine automation KPIs (coverage, mean time to detect, mean time to triage, flake rate, suite runtime) and report them to engineering leadership.\nPartner with the Test Design Lead on which test cases to automate, automation priorities per release, and shared reporting standards.\nPlan hiring, growth, and individual development for automation engineers on the team.\nDefine enterprise-wide automation standards, coding guidelines, and framework governance across QA Engineering.\nCollaborate with DevOps and Platform Engineering to continuously improve CI/CD performance, deployment quality, and automated release validation.\nEstablish automation quality metrics and executive dashboards to measure release health, regression coverage, automation effectiveness, and defect leakage.\nDrive technical roadmaps for automation tooling, framework modernization, AI-assisted testing, and continuous quality engineering.\nParticipate in architecture reviews to ensure new systems are designed for testability, observability, and automation from inception.\nLead proof-of-concepts and evaluations for emerging automation technologies, AI-assisted testing tools, and cloud-based testing platforms.\nChampion engineering best practices including code reviews, design reviews, pair programming, documentation standards, and technical knowledge sharing across QA Engineering.",
+  "yeu_cau": "Skills & Experience:\nBachelor's or Master's degree in Computer Science, Engineering, or a related field.\n7+ years of experience in software QA with 2+ years leading test automation efforts.\nDeep, hands-on expertise designing and operating automation frameworks across at least two of: web (Selenium, Cypress, Playwright), mobile (Appium, XCUITest, Espresso), API (REST Assured, Postman/Newman, pytest).\nStrong programming skills in at least one of: Python, Java, JavaScript/TypeScript — able to write production-quality framework code, not just test scripts.\nHands-on experience integrating automated tests into CI/CD pipelines (Jenkins, GitLab CI, GitHub Actions) including parallelization, sharding, and artifact handling.\nSolid understanding of testing strategy: test pyramid, risk-based testing, flakiness control, and effective use of mocks/stubs.\nExperience with version control workflows (Git), code review, and engineering practices applied to test code (clean code, refactoring, design patterns).\nExcellent communication skills and a track record of partnering with developers, QA engineers, and DevOps to deliver reliable automation at scale.\nNice to Have / Preferred\nExperience testing IoT, embedded, or access-control products end-to-end.\nExperience with performance testing (JMeter, k6, Gatling) or security testing fundamentals (OWASP ZAP, Burp Suite).\nFamiliarity with cloud-based device farms (BrowserStack, Sauce Labs, AWS Device Farm) and self-hosted device labs.\nExperience with containerization (Docker) and ephemeral test environments (Kubernetes, Testcontainers).\nFamiliarity with BLE/NFC behaviour on mobile, or experience automating tests for wallet/credential apps and physical readers.\nISTQB Advanced Level (Test Automation Engineer) or equivalent certification.\nSuccess Profile:\nThe ideal candidate is:\nA strong software engineer at heart, applying production-grade engineering practices to test code.\nPragmatic about the test pyramid and where automation adds the most value.\nA capable technical leader who mentors automation engineers and reviews their code.\nComfortable owning CI/CD test infrastructure end-to-end.\nComfortable working across regions and functions in a global environment (Vietnam, US, Australia).",
+  "quyen_loi": "Competitive salary\nFull statutory insurance\nProfessional, international working environment\n\nCompetitive salary based on experience and performance\nDaily lunch provided at the office\nFree coffee, tea, and refreshments\nFull statutory insurance (social, health, unemployment)\nAnnual health check-up and 18 paid annual leaves\nProfessional, international working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNjc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca847a8deb1c367d52bbcf880b1008b0acf7f93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-04-29%20090907.png",
+  "company_url": "/companies/safetrust",
+  "company_mo_ta": "Safetrust",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Manufacturing and Engineering",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

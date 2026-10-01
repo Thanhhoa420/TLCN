@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/sr-backend-engineer-blockchain-crypto-exchange-ton-corporation-1232",
+  "tieu_de": "Sr Backend Engineer Blockchain, Crypto Exchange",
+  "ten_cong_ty": "TON Corporation",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Blockchain",
+    "Java",
+    "SQL",
+    "TypeScript",
+    "NodeJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "5A, đường số 5, khu phố 4, phường An Khánh, Hồ Chí Minh",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,500 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Own a core exchange module end to end: design, code, tests, deployment, and its behaviour in production.\nBuild wallet infrastructure and on-chain deposit/withdrawal flows — idempotent retries, network failure handling, safe recovery, and balance reconciliation.\nBring the design, estimates, dependencies and technical risks for your module into the shared roadmap, and drive build-vs-integrate evaluations for third-party services, SDKs and node infrastructure in your area.\nSettle REST and WebSocket contracts with frontend, including real-time market data.\nShip to production standards: automated tests, CI/CD, monitoring and alerting, audit logs, access control. Anything touching real assets is reviewed before release.\nTake operational ownership of what you build: lead triage on incidents in your modules, run the post-mortem, and land the fix that prevents the repeat.",
+  "yeu_cau": "5+ years backend engineering, including production ownership of at least one system that moves real money or real assets — exchange ledger, custody/wallet, payment settlement, trading backend, or equivalent. We want to hear what you personally built and ran.\nCorrectness under concurrency: database transactions, idempotency, monetary precision and rounding, reconciliation, and clean recovery from partial failure.\nStrong in Go, Java or Rust — or deep Node.js/TypeScript experience with proven handling of concurrency and load. Plus SQL, Redis, a message queue, and WebSocket.\nProduction operations experience: you have deployed it, monitored it, and diagnosed it under pressure.\nSolid grasp of access control, separation of duties, secure credential storage, and transaction signing.\nReads English technical documentation; explains architecture, risk and progress clearly.\nNice to have\nDirect experience inside a live CEX — order matching, ledger, or wallet — at any scale.\nHot/cold wallet architecture or institutional custody integration.\nTON / Jetton, or Telegram Mini App (TMA) development.\nLiquidity provider or market maker integrations.\nLoad testing, disaster recovery drills, or security audit participation.",
+  "quyen_loi": "Directly build core product with Founder\n13th-month salary & project bonuses\nFull tech stack & architecture control\n\nSalary 45 – 60M\nWork directly with the founder, building the technical foundation and shaping the product from the earliest stage.\nScope of technical decision-making on architecture, technology, and development standards agreed together with the founder.\nSupporting resources and the on-call rotation arrangement are discussed and clearly agreed before you accept the offer.\nYoung, dynamic and fun working environment.\n13th month salary, project bonus.\nFree foods and drinks at pantry.\nSocial insurance and annual leave according to regulations.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA3NDc1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--106372b947b9759f218c5b39d8e7effffd8988b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/download%20(2).png",
+  "company_url": "/companies/ton-corporation",
+  "company_mo_ta": "Chúng tôi phát triển sản phẩm của chính mình. Và kiến tạo sản phẩm cho bạn",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Media, Advertising and Entertainment",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

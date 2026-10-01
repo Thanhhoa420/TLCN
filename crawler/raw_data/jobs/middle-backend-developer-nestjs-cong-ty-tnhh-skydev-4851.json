@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-backend-developer-nestjs-cong-ty-tnhh-skydev-4851",
+  "tieu_de": "Middle Backend Developer NestJS",
+  "ten_cong_ty": "Công ty TNHH SKYDEV",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "NestJS",
+    "Azure",
+    "AWS",
+    "NoSQL",
+    "CI/CD",
+    ".Net Core"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "106 Nguyễn Văn Kỉnh, Phường Cát Lái",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "700 - 900 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, develop, and maintain backend services using NestJS and TypeScript.\nBuild and maintain RESTful APIs and system integrations.\nDesign and optimize database schemas, queries, and data models.\nCollaborate with Business Analysts, Frontend Developers, QA Engineers, and Project Managers throughout the software development lifecycle.\nAnalyze business requirements and translate them into scalable technical solutions.\nEnsure application performance, security, reliability, and maintainability.\nImplement authentication, authorization, and role-based access control mechanisms.\nTroubleshoot, debug, and resolve production and development issues.\nParticipate in code reviews and contribute to engineering best practices.\nSupport deployment, monitoring, and maintenance activities.\nAssist in effort estimation, technical planning, and architecture discussions.",
+  "yeu_cau": "Must Have\n2+ years of experience in Backend Development.\nStrong proficiency in TypeScript and Node.js.\nSolid experience with NestJS framework.\nExperience designing and developing RESTful APIs.\nStrong knowledge of relational databases such as PostgreSQL or MySQL.\nExperience with ORM tools such as TypeORM, Prisma, or Sequelize.\nUnderstanding of software design principles and backend architecture.\nExperience implementing authentication and authorization mechanisms (JWT, RBAC, OAuth, etc.).\nFamiliarity with Git and collaborative development workflows.\nExperience working in Agile/Scrum environments.\nStrong analytical and problem-solving skills.Nice to Have\nExperience with message queues such as RabbitMQ, Kafka, or Redis Pub/Sub.\nExperience with Redis caching and performance optimization.\nExperience integrating third-party APIs and external services.\nFamiliarity with Docker and containerized environments.\nBasic knowledge of CI/CD pipelines.\nExperience with cloud platforms such as AWS, GCP, or Azure.\nUnderstanding of microservices architecture.\nExperience working with WebSocket and real-time applications.\nExperience building multi-tenant SaaS applications.Bonus Points\nExperience with React.js, Next.js, or React Native.\nAbility to develop full-stack features independently.\nExperience working on CRM, ERP, POS, LMS, E-commerce, or enterprise systems.\nExperience mentoring junior developers or reviewing code.",
+  "quyen_loi": "Salary up to VND 23 million, depending on experience and qualifications.\nFull social, health, and unemployment insurance coverage in accordance with Vietnamese labor law.\nOpportunity to work on challenging enterprise software projects.\nModern technology stack and engineering-driven culture.\nCareer growth opportunities toward Senior Developer or Technical Lead roles.\nTraining and professional development support.\nAnnual company benefits according to policy.\nEnjoy free snacks, tea, coffee, and beverages at the office.\nCompany trip every year.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg5MDYwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--fa3c04f3c959b41a94206d07aee97ef35d2fa8b0/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Skydev.png",
+  "company_url": "/companies/cong-ty-tnhh-skydev",
+  "company_mo_ta": "Công ty TNHH SKYDEV",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction",
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

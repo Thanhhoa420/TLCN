@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-machine-learning-engineer-ai-ml-7-10-yoe-dai-ichi-life-viet-nam-2833",
+  "tieu_de": "Senior Machine Learning Engineer AI/ML/ 7-10 YOE",
+  "ten_cong_ty": "Daiichi Life Việt Nam",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Machine Learning",
+    "LLM",
+    "Deep Learning",
+    "AI",
+    "Python",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "149-151 Nguyen Van Troi",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design, build, and deploy next-generation AI ML Solutions. The ideal candidate is a technical problem-solver who can bridge the gap between complex mathematical research, scalable engineering. You will be responsible for the full lifecycle of AI ML products, from data engineering and model training (RAG, Fine-tuning) to production deployment via MLOps and Kubernetes.\nThe AI ML Engineer is expected to work closely with cross-functional teams — including Business Analysts, QA Engineers, System Architects, and Product Manager, Business User — to deliver reliable AI systems aligned with business objectives. \nBeyond coding, this position involves technical leadership, mentoring, and continuous improvement in software engineering practices for the team\nPRINCIPAL ACCOUNTABILITIES\nAnalyze the business specs then prepare technical specs and develop the new AI ML Solutions or enhance existing Solutions for supporting business needs.\nSupport the team leader on technical analysis to provide the best technical solution as well as support colleagues for solving technical issues to complete the assigned projects / tasks on timely manner.\nInvestigate and answer daily enquiries on systems functional as well as problem encountered in order to resolve it in timely manner.\nIn charge of unit test on enhancements / new development under responsibility to ensure developed modules are matched with business requirements.\nAssist users/team leader on building test scripts to cover all test cases.",
+  "yeu_cau": "I. Experience Requirements\n1. AI, Machine Learning & Deep Learning\nExpertise in Supervised/Unsupervised Learning, Computer Vision, and Natural Language Processing (NLP).\nDeep understanding of Deep Learning architectures and Statistics/Mathematics.\nProficiency in frameworks: PyTorch, TensorFlow, and Scikit-Learn.\n2. Generative AI & Large Language Models (LLMs)\nExperience with LLMs, AI Agents, and Prompt Engineering.\nHands-on implementation of RAG (Retrieval-Augmented Generation) and model Fine-tuning.\nDevelopment using tools like LangChain and OpenAI APIs.\n3. Data & Software Engineering\nPython mastery (Pandas, NumPy) and SQL for complex data manipulation.\nBuilding scalable Data Pipelines and Data Engineering workflows (Apache Spark).\nAdherence to SOLID Principles, Git version control, and clear Documentation.\n4. Cloud, DevOps & MLOps\nMulti-cloud proficiency: K8s, Openshift, AWS, Azure, GCP.\nContainerization and Orchestration: Docker and Kubernetes.\nImplementing CI/CD pipelines and MLOps for automated model deployment and monitoring.\nII. Personality Requirements\nInnovation & Problem Solving: A proactive mindset to tackle \"Use Case\" challenges and drive technological advancement.\nCollaboration & Communication: Ability to explain complex AI metrics to non-technical stakeholders and work within Agile Methodologies.\nOrganization & Flexibility: Managing multiple tasks in a fast-paced environment while maintaining Compliance Management standards.\nLeadership: Ability to influence or support project direction and inspire technical excellence across the organization\nIII. Additional Skills and Attributes\nContinuous Learning: Commitment to continuous learning and staying updated with the latest industry trends and technologies.\nAttention to Detail: Keen attention to detail to ensure high-quality code and user satisfaction.\nCustomer Focus: Strong focus on understanding and meeting user needs.\nProject Management: Basic project management skills to handle small to medium-sized projects efficiently.\nAgile Development Methodology: understanding of the Scrum framework, including roles, events, and artifacts\nIV. Qualification\nBachelor’s or Master’s degree in Computer Science, Data Science, Mathematics, or a related quantitative field.\nProven experience in end-to-end Machine Learning lifecycles.\nRelevant Cloud certifications (AWS/Azure/GCP) are a plus.",
+  "quyen_loi": "Salary for 13th month, Bonus & Special Bonus\nFull of social welfare under Vietnamese Labor Law (Insurance, annual leave, ...)\nHealthcare for yourself & Your Family\nAnnual travel and team building activities\n15-16 annual leave days\nCompany will buy Life Insurance Contract for yourself after 1 year working\nTraining: Trained in soft and technical skills\nInternational, challenging, and friendly working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODE0Njk3MywicHVyIjoiYmxvYl9pZCJ9fQ==--40d4551aa365ca72935c5027bb683de1cb5dcbe1/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo.png",
+  "company_url": "/companies/daiichi-life-viet-nam",
+  "company_mo_ta": "Daiichi Life Việt Nam",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "IT Services and IT Consulting",
+    "Securities & Investment",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

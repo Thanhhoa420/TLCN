@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/junior-security-engineer-zalora-group-5536",
+  "tieu_de": "Junior Security Engineer",
+  "ten_cong_ty": "ZALORA Group",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Python",
+    "Security",
+    "LLM",
+    "Kubernetes",
+    "GCP",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "12 Ton Dan",
+  "quan_huyen": "Quận 4",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "ABOUT THE ROLE\nZalora is looking for a Junior Security Engineer to join its security team and support day-to-day security operations under the guidance of the Senior Security Lead. This is a hands-on, learning-oriented role: you’ll help execute security reviews, monitor and triage findings, support incident response, and assist with hardening cloud and application environments. You’ll work closely with the Senior Security Lead and Zalora engineering teams to build your skills across cloud security, application security, and AI/LLM security, while contributing directly to Zalora’s security posture.\n \nResponsibilities\nSecurity Operations & Monitoring\nMonitor security alerts, logs, and dashboards; triage and escalate findings to the Senior Security Lead as needed.\nSupport day-to-day cloud security hygiene checks (primarily AWS, also GCP) — e.g., IAM reviews, misconfiguration checks, and basic remediation.\nHelp maintain security tooling and automation scripts used across the team.\nApplication & Infrastructure Security Support\nAssist with security architecture reviews for new and existing systems under senior guidance.\nRun and interpret basic SAST/DAST scans, and help track findings through to remediation with engineering teams.\nSupport secure configuration of containerized environments (Docker).\nAssist, where opportunities arise, with Kubernetes/CI-CD pipeline security and reviewing AI-driven features or LLM integrations for common risks (e.g., prompt injection, data leakage) under senior guidance — exposure to this work will grow over time, not expected on day one.\nIncident Response & Testing Support\nSupport incident response activities — gathering logs, documenting timelines, and assisting with remediation tasks under the direction of the Senior Security Lead.\nAssist with penetration testing and red-team exercises (internal or vendor-led), including evidence collection and findings tracking.\nCoordinate logistics with external vendors and consultants when supporting pentesting or peak-demand engagements.\nCollaboration & Growth\nWork with engineering teams to communicate security findings clearly and help get fixes prioritized.\nTake on structured learning goals (certifications, tooling, frameworks) with support and mentorship from the Senior Security Lead.\nDocument processes, runbooks, and findings to build the team’s institutional knowledge.",
+  "yeu_cau": "General qualifications\n1–2 years of experience in security engineering, IT, software engineering, or a related technical field (internships and hands-on personal/academic projects count).\nGenuine interest in security engineering and a desire to grow into a hands-on technical role.\nAble to communicate findings clearly in writing, and comfortable asking questions and seeking guidance.\nDegree or equivalent practical experience in Computer Science, Information Security, or a related field; relevant certifications (e.g., Security+, eJPT) are a plus, not required.\nTechnical Skills\nBasic understanding of cloud fundamentals (AWS preferred; GCP a plus) — IAM, networking, and common services.\nFamiliarity with at least one scripting/programming language (e.g., Python, Bash, Go) for automation tasks.\nExposure to or coursework in application security concepts (OWASP Top 10, common vulnerability classes).\nBasic familiarity with containerized environments (Docker) and version control (Git); Kubernetes exposure is a plus.\nCuriosity about AI/LLM security concepts is a plus — prior experience not required.\nTeam & Collaboration\nComfortable working under supervision, taking direction, and escalating issues appropriately rather than guessing under pressure.\nWilling to learn Zalora’s and GFG’s security standards and apply them consistently in day-to-day work.\nAble to work collaboratively with engineering teams across time zones and markets.",
+  "quyen_loi": "Annual bonus: up to 3 months based salary\nMacbook Pro is provided\nHighly scalable platforms\n\nThe unique opportunity to have a serious impact on a growing organization\nA dynamic working environment shaping the face of fashion e-commerce in growth markets\nWork closely with a global talent pool with international mindset \nBest practice scaled agile engineering\nAmazing office and great culture! Massage chairs, table tennis, video game room, quarterly team events, yearly company trip, end of the year party\nHybrid working environment.\nClear career progression plan and support\nMacbook or laptop when you start\nSocial insurance, medical insurance & health insurance\n13th month salary\n15 days of annual leave, 30 days of sick leave/mental health, 1 day of occasion leave",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc0OTc3NywicHVyIjoiYmxvYl9pZCJ9fQ==--5f1217f3b4d55b65e6f9d1dee7d0b03510610739/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/download.jpeg",
+  "company_url": "/companies/zalora-group",
+  "company_mo_ta": "ZALORA Group is Asia Pacific’s leading group of online fashion destinations.",
+  "job_expertise": [
+    "Security Engineer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

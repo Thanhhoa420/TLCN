@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-golang-engineer-backend-nab-innovation-centre-vietnam-0237",
+  "tieu_de": "Senior Golang Engineer Backend",
+  "ten_cong_ty": "NAB Innovation Centre Vietnam",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Golang",
+    "API",
+    "Microservices",
+    "Cloud",
+    "Agile",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "The Hallmark, 15 Tran Bach Dang, An Khanh Ward",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "You'll participate in the direction of the company and products, you'll be part of a small team where everyone has a voice.\nAs a Senior Software Engineer at Banked you'll be building our core API products and back-end services. You'll use Go and its ecosystem to deliver event driven, composable and distributed systems that can be consumed either directly by our customers or by other engineers at Banked. You'll also build resilient integrations with some of our external partners and their APIs, building the core functionality of our products.\n \nYOUR JOB RESPONSIBILITIES \nWork with other engineers, product managers and designers across the company to prioritise, build, measure and iterate over new features or products\nBe part of the team responsible for building products for merchants/partners and consumers on top of our new payment network\nBuild services and software that's fast, resilient and and meets our challenging scale, integrity and security needs\nBuild event based, REST based or RPC based interfaces that are consumed by engineers on other teams or by our customers\nImprove engineering standards, tooling and processes as we grow\nMentor and help grow your peers and junior engineers, as well as be open to feedback and mentoring from those around you .\nFulfil other tasks as assigned by your People Leader and/or authorized representative of NAB Vietnam from time to time.",
+  "yeu_cau": "YOUR SKILL AND EXPERIENCE \nFrom 7+ years of experience as a Golang Engineer in a complex, enterprise-level development environment\nSignificant experience in communicating and working with software teams, and working towards building inclusive, fun environments\nThe ability to reason intelligently about complex, uncertain problems and reduce them down to clean, simple abstractions through well designed systems\nA track record of taking software end-to-end, from inception working alongside product managers and designers to production and beyond\nA track record of developing for system maintainability and ease of operation\nExperience developing distributed, reliable and resilient systems\nSubstantial experience in Go, alongside a number of other languages\nFluent English skills.",
+  "quyen_loi": "Very competitive remuneration package\nBuild products for millions of users in Australia\nHybrid and flexible working environment\n\nTHE BENEFITS AND PERKS\n1. Generous compensation and benefit package\nAttractive salary and benefits\n20-day annual leave and 7-day sick leave, etc.\n13th month salary and Annual Performance Bonus\nPremium healthcare for yourself and family members\nMonthly allowance for team activities\nPremium welcome kit and frequent appreciation gifts \nExtra benefits for long-term employees\n2. Exciting career and development opportunities \nLarge scale products with modern technologies in banking domain\nClear roadmap for career advancement in both technical and leadership pathways\nWell-structured  learning and development programs (technical and soft skills) \nSponsored certificates in both IT and banking/finance\nPremium account on Udemy \nEnglish learning with native teachers\nOpportunity for traveling & training in Australia\n3. Professional and engaging working environment\nHybrid working model and good work-life balance \nWell-equipped & modern Agile office with fully stocked pantry\nSpecial programs to improve your physical and mental health\nAnnual company trip and events \nA solid talented team behind you – great people who love what they do\nIf this excites you, let's have a chat over a cup of coffee!",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDk4MDUwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--2f97d92760c911bcb6d9f9dd495f28b67fc499c7/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/NAB_Logo_RGB_1x1.png",
+  "company_url": "/companies/nab-innovation-centre-vietnam",
+  "company_mo_ta": "The NAB Innovation Centre Vietnam is owned by NAB - Australia’s largest business bank.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

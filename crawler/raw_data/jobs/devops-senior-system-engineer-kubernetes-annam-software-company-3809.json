@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-senior-system-engineer-kubernetes-annam-software-company-3809",
+  "tieu_de": "DevOps / Senior System Engineer Kubernetes",
+  "ten_cong_ty": "Annam Software Company",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "Kubernetes",
+    "DevOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Riverfront Financial Centre, 3A-3B Ton Duc Thang",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,300 - 2,300 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Annam Software is the Vietnam development center of Omnicasa, a Belgian software company building CRM solutions used by hundreds of real estate agencies in Europe.\nOur HCMC team develops and operates our web platform, mobile applications, APIs and integrations.\nWe are looking for an experienced DevOps / Senior System Engineer to join our infrastructure team and take an important role in running and improving our Linux and Kubernetes environments.\n \nThe role\nYou will work hands-on with our production infrastructure, with a strong focus on Kubernetes, Linux, networking and automation.\nThis is not a role where you simply follow predefined procedures. We are looking for someone who can investigate problems independently, propose solutions and take ownership of infrastructure from implementation through production.\nYou'll work with both our development and infrastructure teams to make sure our systems are reliable, secure and easy to deploy.\nRun and improve our Kubernetes clusters, including deployments, scaling, upgrades and troubleshooting\nManage and optimize our Linux-based infrastructure\nBuild and maintain CI/CD pipelines for our web, API and mobile projects\nManage infrastructure as code using Terraform, Helm and related tools\nCreate and maintain Helm charts for application deployments\nConfigure and troubleshoot networking, including TCP/IP, DNS, routing, load balancers and firewalls\nSet up and improve monitoring, logging and alerting\nManage secrets and contribute to infrastructure security and hardening\nWork with developers to containerize and deploy applications\nAutomate infrastructure tasks using Bash, Python or similar scripting languages\nMaintain infrastructure configuration using tools such as Puppet\nWork with virtualization environments such as Proxmox and VMware\nDocument infrastructure, procedures and troubleshooting steps\nParticipate in a predictable on-call rotation for critical infrastructure issues",
+  "yeu_cau": "What you bring\n3+ years of experience in DevOps, system engineering or infrastructure\nStrong hands-on experience with Linux (Ubuntu, CentOS or similar)\nAt least 2 years of practical Kubernetes experience, preferably running production environments\nHands-on experience with Docker and Helm\nGood understanding of networking fundamentals: TCP/IP, DNS, routing and load balancing\nExperience with CI/CD, such as GitHub Actions, GitLab CI or similar\nExperience with infrastructure automation and configuration management\nAbility to write and debug scripts using Bash, Python or similar\nStrong troubleshooting skills and the ability to research and solve problems independently\nBasic working knowledge of English\nNice to have\nExperience with Terraform\nExperience with Puppet\nExperience with Prometheus, Grafana, Loki, Zabbix or similar\nExperience with Vault, Infisical or other secrets-management tools\nExperience with VMware vSphere or Proxmox\nExperience with AWS, Azure or GCP\nExperience deploying .NET, Node.js or Next.js applications\nCKA or CKAD certification",
+  "quyen_loi": "Multiple platforms - Techologies - More Challenges\nWork with large CMR Software and 500+ Customers\nOpportunities to travel/work to the U.S, EU\n\nSalary: 35,000,000 – 60,000,000 VND gross/month, depending on experience\n13th-month salary\nPremium health insurance\nModern office in District 1, Ho Chi Minh City\nLatest MacBook and the tools you need\nInternational working environment\nDirect collaboration with our European team\nReal ownership: your ideas and technical decisions can make it into production\nExposure to a broad infrastructure environment covering Linux, Kubernetes, networking, virtualization and cloud",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU5MjMyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--812b03a8fe53fad9a7ef649c8b2d07a8cf50c524/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/fulllogo_nobuffer.jpg",
+  "company_url": "/companies/annam-software-company",
+  "company_mo_ta": "Annam Software",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Real Estate, Property and Construction"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

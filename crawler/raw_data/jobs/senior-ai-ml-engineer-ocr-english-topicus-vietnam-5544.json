@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-ai-ml-engineer-ocr-english-topicus-vietnam-5544",
+  "tieu_de": "Senior AI/ML Engineer OCR, English",
+  "ten_cong_ty": "Topicus Vietnam",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "AI",
+    "English",
+    "Pandas",
+    "OCR",
+    "Machine Learning",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "106 Nguyen Van Troi Street",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us\nAt Topicus, we believe IT should serve society. From healthcare and education to finance, our solutions empower millions of people daily by turning complex challenges into user-friendly platforms. We don’t just build software; we increase self-reliance and reduce vulnerability for citizens worldwide.\nWith a team of over 1,800+ \"Topicans\" across Southeast Asia (Vietnam & Thailand) and Europe (the Netherlands, Romania, Portugal, and Iceland), we are constantly expanding our horizons. Our ambition reaches far beyond Europe, driven by a shared mission to make a meaningful difference.\n About the Role\nWe are seeking a Senior AI/ML Engineer to build a next-generation AI-powered OCR platform for the financial industry. This solution processes large volumes of financial documents using modern machine learning and computer vision techniques to automate document recognition, extraction and validation.\nThe product is part of Akkuro, one of the leading composable banking platforms. Our Vietnam team will independently own and further develop this product, giving you significant technical ownership and the opportunity to influence its future direction.\n Key Responsibilities\nDesign, develop, and optimize AI-powered OCR solutions in Python.\nBuild and improve machine learning models for document recognition and data extraction.\nProcess and analyze large datasets using Pandas and related data processing libraries.\nTrain, evaluate, and deploy machine learning models using TensorFlow or similar frameworks.\nCollaborate closely with Product Owners, testers, and software engineers.\nImprove model accuracy, performance, and scalability.\nInvestigate new AI technologies and propose improvements to the product.\nTake ownership of technical decisions and mentor other engineers.",
+  "yeu_cau": "5+ years of experience developing Python applications.\nStrong experience with machine learning and AI.\nExperience with TensorFlow (or similar frameworks such as PyTorch).\nExcellent knowledge of Pandas and data processing.\nExperience working with OCR, computer vision, or document processing is a strong advantage.\nFamiliarity with REST APIs and cloud-based deployments.\nStrong analytical and problem-solving skills.\nExcellent English communication skills (communication with international stakeholders).",
+  "quyen_loi": "Dynamic and international working environment\nHybrid working model and good work-life balance\nAttractive salary and benefits\n\nAttractive salary (annual salary review).\nFixed 13th-month salary and performance bonus.\nFull salary during probation and full coverage of social insurance.\nHybrid working model and good work-life balance.\nPremium healthcare (with annual health check-up).\n16 days of annual leave per year.\n5 paid sick leave days.\nDynamic and international English-speaking working environment.\nRegular gatherings (happy hour, bimonthly dinner, social events, etc.).\nAnnual company trip.\nFully stocked pantry with coffee and snacks.\nBudget for team activities.\nSupportive and diverse work environment that promotes continuous learning.\nOpportunity for traveling and training in the Netherlands.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDg3NzkxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--b1d337b730591713c64df8f1d446355a1997efa4/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/dsdsddd.jpg",
+  "company_url": "/companies/topicus-vietnam",
+  "company_mo_ta": "Topicus Vietnam",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

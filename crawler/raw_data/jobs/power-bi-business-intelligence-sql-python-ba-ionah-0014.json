@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/power-bi-business-intelligence-sql-python-ba-ionah-0014",
+  "tieu_de": "Power BI Business Intelligence, SQL, Python, BA",
+  "ten_cong_ty": "IONAH",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Power BI",
+    "Data modeling",
+    "Business Analysis",
+    "Business Intelligence",
+    "SQL",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "643 Pham van Dong street",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Xây dựng và vận hành hệ thống Business Intelligence (BI) phục vụ ra quyết định cho các khối Kinh doanh, Tài chính, Dịch vụ khách hàng… hướng tới mô hình tổ chức vận hành dựa trên dữ liệu (data-driven)\nMô tả công việc\nPhát triển và duy trì hệ thống Dashboard, KPI Report trên Power BI cho các phòng ban\nThiết kế Data Model, DAX, Power Query, visual nâng cao theo chuẩn UI/UX.\nTích hợp dữ liệu từ SQL, SAP, SharePoint, Excel, API; thiết lập ETL/ELT pipeline tự động.\nĐảm bảo chất lượng và tính toàn vẹn dữ liệu (data governance).\nLàm việc với các bộ phận để thu thập yêu cầu, xác định KPI, phân tích và đề xuất cải tiến dựa trên dữ liệu.\nHỗ trợ và đào tạo người dùng sử dụng báo cáo\nPhân tích dữ liệu để tìm ra xu hướng, vấn đề, cơ hội và đưa ra các khuyến nghị dựa trên dữ liệu",
+  "yeu_cau": "Tốt nghiệp các ngành CNTT, Hệ thống thông tin, Toán – Tin, Kinh tế – Thống kê\nTối thiểu 2 năm kinh nghiệm trong BI / Data Analytics / Power Platform.\nThành thạo Power BI (Desktop & Service), DAX, Power Query, SQL.\nCó kinh nghiệm kết nối, xử lý dữ liệu đa nguồn.\nƯu tiên có kinh nghiệm Power Automate, Python hoặc API integration.\nTư duy hệ thống, chủ động, giao tiếp và phối hợp tốt",
+  "quyen_loi": "Highly competitive salaries\nOpen & collaborative environment to share ur ide\nSocial insurance\n\nThu nhập (Gross): Thỏa thuận theo năng lực \nĐóng BHXH, BHYT, BHTN theo quy định luật của nhà nước\nThưởng ngày Lễ, Tết theo quy định của Công ty\nDu lịch, teambuilding, nghỉ mát theo kết quả kinh doanh Công ty.\nĐược làm việc trong môi trường năng động, chuyên nghiệp, thân thiện, có nhiều cơ hội phát triển",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mjc3OTY5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--c3d98198560c683240273cef6280a315da358faa/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image%20263.png",
+  "company_url": "/companies/ionah",
+  "company_mo_ta": "iONAH",
+  "job_expertise": [
+    "BI Analyst / BI Developer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-vien-van-hanh-ung-dung-application-support-l1-ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex-4126",
+  "tieu_de": "Chuyen vien Van hanh Ung dung Application Support L1",
+  "ten_cong_ty": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Incident Response",
+    "IT Support",
+    "Grafana",
+    "API",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tầng 04, Tòa nhà số 5 Điện Biên Phủ",
+  "quan_huyen": "Quận Ba Đình",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Giám sát dashboard và cảnh báo nghiệp vụ theo checklist trong ca trực; phát hiện gián đoạn hoặc suy giảm chất lượng giao dịch qua các chỉ số sau:\nTheo dõi lượng lệnh, tỷ lệ đặt/hủy lệnh thành công hoặc lỗi, độ trễ xử lý/khớp lệnh; phát hiện lệnh tồn đọng, trùng lặp hoặc sai trạng thái.\nGiám sát độ mới của giá/sổ lệnh, chênh lệch giá mua/bán, độ sâu thanh khoản và khối lượng theo cặp giao dịch; báo bất thường theo ngưỡng.\nTheo dõi lượng/giá trị nạp crypto, xác nhận blockchain, tỷ lệ ghi có và thời gian chờ theo tài sản/mạng; báo giao dịch đủ xác nhận chưa ghi có.\nTheo dõi tỷ lệ rút crypto thành công/lỗi, yêu cầu tồn đọng, thời gian chờ và trạng thái on-chain; chuyển cảnh báo số dư ví nóng cho Custody.\nGiám sát tỷ lệ thành công, độ trễ và giao dịch treo của luồng tiền pháp định/thanh toán trong phạm vi triển khai; báo sai lệch đối soát.\nTheo dõi tỷ lệ thành công/lỗi đăng ký, đăng nhập, xác thực và thời gian xử lý KYC; báo lỗi tăng đột biến hoặc hồ sơ tồn đọng cho đội phụ trách.\nTheo dõi cảnh báo sai lệch số dư, ghi nợ/ghi có trùng hoặc thiếu, đối soát sổ cái và ví; chuyển mã tham chiếu cho đội nghiệp vụ/kỹ thuật.\nXác minh cảnh báo bằng dashboard, log và tra cứu được cấp quyền; kiểm tra độ mới dữ liệu, ngưỡng và xu hướng; báo mất dữ liệu giám sát.\nXác nhận cảnh báo, tạo ticket, phân loại tác động và chuyển đội trực đúng SLA; phối hợp Engineering, Custody, NOC, Security/Risk đến khi phục hồi.\nXử lý theo runbook và quyền được duyệt; chuyển nghi vấn gian lận cho Security/Risk. Không tự phê duyệt rút tiền, ký giao dịch hoặc sửa số dư.\nBàn giao ca đầy đủ: sự cố, cảnh báo/giao dịch tồn đọng, người phụ trách và bước tiếp theo; báo cáo chỉ số nghiệp vụ và thời gian phản hồi.\nKiểm tra nghiệp vụ sau bảo trì/phát hành theo checklist; cập nhật nhật ký, góp ý dashboard, ngưỡng cảnh báo và runbook để cải thiện giám sát.",
+  "yeu_cau": "Có từ 1 năm kinh nghiệm giám sát ứng dụng, NOC, IT Operations hoặc hỗ trợ kỹ thuật; ưu tiên fintech, thanh toán hoặc sàn giao dịch.\nHiểu cơ bản vòng đời lệnh, khớp lệnh, sổ lệnh, số dư khả dụng/phong tỏa, nạp/rút và xác nhận blockchain; học nhanh nghiệp vụ.\nBiết dùng dashboard/cảnh báo và tra cứu log (Grafana, Kibana hoặc tương đương); đọc tỷ lệ thành công, độ trễ, lượng tồn và xu hướng.\nBiết SQL cơ bản để tra cứu chỉ đọc trên nguồn được cấp phép; hiểu API/HTTP, mã lỗi, mã lệnh/giao dịch và transaction hash.\nBiết xác minh, phân loại sự cố, ghi ticket, làm theo runbook; đánh giá tác động nghiệp vụ, chuyển cấp và theo dõi phản hồi.\nCẩn thận, trách nhiệm, bình tĩnh khi có sự cố; phối hợp và bàn giao rõ ràng; tuân thủ bảo mật, phân quyền và quy trình vận hành.\nSẵn sàng trực ca luân phiên để đội bao phủ 24/7, gồm ca đêm, cuối tuần và ngày lễ; tuân thủ lịch trực và bàn giao ca.\nƯu tiên kinh nghiệm giám sát giao dịch/đối soát; biết bảng tính hoặc script đơn giản để tổng hợp báo cáo là lợi thế.\nĐọc hiểu tài liệu, cảnh báo và runbook tiếng Anh; viết cập nhật sự cố ngắn gọn, rõ ràng.",
+  "quyen_loi": "Thưởng tháng 13\nThưởng hiệu quả kinh doanh\nBảo hiểm sức khoẻ cao cấp\n\nThu nhập hấp dẫn, cạnh tranh theo năng lực\nThưởng các dịp Lễ, Tết theo quy định và chính sách của công ty\nThưởng tháng 13, thưởng hiệu quả hoạt động theo quy định và chính sách công ty\nBảo hiểm bắt buộc theo luật lao động + Bảo hiểm sức khỏe\nChế độ ngày phép hấp dẫn theo cấp bậc công việc, du lịch/teambuilding hằng năm\nMôi trường làm việc chuyên nghiệp, năng động, tôn trọng, kỷ luật.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk5NDMwMywicHVyIjoiYmxvYl9pZCJ9fQ==--e7b79b0d832c1fea467ee5b09018a1dd4685f2a6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Logo%20CAEX.jpg",
+  "company_url": "/companies/ctcp-san-giao-dich-tai-san-ma-hoa-viet-nam-thinh-vuong-caex",
+  "company_mo_ta": "CTCP SÀN GIAO DỊCH TÀI SẢN MÃ HÓA VIỆT NAM THỊNH VƯỢNG (CAEX)",
+  "job_expertise": [
+    "Network Engineer"
+  ],
+  "job_domain": [
+    "Blockchain & Web3 Services",
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

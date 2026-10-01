@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/data-architect-lead-data-engineer-core-banking-hdbank-2653",
+  "tieu_de": "Data Architect / Lead Data Engineer - Core Banking",
+  "ten_cong_ty": "HDBank",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "Data Engineer",
+    "Databricks",
+    "Data Warehousing",
+    "Big Data"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "25 Nguyễn Thị Minh Khai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Mục tiêu vai trò: \nDẫn dắt kiến trúc dữ liệu, Datalakehouse/Bigdata và Group Customer Data Platform (CDP) xuyên các công ty thành viên.\nTrách nhiệm chính:\nThiết kế kiến trúc dữ liệu, Datalakehouse/Bigdata, Group Customer Data Platform (CDP) xuyên các công ty thành viên.\nChuẩn hóa mô hình & chất lượng dữ liệu, chia sẻ dữ liệu liên ngành phục vụ BI & Analytics Dashboard.\nĐồng hành các dự án Core ngành để đảm bảo dữ liệu sẵn sàng tích hợp vào hệ sinh thái dữ liệu chung Tập đoàn.",
+  "yeu_cau": "Kinh nghiệm tối thiểu:\n8–12 năm kinh nghiệm CNTT, trong đó tối thiểu 4 năm ở vai trò Data Architect / Lead Data Engineer.\nCó kinh nghiệm thực chiến xây dựng Datalakehouse/CDP quy mô doanh nghiệp (triệu bản ghi khách hàng).\nBackground ưu tiên: Ưu tiên kinh nghiệm tại ngân hàng, bảo hiểm, bán lẻ — các ngành có khối lượng dữ liệu khách hàng lớn và yêu cầu quản trị dữ liệu chặt chẽ.\nChứng chỉ ưu tiên:\nAWS Certified Data Analytics / Azure Data Engineer Associate / Google Professional Data Engineer.\nDatabricks Certified Data Engineer, Cloudera CCA/CCP.\nDAMA-CDMP (Data Management) là lợi thế.\nCấp độ đề xuất: Chuyên gia bậc 3–4.",
+  "quyen_loi": "Friendly workplace\nCompetitive salary\nCareer development\n\nAt HDBank, we strive to create a workplace that feels like a second home—where you are empowered to innovate, grow, and pursue your passion.Benefits\n13th and 14th month salary bonuses\nPerformance-based annual bonus\nHealth insurance and accident insurance\nAnnual company trip and vacation\nAnnual salary review",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk4MjIzLCJwdXIiOiJibG9iX2lkIn19--8386ba2df991859d2dd43d164fa44accd62f4a5d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/hdbank-logo.png",
+  "company_url": "/companies/hdbank",
+  "company_mo_ta": "Cam kết lợi ích cao nhất",
+  "job_expertise": [
+    "Data Architect"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/chuyen-gia-tich-hop-du-lieu-data-engineer-expert-pvcombank-4016",
+  "tieu_de": "Chuyen gia tich hop du lieu Data Engineer Expert",
+  "ten_cong_ty": "PVcomBank",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Team Management",
+    "Cloud",
+    "DevOps",
+    "Software Architecture",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "22 Ngo Quyen",
+  "quan_huyen": "Quận Hoàn Kiếm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "1,500 - 2,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thiết kế kiến trúc tổng thể:\nData Lake / Lakehouse / DWH\nStreaming & real-time pipelines\nĐịnh nghĩa tiêu chuẩn kỹ thuật và best practices các bài toán tích hợp, chuyển giao vận hành dữ liệu\nDẫn dắt các chương trình:\nModern Data Platform\nCloud transformation\nĐánh giá & lựa chọn công nghệ\nGiải quyết bài toán:\nBig data (TB–PB scale)\nReal-time processing\nTư vấn thiết kế model, giải pháp tích hợp dữ liệu cho business\nĐóng vai trò dẫn dắt kỹ thuật, xây dựng nền tảng dữ liệu và phát triển năng lực đội ngũ",
+  "yeu_cau": "5-7 năm kinh nghiệm Data Engineering / Big Data\nKinh nghiệm thiết kế các hệ thống dữ liệu lớn\nThành thạo:\nSQL, NoSQL, Graph DB\nPython / Scala / Java\nHadoop/ Spark / Flink / Kafka\nDistributed systems\nHiểu sâu:\nData modeling: Dimensional modeling/Data Warehouse\nData architecture (Lakehouse, Data Mesh)\nData Governance, Security\nKỹ năng - Kinh nghiệm:\nXử lý các bài toán tích hợp realtime/streaming, AI/ML model\nKhả năng áp dụng AI vào áp dụng, cải tiến hiệu suất công việc\nMonitoring hệ thống phức tạp\nXử lý sự cố theo hướng hệ thống\nCác nền tảng Cloud (AWS/Azure, Google…)\nTechnical leadership\nSolution design\nKinh nghiệm Agile/Scrum\nDẫn dắt team trong các dự án chuyển đổi số\nƯu tiên các ứng viên:\nKinh nghiệm trong lĩnh vực Data Integration / Data Engineering, \nKinh nghiệm xây dựng Data Platform end-to-end\nKinh nghiệm trong ngành tài chính / ngân hàng",
+  "quyen_loi": "Môi trường năng động và cơ hội thăng tiến\nChế độ lương thưởng hấp dẫn\nBảo hiểm sức khỏe cao cấp (bảo hiểm toàn diện)\n\nVai trò technical leader trong chiến lược dữ liệu\nThiết kế kiến trúc dữ liệu cấp enterprise\nẢnh hưởng trực tiếp tới hệ thống Data Platform toàn ngân hàng\nLàm việc với leadership & kiến trúc sư hệ thống\nMôi trường năng động và cơ hội thăng tiến",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwOTYyLCJwdXIiOiJibG9iX2lkIn19--31b7543fdd412ec3614f60fca48acc056343da93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/pvcombank-logo.png",
+  "company_url": "/companies/pvcombank",
+  "company_mo_ta": "Ngân Hàng TMCP Đại Chúng Việt Nam",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Banking",
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

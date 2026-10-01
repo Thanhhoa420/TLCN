@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/lead-ai-safety-security-engineer-with-joining-bonus-bosch-global-software-technologies-company-limited-4408",
+  "tieu_de": "Lead AI Safety Security Engineer with Joining Bonus",
+  "ten_cong_ty": "Bosch Global Software Technologies Company Limited",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Cybersecurity",
+    "English",
+    "Python",
+    "Penetration Testing",
+    "Generative AI",
+    "Information Security"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "364 Cong Hoa street",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "🎁Q4 JOINING BONUS\nJoin BGSV by 31 December 2026 and receive a Joining Bonus equivalent to 1 month gross salary, subject to program eligibility and terms & conditions.\nAbout the Role\nWe are looking for a Lead AI Safety & Security Engineer to own safety evaluation and security testing across Bosch's growing portfolio of AI-enabled products and internal tooling — large language model deployments and agentic AI systems (including Model Context Protocol – style tool-calling integrations), and the enterprise services they connect to. You will lead both sides of the same coin: whether an AI system behaves safely (does it refuse harmful requests, avoid unsafe recommendations, stay within its intended scope) and whether it is secure (can it be manipulated via prompt injection, tricked into misusing its tools, or made to leak data it shouldn't). This is a cross-business-unit mandate, not a single product line — you will build the practice largely from the ground up.\nKey Responsibilities\nDesign and run safety evaluations for LLM-based features and AI agents: red-teaming for harmful, biased, or unsafe outputs; jailbreak and guardrail-bypass testing; systematic benchmarking against known safety failure modes.\nDesign and run security testing for the same systems: prompt injection (direct and indirect), excessive agency, tool/plugin abuse, and confused-deputy risks in agentic and MCP-style tool-calling architectures.\nBuild and maintain a threat model covering the full path from user input through model reasoning to tool execution — identifying where a safety failure and a security failure are really the same underlying gap.\nVerify human-in-the-loop and guardrail controls are architecturally sound wherever an AI agent can take a consequential action (a write to a business system, an automated communication, a code change) — not just present in a UI that can be talked around.\nScope, brief, and review the output of external red-teaming/pentest vendors; write test specifications and acceptance criteria for AI-specific engagements.\nTrack and apply emerging frameworks — OWASP Top 10 for LLM Applications, OWASP Top 10 for Agentic Applications, the NIST AI Risk Management Framework, ISO/IEC 42001, and the EU AI Act — translating new research into concrete internal test requirements before it becomes an incident.\nPartner with AI/ML engineering teams across business units to get safety and security reviewed into system design, not only tested after the fact.\nProduce evidence and documentation supporting AI governance and compliance needs (ISO/IEC 42001 AI management system, EU AI Act risk assessments, internal responsible-AI review processes).\nBuild test tooling as needed: adversarial-prompt harnesses, automated jailbreak/red-team pipelines, and MCP/tool-schema fuzzers.\nMentor engineers on safe and secure AI system design, and grow the practice as it scales across more teams and products.",
+  "yeu_cau": "Bachelor's or Master's degree in Computer Science, Machine Learning, or a related field.\n6+ years in security testing, AI/ML safety research, or a closely related discipline, with a track record of finding real issues in real systems.\nPractical experience testing or red-teaming LLM/agentic AI systems — prompt injection, jailbreaks, excessive agency, tool/plugin abuse — independent research or open-source contributions are acceptable given how new this specialty is.\nWorking knowledge of at least one AI safety/governance framework (NIST AI RMF, ISO/IEC 42001, EU AI Act) and how it translates into concrete engineering requirements.\nEnough coding ability (Python and/or JavaScript/Node) to build evaluation harnesses and test tooling rather than rely solely on manual testing.\nStrong technical writing — comfortable producing findings and specifications that both engineers and governance/compliance stakeholders can act on directly.\nPreferred Qualifications\nDirect experience with the Model Context Protocol (MCP) or comparable agent tool-calling frameworks.\nTraditional penetration testing background (web/API/network), OSCP or equivalent.\nExperience contributing to a formal AI governance or compliance program.\nPublications, CTF/red-team competition results, or open-source security tooling in the AI safety/security space.\nExperience mentoring or building out a small safety/security testing team.\nRelevant Certifications (any of the following a plus)\nOffensive security / penetration testing — OSCP, OSWE, OSEP, GPEN, GWAPT, or CEH.\nAI-specific security — ISC2 AI Security Certificate, EC-Council Certified Offensive AI Security Professional, or Certified AI Security Professional (CAISP).\nAI governance / compliance — ISO/IEC 42001 Lead Auditor or Lead Implementer, or IAPP AI Governance Professional (AIGP).",
+  "quyen_loi": "Committed 13th-mth bonus + attractive yearly bonus\nPremium Healthcare for you and 2 family members\n16++ days of paid leave per year\n\nWhy BOSCH?\nBecause we do not just follow trends, we create them. Together we turn ideas into reality, working every day to make the world of tomorrow a better place. Do you have high standards when it comes to your job? So do we. At Bosch, you will discover more than just work.\n \nBenefits and Career Opportunities\n \nWorking in one of the Best Places to Work in Vietnam and Top 30 of the Most Innovative Companies all over the world\nEnglish-speaking environment, with opportunity to be part of innovation team and work in global projects\nOnsite opportunities\nEngage in our diverse training programs which surely help strengthen both your personal and professionalism\nFlexible working time\n13th-month salary bonus + attractive performance bonus (you'll love it!) + annual performance appraisal\n100% offered salary and mandatory social insurances in 2-month probation\n15++ days of annual leave + 1-day of birthday leave\nPremium health insurance for employee and 02 family members\nLunch and parking allowance\nGood benefits of company activities such as: football, badminton, yoga, Aerobic, team building…",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjM4MDEyMiwicHVyIjoiYmxvYl9pZCJ9fQ==--732e6ccea18be6d45ecceea18870f90382b846af/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/BOSCH_TOP_RGB.png",
+  "company_url": "/companies/bosch-global-software-technologies-company-limited",
+  "company_mo_ta": "The Bosch Group is a leading global supplier of technology and services",
+  "job_expertise": [
+    "AI Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Emerging Tech R&D",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

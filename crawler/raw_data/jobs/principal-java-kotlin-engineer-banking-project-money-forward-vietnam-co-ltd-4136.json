@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/principal-java-kotlin-engineer-banking-project-money-forward-vietnam-co-ltd-4136",
+  "tieu_de": "Principal Java/Kotlin Engineer Banking Project",
+  "ten_cong_ty": "MONEY FORWARD VIETNAM CO.,LTD",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Java",
+    "AI",
+    "English",
+    "Software Architecture",
+    "Spring"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E.Town Central, Số 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Who we are?\nMoney Forward is embarking on an exciting new venture in collaboration with Sumitomo Mitsui Financial Group and Sumitomo Mitsui Banking Corporation to explore the provision of BaaS (Banking as a Service) and digital banking solutions. We are seeking a talented Backend Engineer to join our core banking team, which will be at the heart of this initiative. This role expects a strong security mindset, with a clear understanding of data privacy, credential protection, device security, and the responsible use of corporate systems, tools, and accounts.Responsibilities and Duties\nAs a Software Engineer in the Core Banking Team, you will leverage Mambu, a leading cloud banking platform for neobanks and challenger banks, to build one of the most reliable and agile banking systems in the industry. Our goal is to shape the future of digital banking in Japan, making it more accessible and user-friendly than ever before.\nAcquire domain knowledge in digital banking, including deposits, loans, clearing and settlement, basic accounting, domestic exchange, and Zengin network.\nActively engage with product owners to define requirements.\nDevelop, test, and deploy code that meets non-functional quality gates such as static code analysis, software composition analysis, SAST, and DAST, while maintaining numerical accuracy.\nDesign and build high-performance, scalable microservices centered around APIs.\nPursue test automation and continuous improvement, including API testing.\nTake responsibility for the entire software development lifecycle.",
+  "yeu_cau": "Must have\nApproximately 5 years of hands-on experience with Java or Kotlin and Spring Boot.\nPractical experience with SQL, Apache Kafka, and related technologies.\nExperience in creating and automating tests.\nHands-on experience with relational/non-relational databases, including transaction management, query optimization, and schema design.\nExperience in microservice architecture and API design with a focus on scalability, maintainability, and supportability.\nProven experience in development with sufficient domain knowledge (not necessarily in the financial industry).\nUnderstanding of CI/CD concepts and practices.\nExperience developing cloud-native applications in major cloud environments such as AWS, Azure, or GCP.\nBachelor's or Master's degree in Computer Science or a related field, or equivalent practical experience.Nice to have\nExperience working in financial institutions, particularly banks or fintech companies.\nBasic knowledge of accounting or double-entry bookkeeping.\nKnowledge of CCP and settlement mechanisms.\nExperience implementing CI/CD pipelines from development to production in the cloud.\nExperience in AI development and/or experience in using AI tools to improve development processes.\nMoney Forward recently announced our AI Strategy roadmap which focuses on improving AI-driven operational efficiencies, as well as integrating AI agents into our products to deliver better value to our users. Language Requirements\nEnglish: Business level (TOEIC score of 700 or above)Who We’re Looking For\nAbility to quickly adapt to changing priorities and situations.\nA critical thinker who questions the status quo.\nExcellent communication skills with the ability to articulate ideas clearly.\nWillingness to learn necessary domain knowledge and technologies.\nUnderstanding of DevOps/DevSecOps.Technology Stack and Tools Used\nKotlin, Spring Boot, Gradle, jOOQ, Liquibase, Kotest/JUnit, Karate/Rest Assured\nRedis, MySQL\nDocker, AWS ECS\nApache Kafka (AWS MSK)\nMambu cloud banking platform\nGitHub, Backstage, Amazon ECR\nGitHub Actions, ArgoCD, Sonar Cloud, Detekt, AeyeScan\nChatGPT, Copilot, Gemni",
+  "quyen_loi": "Hybrid working; Flexible time; Macbook Pro\nL&D programs; 17 days off\n13.7 million B2C users; 140,000+ business customer\n\nCaring Mental & Physical Recreation: \nHybrid working\nFull salary in probation & 13th month salary\nSocial insurance on full salary from probation\nPremium Health insurance from probation\nFlexible start 8AM-9AM from Mon-Fri\n16 days off annually + 1 Birthday Leave \nPaternity leave extra 5 days \nAnnual company trip; Quarterly team building activities\nClub activities\nAnnual health check\nCaring Career & Development: \nClear Career path\nForeign language & International technology-related certifications sponsoring\nWell-equipped facility: Macbook pro,  additional monitor,..\nSoft skill workshops\nTech seminars\nMonthly and biannually Recognition Awards\nPerformance review twice/year",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODUzOTczLCJwdXIiOiJibG9iX2lkIn19--79b3a490a32129e23bf421e7acd6f0df69d5bce6/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/money-forward-vi-t-nam-logo.png",
+  "company_url": "/companies/money-forward-vietnam-co-ltd",
+  "company_mo_ta": "Top 1 Fintech Company",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Banking",
+    "Software Products and Web Services",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-developer-shinhan-ds-4838",
+  "tieu_de": "Backend Developer",
+  "ten_cong_ty": "SHINHAN DS",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "C language",
+    "Linux",
+    "Oracle",
+    "JavaScript",
+    "SQL",
+    "HTML5"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "11th Floor, The Mett Tower, Tran Bach Dang Street",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Up To 35M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job description\nWe are looking for Middle/Senior Software Developers to join the Core Banking team at Shinhan Bank Vietnam. The candidate will be responsible for developing, maintaining, and enhancing Core Banking applications and related banking systems, ensuring system stability, performance, and compliance with banking regulations.\nThe role will collaborate closely with business teams and project members to support loan banking modules and card-related services.\n2. Key Responsibilities\nCore Banking Development\nMaintain and enhance backend services of the Core Banking System. \nAnalyze and resolve bugs, incidents, and performance issues in production and non-production environments. \nPerform database query tuning and optimize system performance. \nWrite and maintain technical documentation (design documents, API specifications, release notes). \nParticipate in code reviews and ensure development standards are followed. \nCollaborate with business and technical teams to deliver stable and secure solutions. \nSubmit progress reports and support issue tracking activities. \nComply with security policies and change management procedures. \nDepending on project assignments, candidates may work on Core Banking modules related to Loan Banking Services or Card Systems.\nBanking Business Development (Loan Modules)\nDesign and develop end-to-end lending systems \nImplement credit scoring, rating models, and limit management\nDigitalize lending workflows (application, underwriting, approval hierarchy)\nManage loan lifecycle (interest, schedules, overdue, restructuring)\nDevelop loan products (term loan, revolving, credit line)\nEnsure compliance with credit policies and regulations\nCard System Development\nDevelop and maintain card-related services and transaction systems. \nHandle card lifecycle management: \nIssuance \nActivation  \nDebit/Credit processing \nSupport transaction processing: \nClearing \nSettlement  \nReconciliation  \nEnsure compliance with banking regulations and international standards such as PCI DSS and ISO 8583.",
+  "yeu_cau": "Technical Requirements\nExperience in developing main services using C-based frameworks\nProficiency in building terminal/screen interfaces with HTML5, CSS, JavaScript \nStrong knowledge of database design and management using Oracle SQL/PLSQL\nExperience working in Linux/Unix-based operating environments\nAbility to ensure system performance, stability, and scalability. \n4. Soft Skills\nStrong analytical and problem-solving skills. \nAbility to work independently and manage multiple tasks. \nProactive, responsible, and detail-oriented mindset. \nGood written communication skills in English. \n5. General Requirements\nBachelor’s degree in Computer Science, Software Engineering, or a related field.\n5+ years of relevant experience (senior level). \nAbility to work independently and take ownership of tasks. \nExperience in financial services or banking IT systems.\nKnowledge of banking protocols (ISO 8583, SWIFT, etc.).\nFamiliarity with Napas 247, eWallet, and SBV reporting. \nKnowledge of security standards and compliance requirements.",
+  "quyen_loi": "Work environment that focus solely on development\nTraining opportunities with experts\n13th month salary & Incentive Programs\n\nPass-Probation Bonus \n13th month Salary \nPerformance Bonus \nFriend Referral Program Bonus and many other incentives.\n12 days of Annual leaves + 3 Sickness leaves\nPersonal Allowances for birthdays, marriage, new babies, etc.\nTeam monthly allowance.\nSpecial loan offers and fee waivers from Shinhan Bank.\nCompany Trips, annual/monthly/weekly activities, and events.\nHealth checks once a year and a premium healthcare program.\nEducation Programs and overseas training opportunities.\nYour solutions and opinions are welcomed.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzQ2NzM3MywicHVyIjoiYmxvYl9pZCJ9fQ==--a9dead874df162738ef817333afc7f361d62148c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo%20-%20ShinhanDS.png",
+  "company_url": "/companies/shinhan-ds",
+  "company_mo_ta": "Shinhan DS Vietnam",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

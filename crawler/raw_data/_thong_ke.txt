@@ -1,0 +1,505 @@
+Tổng số file: 886
+
+=== ky_nang (346 giá trị khác nhau) ===
+  246  English
+  165  Python
+  164  AI
+  138  SQL
+  136  Java
+   96  AWS
+   81  Agile
+   76  DevOps
+   76  CI/CD
+   71  Cloud
+   71  Business Analysis
+   69  API
+   64  ReactJS
+   60  Project Management
+   60  QA QC
+   55  JavaScript
+   55  Tester
+   51  Linux
+   50  .NET
+   50  C#
+   49  Team Management
+   47  Automation Test
+   46  Docker
+   44  TypeScript
+   43  Microservices
+   43  Kubernetes
+   43  Spring Boot
+   41  LLM
+   41  NodeJS
+   40  Data Analysis
+   40  Golang
+   39  C++
+   39  Oracle
+   39  Security
+   38  Software Architecture
+   36  PostgreSql
+   36  Machine Learning
+   36  Database
+   34  Kafka
+   33  Scrum
+   32  Leadership
+   30  Spring
+   29  Azure
+   27  MySQL
+   26  Product Owner
+   26  Jira
+   26  Fullstack
+   25  Embedded
+   25  Product Management
+   25  Networking
+   24  System Admin
+   23  System Architecture
+   23  Solution Architecture
+   23  Japanese
+   23  Design Systems
+   22  MongoDB
+   22  Git
+   22  ERP
+   22  Kotlin
+   22  UI-UX
+   22  Data Engineer
+   21  Cloud Security
+   21  Cybersecurity
+   20  Terraform
+   19  Power BI
+   19  Android
+   19  Figma
+   18  NLP
+   18  NextJS
+   18  Selenium
+   17  Japanese IT Communication
+   17  Stakeholder management
+   17  Risk Management
+   16  Mobile Apps
+   16  OOP
+   16  PHP
+   15  Computer Vision
+   15  ETL
+   15  User story
+   15  IT Support
+   15  Data Warehousing
+   15  Redis
+   14  Design
+   14  FastAPI
+   14  Fresher Accepted
+   14  Business Intelligence
+   14  DevSecOps
+   13  Generative AI
+   13  CRM
+   13  Unity
+   12  Games
+   12  Data Science
+   12  VueJS
+   12  HTML
+   12  Playwright
+   11  C language
+   11  Deep Learning
+   11  SIEM
+   11  Angular
+   11  ASP.NET
+   11  GCP
+   10  Ruby on Rails
+   10  BRD
+   10  Firewall
+   10  Information Security
+   10  Swift
+    9  Bridge Engineer
+    9  SAP
+    9  Governance
+    9  Risk & Compliance
+    9  NestJS
+    9  iOS
+    9  CSS
+    8  Agentic AI
+    8  MLOps
+    8  React Native
+    8  Penetration Testing
+    8  Pentest
+    8  Blockchain
+    8  Adobe Photoshop
+    8  Application Security
+    8  Big Data
+    8  Flutter
+    8  Postman
+    7  AUTOSAR
+    7  Data Quality Tools
+    7  IT Communication/Translation
+    7  Embedded C
+    7  Hardware Design
+    7  Incident Response
+    7  Data modeling
+    7  Product roadmap
+    7  Unit test
+    7  Cypress
+    7  .Net Core
+    6  Databricks
+    6  Technical Writing
+    6  Enterprise Architecture
+    6  Cloud-native Architecture
+    6  Clean Architecture
+    6  Grafana
+    6  HTML5
+    6  Django
+    6  SRS
+    6  VMware
+    6  Windows
+    6  PL/SQL
+    6  Jenkins
+    6  MVVM
+    6  Ruby
+    6  Laravel
+    6  SOAR
+    5  Presale
+    5  RAG
+    5  Microservices Architecture
+    5  JSON
+    5  Algorithms
+    5  Wireframing
+    5  Data-driven
+    5  Product strategy
+    5  IT Governance
+    5  OWASP
+    5  ISO 27001
+    5  EDR
+    5  Microsoft SQL Server
+    5  Spark
+    5  PowerShell
+    5  Bash Shell
+    5  MVC
+    5  User flows
+    4  PyTorch
+    4  ELT
+    4  Power Automate
+    4  Zephyr
+    4  Google Cloud
+    4  IDS/IPS
+    4  IT Audit
+    4  Integration test
+    4  Windows Server
+    4  PCI DSS
+    4  NoSQL
+    4  Tableau
+    4  GitLab CI
+    4  Shopify
+    4  Hardware Troubleshooting
+    4  Jmeter
+    4  Flask
+    4  Web API
+    4  Appium
+    3  Blender
+    3  Waterfall Methodology
+    3  Pandas
+    3  Redhat
+    3  Prometheus
+    3  Embedded Android
+    3  Chinese
+    3  BPMN
+    3  Microsoft Dynamics 365
+    3  AWS CloudFormation
+    3  Microsoft Azure SQL Database
+    3  Identity & Access Management
+    3  ITIL Foundation
+    3  Vulnerability Assessment
+    3  Apache Airflow
+    3  Data Privacy / Compliance
+    3  DBA
+    3  RTOS
+    3  SOLID Principles
+    3  Prototyping
+    3  Trello
+    3  IoT
+    3  Apache Spark
+    3  Dart
+    3  Market research
+    3  Product Design
+    2  Prompt Engineering
+    2  TensorFlow
+    2  RPA
+    2  macOS
+    2  Firebase
+    2  Middleware
+    2  Rust
+    2  Mockups
+    2  User diagram
+    2  Accessibility
+    2  FRS
+    2  Data mining
+    2  Data Lineage
+    2  PQA
+    2  Data Catalog
+    2  Firmware
+    2  BLE
+    2  IoT Platforms
+    2  GraphQL
+    2  CANoe
+    2  CSS 3
+    2  Odoo
+    2  Nuxt.js
+    2  3ds Max
+    2  Illustrator
+    2  Adobe Illustrator
+    2  AWS Lambda
+    2  J2EE
+    2  Google BigQuery
+    2  Snowflake
+    2  ELK
+    2  Hibernate
+    2  AngularJS
+    2  OpenStack
+    2  Blazor
+    2  REST Assured
+    2  Ansible
+    2  HRM / HCM
+    2  OCR
+    2  Objective C
+    2  GitHub
+    2  Cisco
+    2  Robot Framework
+    2  ServiceNow
+    2  kotlinx.coroutines
+    2  Statistical Analysis
+    2  WPF
+    2  JUnit
+    2  Product Metrics
+    2  TOGAF
+    1  scikit-learn
+    1  Hack (HHVM)
+    1  Scala
+    1  UML
+    1  PRD
+    1  R
+    1  SIP Server
+    1  Web Application Firewall
+    1  Cloud Migration Consulting
+    1  Technology Roadmapping
+    1  Airtable
+    1  COBOL
+    1  French
+    1  OpenCV
+    1  Change Management
+    1  Keras
+    1  Matlab
+    1  NumPy
+    1  Strategy planning
+    1  GitHub Actions
+    1  Unreal Engine
+    1  SPI
+    1  CANalyer
+    1  Decorator pattern
+    1  Adobe XD
+    1  ARM Cortex
+    1  DynamoDB
+    1  Chef
+    1  IBM DB2
+    1  Spine
+    1  TestRail
+    1  Cucumber
+    1  Hugging Face Transformers
+    1  Mendix
+    1  Yii
+
+=== job_expertise (73 giá trị khác nhau) ===
+  124  Backend Developer
+   87  Fullstack Developer
+   57  AI / Machine Learning Engineer
+   47  Business Analyst
+   39  DevOps Engineer
+   37  Manager
+   31  Automation Tester
+   28  Security Engineer
+   27  Data Engineer
+   27  Manual Tester
+   26  Mobile Application Developer
+   23  Project Manager
+   20  Software/Technical Architect
+   17  Embedded Engineer
+   16  Solution Architect
+   16  Network Engineer
+   16  Frontend Developer
+   15  Product Owner
+   13  Test Coordinator / QAQC Coordinator
+   12  Data Analyst
+   10  Systems Engineer / Administrator
+   10  Cloud Engineer
+   10  UX/UI Designer
+   10  Product Manager
+    9  Software Engineer in Test (SDET)
+    9  Banking & Financial Systems Developer
+    9  Data Scientist
+    8  DevSecOps Engineer
+    7  Game Designer
+    7  Desktop Application Developer
+    6  C-level (CTO, CIO, CISO, CDO)
+    6  IT Auditor / IT Risk Manager
+    6  Data Architect
+    6  Database Administrator
+    6  Site Reliability Engineer (SRE)
+    5  Bridge System Engineer (BrSE)
+    5  Data Governance Specialist
+    4  Low-Code/No-Code Developer
+    4  Security Tester / Penetration Tester
+    4  IT Support
+    4  Hardware-Software Integration Engineer
+    3  AI Architect
+    3  IT Consultant
+    3  Application Security Engineer
+    3  Game Developer
+    3  Security Consultant
+    3  Scrum Master / Agile Coach
+    3  BI Analyst / BI Developer
+    3  Pre-sales Engineer
+    2  Game Tester
+    2  DataOps / MLOps Engineer
+    2  IT Communicator
+    2  Enterprise Application Consultant (CRM / HCM / SCM and other enterprise solutions)
+    2  Database Engineer
+    2  Enterprise Architect
+    2  Vice President / Director
+    2  Analytics Engineer
+    2  IT Helpdesk
+    2  IoT Application Developer
+    2  Process Quality Assurance (PQA)
+    2  Enterprise Application Developer (CRM)
+    2  Data Steward / Data Quality Analyst
+    1  ERP Consultant
+    1  Computer Vision Engineer
+    1  ERP Developer
+    1  Performance / Load Tester
+    1  AI Researcher
+    1  Compliance Officer / Analyst
+    1  SysOps Engineer
+    1  Program Manager / PMO
+    1  Technical Customer Support
+    1  VR/AR Game Developer
+    1  UX Researcher
+
+=== tinh_thanh (6 giá trị khác nhau) ===
+  495  Hồ Chí Minh
+  353  Hà Nội
+   34  Đà Nẵng
+    2  None
+    1  Ninh Binh, Ha Noi
+    1  Quang Ngai, Da Nang
+
+=== quan_huyen (32 giá trị khác nhau) ===
+  268  None
+   92  Quận 1
+   56  Thành phố Thủ Đức
+   49  Quận Cầu Giấy
+   41  Quận 3
+   39  Quận Tân Bình
+   37  Quận Nam Từ Liêm
+   37  Quận 7
+   35  Quận Đống Đa
+   29  Quận Phú Nhuận
+   28  Quận Ba Đình
+   28  Quận Hoàn Kiếm
+   23  Quận Hải Châu
+   22  Quận Bình Thạnh
+   18  Quận 12
+   17  Quận Thanh Xuân
+   12  Quận Hai Bà Trưng
+   10  Quận Tây Hồ
+    8  Quận 4
+    6  Quận 2
+    5  Quận 11
+    5  Quận 10
+    4  Huyện Gia Lâm
+    4  Quận Long Biên
+    4  Quận khác
+    2  Quận Sơn Trà
+    2  Quận Hoàng Mai
+    1  Quận Hà Đông
+    1  Quận Cẩm Lệ
+    1  Quận Ngũ Hành Sơn
+    1  Quận Tân Phú
+    1  Quận 6
+
+=== hinh_thuc_lam_viec (3 giá trị khác nhau) ===
+  706  At office
+  155  Hybrid
+   25  Remote
+
+=== loai_hinh_lam_viec (2 giá trị khác nhau) ===
+  884  Full-time
+    2  None
+
+=== cap_bac (3 giá trị khác nhau) ===
+  816  None
+   53  Internship
+   17  Fresher
+
+=== loai_hinh_cong_ty (6 giá trị khác nhau) ===
+  546  IT Product
+  178  IT Service and IT Consulting
+   86  IT Outsourcing
+   64  Non-IT
+   10  Headhunt
+    2  None
+
+=== quy_mo_cong_ty (7 giá trị khác nhau) ===
+  241  1000+ employees
+  192  51-150 employees
+  181  1-50 employees
+  111  151-300 employees
+  103  301-500 employees
+   56  501-1000 employees
+    2  None
+
+=== khu_vuc_crawl (3 giá trị khác nhau) ===
+  505  ho-chi-minh
+  350  ha-noi
+   31  da-nang
+
+=== DẠNG LƯƠNG (số -> N) ===
+  618  You'll love it    | ví dụ: You'll love it
+  199  N - N USD    | ví dụ: 200 - 900 USD
+   14  Very Attractive!!!    | ví dụ: Very Attractive!!!
+    5  Up to NM    | ví dụ: Up to 30M
+    4  N.N per month    | ví dụ: 3.000.000 per month
+    2  As per Market Standards    | ví dụ: As per Market Standards
+    2  Up To NM    | ví dụ: Up To 35M
+    2  Up to $N    | ví dụ: Up to $1800
+    2  Lương theo giờ    | ví dụ: Lương theo giờ
+    2  Negotiable salary    | ví dụ: Negotiable salary
+    2  None    | ví dụ: None
+    2  N - NM    | ví dụ: 18 - 20M
+    2  Upto $N gross/tháng    | ví dụ: Upto $1300 gross/tháng
+    2  Competitive    | ví dụ: Competitive
+    2  N,N - N,Nđ    | ví dụ: 30,000,000 - 60,000,000đ
+    1  Come as you are.     | ví dụ: Come as you are. 
+    1  Upto $N     | ví dụ: Upto $2500 
+    1  Up To NM Gross    | ví dụ: Up To 35M Gross
+    1  N-N triệu    | ví dụ: 15-30 triệu
+    1  you'll love it    | ví dụ: you'll love it
+    1  Negotiable    | ví dụ: Negotiable
+    1  You'll love it!    | ví dụ: You'll love it!
+    1  Approximately $N    | ví dụ: Approximately $230
+    1  N-Nm VND    | ví dụ: 20-35m VND
+    1  VND N.N per month    | ví dụ: VND 3.000.000 per month
+    1  Up to Nm VND gross    | ví dụ: Up to 20m VND gross
+    1  N - N triệu VND    | ví dụ: 40 - 50 triệu VND
+    1  N - N Triệu    | ví dụ: 45 - 60 Triệu
+    1  Up to NM + bonus    | ví dụ: Up to 60M + bonus
+    1  UP TO NM GROSS     | ví dụ: UP TO 50M GROSS 
+    1  Negotiable based on exp    | ví dụ: Negotiable based on exp
+    1  Competitive Package    | ví dụ: Competitive Package
+    1  Very attractive!!!    | ví dụ: Very attractive!!!
+    1  You'll love it     | ví dụ: You'll love it 
+    1  Từ $N/ngày    | ví dụ: Từ $100/ngày
+    1  Attractive salary!    | ví dụ: Attractive salary!
+    1  Up to Nmil    | ví dụ: Up to 35mil
+    1  Nego    | ví dụ: Nego
+    1  Lương thỏa thuận    | ví dụ: Lương thỏa thuận
+    1  N-NM    | ví dụ: 30-50M
+    1  N,N - N,Nđ	    | ví dụ: 30,000,000 - 50,000,000đ	
+
+=== DẠNG NGÀY ===
+  884  ngay_dang_raw: 9999-99-99    | ví dụ: 2026-09-17
+    2  ngay_dang_raw: None    | ví dụ: None
+  884  han_ung_tuyen_raw: 9999-99-99    | ví dụ: 2026-10-22
+    2  han_ung_tuyen_raw: None    | ví dụ: None

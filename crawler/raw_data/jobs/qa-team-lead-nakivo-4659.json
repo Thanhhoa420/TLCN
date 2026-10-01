@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-team-lead-nakivo-4659",
+  "tieu_de": "QA Team Lead",
+  "ten_cong_ty": "Nakivo",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Leadership",
+    "Automation Test",
+    "AI",
+    "QA QC"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "TGI Building, 208 Nguyen Trai",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "2,500 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. Quality Ownership\n● Own release quality for your product/team\n● Define testing scope based on risk, timelines, and business priorities\n● Ensure only production-ready features are released\n● Participate actively in planning, requirement reviews, and release discussions\n● Identify quality risks early and drive mitigation plans\n2. Team Leadership\n● Lead and mentor QA engineers across manual and automation testing (manage 2\nseparate teams with 3-4 people each)\n● Hire for your teams, set goals and KPIs, run regular 1-1s, and make performance\ndecisions\n● Create a strong culture of accountability, ownership, and continuous improvement\n● Improve team efficiency and execution quality\n3. Testing & Automation\n● Plan and drive test-case production at scale using AI-assisted generation with review discipline; own per-engineer throughput targets \n● Define and improve regression strategies\n● Drive automation for UI, API, and integration testing\n● Improve CI/CD quality workflows and release confidence\n● Optimize test execution time while maintaining meaningful coverage\n● Support exploratory, risk-based, and customer-focused testing approaches\n4. Customer & Product Focus\n● Work closely with Product, DEV, and Support teams\n● Analyze production defects and customer feedback to improve test coverage\n● Drive root-cause analysis and defect prevention practices\n● Focus on customer-perceived quality, not only internal QA metrics\n5. Process & Continuous Improvement\n● Help establish practical QA processes that teams actually follow\n● Track quality KPIs and testing effectiveness\n● Improve release readiness, test planning, and defect management\n● Introduce AI-assisted QA workflows where they provide real value",
+  "yeu_cau": "Required Qualifications:\n● 6+ years of experience in software testing / quality engineering\n● 3+ years leading QA teams or acting as QA Lead\n● Able to drive large test volumes — new features can generate ~500-1,000 test\ncases and a product line carries 2,000–4,000 regression cases. You can explain\nhow you'd produce and manage that with AI, templates and prioritisation\n● You estimate testing effort yourself and drive the team to meet the estimate\n● Strong hands-on experience with:\n○ Test automation\n○ Designing test matrices across multiple OS versions, hardware\nconfigurations, and storage targets\n○ Regression strategy\n● Experience using AI tools (ChatGPT, Copilot, Cursor, Claude, etc.) to improve\nQA workflows\n● Experience reviewing requirements and identifying testing risks early\n● Strong troubleshooting and analytical skills\n● Experience mentoring junior and mid-level QA engineers\n● Comfortable working in fast-moving environments with evolving priorities\n● Good communication skills in English\n \nDesired Qualifications:\n● Hands-on testing experience with backup/recovery products\n● Experience with cloud platforms, backup/storage products, virtualization, or\ninfrastructure-related software\n● Experience improving release quality and reducing defect leakage\n● Experience using AI tools (ChatGPT, Copilot, Cursor, Claude, etc.) to improve\nQA workflows\n● Experience building automation frameworks or improving testing architecture\n \nGiven the high volume of CVs applied, we can only manage to respond to candidates whose profiles aligns with the position within 5 working days. We appreciate your understanding and enthusiastic towards our company",
+  "quyen_loi": "Flexible working hour\nPrivate health care insurance\nPremium annual health care check\n\nThe Nakivo team in Vietnam has been changing very fast in the recent years, we have grown from a group of 6 engineers to the current team size of 80 and we are expecting to grow even more in the next following years. \nWe welcome and embrace people, regardless of their background, religion, nationality or gender, but focus on diversity, contribution, determination and work ethic. At Nakivo, we are trying to improve everyday, to become a competitive choice for talented people, by offering\nFlexible working hours: Office opens from 6.00 AM to 10.00 PM\n13-month bonus & performance bonus\n100% salary on probationary period\nPrivate health care package\nHealthcare package for family members\nPremium health care check\nGift (cash/voucher) for every special occasion: New Year's Eve, Tet holidays, International Women's Day, International Children's Day, Mid-Autumn Festival and Birthday\nUp to 18 annual leaves/year, 5 sick leaves and additional leaves (up to 3 days)\nTeam building\nFree and un-limited snack, tea, coffee and by-choice request.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk5MTk2LCJwdXIiOiJibG9iX2lkIn19--bceea6d3244169111f1344425f9c11dc02e70eb5/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/nakivo-logo.jpg",
+  "company_url": "/companies/nakivo",
+  "company_mo_ta": "Providing continuous data protection software for VMware-based virtual servers.",
+  "job_expertise": [
+    "Test Coordinator / QAQC Coordinator"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-engineer-typescript-api-reactjs-reclub-vietnam-1332",
+  "tieu_de": "Senior Fullstack Engineer TypeScript, API, ReactJS",
+  "ten_cong_ty": "Reclub Vietnam",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "TypeScript",
+    "SQL",
+    "ReactJS",
+    "API",
+    "NextJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "28 Mai Chí Thọ, An Phú, Quận 2",
+  "quan_huyen": "Thành phố Thủ Đức",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Build across the API and web application, taking features end to end or delivering stable APIs and product surfaces for other engineers to build on. The role focuses on dependable third-party integrations, asynchronous work, performance, and shared product patterns.\nScope of Job\nDesign stable API contracts for internal screens and other engineers.\nIntegrate payment, messaging, storage, and partner services, handling rate limits, retries, timeouts, webhooks, and production failure modes.\nDeliver features from API contract through to polished Next.js screens that cover all states.\nBuild queue-based workers, background jobs, callbacks, notifications, imports, exports, and external-system syncs.\nImprove response shapes, caching, payload size, and web performance.\nEstablish shared components and patterns across customer-facing and internal admin tools.\nKey Success Indicators for this Role\nDelivers stable, well-designed APIs that internal product surfaces and other engineers can reliably build on.\nShips end-to-end features that handle real-world states beyond the happy path.\nImproves the reliability and performance of integrations, asynchronous workflows, and web experiences.",
+  "yeu_cau": "Must Have\n1. Professional Expertise (Hard Skills & Experience):\n5+ years building and operating production web applications across APIs and browsers.\nDeep TypeScript experience; able to become productive quickly with Bun and Elysia.\nStrong API design judgment across resource modelling, versioning, pagination, error contracts, idempotency, and authentication.\nExperience with third-party and partner API integrations, including authentication, webhooks, retries, rate limits, timeouts, and production failure modes.\nExperience with queues, background jobs, and idempotent workers.\nPractical caching knowledge, including cache placement and invalidation.\nSelf-sufficient SQL skills for modelling straightforward domains and writing queries.\nSecurity fundamentals: authentication, authorization, session and token handling, input validation, and common web attack surfaces.\nDeep Next.js and React knowledge, including server components, SSR, static rendering, and client rendering.\n2. Communication & Documentation:\nDesigns API contracts with the needs of their consumers in mind.\nCollaborates effectively across API and frontend work to deliver complete product experiences.\n3. Personality & Behavioral Traits:\n Moves between backend and frontend work without friction.\nTakes ownership of features end to end and considers real-world states, not only the happy path.\nCares about how the product looks and feels, closing gaps between mockups and production-ready screens.\n4. Culture & Career:\nContributes to shared components and product patterns that make future work faster and more consistent.\nBalances reliability, performance, and product quality across customer-facing and internal tools.\nNice to Have\nExperience with event-driven or queue-based distributed systems.\nProduction experience with realtime transport such as MQTT or an equivalent pub/sub broker.\nDeep PostgreSQL knowledge, including query plans, indexing strategy, and schema migrations on live systems.\nProduction experience with Redis, DragonflyDB, ClickHouse, or other data stores beyond PostgreSQL.\nDeep Next.js App Router knowledge, including server actions, streaming, caching, and revalidation.\nExperience with web performance tooling, including Core Web Vitals, bundle analysis, image optimization, and font optimization.",
+  "quyen_loi": "Work in fast-growing startup\nServe passionate and active sports users\nMeaningful mission and impact\n\n100% salary during probation\nCompetitive salary + 13th-month bonus\nAnnual salary review\nPremium health insurance from Bao Viet after probation\nTransportation support\nLunch, coffee, and snacks\n All statutory benefits per Vietnamese Labor Law",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAzMjEwNywicHVyIjoiYmxvYl9pZCJ9fQ==--673d0f1e42d47b42521952ae4385610eb1ef9741/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/logo%20reclub.jpg",
+  "company_url": "/companies/reclub-vietnam",
+  "company_mo_ta": "Powering The Global Sports Community",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

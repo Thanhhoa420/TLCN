@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/da-nang-tech-lead-ai-agent-products-doraverse-jsc-tech-ai-3653",
+  "tieu_de": "Tech Lead - AI Agent Products",
+  "ten_cong_ty": "Doraverse JSC - Tech & AI",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "Team Management",
+    "Golang",
+    "ReactJS",
+    "AI",
+    "Python",
+    "NodeJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3rd Floor, HB Building, 433-435 Nguyen Huu Tho",
+  "quan_huyen": null,
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "Negotiable salary",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Doraverse\nDoraverse builds a secure, integrated AI platform for businesses worldwide, with a focus on Japan. Our products support AI chat, meeting notes, content creation, and automation of legal and HR workflows, including reviewing contracts, analyzing documents, and answering domain-specific questions.Your Role\nYou will lead the technical development of one or more products or product areas within the Doraverse ecosystem. Working with the team, you will clarify user problems, define the approach, design solutions, and write code, then continue monitoring and improving the product after launch.\nThis role combines hands-on engineering with team leadership and involvement in product direction. You can assess the impact of your work through user feedback, adoption, and operational performance.Key Responsibilities\nWork with the team to identify the problems to solve, agree on scope, and set priorities based on real user needs.\nWrite product requirements documents (PRDs) in business language, and create technical documentation covering architecture, data flows, APIs, databases, migrations, and rollout plans.\nWrite code and lead code reviews. Establish and maintain standards for testing, logging, and error handling.\nAllocate work, guide engineers, and remove blockers. Standardize how the team uses AI coding tools and ensure the quality of AI-generated code.\nDesign and implement authentication, tenant-level access control, personal data protection, and secrets management.\nSet up development environments with Docker Compose. Coordinate with DevOps and QA to deploy to staging and validate releases before production deployment. Monitor infrastructure and AI costs.\nMonitor errors, performance, and usage metrics. Respond to incidents, investigate root causes, and improve the product using data and user feedback.",
+  "yeu_cau": "Experience and Approach\nYou have at least 5 years of software development experience, including at least 2 years as a Tech Lead or technical owner of a product, and hold a university degree.\nYou have a product mindset, use data to set priorities, and are willing to challenge requirements. You can write PRDs for nontechnical readers and technical documentation and API contracts for developers.\nYou are proficient with AI coding tools such as Claude Code and Codex. You can write effective prompts, review AI-generated code, and help the team use these tools effectively.Required Technical Skills\nYou have production-level expertise in at least one of the following backend stacks and can read and modify code in the others: Go (Echo, concurrency, gRPC), Node.js/TypeScript (Express/NestJS), and Python (async programming, FastAPI).\nYou understand frontend development well enough to review code and make technical decisions involving React, TypeScript, Next.js, Zustand/Redux, and TanStack Query.\nYou have experience with PostgreSQL, MongoDB, and Redis, including schema design, migrations, query optimization, caching, queues, and locks. You understand the trade-offs involved in selecting these technologies.\nYou understand microservice architecture, REST, gRPC, Kafka, SSE/WebSocket, and Docker, and have experience using structured logging, Sentry, and OpenTelemetry for system observability.\nYou have integrated LLM/AI providers, worked with multiple providers and streaming responses, and managed costs and output quality.Preferred Qualifications\nYou have shipped AI/LLM products to production using RAG (pgvector), agents/tool calling, or real-time speech-to-text.\nYou have built multi-tenant SaaS products with workspaces, access control, billing, or credits, and are familiar with SOC 2, ISO 27001, and GDPR.\nYou have built AI agent workflows for team-wide use, including subagents, MCP, skills, and hooks.\nYou have worked with Japanese clients or in the Japanese market and have strong communication skills in Japanese or English.",
+  "quyen_loi": "Compensation and Benefits\nA salary that is competitive with the market and negotiable based on your capabilities, 12 days of annual leave, and full participation in the statutory social insurance scheme.\nTraining and career development opportunities in a professional, dynamic workplace, with Happy Hour, team-building events, and regular internal activities.\nThe five-year personal income tax exemption under the Da Nang People's Committee policy for innovative enterprises runs from August 2025. It applies to employees with formal employment contracts, a university degree, and at least 5 years of experience.Position Details\nOpenings: 4 positions\nWork model: On-site\nLocation: 3rd Floor, HB Building, 433-435 Nguyen Huu Tho Street, Cam Le Ward, Da Nang.\nSchedule: Monday to Friday, 08:30-12:00 and 13:30-18:00.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODExOTc5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--5ad593d30bbdde7e6570090b653b4b8accbd4f93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Dov.jpg",
+  "company_url": "/companies/doraverse-jsc-tech-ai",
+  "company_mo_ta": "Secure All-in-One AI Platform for Work - Nền tảng AI All-in-One bảo mật cho công việc",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Emerging Tech R&D",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/qa-engineer-automation-mobile-app-pytest-moatable-0149",
+  "tieu_de": "QA Engineer Automation, Mobile App, pytest",
+  "ten_cong_ty": "Moatable",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Automation Test",
+    "CI/CD",
+    "English",
+    "Mobile Apps",
+    "AI",
+    "pytest"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "62 Tran Quang Khai,",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Competitive Package",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "What We Offer You\nOwnership of quality for a real revenue product used by carriers and brokers.\nA team that treats automation and AI-assisted testing as the standard, not an experiment, and gives you room to shape how AI is used in QA.\nGrowth into test architecture and AI-assisted testing practices.\nAbout the Role\nWe are looking for a QA / Test Engineer to own quality for Truckloads (TL), our logistics SaaS platform\nfor carriers and brokers. You will design and automate tests across mobile and API layers, and, just as\nimportantly, help us push testing into an AI-assisted model, where AI generates test cases and scripts\nfrom PRDs, Figma, and our knowledge base, and the engineer focuses on judgment, calibration, and\ncoverage decisions.\nThis is a hands-on role for someone who is excited about automation-first QA and about using AI as a\nserious part of the testing workflow, not just a novelty\n \nResponsibilities\nDesign test cases from business rules and requirements, covering happy paths, edge cases, and error paths, not just the obvious scenarios.\nBuild and maintain Truckloads automation suites: Mobile UI: Maestro (Android + iOS) AND API: Python / pytest\nUse AI to accelerate testing: generate and refine test cases and automation scripts from PRDs,\nFigma designs, and the knowledge base; review and calibrate AI output for correctness and coverage.\nKeep the knowledge base structured and “AI-consumable” (clear naming, machine-readable structure) so that AI-generated tests stay reliable.\nOwn the bug lifecycle: reproduce, triage, file well-documented tickets, and verify fixes through regression scripts.\nRun and analyze test results, classify failures (environment / script / product bug), and drive them to resolution, with no unexplained skips or failures.",
+  "yeu_cau": "Requirements\nMust-have\n3+ years of experience in QA / test automation.\nSolid programming ability in Python.\nHands-on experience with test automation frameworks (mobile UI and/or API).\nExperience with API testing and understanding of REST/HTTP .\nComfortable using AI / LLM tools (e.g. Claude, Copilot) in daily engineering work, and able to critically review AI-generated output rather than trust it blindly.\nFamiliarity with Git-based workflows and CI/CD pipelines.\nStrong analytical mindset, able to root-cause failures from logs and evidence, not guess.\nWorking proficiency in English (written and spoken) for cross-region collaboration.\n \nNice-to-Have\nExperience with Maestro (mobile automation).\nMobile app testing experience (Android / iOS).\nExperience designing prompts or workflows for AI-assisted test generation.\nBackground in SaaS, logistics, or transportation products.",
+  "quyen_loi": "International Exposure, AI-native product building\nFull Ownership & Career Rewards\nAccelerated Growth & Meaningful Impact-SaaS nature\n\nAt Moatable, we prioritize talent development. You’ll receive comprehensive support at every stage of your career journey, right from the start.\nYou’ll be involved in the entire product design and delivery process, where a strong sense of achievement and fulfillment awaits.\nImmerse yourself in a global atmosphere—Moatable boasts multiple offices worldwide. Join us to collaborate with teams from diverse cultural and professional backgrounds.\nMoatable offer an exciting blend of challenge, growth, and purpose. As a fast-paced SaaS AI company operating at the forefront of technical innovation, our teams tackle complex problems daily, giving engineers and product minds alike the opportunity to grow fast, think boldly, and lead with impact. \n \nOur largest business market is in the U.S., where we build software to high standards and face little direct competition, giving our teams the unique advantage of solving real, large-scale problems with global reach. If you're driven by growth, energized by challenge, and ready to lead, Moatable is where your next chapter begins. \n \nWhat We Offer\n \n12 annual leaves + 3 annual sick leaves\nFixed 13th-month salary\nAttractive Base Salary, Full Social Insurance contributions from you Day 1\nQuarter Performance Review and Bonuses\nMonthly Onsite Allowance of\n500.000 VND during probation, \n1.000.000 VND after probation and \n1.500.000 VND after your one year\nMonthly Snacks and Drinks\nAnnual Health Check-up \nPremium Health Insurance Package",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjE0NTkwNywicHVyIjoiYmxvYl9pZCJ9fQ==--018156293880b07ad293273e69080fa15b835358/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Moatable-Logo-1%20-%20Anh%20Thu%20Lai.png",
+  "company_url": "/companies/moatable",
+  "company_mo_ta": "Moatable",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

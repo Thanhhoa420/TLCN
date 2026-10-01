@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/remote-ai-agent-engineer-fram-0218",
+  "tieu_de": "Remote AI Agent Engineer",
+  "ten_cong_ty": "Fram",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "LLM",
+    "English",
+    "AI",
+    "TypeScript",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Floor 20, TNR Tower, 180-192 Nguyen Cong Tru Street",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The core product experience runs on an LLM-driven agent that extracts data from client-submitted receipts and documents over WhatsApp, proposes accounting entries, and answers staff questions inside the web app. We’re hiring an AI/Agent Engineer to take ownership of this entire layer, making it cheaper, safer and more reliable while closing specific security gaps (prompt injection, unchecked tool authorization) identified in a recent technical audit. You will work alongside a backend-leaning Fullstack Engineer, who owns the surrounding application and infrastructure.\n Responsibilities\nOwn the LLM integration layer used for document extraction (OCR), accounting-entry proposals, and the in-app chat agent, currently built on Anthropic/OpenAI APIs\nImplement prompt caching to cut redundant token usage. An identified ~83% cost-reduction opportunity  and introduce per-tenant usage budgets and quotas\nHarden the agent against prompt injection: treat all extracted document text as untrusted input, and require explicit confirmation gates before any tool call that grants data access, creates a contact, or moves money\nReplace the agent’s currently hard-coded (effectively disabled) permission model with real, enforced per-tool authorization checks\nEvaluate and implement model tiering, cheaper models for extraction, stronger models for judgment calls and plan a fallback provider for resilience\nBuild an evaluation/golden-file test harness so model or prompt changes can be validated before shipping to production\nImplement PII redaction before data is sent to third-party LLM providers, and partner with the Fullstack Engineer to log every agent tool call to an audit trail\nAdvise on data-processing-agreement and data-residency questions for the AI sub-processors (Anthropic, OpenAI), alongside the company’s data-protection advisor\nContribute to the n8n-side automation where it touches AI extraction, the document-intake pipeline and coordinating handoffs with the Fullstack Engineer.",
+  "yeu_cau": "3+ years of experience building production applications on top of LLM APIs (Anthropic Claude, OpenAI, or equivalent)\nHands-on experience with agentic tool-use patterns, function/tool calling, multi-step agent loops, not just single-shot prompting\nStrong prompt-engineering skills, including context management and techniques for defending against prompt injection\nProficiency in Python or TypeScript, sufficient to build and modify a backend AI-integration layer\nExperience building or using evaluation frameworks/golden-file testing for LLM-based systems\nPractical understanding of LLM cost structures and optimisation techniques, prompt caching, context trimming, model tiering\nWorking knowledge of security concerns specific to LLM systems: prompt injection, data exfiltration via generated content, unsafe tool authorization\nClear written communication in English; able to work asynchronously across time zones",
+  "quyen_loi": "Gain very attractive salary and benefits;\nBe a developer, not a coder;\nExcellent environment and team to help you grow.\n\nYou’ll love working here!\nCompetitive salary package.\nMon-Fri, flexible remote working.\n12 days of annual leave and 3 additional special holidays (Swedish National Day, Christmas Eve & your Birthday).\nAnnual leave increases with loyalty.\nPremium health care package for employees & family members.\nEnglish, professional working environment.\nOpportunities to gain hands-on experience in cutting-edge technologies.",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTkyNDYzNywicHVyIjoiYmxvYl9pZCJ9fQ==--543990d2ef45739a4539ec361d6cad20e12052fd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/fram%20logo%20.png",
+  "company_url": "/companies/fram",
+  "company_mo_ta": "The only Swedish-Vietnamese IT company listed on prestigious NASDAQ stock exchange",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting",
+    "Software Development Outsourcing",
+    "Financial Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

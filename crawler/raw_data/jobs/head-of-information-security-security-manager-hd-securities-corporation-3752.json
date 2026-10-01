@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/head-of-information-security-security-manager-hd-securities-corporation-3752",
+  "tieu_de": "Head of Information Security Security Manager",
+  "ten_cong_ty": "HD Securities Corporation",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Security",
+    "Information Security",
+    "Cloud Security",
+    "DevSecOps"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "23A-B Nguyễn Đình Chiểu, P. Sài Gòn, TP. Hồ Chí Minh",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,500 - 3,000 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "1. MỤC TIÊU VỊ TRÍ\nSở hữu chương trình an toàn thông tin toàn công ty: chiến lược, chính sách và tuân thủ; bảo mật vận hành và giám sát; an toàn ứng dụng; ứng phó sự cố. Bảo đảm hệ thống giao dịch và sản phẩm số không gián đoạn vì sự cố bảo mật, không rò rỉ dữ liệu khách hàng, và đáp ứng yêu cầu của cơ quan quản lý.\n \n2. TRÁCH NHIỆM CHÍNH\n2.1. Chiến lược, chính sách & tuân thủ\nXây dựng chiến lược và lộ trình an toàn thông tin 12–24 tháng theo ISO/IEC 27001 và NIST CSF; quản lý ngân sách và nhà cung cấp bảo mật.\nBan hành hệ thống chính sách, quy định, quy trình an toàn thông tin; đánh giá rủi ro định kỳ và đề xuất mức chấp nhận rủi ro lên Ban điều hành.\nBảo đảm tuân thủ TCCS 01:2021/UBCK, Luật An toàn thông tin mạng, Luật An ninh mạng, Nghị định 85/2016/NĐ-CP (cấp độ hệ thống thông tin), Nghị định 13/2023/NĐ-CP và Luật Bảo vệ dữ liệu cá nhân.\nĐầu mối với UBCKNN, Cục An toàn thông tin, A05, kiểm toán nội bộ và độc lập về an toàn thông tin; theo dõi khắc phục phát hiện đến khi đóng.\nQuản lý rủi ro an toàn thông tin bên thứ ba: nhà thầu sở hữu hệ thống, đối tác kết nối; điều khoản bảo mật trong hợp đồng, kiểm soát quyền truy cập, đánh giá định kỳ.\n2.2. Bảo mật vận hành & giám sát\nThiết kế kiến trúc bảo mật hạ tầng cùng bộ phận vận hành hệ thống: phân vùng mạng, WAF, chống DDoS cho giao dịch trực tuyến, bảo mật email, hardening máy chủ và thiết bị đầu cuối.\nXây dựng giám sát an ninh 24/7 (SOC nội bộ hoặc MSSP): SIEM, EDR, threat intelligence; có mục tiêu MTTD/MTTR.\nQuản lý lỗ hổng và bản vá theo SLA; quản lý định danh và truy cập: MFA, tài khoản đặc quyền (PAM), rà soát quyền định kỳ.\nBảo đảm sao lưu bất biến/ngoại tuyến và kiểm tra khôi phục định kỳ cho dữ liệu giao dịch.\n2.3. An toàn ứng dụng & DevSecOps\nBan hành chuẩn bảo mật cho phát triển phần mềm (OWASP ASVS/MASVS): xác thực, mã hoá, quản lý bí mật, logging, xử lý dữ liệu cá nhân.\nNhúng SAST/DAST/SCA/secret scanning vào CI/CD với cổng bảo mật tự động theo mức rủi ro; threat modeling cho tính năng có giao dịch, thanh toán, dữ liệu khách hàng.\nTổ chức kiểm thử xâm nhập trước go-live và định kỳ cho hệ thống trọng yếu; đánh giá an toàn mã nguồn và sản phẩm do nhà thầu bàn giao.\nBảo mật ứng dụng di động (chống root/jailbreak, certificate pinning, anti-tampering, bảo vệ OTP và phiên) và bảo mật API cho đối tác.\n2.4. Ứng phó sự cố & chống gian lận\nXây dựng, diễn tập kế hoạch ứng phó sự cố: playbook ransomware, rò rỉ dữ liệu, chiếm đoạt tài khoản, DDoS, sự cố tại nhà thầu; tabletop với Ban điều hành hằng năm.\nChỉ huy kỹ thuật khi có sự cố: cô lập, điều tra số, khôi phục, rút kinh nghiệm; thông báo cơ quan quản lý và khách hàng đúng thời hạn.\nTham gia diễn tập phục hồi hệ thống và kế hoạch dự phòng thảm hoạ theo yêu cầu UBCKNN.\nPhối hợp chống gian lận nhắm vào khách hàng: giám sát và gỡ bỏ ứng dụng/website/fanpage mạo danh, chiếm đoạt tài khoản, truyền thông an toàn cho nhà đầu tư.\n2.5. Văn hoá an toàn & đội ngũ\nChương trình nhận thức an toàn thông tin toàn công ty: đào tạo định kỳ, mô phỏng phishing; đào tạo secure coding cho lập trình viên; mạng lưới Security Champion tại các đội sản phẩm.\nTuyển dụng, huấn luyện, đánh giá đội an toàn thông tin; không để năng lực ứng phó phụ thuộc một người.\nBáo cáo tình hình an toàn thông tin hằng quý lên Ban điều hành bằng ngôn ngữ rủi ro kinh doanh.\n3. KẾT QUẢ KỲ VỌNG TRONG 12 THÁNG\nĐánh giá hiện trạng, danh sách rủi ro ưu tiên và lộ trình 12–24 tháng được phê duyệt trong 90 ngày; kế hoạch ứng phó sự cố và playbook ransomware ban hành.\nHệ thống chính sách an toàn thông tin ban hành; hồ sơ cấp độ an toàn hệ thống thông tin cho hệ thống giao dịch hoàn thành.\nGiám sát 24/7 vận hành cho hệ thống giao dịch và internet-facing; MFA/PAM cho toàn bộ tài khoản đặc quyền; không lỗ hổng nghiêm trọng tồn đọng quá SLA.\nCổng bảo mật tự động trong CI/CD ở tất cả đội sản phẩm; kiểm thử xâm nhập định kỳ cho hệ thống trọng yếu.\nTabletop sự cố với Ban điều hành và diễn tập phục hồi hoàn thành; kiểm tra của cơ quan quản lý / kiểm toán không có phát hiện nghiêm trọng.\nĐội 5–7 người, có người đủ sức chỉ huy sự cố khi trưởng bộ phận vắng.",
+  "yeu_cau": "4. YÊU CẦU\n4.1. Bắt buộc\nTối thiểu 10 năm kinh nghiệm CNTT/an toàn thông tin, trong đó ít nhất 4 năm quản lý an toàn thông tin (CISO, Head/Manager of Information Security) tại tổ chức tài chính chịu quản lý (chứng khoán, ngân hàng, bảo hiểm, fintech).\nĐã xây dựng hoặc tái thiết một chương trình an toàn thông tin end-to-end theo ISO/IEC 27001 hoặc NIST CSF.\nKinh nghiệm thực chiến bảo mật vận hành: SIEM/EDR, quản lý lỗ hổng, IAM/PAM, bảo mật mạng; đã vận hành hoặc quản lý SOC (nội bộ hoặc MSSP).\nKinh nghiệm thực chiến an toàn ứng dụng / DevSecOps: SAST/DAST/SCA trong CI/CD, threat modeling, OWASP ASVS/MASVS, bảo mật API và ứng dụng di động.\nĐã dẫn dắt ứng phó ít nhất một sự cố an toàn thông tin nghiêm trọng hoặc chủ trì diễn tập quy mô toàn công ty.\nHiểu và đã áp dụng: Luật An toàn thông tin mạng, Luật An ninh mạng, Nghị định 85/2016/NĐ-CP, Nghị định 13/2023/NĐ-CP, Luật Bảo vệ dữ liệu cá nhân; kinh nghiệm làm việc với kiểm toán và cơ quan quản lý.\nĐã dẫn dắt đội an toàn thông tin từ 4 người trở lên kèm quản lý nhà cung cấp.\nTrình bày rủi ro bằng ngôn ngữ kinh doanh với Ban điều hành; tiếng Anh đọc tài liệu kỹ thuật, tiêu chuẩn và làm việc với nhà cung cấp.\n4.2. Ưu tiên\nKinh nghiệm an toàn thông tin tại công ty chứng khoán: hệ thống giao dịch trực tuyến, kết nối HOSE/HNX/VSD; đã làm việc theo TCCS 01:2021/UBCK và tiếp đoàn kiểm tra của UBCKNN.\nChứng chỉ CISSP, CISM, ISO/IEC 27001 Lead Auditor/Implementer, CRISC, CCSP; kỹ thuật: OSCP/OSWE, GIAC.\nKinh nghiệm bảo mật ứng dụng di động tài chính và chống gian lận (device binding, phát hiện ứng dụng giả, chống chiếm đoạt tài khoản).\nKinh nghiệm cloud security, zero trust; quản lý rủi ro bên thứ ba khi phần lớn hệ thống do nhà thầu vận hành.",
+  "quyen_loi": "5. QUYỀN LỢI\nMức lương: Cạnh tranh\nThưởng/phúc lợi: Theo performance\nĐịa điểm / hình thức làm việc: HCVM / HN",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "Non-IT",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODA2NDczMiwicHVyIjoiYmxvYl9pZCJ9fQ==--ab728ec230ca86effc0ea0c7e3b83c074f25dd99/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Icon-Workspace-06.png",
+  "company_url": "/companies/hd-securities-corporation",
+  "company_mo_ta": "Công Ty Cổ Phần Chứng Khoán HD (HDS)",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

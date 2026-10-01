@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/computer-vision-engineer-edge-ai-junior-level-safetrust-1159",
+  "tieu_de": "Computer Vision Engineer Edge AI Junior level",
+  "ten_cong_ty": "Safetrust",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Computer Vision",
+    "C++",
+    "OpenCV",
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "360A Ben Van Don",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Safetrust\nSafetrust is building the future of identity. Imagine a world where your phone, wearable, or digital credential becomes your secure key—unlocking buildings, systems, and experiences seamlessly across physical and digital environments. That’s what we do.\n \nOur platform combines IoT devices, mobile credentials, and cloud-native architecture to power secure access for Fortune 200 companies and global enterprises. As we evolve from a hardware-centric model to a platform and services-driven business, marketing plays a critical role in shaping how the market understands—and adopts—Safetrust.\n \nAbout the role:\nThe AI & Computer Vision Engineer is responsible for developing and optimizing machine learning models for real-time identity verification, object detection, and facial recognition. This position plays a key role in the AI team, bringing intelligent capabilities into Safetrust's access solutions across embedded, edge, and cloud environments.\nThis role focuses on model development, optimization, and integration under the guidance of senior engineers, and contributes to Safetrust's continued growth through innovation in secure, AI-driven identity and access products.\n \nKey Responsibilities:\nDesign and develop computer vision algorithms for secure identity verification and object recognition.\nOptimize deep learning models for real-time performance on embedded and edge devices.\nIntegrate AI models into Safetrust's access control systems and software solutions.\nDevelop and refine image processing techniques for facial recognition and gesture-based authentication.\nWork with datasets — ensuring data quality, augmentation, and preprocessing for training robust models.\nImplement AI-driven anomaly detection for security applications.\nCollaborate with hardware engineers and software developers to enhance overall system performance.\nStay current on advancements in AI, deep learning, and computer vision.\nAI Model Development & Computer Vision\nDesign and develop computer vision algorithms for secure identity verification, facial recognition, object detection, and related AI-powered authentication capabilities.\nDevelop, train, and optimize deep learning models for real-time performance across embedded, edge, and cloud environments.\nDevelop and refine image processing techniques to improve recognition accuracy, reliability, and overall system performance.\nImplement AI-driven anomaly detection and behavioral analysis to enhance the security of Safetrust's identity and access solutions.\nModel Evaluation & Optimization\nDesign and execute testing methodologies to evaluate model accuracy, precision, recall, latency, and overall production performance.\nContinuously optimize models to improve inference speed, memory utilization, power efficiency, and detection accuracy for deployment on embedded and edge devices.\nBenchmark AI models against industry best practices and emerging computer vision techniques to drive continuous improvement.\nData Preparation & Model Training\nBuild, curate, and maintain high-quality training, validation, and testing datasets.\nPerform data preprocessing, augmentation, labeling, and quality validation to improve model robustness and generalization across diverse environments.\nEvaluate dataset quality and identify opportunities to reduce bias while improving overall model performance.\nAI Integration & Deployment\nIntegrate AI models into Safetrust's access control products, embedded systems, and software platforms.\nCollaborate with software, embedded, cloud, and hardware engineering teams to ensure seamless deployment of AI capabilities into production environments.\nSupport model deployment, versioning, validation, and continuous performance monitoring throughout the AI lifecycle.\nCross-Functional Collaboration\nPartner with Product Management, Engineering, and the AI & Data Architecture team to ensure AI solutions leverage trusted, well-governed, and properly structured enterprise data.\nParticipate in technical design discussions and contribute recommendations that improve AI architecture, scalability, and overall product performance.\nDocument model architectures, training methodologies, evaluation results, and deployment processes to support knowledge sharing and long-term maintainability.\nInnovation & Continuous Learning\nStay current on advancements in artificial intelligence, machine learning, deep learning, computer vision, and edge AI technologies.\nEvaluate emerging tools, frameworks, and methodologies that could improve Safetrust's AI capabilities and product offerings.\nSupport the development of AI solutions that prioritize security, privacy, fairness, and responsible use of biometric and identity-related data.",
+  "yeu_cau": "Skills & Experience:\nBachelor's degree in Computer Science, Electrical Engineering, or a related field.\nAround 2 years of experience Computer Vision.\nSolid foundation in at least one deep learning framework: TensorFlow, PyTorch, or ONNX.\nProgramming skills in Python; familiarity with C++ for production deployment.\nExperience with OpenCV and common image processing techniques.\nBasic understanding of model evaluation, overfitting, and standard CV metrics.\nStrong problem-solving skills and willingness to learn in a fast-paced environment.\n \nNice to Have / Preferred\nExposure to model optimization (quantization, pruning) for edge AI deployment.\nFamiliarity with TensorRT, CoreML, or other edge inference runtimes.\nHands-on experience with cloud-based AI services (AWS, Azure, GCP).\nInterest in biometric authentication and facial recognition algorithms.\nUnderstanding of security and encryption considerations for AI models.\n \nSuccess Profile:\nThe ideal candidate is:\nCurious and eager to learn, with a genuine interest in applied computer vision.\nComfortable experimenting with models and iterating quickly under guidance.\nDetail-oriented about data quality and model evaluation.\nA good collaborator with hardware and software engineering teams.\nComfortable working across regions and functions in a global environment (Vietnam, US, Australia).",
+  "quyen_loi": "Competitive salary\nFull statutory insurance\nProfessional, international working environment\n\nCompetitive salary based on experience and performance\nDaily lunch provided at the office\nFree coffee, tea, and refreshments\nFull statutory insurance (social, health, unemployment)\nAnnual health check-up and 18 paid annual leaves\nProfessional, international working environment",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQzNjc4OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca847a8deb1c367d52bbcf880b1008b0acf7f93/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Screenshot%202026-04-29%20090907.png",
+  "company_url": "/companies/safetrust",
+  "company_mo_ta": "Safetrust",
+  "job_expertise": [
+    "Computer Vision Engineer"
+  ],
+  "job_domain": [
+    "IT Hardware and Computing",
+    "Manufacturing and Engineering",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

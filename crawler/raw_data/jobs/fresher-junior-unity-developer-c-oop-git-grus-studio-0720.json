@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/fresher-junior-unity-developer-c-oop-git-grus-studio-0720",
+  "tieu_de": "Fresher/ Junior Unity Developer C#, OOP, Git",
+  "ten_cong_ty": "Grus Studio",
+  "ngay_dang_raw": "2026-09-26",
+  "han_ung_tuyen_raw": "2026-10-31",
+  "ky_nang": [
+    "Unity",
+    "Games",
+    "Prototyping",
+    "Git",
+    "OOP",
+    "C#"
+  ],
+  "cap_bac": "Fresher",
+  "dia_chi_raw": "Hồ Gươm Plaza, 102 Trần Phú, Hà Đông",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Up to 12M",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Chịu trách nhiệm phối hợp cùng Product Team thực hiện các core game mechanics đơn giản và yêu cầu tốc độ hoàn thành nhanh.\nSử dụng Unity để phát triển các dự án game mobile 2D hoặc 3D\nThực hiện core game mechanics\nLàm tools xếp Level, và chủ động xếp level\nPhối hợp với các thành viên trong nhóm để lập kế hoạch và phát triển game trên nền tảng Unity cho Android và iOS.\nThực hiện Unit test các chức năng, chủ động phát hiện các vấn đề về mặt lập trình và đề xuất giải pháp ngăn ngừa, giải quyết các vấn đề đó.\nTối ưu hóa hiệu năng game, sửa lỗi và nâng cấp trải nghiệm người dùng. Thực hiện merge code và khắc phục các lỗi phát sinh.\nTham gia vào các khâu phát triển game như lập trình gameplay, AI, UI/UX, hiệu ứng, v.v.\nLàm việc trực tiếp với Artist, Game Designer và các team khác để tạo ra những trò chơi hấp dẫn nhất",
+  "yeu_cau": "Thành Thạo C#\nLập trình đối tượng (OOP)\nKiến thức vững về Unity Editor (cấu trúc dữ liệu và giải thuật tốt, vật lý, optimize, ...)\nLập trình core mechanics, xây dựng prototype để test game idea, dựng levels\nXử lý Optimize game về RAM, CPU, GPU\nSử dụng thành thạo git, xử lý được các vấn đề về merge code\nXử lý animation\nThực hiện lên UI/UX dựa vào game design\nKỹ năng giao tiếp\nKhả năng giải quyết vấn đề và phân tích, tìm kiếm thông tin\nThành tạo kỹ năng làm việc nhóm\nTinh thần trách nhiệm, chủ động và kỷ luật\nTừ 01 năm kinh nghiệm thực chiến với Unity",
+  "quyen_loi": "Miễn phí ăn trưa + gửi xe\nThưởng theo dự án không giới hạn\nThưởng lương tháng thứ 13\nBHXH, BHYT, BHTN, nghỉ lễ, tết, ... theo quy định\nNghỉ phép, nghỉ mát, team building\nThăm hỏi ốm đau, hiếu hỉ, thai sản\nCông ty trang bị đầy đủ công cụ làm việc hiện đại phù hợp với tinh chất công việc.\nMột môi trường làm việc sáng tạo, năng động và trẻ trung; no drama; đồng nghiệp genZ, genY, hòa đồng và hỗ trợ nhau cùng phát triển;\nMột môi trường làm việc sáng tạo, năng động và trẻ trung; đồng nghiệp thân thiện, hòa đồng và hỗ trợ nhau cùng phát triển;\nVăn hoá làm việc tự chủ, linh hoạt trong việc nghỉ phép và giờ giấc. Trách nhiệm và sự hiệu quả trong công việc là điều chúng tôi quan tâm hơn;",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODExNTcyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e52f11176efc8ba2a8599a9191f3e13f4fb3c06/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Grus%20studio.png",
+  "company_url": "/companies/grus-studio",
+  "company_mo_ta": "Grus Studio - Đưa Game Việt vươn tầm thế giới",
+  "job_expertise": [
+    "Game Developer"
+  ],
+  "job_domain": [
+    "Game"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

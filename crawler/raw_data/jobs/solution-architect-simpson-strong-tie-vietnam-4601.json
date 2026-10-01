@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/solution-architect-simpson-strong-tie-vietnam-4601",
+  "tieu_de": "Solution Architect",
+  "ten_cong_ty": "Simpson Strong-Tie Vietnam",
+  "ngay_dang_raw": "2026-09-21",
+  "han_ung_tuyen_raw": "2026-10-26",
+  "ky_nang": [
+    "Solution Architecture",
+    "English",
+    "ServiceNow",
+    "System Architecture",
+    "Leadership",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9th Floor, Etown 6 Building, 364 Cong Hoa Street, Tan Binh Ward, Ho Chi Minh City",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Job Purpose\nOwn DTS-VN architecture end-to-end. Turn the fragmented estate into a governed service catalog with clear ownership, dependencies, and change discipline. Make an enterprise-grade ITSM platform the operating system for change and deployment management, not a ticket bin\n \nResponsibilities\nService catalog & CMDB: build it. Every application and service mapped with owner, tier, dependencies, integrations, lifecycle stage the ITSM/CMDB platform, not a spreadsheet. \nCross-team architecture authority: reference architecture, tech radar, standards, ADR process, exception approvals. \nITSM platform enablement: stand up Change Management (CAB workflow), Service Catalog, and CI/CD integration on an enterprise ITSM platform (ServiceNow, BMC Helix, etc...) \nPlatform ops: own the CI/CD, IaC, and cloud-cost story across DTS-VN, set the standard, then hold teams to it. \nDefine end‑to‑end solution architecture and ensure alignment with enterprise standards, scalability, security, and performance requirements across the SDLC. \nIntegrate AI‑assisted SDLC practices (code generation, automated testing, documentation, and quality checks) to accelerate delivery and improve engineering efficiency. \nCollaborate with cross‑functional teams to translate business requirements into technical designs and guide implementation through AI‑enhanced workflows. \nDrive governance and best practices for AI‑enabled development, including model selection, data pipelines, and responsible AI usage.\nOther tasks as assigned by Line Manager.",
+  "yeu_cau": "Must-have \n8+ yrs building & operating multi-product enterprise estates; 3+ years formal architect role; 3+ years managing mixed IC + ops teams. \nShipped a real service catalog / CMDB in a mid-size org, with governance that stuck. \nEnterprise ITSM platform: hands-on with Change, CMDB, and Service Catalog modules on ServiceNow, BMC, JSM Enterprise, or equivalent, can shape workflows, not just approve tickets. \nFramework fluency: Info-Tech (COBIT) / TOGAF or equivalent; comfortable in a matrixed org. \nWorking English; can hold weekly cadence with US stakeholders as needed. \nSet architecture and platform standards; hold 8 DEV teams accountable to them without direct authority over their people. \nCoach team leads on design decisions; runs design reviews and ADR sessions.  \nNice-to-have \nIndustrial / manufacturing / building-products SaaS domain. \nPrior Tech Radar or ADR programme owner. \nFinOps / cloud-cost governance track record. \nPrior experience at leadership position including owning hiring, career ladder, team performance would be a plus.",
+  "quyen_loi": "13th Salary; Performance bonus\nPremium health care for you and your family\nOpportunity to be on site in the USA\n\nAttractive salary with 100% SHUI applied salary during probation \n13th month salary, Performance Bonus, Salary review annually \nOpportunity to be on site in the USA\n Chance to collaborate and work with our global stakeholders \nWe provide employee training & development to enhance skills set and competencies \nPremium health care program for you + one of your beloved ones, Annual medical check-up \n14 vacation days and Christmas Day (25/12) per year \nBenefits for special holidays (Birthday, Marriage, Women’s Day, Tet Holidays, Mid-Autumn, Newborn babies, International Children ‘s Day…) \nSocial Activities, Sports Clubs, Team-building events, Year-End party are carried out on a regular basis \nYoung, friendly, quality and result oriented working environment under team-work spirit\nCompliance fully to Vietnam Labor Code",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTgyODIxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--159644f9509787107037fb1c15998a7c61d17a4e/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Logo_SST_RGB.png",
+  "company_url": "/companies/simpson-strong-tie-vietnam",
+  "company_mo_ta": "We provide No-Equal Engineering Services including constructions, mechanical and software solutions.",
+  "job_expertise": [
+    "Solution Architect"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

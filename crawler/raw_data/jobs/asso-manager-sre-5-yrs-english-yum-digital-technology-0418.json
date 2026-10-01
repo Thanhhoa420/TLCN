@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/asso-manager-sre-5-yrs-english-yum-digital-technology-0418",
+  "tieu_de": "Asso. Manager, SRE 5+yrs, English",
+  "ten_cong_ty": "YUM! Digital & Technology",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "DevOps",
+    "Grafana",
+    "Prometheus",
+    "Kubernetes",
+    "Team Management",
+    "English"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Block C, 4th floor, Waseco building, 10 Pho Quang,",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "As per Market Standards",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Team Leadership and Development\nLead and develop a team of Site Reliability Engineers (Level 6-7), initially 3 direct reports and growing as the Vietnam site consolidates, owning performance, coaching, retention, and day-to-day execution\nBuild individual development plans that grow Level 6 engineers toward independent Level 7 scope\nEstablish a high-ownership culture where engineers are accountable for outcomes, not tasks\nRun team rituals: 1:1s, shift retrospectives, and development check-insFollow-the-Sun Operations\nOwn the Vietnam shift within GRE’s global follow-the-sun coverage model, including schedule design, coverage planning, and holiday/leave management\nEnsure clean, structured handoffs to and from US and India teams, with clear ownership transfer on open incidents and in-flight work\nMaintain shift readiness: runbooks current, alerts actionable, escalation paths clear\nServe as escalation point for the Vietnam shift during complex or high-severity incidentsReliability Practice Execution\nOwn production reliability outcomes for the markets, platforms, and services within the Vietnam team’s scope\nDrive SRE operating standards within the team: incident response rigor, SLO ownership, runbook quality, and post-incident follow-through\nEnsure monitoring coverage, dashboards, and alerting remain accurate and effective across owned services\nEnforce GRE-wide reliability standards, ensuring the Vietnam practice operates in alignment with the global modelPlatform Engineering, Automation, and AI\nOwn the Vietnam team’s contribution to GRE’s reliability modernization roadmap: auto-healing, auto-remediation, and self-service issue mitigation\nTreat automation as a delivery commitment, not a byproduct: plan, prioritize, and track toil-reduction and self-service work alongside operational coverage\nEnsure the team builds with platform engineering practices: infrastructure as code, runbooks as code, GitOps workflows, and reusable tooling over one-off fixes\nChampion AI-first engineering practices within the team, ensuring engineers develop with and through modern AI tooling\nPartner with GRE’s Foundations and Intelligence pillars on observability, signal detection, and automated response infrastructureStakeholder Engagement\nRepresent the Vietnam team in East GRE planning and reliability forums\nCommunicate reliability outcomes, coverage status, and team health clearly to GRE leadership\nPartner with the Associate Director on headcount planning, team scope, and Vietnam-specific delivery",
+  "yeu_cau": "5+ years in site reliability engineering, DevOps, infrastructure, or production operations roles\n1+ years of people management experience, or 2+ years as a senior technical lead with demonstrated coaching and delivery ownership\nHands-on credibility across incident response, observability, and automation, with the technical depth to guide Level 6-7 engineers\nExperience operating in shift-based, on-call, or follow-the-sun coverage models\nWorking knowledge of at least one major cloud provider (AWS preferred) and modern observability tooling (e.g., Datadog, Prometheus, Grafana)\nProficiency in at least one scripting or programming language sufficient to review and guide automation work\nUnderstanding of SLI/SLO frameworks and reliability engineering fundamentals\nStrong written and verbal English communication skills for cross-region collaboration with US and India teamsPreferred Requirements\nExperience building or standing up a new team, site, or shift operation\nExperience managing engineers across the early-to-mid career range with a track record of promotions or level progression\nKubernetes, container orchestration, and infrastructure as code experience (e.g., Terraform)\nFamiliarity with AI-assisted operations tooling and automation-first reliability approaches, including auto-healing and auto-remediation patterns\nExposure to platform engineering and internal developer platform concepts: self-service tooling, developer portals (e.g., Port, Backstage), GitOps\nExperience in multi-region or globally distributed team models\nRelevant certifications (AWS, CKA, or similar)",
+  "quyen_loi": "18 Annual Leave + 5 Recharge Days/ Year\n13th-month bonus\n2 days WFH/ week\n\n100% salary during the probation period\n18 days of annual leave per year\nFive “Recharge Days” – extra days in addition to company holidays\nOne day of paid leave for your birthday\n2 days WFH/ week\nHalf-day Fridays\nFull salary insurance\n13th-month bonus\nAdvanced health insurance (Generali)\nRegular team and engagement activities\nLinkedIn learning and training courses, based on company policy\nMacBook and monitors",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODAwMzEwMywicHVyIjoiYmxvYl9pZCJ9fQ==--7f9ef81513271fba66b842661a60eac5c6f0a5b2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Yum%20D&T-Logo.jpg",
+  "company_url": "/companies/yum-digital-technology",
+  "company_mo_ta": "YUM! Digital & Technology",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

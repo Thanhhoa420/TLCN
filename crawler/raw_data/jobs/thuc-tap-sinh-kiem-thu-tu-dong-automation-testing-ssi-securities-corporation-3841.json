@@ -1,0 +1,36 @@
+{
+  "url": "https://itviec.com/it-jobs/thuc-tap-sinh-kiem-thu-tu-dong-automation-testing-ssi-securities-corporation-3841",
+  "tieu_de": "Thuc Tap Sinh Kiem Thu Tu Dong Automation Testing",
+  "ten_cong_ty": "SSI Securities Corporation",
+  "ngay_dang_raw": "2026-10-01",
+  "han_ung_tuyen_raw": "2026-11-05",
+  "ky_nang": [
+    "Power Automate",
+    "English",
+    "Python"
+  ],
+  "cap_bac": "Internship",
+  "dia_chi_raw": "SSI Tower, 1 Châu Văn Liêm",
+  "quan_huyen": null,
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": null,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Bạn sẽ tham gia vào đội ngũ Kiểm thử chất lượng (QA) và triển khai kiểm thử (Automation testing) nhằm nâng cao chất lượng và rút ngắn thời gian phát triển các sản phẩm và dịch vụ CNTT.\n Nhiệm Vụ Chính:\n- Triển khai phương pháp “shift-left” – ưu tiên kiểm thử tự động sớm và thường xuyên trong quá trình phát triển.\n- Phân tích dự án và đề xuất chiến lược kiểm thử tự động phù hợp, tối ưu và hiệu quả.\n- Phối hợp với nhóm dự án, xây dựng môi trường kiểm thử và tự động hóa các trường hợp kiểm thử theo chiến lược đã đề ra.\n- Tích hợp bộ kiểm thử tự động vào quy trình CI/CD.\n- Liên tục cải tiến bộ kiểm thử tự động nhằm nâng cao hiệu suất và tốc độ kiểm thử.",
+  "yeu_cau": "Sinh viên năm cuối hoặc đã tốt nghiệp chuyên ngành Công nghệ thông tin hoặc các ngành kỹ thuật có liên quan.\nCó kiến thức về kiểm thử phần mềm (đã tham gia khóa học kiểm thử cơ bản hoặc từng thực tập vị trí Tester).\nCó kiến thức về ít nhất một ngôn ngữ lập trình hướng đối tượng (OOP) như Java hoặc C#.\nChăm chỉ, nhiệt huyết, tư duy logic tốt.\nĐam mê lĩnh vực kiểm thử phần mềm.\nCó thể tham gia thực tập toàn thời gian.\nCó khả năng phân tích và xử lý sự cố, đồng thời hỗ trợ đội ngũ phát triển trong việc khắc phục lỗi.",
+  "quyen_loi": "Attractive salary and bonus package\nPremium AON healthcare insurance\nFully sponsored training to build your career\n\nTrợ cấp thực tập: 5.000.000 VNĐ/ tháng\nCơ hội trải nghiệm thực tế với các công nghệ giao dịch tiên tiến, hiện đại.\nĐược hướng dẫn và đào tạo bởi các chuyên gia giàu kinh nghiệm trong lĩnh vực tài chính và công nghệ.\nMôi trường làm việc chuyên nghiệp, thân thiện, đề cao việc chia sẻ kiến thức và học tập liên tục.\nCơ hội phát triển nghề nghiệp và khả năng trở thành nhân viên chính thức toàn thời gian.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk3NDkzLCJwdXIiOiJibG9iX2lkIn19--3368b4bee17942a22de5b7f4a75e6415f5bbf1b3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/saigon-securities-inc-logo.jpg",
+  "company_url": "/companies/ssi-securities-corporation",
+  "company_mo_ta": "SSI – A leading Financial Corporation",
+  "job_expertise": [
+    "Automation Tester"
+  ],
+  "job_domain": [
+    "Securities & Investment"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

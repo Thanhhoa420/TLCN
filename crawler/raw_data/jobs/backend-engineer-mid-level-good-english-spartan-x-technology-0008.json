@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/backend-engineer-mid-level-good-english-spartan-x-technology-0008",
+  "tieu_de": "BackEnd Engineer Mid-level, Good English",
+  "ten_cong_ty": "SPARTAN X TECHNOLOGY",
+  "ngay_dang_raw": "2026-09-30",
+  "han_ung_tuyen_raw": "2026-11-04",
+  "ky_nang": [
+    "TypeScript",
+    "Algorithms",
+    "Kotlin",
+    "English",
+    "AI",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "458 Nguyen Huu Tho, Khue Trung ",
+  "quan_huyen": "Quận Cẩm Lệ",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Build like a founder. Ship like Spartan.\nOur clients are startups in a race: an MVP in 30 days, one demo away from a funding round. We’re looking for a Backend Engineer to run that race with us.\nWe don’t act like vendors. We embed. Our teams sit inside startups backed by YC, Pear VC, BlingCap, a16z, and Techstars, working beside founders and engineers from Stanford, MIT, Yale, Google, Amazon, and Uber. Together we ship those MVPs and scale the systems behind them to millions of users and billions of requests.\nThis isn’t outsourcing where you sit three layers away from the client. You’ll be in the founder’s Slack. Your code runs their production. When their demo lands a funding round, that’s your work on the screen.\n70% of our portfolio is LLM-powered. Cursor, Claude, and Codex are default tools here, not experiments. You’ll use AI every day, and you’ll be expected to use it well.Who Thrives at Spartan\nNot every environment fits everyone, so here’s an honest picture of the teammate we’re looking for.\nYou’ll thrive here if:\nYou do whatever it takes to win. Multiple hats, unglamorous work included.\nYou take on the hardest part of the project and see it through to shipped.\nYou pick up a new stack in days, not months, because the project needs it.\nYou’d rather own a problem than a ticket.\nSome weeks will stretch you. That’s the job. But you’ll never carry it alone. A critical client release or a tricky production issue? Someone always has your back. We push each other hard because we care how far each of us can go. We win together. We lose together. Nobody gets left behind.\nOne last thing. We’re not filling seats. We’re looking for teammates for the battles ahead. If you read all this and something in you said yes, trust that feeling and apply. We respect people who back themselves. Every Spartan here started with that same yes.What You’ll Do\nDesign and build scalable microservices that power high-growth startups.\nBuild LLM features end to end: RAG pipelines, vector search, agent workflows, evals.\nKeep AI running well in production: latency, token cost, guardrails, monitoring.\nShip fast with a proven process: async standups, PRDs/RFCs, code reviews, and an AI-native workflow on Cursor, Claude, and Codex.\nKeep the bar high: clean code, testing, documentation, reliability.\nTalk directly with US startup founders and product leaders. Your input shapes their product.\nWear more than one hat. Backend first, but you’ll touch infra, data, and AI integration when the project needs it.\nHelp shape Spartan’s engineering culture. We work like founders, not contractors.",
+  "yeu_cau": "What We’re Looking For\nFluent English. You’ll talk directly with US startup founders.\n2+ years of solid backend experience in any language. We mostly run Java, Kotlin, and TypeScript, but strong fundamentals and fast adaptation beat any specific stack.\nStrong CS fundamentals: algorithms, data structures, scalability.\nExperience with testing, dependency injection, and distributed systems.\nYou use AI tools like a pro: you review what they write, catch their mistakes, and know when not to use them.\nA builder’s mindset. You don’t just code, you solve problems like an owner.Nice to Have\nYou’ve shipped an LLM feature to production: RAG, agents, or direct model integration.\nYou’ve built with agent tooling: MCP servers, LangGraph, or the Claude Agent SDK.\nYou’ve run evals on an AI feature: Ragas, Promptfoo, LangSmith, or your own harness.\nHands-on with vector databases: pgvector, Pinecone, Qdrant, Weaviate.\nExperience with Kafka or other event streaming systems.Tech We Use\nEvery project brings a different stack, so in a year here you’ll touch more of this list than most engineers do in five. What we adopt is decided by our engineers through an internal Tech Radar, not handed down from a slide deck.\nLanguages: Go · Java/Kotlin/Scala · TypeScript · Python\nData: Postgres · MongoDB · DynamoDB · ElasticSearch · Redis\nLLM stack: Claude API · OpenAI API · MCP · LangGraph · LangSmith\nVector search: pgvector · Pinecone · Qdrant · Weaviate\nStreaming: Kafka · Pulsar · SQS · AWS Kinesis · GCP Cloud Tasks\nData processing: Spark · Flink\nCloud: AWS · GCP · Azure · Kubernetes\nCI/CD: Jenkins · GitHub Actions\nObservability: DataDog · Prometheus · Grafana · ELK Stack\nAI tooling: Cursor · Claude · Codex",
+  "quyen_loi": "Competitive salary packages.\nDynamic and open-sharing working environment.\nHybrid and flexible working mode.\n\nCareer Growth\nWork directly with founders from YC, Stanford, MIT, Yale, Google, Amazon, Uber, and more.\nExposure to LLMs, AI agents, cloud infra, and real-time systems.\nTransparent career path and mentorship from engineers who’ve taken 3 companies to IPO.\nEvery project feels like its own mini-startup.Why Spartan\n50+ MVPs launched, 3 IPOs, $100M+ raised by the startups we build with.\n95% engineer retention. People stay because the work is worth staying for.\nYou build zero to one. Blank repo to live product in weeks. Most engineers get that chance once in a career. Here it’s the job.\nYour work is visible. What you ship this month is in a founder’s investor demo next month.\nNo layers, no bureaucracy. You talk to the decision-maker directly, and decisions land in hours, not weeks.\nEvery project is a new market, a new stack, a new problem. One year here teaches what three years elsewhere would.\nYou’ll never just take tickets. You’ll own problems, ship fast, and grow with the founders we partner with.Benefits & Perks\n💰 Competitive salary, 100% salary during probation\n🏝 Unlimited PTO + public holidays\n🩺 Premium healthcare insurance + annual health check\n⚽ Sports clubs for every taste: football, badminton, billiards, pickleball\n🎮 PS5 and Nintendo at the office\n🏠 Hybrid working style, flexible hours\n✈️ Company trip + monthly birthday parties\n💻 MacBook provided\n📜 Social insurance per Labor Law",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "51-150 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ2NzU0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--02893b6693595d943c7345a53b0eb1f9d9932909/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/black-square.png",
+  "company_url": "/companies/spartan-x-technology",
+  "company_mo_ta": "FOCUS ON NURTURING ENGINEER'S POWER",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Development Outsourcing",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "da-nang"
+}

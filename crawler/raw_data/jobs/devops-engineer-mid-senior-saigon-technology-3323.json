@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/devops-engineer-mid-senior-saigon-technology-3323",
+  "tieu_de": "DevOps Engineer Mid/Senior",
+  "ten_cong_ty": "Saigon Technology",
+  "ngay_dang_raw": "2026-09-29",
+  "han_ung_tuyen_raw": "2026-11-03",
+  "ky_nang": [
+    "DevOps",
+    "Docker",
+    "Terraform",
+    "PowerShell",
+    "AWS",
+    "Cloud"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Orchard Parkview Building, 130 – 132 Hong Ha Street",
+  "quan_huyen": "Quận Phú Nhuận",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Design and manage Kubernetes Helm charts and CI/CD pipelines for secure, scalable rollouts.\nOperate and secure Linux-based infrastructure\nManage PostgreSQL\nDesign, implement, and manage cloud infrastructure on platforms such as AWS\nDevelop and maintain robust CI/CD pipelines using tools like Jenkins, GitLab CI/CD, GitHub Actions\nAutomate infrastructure deployments using Infrastructure as Code (IaC) tools such as Terraform\nImplement comprehensive monitoring, logging, and alerting solutions using tools such as ELK\nProactively identify technical gaps in existing solution designs, conduct research and development to propose improvements, and take the lead in executing and implementing the recommended solutions.\nEnsure systems adhere to security best practices, perform security assessments, and apply patches proactively.",
+  "yeu_cau": "MUST HAVE:\nAt least 3 years of experience in DevOps roles, especially in international software projects\nExperience with public cloud platforms: AWS\nExperience with following languages: powershell script, bash script\nFamiliarity with databases and messaging systems: PostgreSQL\nExperience with Docker, Kubernetes or another container based system\nExperience with IaC tools: Terraform\nExperience with logging system Kibana\nExperience with Jenkins or similar tools\nFamiliarity with networking concepts (TCP/IP , DNS, firewalls, load balancers)\nMUST be good at verbal/non verbal English\nNICE TO HAVE:\nWilling to work over the weekend to when production server have issues\nExperience to migrate on-premise system into cloud",
+  "quyen_loi": "Attractive salary, benefits, hybrid working\nTechnical training sessions (internal – external)\nPVI Healthcare insurance\n\nCompetitive Salary and Brilliant Health Benefits\nAttractive salary (13th-month salary, salary review twice/year) and project bonus\nBonus programs for candidate referral, technical article writing\nAllowance for sickness, maternity, paternity and periodic health examination\nPVI health care program \nThe staff of the quarter and year reward\nProgressive and Fun Working Environment\nA professional English-speaking working environment with Agile – Scrum model\nHybrid Working Model: Flexible working time and WFH support. \nSurrounded with friendly, open-minded, young and supportive colleagues \nAnnual company trip and regular team-building parties, party celebration (Christmas, Birthday, Mid-autumn,...), Sports clubs (football, badminton, swimming …)\nValuable Training\nSponsor examination fee for professional certificates (AWS, Azure, IELTS, PMP, Scrum Master,...)\nSponsor fee for joining any technical training sessions and courses.\nFree English workshops",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjAwNjk2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--f7fd4d23ae84636765bef5b23ea1e067dec481e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Black%20(3).png",
+  "company_url": "/companies/saigon-technology",
+  "company_mo_ta": "A fast growing software development company in Viet Nam",
+  "job_expertise": [
+    "DevOps Engineer"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

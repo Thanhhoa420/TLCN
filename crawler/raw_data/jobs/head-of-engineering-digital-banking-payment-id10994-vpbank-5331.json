@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/head-of-engineering-digital-banking-payment-id10994-vpbank-5331",
+  "tieu_de": "Head of Engineering - Digital Banking/Payment ID10994",
+  "ten_cong_ty": "VPBank",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Team Management",
+    "English",
+    "Cloud",
+    "Agile",
+    "AWS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà E-town Central, 11 Đoàn Văn Bơ",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Responsible for end-to-end technology and product strategy and delivery for Digital Banking, Payment, and Financial Services platforms serving SMEs, Merchants, Banks, and cross-border payment ecosystems.\nAct as a bridge between business strategy, customer value, regulatory compliance, and technology execution, ensuring platforms are secure, stable, scalable, and compliant, while driving innovation through modern architectures and AI-driven productivity.\nEnsure that Digital Banking, Payment, and Financial Services serving SMEs and Merchants operate in accordance with committed SLAs and meet SmartPay and VPBank’s development requirements while delivering an excellent customer experience.\nResearch and apply new tools and services to enhance customer experience.\nManage development teams and optimize resources to meet development requirements from SmartPay and VPBank business units.\nSupport subsidiaries and member companies within the Group and the broader ecosystem.",
+  "yeu_cau": "Technology, Product Strategy\nBuild and execute Technology & Product Strategy aligned with:\nThe digital transformation roadmap of the Bank / Group\nThe development strategy of the SME & Merchant ecosystem\nThe direction of cross-border payment expansion\nBe end-to-end responsible for the development and operation of Digital Banking, Payment, and Financial Services serving SmartPay, SME, Merchant, and directly related systems in this domain.\nProactively analyze business requirements and provide appropriate solutions. Coordinate and align with product teams focusing on the digitalization of Digital Banking, Payment, and Financial Services serving SmartPay, SME, and Merchant. Develop detailed documentation to support solution implementation; develop processes, reports, charts, and formulas to help business teams understand the development and operation rules related to this domain.\nAlign with the overall EA architecture and the technology and development standards of IT Corp and VPBank; design, develop, and deploy solutions based on the results of requirement analysis to build applications that meet the business requirements of relevant departments within the ecosystem.\nEngineering, Delivery Excellence\nBuild, organize, and develop multidisciplinary teams / Lead and scale multidisciplinary teams:\nFrontend (Mobile, Web)\nBackend & Platform Engineering\nData Science & AI/ML\nDevSecOps & SRE\nInfrastructure (On-premises & Multi-cloud: AWS, Azure, GCP)\nSecurity, Risk & Compliance\nProduct Management\nEstablish and continuously improve:\nSDLC & Agile frameworks\nCI/CD pipelines and quality gates\nRelease & delivery governance\nDevelop detailed documentation, including analysis documents, development documents, test cases, and SOM documents for change requests within this domain.\nCooperate with the Infrastructure team to manage testing data, tools, and environments.\nSecurity, Risk, Compliance\nTake overall responsibility for technology risk management.\nEnsure compliance with:\nSBV regulations\nPCI-DSS\nISO 27001\nData protection and privacy regulations\nDesign systems based on Security-by-Design principles:\nIAM, encryption, and key management\nFraud detection and transaction monitoring\nSecure APIs and partner integrations\nWork directly with:\nInternal & external auditors\nRegulatory authorities\nPenetration testing & security assessment teams\nStudy and perform periodic application version upgrades following recommendations from application providers, if any.\nPerform, or coordinate with vendors/related departments to perform, load and performance testing of solutions.\nCoordinate with the Infrastructure team, when required, to install, manage, and operate application systems.\nManage vendors, monitor the service quality of vendors/other service providers, and take full responsibility for the services provided.\nProvide Level 2 and Level 3 support for systems related to this domain to fulfill operational requirements according to the IT Service SLA committed to other departments.\nBe responsible for resolving and/or coordinating with relevant teams to resolve customer-related incidents and problems in a timely manner, minimizing the impact on business operations.\nCoordinate with the Infrastructure team to collect and report statistics on the status and performance of relevant Operational Level Agreements (OLAs).\nCoordinate with the Infrastructure team to ensure service stability, availability, and quality. Perform regular maintenance of relevant system applications as required.\nProactively propose improvements and changes to systems and business processes, where applicable, related to this domain.\nGuide and ensure the completion of key milestones on schedule using Agile methodology, ensuring flexibility in implementation and meeting quality requirements.\nManage the development team, define KPIs for each member, and establish career development and training roadmaps. Optimize resources to ensure readiness to respond to development requirements from business teams.",
+  "quyen_loi": "People Development\nHigh promotion opportunities\nVery attractive salary package\n\nOur corporate culture is nurtured and built on six core values.\nJoin VPBank, you will experience a great opportunity to work in our professional environment with ‘Customer Focus’ and ‘Trust’ orientation. With more than 7.000 employees with various positions from back office to front office, we all have our clients and the priority of every position is to gain their reliance and commitment. Your contribution will be the measure of our organization’s success.\nWe provide ‘not just a Job, but a Career’. ‘People Development’ is chosen to be one of the most important corporation’s strategy. We create product training courses and give on-the-job training for newcomers & employees as well as organize many exciting internal activities to connect people. Ambitious and eager to thrive, we also have bonus & rewards to recognize best-sellers and excellent employees.\nVPBank is becoming a desirable destination for talent in the banking and finance industry. You will receive great support from your colleagues and managers with modern technology facilities. We believe that the strength raises from within, thus we create a diverse but unified, proactive and flexible working environment for enhancing our ‘productivity’.\n‘Make the difference’, you can shine bright!",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjEzMjg3MywicHVyIjoiYmxvYl9pZCJ9fQ==--6ddff3ea8750de9d0b1e047a1c7dd88d1c8765e2/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJKUEciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9d65c1b41309d10722b1f04e34e2a4ac3f0a4741/IMG_9535.JPG",
+  "company_url": "/companies/vpbank",
+  "company_mo_ta": "HOME OF TALENTS",
+  "job_expertise": [
+    "Manager"
+  ],
+  "job_domain": [
+    "Banking"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

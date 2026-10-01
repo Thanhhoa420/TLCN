@@ -1,0 +1,37 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-fullstack-engineer-grab-vietnam-ltd-3935",
+  "tieu_de": "Senior Fullstack Engineer",
+  "ten_cong_ty": "Grab (Vietnam) Ltd.",
+  "ngay_dang_raw": "2026-09-17",
+  "han_ung_tuyen_raw": "2026-10-22",
+  "ky_nang": [
+    "Golang",
+    "AWS",
+    "Software Architecture",
+    "ReactJS"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "CMC Creative Space",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Get to Know the Team\nThe Business Process Improvement & Automation team (BPI&A) is a regional team responsible for driving process streamlining, re-engineering, and automation, enabling sustainable growth for our organization. The Regional BPA – Automation Platform is part of this organization, where we build and operate automation capabilities that support critical business workflows across the region—turning business needs into dependable systems that are safe to run in production.\nOur focus is on developing, integrating, and enhancing the automation platform with strong engineering rigor: reliability, observability, and thoughtful rollout decisions when production behavior is impacted.\nGet to Know the Role\nWe are looking for a talented and innovative Senior Software Engineer, Fullstack to join the Regional BPA – Automation Platform team. You will be responsible for developing and maintaining automation tools and integrations that are safe, scalable, and reliable in production—supporting regional business workflows end to end. You will report to the Regional BPA – Automation Platform Manager and work onsite at Grab office, CMC Creative Space, D7, HCMC.\nThe Critical Tasks You Will Perform\nDesign and implement efficient, scalable, and maintainable software solutions\nDevelop and integrate RESTful APIs to support various client applications\nArchitect and build microservices-based solutions for distributed systems\nOptimize database queries and manage both SQL and NoSQL databases\nCollaborate with cross-functional teams to define and implement new features\nParticipate in code reviews and mentor junior developers\nTroubleshoot, debug, and optimize systems for maximum performance\nImplement and maintain CI/CD pipelines for seamless deployment\nEnsure the security and reliability of software infrastructure\nStay up-to-date with emerging technologies and industry best practices\nContribute to the continuous improvement of our development processes and methodologies",
+  "yeu_cau": "What Essential Skills You Will Need\nBachelor's degree in Computer Science, Software Engineering, or a related field\n5+ years of experience in software development, with a strong focus on backend systems\nProficiency in multiple programming languages (e.g.,NodeJS, VueJS..)\nExtensive experience with RESTful APIs and microservices architecture\nStrong knowledge of distributed systems and scalable software design\nExpertise in database management, including both SQL and NoSQL databases\nProficient in version control using Git\nExperience with cloud platforms such as AWS, GCP\nKnowledge of containerization technologies like Docker and Kubernetes\nFamiliarity with CI/CD pipelines and DevOps practices\nStrong understanding of software design patterns and best practices\nExperience with Agile development methodologies\nExcellent problem-solving and debugging skills\nStrong analytical and organizational abilities\nCollaborative mindset with excellent communication skills\nPassion for innovation and staying current with emerging technologies",
+  "quyen_loi": "13-month Salary, Performance Bonus, Stock Reward\nPremium Healthcare & Flexible Spending Allowance\nGlobal & Large-scale Systems With Billion Of Data\n\nLife at Grab\nWe care about your well-being at Grab, here are some of the global benefits we offer:\nWe have your back with Term Life Insurance and comprehensive Medical Insurance.\nWith GrabFlex, create a benefits package that suits your needs and aspirations.\nCelebrate moments that matter in life with loved ones through Parental and Birthday leave, and give back to your communities through Love-all-Serve-all (LASA) volunteering leave\nWe have a confidential Grabber Assistance Programme to guide and uplift you and your loved ones through life's challenges.\nWhat we stand for at Grab\nWe are committed to building an inclusive and equitable workplace that enables diverse Grabbers to grow and perform at their best. As an equal opportunity employer, we consider all candidates fairly and equally regardless of nationality, ethnicity, religion, age, gender identity, sexual orientation, family commitments, physical and mental impairments or disabilities, and other attributes that make them unique.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM4NTkyNiwicHVyIjoiYmxvYl9pZCJ9fQ==--1548f352bef950a9cdf4f054f1fd6dee62639e1b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Grab_Final_Master_Logo_2019_RGB_(green).png",
+  "company_url": "/companies/grab-vietnam-ltd",
+  "company_mo_ta": "Driving Southeast Asia Forward Together",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

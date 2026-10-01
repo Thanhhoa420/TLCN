@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/hybrid-backend-engineer-llm-python-fastapi-django-cong-ty-tnhh-renda-3053",
+  "tieu_de": "Hybrid Backend Engineer - LLM Python/FastAPI/Django",
+  "ten_cong_ty": "Công ty TNHH RENDA",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Python",
+    "API",
+    "PostgreSql",
+    "LLM",
+    "FastAPI",
+    "Django"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "241 Điện Biên Phủ ",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "1,000 - 1,500 USD",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Experience: >3 years (Mid/Senior)\nFocus: LLM, MCP, Conversation BI & Data Pipelines\nWe’re looking for a backend engineer who enjoys working with LLM applications,conversation data, and scalable processing pipelines.\nWhat You’ll Do\nBuild backend services using Django / FastAPI\nDesign and optimize LLM pipelines for conversation processing\nWork with MCP (Model Context Protocol) and tool integrations\nBuild pipelines to transform conversation data into structured data and BI insights\nDevelop async/background processing with Celery\nOptimize data processing, database queries and system performance \nIntegrate and work with LangChain or similar LLM frameworks\nCollaborate on system architecture and AI/data workflows",
+  "yeu_cau": "Required\n3+ years experience with Python backend\nStrong experience with Django / FastAPI\nHands-on experience with LLM applications and LLM pipelines\nExperience with LangChain or similar frameworks\nUnderstanding of conversation data processing / BI\nExperience with PostgreSQL\nExperience with Celery / async processing \nGood understanding of API design and system architecture\nNice to Have\nHands-on experience with MCP\nExperience with RAG, Vector Database, Context Management, StructuredOutput\nExperience building AI agents / tool calling workflows\nExperience with ETL/ELT or data pipelines\nExperience with Redis, Kafka/RabbitMQ\nExperience with ClickHouse, dbt or analytics systems",
+  "quyen_loi": "Mức lương:\n28–38 triệu gross/tháng\nThưởng lương tháng 13\nLàm việc Hybrid (mỗi tuần lên văn phòng 2 ngày)\nHỗ trợ $100/tháng cho Vibe Coding tools\nStartup xây dựng Saas agentic analytics  từ zero-to-one\nCơ hội contribute trực tiếp vào AI architecture",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzEyNTYwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--730c37429ca5de1c7d6c64b8d09a70b569f0d90c/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/renda_icon_square.png",
+  "company_url": "/companies/cong-ty-tnhh-renda",
+  "company_mo_ta": "Nền tảng quản lý bán hàng và phân tích dữ liệu cho seller sàn thương mại điện tử",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "E-commerce"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

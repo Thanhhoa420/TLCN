@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/middle-senior-backend-developer-golang-postgresql-cong-ty-tnhh-dte-ventures-4841",
+  "tieu_de": "Middle/Senior Backend Developer Golang, PostgreSQL",
+  "ten_cong_ty": "CÔNG TY TNHH DTE VENTURES",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "Golang",
+    "GCP",
+    "PostgreSql",
+    "Microservices Architecture",
+    "CI/CD"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Y12 Hồng Lĩnh, Phường Hòa Hưng, TP. HCM",
+  "quan_huyen": "Quận Tân Bình",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Responsible for designing, developing, and optimizing backend systems to ensure high performance, reliability, and scalability.\nKEY RESPONSIBILITIES\nDesign, build, and maintain reliable, high-performance, efficient server-side applications and APIs.\nCollaborate with cross-functional teams to define, design, and deliver high-quality software solutions.\nBuild and operate systems capable of handling high transaction volumes (hundreds of thousands per day), ensuring strong scalability, availability, and observability.\nParticipate in basic DevOps activities.\nWrite clean, maintainable, and well-documented code for new and existing applications.\nIdentify and resolve software defects and performance issues.\nParticipate in code reviews to ensure adherence to coding standards and best practices.\nCollaborate with Frontend, Mobile, and Product Owners to deliver features according to the roadmap.\nParticipate in database design (SQL) and query optimization.",
+  "yeu_cau": "Experience & Qualifications\n3+ years of backend development experience\nProficient in Go programming language.\nFundamental knowledge of DevOps, CI/CD and deployment process\nExperience with Microservices Architecture or Event-Driven Architecture\nProficient with Relational Databases (PostgreSQL)\nbasic knowledge of Cloud platforms (GCP)\nStrong analytical, logical thinking, and problem-solving skills.\nProficient in English (verbal and written communication or technical document reading).\nHave experiences with Docker, k8s is a Plus",
+  "quyen_loi": "Salary Range:\nSalary: Negotiable\nBonuses: 13th-month salary, social insurance (BHXH, BHYT, BHTN)\nWork Environment:\nOpen, creative environment encouraging innovation and experimentation with\nnew technologies.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTA3NzE5MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d74d056fe6366b889a1790304702b8190a1612b3/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--9564d4cdd8c0ef6cf2e271f22261587dfb550e26/Original%20-%20Light%20BG.jpg",
+  "company_url": "/companies/cong-ty-tnhh-dte-ventures",
+  "company_mo_ta": "...",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

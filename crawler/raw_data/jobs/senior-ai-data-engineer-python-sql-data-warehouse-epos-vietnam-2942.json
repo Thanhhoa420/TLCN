@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-ai-data-engineer-python-sql-data-warehouse-epos-vietnam-2942",
+  "tieu_de": "Senior AI Data Engineer Python, SQL, Data Warehouse",
+  "ten_cong_ty": "EPOS Vietnam",
+  "ngay_dang_raw": "2026-09-28",
+  "han_ung_tuyen_raw": "2026-11-02",
+  "ky_nang": [
+    "Data Engineer",
+    "ETL",
+    "Data Warehousing",
+    "SQL",
+    "Python",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "9 Dinh Tien Hoang, Tan Dinh Ward",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Us\nEstablished in 2009, EPOS Vietnam serves as the technical hub of EPOS Singapore, a leading provider of cutting-edge Point-of-Sale (POS) and SaaS solutions. Backed by Ant International — a global leader in digital payments and financial technology — we play a pivotal role in developing innovative, scalable, and user-centric digital solutions that power EPOS products. Our technologies enable thousands of SMEs in Singapore, with ongoing expansion plans across Asia, to digitize and grow their operations through cost-effective and reliable platforms.\nAt EPOS Vietnam, we cultivate a collaborative and dynamic culture driven by innovation and a passion for transforming businesses through technology. Join us to shape the future of digital solutions across Asia and beyond!Key Contributions\nDesign, develop, and maintain end-to-end data pipelines to ingest, process, and store large volumes of structured and unstructured data.\nArchitect and build scalable data infrastructure, including data lakes, data warehouses, pipelines, and metadata repositories.\nBuild and optimize data platforms to support analytics, AI/ML, and Generative AI applications.\nBuild data pipelines for AI/GenAI use cases, including data preparation, document processing, embeddings, and RAG workflows.\nEnsure data quality, reliability, consistency, and performance across the data platform.\nMonitor, troubleshoot, and optimize data pipelines and infrastructure for scalability and cost efficiency.\nCollaborate with AI/ML Engineers, Software Engineers, and other stakeholders to deliver data and AI products.",
+  "yeu_cau": "Must have:\nBachelor's Degree in Computer Science / Information Technology / Software Development or related fields.\n6+ years of hands-on experience in Data Engineering.\nStrong experience in Data Warehouse, Data Lake, and ETL/ELT pipelines.\nStrong skills in Python and SQL.\nGood understanding of data modeling, data quality, and performance optimization.\nHands-on experience with AI/ML or Generative AI data pipelines, particularly RAG, embeddings, or vector search.\nGood/Fluent English communication is mandatory.\nNice to have:\nExperience with AWS/GCP/Azure.\nExperience with AI Agents / LLM applications.",
+  "quyen_loi": "Performance Bonus\nBiannual Performance and Salary review\nLiberty Insurance covers inpatient + outpatient\n\nWe are a multinational, product-driven company specializing in proprietary POS solutions — developing in-house and delivering directly to our worldwide customers.\nBenefits\nRecognition & Rewards:\nPerformance Bonus (subject to the company’s business results and the employee’s performance evaluation)\nBiannual Performance Review and Salary Adjustment\nComprehensive Insurance Coverage:\nFull government public insurance contributions based on gross salary\nPremium health insurance\nAnnual health check\nClear career development and growth structure; Training sessions and Learning workshops\n14 days of annual leave and one additional day of leave for every year of service\nLaptop/MacBook and top-notch facilities are provided based on each role\nAgile/Scrum-based internal workflows for efficient and collaborative development\nCompany trips, parties and regular team-building activities; Weekly happy hour, coffee, snacks, and board games\nOverseas travel opportunities based on the individual performance and policies for each evaluation period\nWorking Environment & Culture\nInternational Workplace: English-speaking environment\nPositive and Open-Minded Culture: Engineers are encouraged to propose innovative solutions that enhance productivity and code quality\n1-on-1 Mentorship: Monthly coffee sessions with managers offer personalized feedback, goal setting, and career development opportunities\nFlexible Working Hours: Promote work-life balance and individual productivity",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "301-500 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzI5NDIyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--4873c73fd10f2e39668f60cc9e784fe31eedfd1b/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/EPOS-Logo_Full-Color.png",
+  "company_url": "/companies/epos-vietnam",
+  "company_mo_ta": "Singapore's #1 POS system vendor empowering SMEs with powerful digital solutions for growth!",
+  "job_expertise": [
+    "Data Engineer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

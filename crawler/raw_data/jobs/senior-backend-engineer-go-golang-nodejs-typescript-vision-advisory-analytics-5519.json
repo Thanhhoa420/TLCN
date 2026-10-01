@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-go-golang-nodejs-typescript-vision-advisory-analytics-5519",
+  "tieu_de": "Senior Backend Engineer Go/Golang, NodeJS, TypeScript",
+  "ten_cong_ty": "VISION Advisory & Analytics",
+  "ngay_dang_raw": "2026-09-23",
+  "han_ung_tuyen_raw": "2026-10-28",
+  "ky_nang": [
+    "Golang",
+    "API",
+    "TypeScript",
+    "JavaScript",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "3 Nguyen Co Thach Street",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Role Overview\nWe are a Macau-based casino gaming technology company providing technology solutions to international casino operators and gaming businesses worldwide.\nWe are looking for a Senior Backend Engineer to develop, maintain and enhance backend services supporting a real-time gaming platform. The role will primarily focus on Node.js-based backend applications, REST APIs, data services and integrations, with exposure to Go-based game-server components and real-time communication.\nGo is preferred but is not expected to be the candidate's primary language. A strong Node.js engineer with practical Go exposure, or the ability to work confidently in Go, should be considered suitable.\nThe role involves working in an international environment, with English used regularly for day-to-day communication and collaboration.\n \nCandidate Profile\nAble to understand inherited systems and unfamiliar code quickly.\nComfortable taking ownership of complex integration and production issues.\nWrites maintainable, secure and testable code.\nCommunicates clearly and collaborates effectively with frontend and infrastructure engineers.\nKey Responsibilities\nDesign, develop and maintain backend services and RESTful APIs used by frontend, partner and gaming applications.\nDevelop and support Node.js and Express.js services and contribute to Go-based game-server components where required.\nMaintain player authentication, account, wallet, balance, deposit/withdrawal and transaction-related functionality.\nSupport real-time communication using WebSocket and/or Socket.IO, including connection handling, heartbeats and reconnection behaviour.\nWork with MongoDB, MySQL and Redis for application data, transaction processing, caching and session/token storage.\nSupport game-session reporting, jackpot, monitoring, synchronisation and other game-related backend services.\nIntegrate backend applications with third-party partner systems and local/on-premises services.\nImplement secure API access using appropriate authentication, authorisation and request-signing mechanisms.\nImprove application performance, reliability, logging, health checks and diagnostics.\nTroubleshoot production issues across application, database and network-integration layers.\nDevelop and maintain Docker-based services and contribute to CI/CD and deployment practices.\nParticipate in code reviews, technical discussions and continuous improvement of automated testing and software quality.",
+  "yeu_cau": "Required Skills\n5+ years of commercial backend-development experience.\nStrong commercial experience with Node.js and JavaScript and/or TypeScript.\nStrong experience designing and developing RESTful APIs using Express.js or a similar backend framework.\nExperience with relational and/or NoSQL databases, including data modelling, indexing and query optimisation.\nGood understanding of asynchronous programming and service-to-service integration.\nExperience using Git and modern source-control workflows.\nExperience using Docker for local development, build or deployment.\nStrong debugging, analytical and problem-solving skills.\nPreferred Skills\nGo / Golang development, particularly long-running services, concurrency or network applications.\nWebSocket, Socket.IO or other real-time/event-driven communication technologies.\nMongoDB, MySQL and Redis experience.\nJWT authentication, API keys, HMAC request signing and secure secrets handling.\nLinux administration and CI/CD pipelines.\nCloud platforms such as AWS or Alibaba Cloud.\nGaming, wagering, payments, wallet/transaction processing or other regulated systems.\nRelevant Experience\nExperience maintaining or extending an existing production codebase with multiple interacting\nservices.\nExperience integrating external APIs and troubleshooting distributed-system issues.\nExperience supporting applications where reliability, transaction integrity and real-time behaviour are important.\nQualifications\nBachelor's degree in Computer Science, Software Engineering, Information Technology or a related discipline, or equivalent practical industry experience.",
+  "quyen_loi": "Own meaningful work - Take ownership of solutions that contribute directly to a new, high-volume gaming technology platform. \nHave a voice - Contribute to architecture, technology choices and engineering practices, not just task execution. \nWork with autonomy - We trust experienced professionals to make decisions, solve problems and move things forward without unnecessary bureaucracy. \nInternational exposure - Collaborate with an international IT Lead and work on technology designed for global B2B casino operations. \nBuild and grow - Be part of a growing technology team where your experience can shape both the product and the way we work. \n---\nThank you for your time and interest in working with us. Please note that only shortlisted candidates will be contacted for the next stage of the recruitment process.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgxMDM2LCJwdXIiOiJibG9iX2lkIn19--c2f80b58cdbd42483909d06db96b1b509364f179/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/vision-advisory-analytics-logo.png",
+  "company_url": "/companies/vision-advisory-analytics",
+  "company_mo_ta": "One Ecosystem. Smarter Casino Operations.",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Game",
+    "IT Hardware and Computing",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Professional Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

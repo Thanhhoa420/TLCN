@@ -1,0 +1,41 @@
+{
+  "url": "https://itviec.com/it-jobs/python-ai-developer-middle-above-infrastructure-prime-labo-technology-3650",
+  "tieu_de": "Python / AI Developer Middle Above - Infrastructure",
+  "ten_cong_ty": "Prime Labo Technology",
+  "ngay_dang_raw": "2026-09-18",
+  "han_ung_tuyen_raw": "2026-10-23",
+  "ky_nang": [
+    "Python",
+    "English",
+    "System Architecture",
+    "DevOps",
+    "Generative AI",
+    "AI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "145 Dien Bien Phu",
+  "quan_huyen": "Quận 1",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "Negotiable based on exp",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "The company is scaling up its intake and delivery of AI/Python application projects for clients. This role requires a Python/AI Developer with hands-on, real-world experience and strong ability to work independently — directly developing AI products/features, taking over and operating part of the infrastructure (Infra), and providing technical support to other team members when needed.\nKey Responsibilities\nDirectly develop Python applications for AI/AI projects (chatbots, LLM integration, RAG, etc.).\nIntegrate APIs from AI platforms (OpenAI, Claude, Gemini, etc.) into client systems.\nIndependently design implementation-level architecture for assigned features/projects, only needing to align with the AI Technical Lead at a high level rather than requiring detailed day-to-day guidance.\nTakeover, operate, and be able to improve the existing infrastructure (Infra): server configuration, deployment, basic CI/CD, system monitoring.\nEnsure code quality and write clear technical documentation to reduce dependency on any single individual within the team.\nProvide technical support and code review for other team members when needed (especially for new Python/AI projects handled by others).\nParticipate in direct technical discussions with clients when needed, including when the AI Technical Lead is unavailable.\nReports to AI Technical Lead",
+  "yeu_cau": "Requirements\nAt least 3–5 years of hands-on Python development experience in a real-world environment (production experience preferred, not only academic/training projects).\nHas independently delivered at least 1–2 real-world AI/GenAI/LLM projects (chatbot, RAG, AI model integration, etc.) — an important requirement, as this role works independently with limited close supervision.\nAble to independently design system architecture at a basic-to-intermediate level without needing step-by-step guidance.\nExperience with Infra/DevOps: Linux servers, Docker, CI/CD, production deployment.\nHighly self-driven, able to work independently, self-learn, and troubleshoot technical issues.\nGood communication skills, able to discuss technical topics directly with clients when needed.\nGood English proficiency for reading technical/requirement documentation and speaking\nNice-to-have\nPrior experience as a Tech Lead or mentor for other developers.\nExperience working on outsourcing projects for Japanese clients.\nExperience with FastAPI/Django.\nRelevant AI/Cloud certifications (AWS, GCP, Azure AI, etc.).\nJapanese and English certifications (e.g., JLPT for Japanese, TOEIC/IELTS/TOEFL for English).",
+  "quyen_loi": "Opportunities to work directly with experts\nHave a fun and flexible working environment\nExcellent health insurance with Liberty Insurance\n\nThe CEO/representative holds a doctor degree in the AI field\n We use our own AI-driven development product internally\nWe're advancing AI research through industry-academia collaboration with a university, and we're working together with the Vietnam team's research as well\nActive study sessions (we've been running seminars frequently lately, so I can explain more about that)\nOpportunity to communicate in Japanese/English with native Japanese speakers.\nRemote working fully.\nSocial insurance, regular health check-ups, 13th month salary according to Vietnamese law.",
+  "hinh_thuc_lam_viec": "Remote",
+  "loai_hinh_cong_ty": "IT Outsourcing",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTc1NDA3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--ae4c3b5d78f769614539fc1c24e6397aba1b2d02/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/PL-logo-167x200.png",
+  "company_url": "/companies/prime-labo-technology",
+  "company_mo_ta": "Prime Labo is IT company, 100% owned by Japanese",
+  "job_expertise": [
+    "AI / Machine Learning Engineer"
+  ],
+  "job_domain": [
+    "Network and Infrastructure",
+    "Software Products and Web Services",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

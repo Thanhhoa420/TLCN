@@ -1,0 +1,43 @@
+{
+  "url": "https://itviec.com/it-jobs/database-developer-sql-oracle-unit-corp-2901",
+  "tieu_de": "Database Developer SQL, Oracle",
+  "ten_cong_ty": "UNIT Corp",
+  "ngay_dang_raw": "2026-09-16",
+  "han_ung_tuyen_raw": "2026-10-21",
+  "ky_nang": [
+    "Database",
+    "MySQL",
+    "Oracle",
+    "PL/SQL",
+    "NoSQL",
+    "SQL"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "374 Vo Van Tan Street",
+  "quan_huyen": "Quận 3",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Analyze requirements and design database architecture and technical solutions.\nSupport SRS preparation and detailed database design.\nPropose database optimization solutions (indexing, query tuning), assess risks, and recommend mitigation plans\nWrite database-related code (SQL, stored procedures, triggers)\nPerform unit testing and document test results.\nIntegrate databases with internal/external system modules via REST/SOAP APIs and web services\nFix bugs and support testing across SIT, UAT, PREPRO, and PROD phases\nPrepare technical documentation and ensure data security and confidentiality.\nProvide technical guidance, mentoring, and support for database-related projects.",
+  "yeu_cau": "Must-have\nBachelor's degree in Information Technology, Computer Science, or related fields\n3+ years of hands-on experience in database development\nIn-depth knowledge of database design and administration (SQL Server, Oracle, MySQL, PostgreSQL, or similar DBMS)\nProficient in writing SQL, stored procedures, triggers, and automated database testing\nExperience with query performance tuning, indexing strategy, and large-scale transactional data\nExperience with Git/SVN and REST/SOAP APIs.\nAble to work with English technical documentation and communicate with English-speaking clients/BA when required.\nNice-to-have\nExperience in banking or insurance projects\nExperience in technical leadership, mentoring, or team training",
+  "quyen_loi": "Great working environment & culture\nCareer path progression programs with training\nOur employees are our number one asset\n\nCompetitive salary and benefits\nWorking time: 8:30AM - 05:30PM, Monday – Friday;\n12 days of annual leave + 3 days of sick leave + 1 day of birthday per year\nParticipated in social insurance, unemployment insurance, health insurance and full policies according to the labor law;\n13th month salary & bonus policies, allowances at the Company;\nUNIT-Care health care insurance by level;\nSalary increases according to company regulations or unexpected salary raise in case of outstanding ability;\nProfessional and dynamic working environment, unlimited promotion opportunities;\nOpportunity to participate in many large projects in Vietnam & abroad;\nWork on the latest technology platform;\nJoin in company trip, teambuilding & community activities",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzk2NzM1LCJwdXIiOiJibG9iX2lkIn19--fb04fd424a0dd1d79d9223c0c35bb6e20a4701e9/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/unit-corp-logo.png",
+  "company_url": "/companies/unit-corp",
+  "company_mo_ta": "UNIT TECHNOLOGY CORPORATION",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Insurance",
+    "Banking",
+    "IT Services and IT Consulting",
+    "Software Products and Web Services",
+    "Financial Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

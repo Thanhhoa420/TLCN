@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-software-engineer-python-ataccama-1922",
+  "tieu_de": "Senior Software Engineer Python",
+  "ten_cong_ty": "Ataccama",
+  "ngay_dang_raw": "2026-09-22",
+  "han_ung_tuyen_raw": "2026-10-27",
+  "ky_nang": [
+    "Python",
+    "TypeScript",
+    "Java",
+    "GraphQL",
+    "FastAPI"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Phòng 325, Tầng 3, Tháp C, Tòa nhà Udic Complex, Đường Hoàng Đạo Thúy, Phường Yên Hòa",
+  "quan_huyen": "Quận Thanh Xuân",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 10,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Your Challenge\nDevelop a self-service, cloud-based enterprise web application that scales in every way imaginable.\nCollaborate on improving the architecture of the current platform and streamlining the release process to ensure rapid time-to-value while maintaining the highest security standards.\nOur clients, some of the world's most demanding enterprises, require releases that meet rigorous security standards and enterprise-grade SLAs.\nCreate user-friendly features that empower our clients in their Data Management transformation.\nAssist in decoupling our predominantly monolithic application to enable feature teams to deliver updates swiftly and independently.\nTake end-to-end ownership of the entire product, from feature development to achieving ambitious SLAs across hundreds of customer environments.\nWhat You Will Do\nAttain a profound understanding of data management and design scalable systems capable of handling vast amounts of data within the cloud ecosystem and across various data sources.\nCollaborate on software architecture with a strong focus on enabling feature teams to deliver high-quality enterprise software while enhancing the operability of our products.\nWrite clean, well-designed, documented, and testable code, adhering to industry standards and best practices, with a strong emphasis on quality, consistency, and speed of delivery.\nAssume responsibility for your work, ensuring that your code is ready for deployment and operation in cloud environments.\nBring experience in developing fully multi-tenant systems, working with message queue services like RabbitMQ, and thriving in distributed systems environments.\nCollaborate on implementation of AI-based features into our platform at scale",
+  "yeu_cau": "The Tech We Expect\nOur backend primarily employs the latest versions of Python using FastAPI, with a warm welcome to Java expertise. For communication we utilise REST API and GraphQL.\nOur products are operated in AWS and Azure, so familiarity with these ecosystems and common managed services (e.g., Aurora Serverless, managed AKS, EKS..) is essential.\nWe orchestrate our services using Kubernetes, and your comfort with Kubernetes environments, Helm charts, and related technologies is critical.\nOur General Tech Stack\nBackend: Java, Spring Boot, Kotlin, GraphQL, Python, FastAPI, jOOQ\nStorage: Aurora, Postgres, Elastic, S3\nInfrastructure: GitLab CI/CD, Kubernetes, AWS, Azure\nFrontend: TypeScript, React/Vue, Apollo, Nx, MobX..\nBig Data: Spark, Redshift, Snowflake\nIs This You?\nYou thrive on tackling complex applications and willingly dive into research when intricate algorithms and data structures are required for efficient solutions.\nYou have a passion for building secure Cloud applications.\nLearning and sharing knowledge with others is something you genuinely enjoy.\nYou are unafraid to take ownership of end-to-end software engineering and operations competency.\nYou prefer iterating on the solution over spending an extensive amount of time crafting the perfect solution in the first iteration.",
+  "quyen_loi": "Perks & Benefits\n• Full compensation during the probation period\n• 13th salary\n• 15 days of vacation\n• Premium Healthcare\n• Online company language courses\n• Online courses & company access to Udemy to hone your skills \nWork equipment\n• Laptop",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzI4ODgwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--f711f813bc29f84ce2710d71c575606a336f39dd/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Ataccama%20-%20Ngoc%20Huyen%20Nguyen.png",
+  "company_url": "/companies/ataccama",
+  "company_mo_ta": "Ataccama",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "IT Services and IT Consulting"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}

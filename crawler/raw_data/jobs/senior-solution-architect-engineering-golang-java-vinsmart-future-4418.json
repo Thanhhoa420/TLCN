@@ -1,0 +1,38 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-solution-architect-engineering-golang-java-vinsmart-future-4418",
+  "tieu_de": "Senior Solution Architect - Engineering Golang/ Java",
+  "ten_cong_ty": "VinSmart Future",
+  "ngay_dang_raw": "2026-09-25",
+  "han_ung_tuyen_raw": "2026-10-30",
+  "ky_nang": [
+    "Golang",
+    "DevOps",
+    "Java"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Tòa nhà TechnoPark, Oceanpark, Đa Tốn",
+  "quan_huyen": "Huyện Gia Lâm",
+  "tinh_thanh": "Hà Nội",
+  "salary_placeholder_raw": "Nego",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Thiết kế, đánh giá và tối ưu kiến trúc hệ thống cho các ứng dụng như cần xử lý dịch vụ phức tạp và yêu cầu realtime, tính sẵn sàng/scaling, chịu lỗi cao như gọi xe, ghép chuyến, pricing...\nĐịnh nghĩa và chuẩn hóa kiến trúc SOA / microservices phục vụ đa ứng dụng, đa thị trường (multi-tenant, multi-region).\nPhân tích và re-engineer các hệ thống hiện tại để:\nNâng cao scalability, performance và availability.\nĐảm bảo observability, tracing, tuning.\nChịu lỗi resilience, fault tolerance, giảm downtime, nâng cao trải nghiệm người dùng.\nĐưa ra tiêu chuẩn kỹ thuật và làm việc cùng các đội phát triển (Dev & DevOps) triển khai đồng nhất theo best practices.\nLàm việc cùng Product Owner và Tech Lead để định hình kiến trúc, giải pháp kỹ thuật và lựa chọn công nghệ phù hợp.\nTìm hiểu, thử nghiệm, đánh giá, đề xuất triển khai các giải pháp, phát triển ứng dụng về cả luồng nghiệp vụ và nền tảng/non-functional requirements, bao gồm cả DevSecOps, Integration, Observability, Data. Định hướng phát triển dài hạn hướng tới Super App.\nĐóng góp ý kiến để cải thiện kiến trúc, hiệu năng, trải nghiệm người dùng cuối (response time, fault tolerance…).",
+  "yeu_cau": "Tối thiểu 3 năm kinh nghiệm phát triển backend và 2 năm kinh nghiệm kiến trúc hệ thống.\nCó hiểu biết về các ngôn ngữ và dev frameworks phổ biến và hiện đại, e.g. Java (e.g. Spring), Go (e.g. Gin/Fiber), Rust (e.g. Rocket/Asum), Erlang/OTP, Spark (Java, Scala, ), Golang,…\nHiểu biết và kinh nghiệm về SOA / Microservices, tích hợp hệ thống, DevSecOps …\nHiểu biết về protocols & patterns RESTful API, JWT/OAuth2, messaging, batch & streaming processing, multi thread, singleton… \nKinh nghiệm với Kubernetes, Docker, AWS/GCP (EKS/GKE, ECS, Cloud Run…), IaC.\nCó kinh nghiệm thiết kế cơ sở dữ liệu, thiết kế data model, tuning… trên các cơ sở dữ liệu, caching, message brocker như caching (Redis), messaging (Kafka), database (PostgreSQL, MongoDB, NoSQL…)….\nCó kinh nghiệm thiết kế multi-tenant system hoặc multi-region deployment.\nCó kiến thức về monitoring, logging, tracing (Prometheus, Grafana, ELK, OpenTelemetry…).\nCó tư duy hệ thống tốt, kỹ năng giao tiếp và phối hợp với các team.\nƯu tiên:\nCó kinh nghiệm trong lĩnh vực Mobility, Payment, Logistics, Super App, transportation, Driver app, Consumer app, …\nCó chứng chỉ AWS/GCP Architect hoặc Kubernetes Administrator.",
+  "quyen_loi": "Competitive Salary & Benefits\nTraining course and certificates\nThe preferences when using the services of the Vin\n\nMức lương ưu đãi hơn thị trường\nThưởng theo quy định công ty\nKhám sức khỏe theo quy định của công ty\nMáy tính xách tay theo quy định của công ty",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1000+ employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njg3OTA4NywicHVyIjoiYmxvYl9pZCJ9fQ==--dfd3930dcd559d16a859989ee33a0da6d537b570/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/image.png",
+  "company_url": "/companies/vinsmart-future",
+  "company_mo_ta": "Vin Smart Future",
+  "job_expertise": [
+    "Software/Technical Architect"
+  ],
+  "job_domain": [
+    "E-commerce",
+    "Banking",
+    "Real Estate, Property and Construction"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

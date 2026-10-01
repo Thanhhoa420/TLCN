@@ -1,0 +1,35 @@
+{
+  "url": "https://itviec.com/it-jobs/senior-backend-engineer-ai-platform-vnggames-2149",
+  "tieu_de": "Senior Backend Engineer AI Platform",
+  "ten_cong_ty": "VNGGames",
+  "ngay_dang_raw": "2026-09-15",
+  "han_ung_tuyen_raw": "2026-10-20",
+  "ky_nang": [
+    "Java",
+    "Golang"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Z06 Street No. 13, Tan Thuan Dong Ward",
+  "quan_huyen": "Quận 7",
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "We're looking for a Senior Backend Engineer to design and build reliable, scalable backend systems that power our internal platforms and business operations. You'll own systems end to end - from architecture and implementation through deployment, observability and production troubleshooting.\nAs we expand into AI, you'll also build and integrate LLM-powered capabilities and AI agent workflows into real internal processes.\n \nWhat You'll Do: \n• Design and build backend systems: Own the architecture and development of scalable, reliable backend services and APIs.\n• Solve distributed-system challenges: Design for idempotency, concurrency, consistency, retries, failure handling, and asynchronous or event-driven workflows.\n• Build production-ready AI systems: Integrate LLM APIs or self-hosted models into backend services, and design the supporting systems for reliability, scalability, observability and maintainability.\n• Build AI agent workflows: Tool calling, multi-step workflows, orchestration, and reliable AI-powered automation.\n• Ensure performance and reliability: Optimize databases and queries, build observability through logging, metrics and tracing, and troubleshoot production issues.\n• Drive engineering practices: Make architecture decisions, improve code quality, run code reviews, and mentor other engineers.",
+  "yeu_cau": "Requirements: \n• Bachelor's degree in Computer Science, Software Engineering, Information Technology or a related technical field.\n• 4 - 5 years of experience as a Backend Engineer, with strong ownership of production systems.\n• Strong experience with at least one backend language such as Go, Python, Java or Node.js.\n• Strong understanding of system design, API design and backend architecture.\n• Experience with PostgreSQL, MySQL, MongoDB or similar databases, including performance tuning, indexing and transaction handling.\n• Experience with message queues or event-driven architecture such as Kafka, RabbitMQ, Pub/Sub or SQS.\n• Good understanding of distributed systems, including idempotency, concurrency, consistency, retries and failure handling.\n• Experience with observability - logging, metrics and tracing.\n• Experience diagnosing and troubleshooting production issues in large-scale or business-critical systems.\n• Strong understanding of SOLID principles and Clean Architecture.\n• Strong problem-solving skills, and the ability to independently research and evaluate new technologies and approaches.\n \nNice to Have: \n• Hands-on experience with LLM applications, RAG, AI agents, tool calling or workflow orchestration.\n• Experience integrating OpenAI, Claude or other LLM providers, or working with self-hosted open-source models.\n• Experience building production-grade AI systems with a focus on reliability, evaluation, observability and scalability.\nPlatform & delivery\n• Experience with Kubernetes or cloud-native technologies.\n• Experience with AWS, GCP or similar cloud platforms.\n• Experience building internal tools or workflow/AI platforms.",
+  "quyen_loi": "Advance your career in the gaming industry\nTake ownership and grow with global talents\nBuild games played by millions worldwide\n\nGreat working environment & large scale projects.\nFast adoption with new & trending technology.\nOpportunity to rotate in products lines.\nAttractive package & long-term career path.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "501-1000 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTkxNDEzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--eb610607339f0beda536816a358467c26c9cc724/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Untitled%20design.png",
+  "company_url": "/companies/vnggames",
+  "company_mo_ta": "VNGGames - BE GLOBAL, BE GAME CHANGER",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Game"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://itviec.com/it-jobs/fullstack-team-leader-nodejs-reactjs-javascript-amb-software-services-limited-1833",
+  "tieu_de": "Fullstack Team Leader NodeJS, ReactJS, JavaScript",
+  "ten_cong_ty": "AMB Software Services Limited",
+  "ngay_dang_raw": "2026-09-19",
+  "han_ung_tuyen_raw": "2026-10-24",
+  "ky_nang": [
+    "Fullstack",
+    "Docker",
+    "JavaScript",
+    "ReactJS",
+    "NodeJS",
+    "Team Management"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "Location 1: Tầng 14, Tòa Nhà HM Town, 412 Nguyễn Thị Minh Khai, Phường Bàn Cờ, TP Hồ Chí Minh, Việt Nam",
+  "quan_huyen": null,
+  "tinh_thanh": "Hồ Chí Minh",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 61,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "Leadership & Team Development:\nLead, mentor, and grow a team of full-stack engineers, fostering a collaborative and high-performance culture.\nProvide technical leadership and ownership of development outcomes, ensuring alignment with business goals.\nPromote coding best practices, testing standards, deployment strategies, and security protocols within the team.\nTechnical Development\nDesign, develop, and deliver scalable full-stack applications using Node.js, React.js, Next.js, Docker, Redis, and Postgres.\nDesign, implement, and manage relational databases such as PostgreSQL, MSSQL, or MariaDB.\nArchitect job-scheduling and batch automation processes to ensure reliable, fault-tolerant data collection and processing.\nProject & Process Management\nDefine project scope, goals, and deliverables in collaboration with stakeholders.\nTranslate business requirements into actionable product stories and technical tasks.\nApply Agile methodologies to guide the team, manage sprints, and adapt to changing priorities.\nMaintain and update the Azure DevOps Dashboard to reflect project progress and timelines.\nCommunication & Collaboration\nCollaborate closely with product managers, designers, and operations teams to plan and execute development roadmaps.\nCommunicate project progress, risks, and technical challenges effectively to both technical and nontechnical stakeholders.\nDemonstrate strong English communication skills (written and verbal), with the ability to explain technical concepts clearly.",
+  "yeu_cau": "Experience & Leadership\nMinimum 8 years of software engineering experience, including at least 3 years in team leadership or engineering management.\nPrior experience in architecting and operating large-scale distributed ETL processes.\nExperience in driving cutting-edge products forward, instead of passive project leadership.\nTechnical Expertise\nBackend: Proficiency in NodeJS / NestJS.\nFrontend: Strong skills with ReactJS / NextJS.\nStrong knowledge of JavaScript / TypeScript and CSS.\nJavaScript Ecosystem Expertise:\nBuild tools: Vite, Webpack\nTesting: Jest, Cypress, React Testing Library\nData fetching: React Query\nCode quality: ESLint, Prettier\nProficient with Docker and relational databases (MariaDB, MySQL, Postgres).\nExperience with Linux-based VMs in a production environment.\nInfrastructure & DevOps\nFamiliar with Kubernetes and container orchestration.\nHands-on experience with CI/CD pipelines using Azure DevOps, GitHub Actions, Bamboo, or Jenkins.\nExperience with Microsoft Azure cloud products, particularly Azure DevOps Pipelines and Repos.\nSolid understanding of Git and version control best practices.\nProcess & Collaboration\nFamiliarity with Agile methodologies for software development.\nCommunication\nFluent in English (written and verbal).\nExcellent communication skills, with the ability to effectively explain technical concepts to nontechnical stakeholders.\nWHO ARE SUITABLE FOR THIS JOB AND WHO ARE NOT APPLICABLE\nWho Are Suitable for This Job\nEngineers with 8+ years of software engineering experience, including 3+ years in team leadership or engineering management.\nStrong full-stack expertise in NodeJS, NestJS, ReactJS, NextJS with proven ability to design scalable systems.\nLeaders who can mentor teams, set technical direction, and ensure delivery quality while staying hands-on when needed.\nFluent in English with excellent communication skills to bridge technical and non-technical stakeholders.\nWho Are Not Applicable\nFresh graduates or junior engineers without professional experience.\nCandidates with less than 8 years of software engineering or no leadership background.\nEngineers only specialized in frontend or backend, lacking full-stack and system design exposure.\nIndividuals unwilling to lead, mentor, and collaborate in a fast-paced, agile environment.",
+  "quyen_loi": "Engineer platforms that operate at global scale\nShape architecture and long‑term system direction\nDeepen expertise in reliability and scalability\n\nInsurance & Healthcare: Full Social & health insurance as per labor law, plus annual health check-ups.\nLeave Entitlements: Besides 20+ public holidays, your first year will also start with 12 annual leave, 2 sick-leave, 2 urgent leave all are paid. These leave are increased with your seniority.\nWork Flexibility: Hybrid model – Work from home may be granted to high-performing engineers.\nOffice Environment: Spacious 3-storey office with a friendly and flexible culture.\nCompany Trips: Yearly summer trips to the most beautiful beaches around our, or cash-out option during travel bans.\nBonus: Year-end bonus 100% of monthly NET salary.\nTraining & Career Growth: Opportunities to learn across new fields in IT and contribute to major projects with Singapore corporations.",
+  "hinh_thuc_lam_viec": "Hybrid",
+  "loai_hinh_cong_ty": "IT Service and IT Consulting",
+  "quy_mo_cong_ty": "1-50 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMzNDA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a230d2cdeacd49e13776393b67d6b84cc9e82554/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJqcGVnIiwicmVzaXplX3RvX2ZpdCI6WzE3MCxudWxsXX0sInB1ciI6InZhcmlhdGlvbiJ9fQ==--ea7fe10f71d2e97fd408450b1c834166d05d4f4e/AMB.jpeg",
+  "company_url": "/companies/amb-software-services-limited",
+  "company_mo_ta": "Grow your engineering career working on scalable production platforms.",
+  "job_expertise": [
+    "Fullstack Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services"
+  ],
+  "khu_vuc_crawl": "ho-chi-minh"
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://itviec.com/it-jobs/applied-ai-engineer-everfit-5542",
+  "tieu_de": "Applied AI Engineer",
+  "ten_cong_ty": "Everfit",
+  "ngay_dang_raw": "2026-09-24",
+  "han_ung_tuyen_raw": "2026-10-29",
+  "ky_nang": [
+    "NodeJS",
+    "API",
+    "AI",
+    "TypeScript",
+    "English",
+    "Python"
+  ],
+  "cap_bac": null,
+  "dia_chi_raw": "12A, Vietinbank building, 36 Tran Quoc Toan, Da Nang",
+  "quan_huyen": "Quận Hải Châu",
+  "tinh_thanh": "Đà Nẵng",
+  "salary_placeholder_raw": "You'll love it",
+  "salary_range_raw": null,
+  "kinh_nghiem_thang": 37,
+  "loai_hinh_lam_viec": "Full-time",
+  "mo_ta_cong_viec": "About Everfit\nEverfit is one of the fastest growing fitness coaching platforms in the world. We power more than 320,000 coaches across the globe with an all-in-one AI-powered platform to run and grow their businesses. In 6 years, we have become one of the leaders of the health and wellness B2B SaaS category in the US and around the world! We are at an inflection point. We are focusing our efforts to capture more of the $5.1 trillion health and fitness market by going direct to consumers. Our vision is to become the operating system for personal health, where anyone can plug in a coach, or multiple coaches, to reach their wellness goals faster, optimize their human potential, and extend their longevity.\nOur team spans from San Francisco to Vietnam, with senior leaders who have built and scaled products at Netflix, Apple, Meta, Nike, Hulu, Uber, Amazon, Hypebeast, and Quibi. We are building the next unicorn to come out of Vietnam, and we are looking for a confident leader who can help us get there.\n \nPosition Overview:\nAs an Applied AI Engineer at Everfit, you'll work at the intersection of backend engineering and applied AI, building the scalable systems and AI-powered experiences that shape the future of fitness coaching for coaches and their clients around the world.\nThis is not a Backend role with AI sprinkled on top. Expect roughly 70% of your work on LLM-powered systems (agent workflows, RAG, tool calling, evals) and 30% on the core backend services that power them.\n \nYour impact:\nWhat you'll build\nDurable, long-running AI workflows on Temporal: scheduled jobs and multi-step agent processes that survive restarts, retries, and partial failures.\nReliable AI pipelines with validation, retries, fallbacks, guardrails, and observability.\nSystems designed around AI-specific constraints: latency, token cost, model failures, quality.\nProduction integrations with OpenAI and Anthropic models.\nThe path from experiment to production: take a validated AI capability from the AI team and ship it as a service with clear reliability, cost, and quality characteristics.\nEvals and monitoring that define how AI features are measured, and catch regressions before users do.\nHow you'll work\nScalable backend services in Node.js/TypeScript, with system architecture, technical design, and code review across Everfit's backend.\nRapid experiments with emerging AI tech, turning the successful ones into production solutions.\nDay-to-day with Product Managers, AI Engineers, and QA, from technical discovery through delivery.\nInvestigating production issues and improving AI workflows from real user feedback.\nHelping the broader engineering org adopt AI-native development practices.",
+  "yeu_cau": "4+ years of professional backend engineering experience.\nComfortable communicating in English and working with an international team.\nStrong programming experience (preferably Node.js / TypeScript / Python) and backend architecture. Our core backend is Node.js/TypeScript and our AI services are Python/FastAPI; you'll work mainly in Node but should be comfortable crossing into Python when the work lives there.\nSolid understanding of REST APIs, microservices, distributed systems, databases, and scalable system design.\nStrong experience with databases such as MongoDB, PostgreSQL, and Redis.\nYou have shipped at least one LLM-powered feature to production for real users, working directly with OpenAI or Anthropic APIs, and can talk concretely about its failure modes, evals, latency, and cost.\nYou already use AI coding tools (Claude Code, Codex) daily, and you review what they produce with judgment about architecture, security, and edge cases.\nComfortable experimenting with new AI tools and technologies and turning successful experiments into production solutions.\nCurious, proactive, and excited about how AI can fundamentally change software development and product experiences.\n[Nice to have]\nExperience with Python / FastAPI or AI-focused backend development.\nExperience building production LLM features, RAG pipelines, or agentic systems.\nFamiliarity with the stack we run in production: Pydantic/LangGraph, Qdrant for vector search, Langfuse for LLM observability, and MCP.\nExperience with AWS, Docker, message queues, or cloud-native architecture.\nExperience improving engineering productivity through AI, with measurable impact.\nExperience working with health, fitness, wellness, personalization, or recommendation systems.\nOpen-source contributions or personal projects involving AI.",
+  "quyen_loi": "AI-first company shaping the future of fitness\nJoin a passionate global team across VN, US, & UK\nCollaborative team valuing joy & creativity\n\nCompensation & Benefits:\nFull social insurance coverage and premium healthcare benefits.\nCompetitive salary with 13th-month pay and performance bonus.\nPaid leave — vacation, sick leave, and maternity leave\nBuild Your Career with Impact:\nBe part of a mission-driven company that’s transforming human potential.\nEmpower over 300,000+ coaches in more than 200 countries - including Olympic athletes, military trainers, rehab specialists, and celebrity coaches.\nMake a global impact while building a meaningful, purpose-driven career.\nContinuous training, mentoring.\n1-2 performance reviews annually.\nWork Environment:\nEnglish-speaking, international environment promoting open communication and collaboration.\nWork alongside world-class talent from companies like Apple, Meta, Uber, Patreon, and Nike, united by a shared passion for impact and excellence.\nInternational team for global career growth.\nState-of-the-art equipment provided.\nBeautiful working environment near Danang's city center (Dragon Bridge) and Hanoi office. \nHealth & Wellness:\nPVI health insurance program and annual health check-ups.\nActive sports clubs (football, badminton, pickleball) and company retreats.\nA modern pantry designed for relaxation and social connection.\nMonthly wellness and learning workshops to recharge and grow.",
+  "hinh_thuc_lam_viec": "At office",
+  "loai_hinh_cong_ty": "IT Product",
+  "quy_mo_cong_ty": "151-300 employees",
+  "company_logo_url": "https://itviec.com/rails/active_storage/representations/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjY4MDg5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--b87625c6ac193183cd9612f9d773fb82cbb01775/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTcwLG51bGxdfSwicHVyIjoidmFyaWF0aW9uIn19--f02e0eabf9f34431b8e6312d2e4f969eef4fa3a8/Avatar%20Everfit.png",
+  "company_url": "/companies/everfit",
+  "company_mo_ta": "Come build the future with us",
+  "job_expertise": [
+    "Backend Developer"
+  ],
+  "job_domain": [
+    "Software Products and Web Services",
+    "Sports and Fitness",
+    "Healthcare",
+    "AI Software & Services"
+  ],
+  "khu_vuc_crawl": "ha-noi"
+}
